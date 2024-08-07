@@ -1,0 +1,364 @@
+<sample>
+	<id> H07  </id>
+	
+
+
+	<note> 2014 WORDS </note>
+	
+
+
+	<source> Commonwealth Department of Health - Australia's response to Aids </source>
+	
+
+
+	<bl> By Margaret Duckett </bl>
+	
+
+
+	<h> NEW SOUTH WALES </h>
+	
+
+
+	<h> A. INTRODUCTION </h>
+	
+
+   New South Wales has been the epicentre of the AIDS epidemic in
+Australia, with 70% of the cases and an incidence of
+infectivity of 33.1 per million of population.
+
+   The Albion Street Centre was established in early 1985 and
+remains the only clinic in Australia directed exclusively to
+AIDS. Other services have been expanded to meet the need,
+however the situation is still critical.
+
+   A number of innovative and effective education programs have
+been developed to address the issues posed by AIDS.
+
+
+	<h> B. CO-ORDINATION AND ADVICE </h>
+	
+
+   The New South Wales Department of Health has established three committees
+to provide advice on matters related to AIDS.
+
+   i) The AIDS Medical and Scientific Committee provides advice on matters 
+relevant to the identification, diagnosis and treatment of persons infected 
+by the AIDS virus. This Committee has a membership providing expertise in
+areas including public health, immunology, venereology, virology, oncology 
+and haematology.
+
+   ii) The AIDS Education Committee focusses on the establishment of
+appropriate educational strategies. Committee members provide expertise
+in health education and public health. 
+
+   iii) The AIDS Liaison Committee provides a mechanism for
+consultation with community groups. This Committee includes
+representatives of the Albion Street Centre, the Health Media
+and Education Centre, the Australian Prostitutes Collective, the
+AIDS Council of NSW, the AIDS Drug Information Collective, the
+NSW Venereology Society and the NSW Nurses Association.
+
+   Two working parties and two interdepartmental committees
+have also been formed to provide co-ordination and advice. A
+working party assessing educational material on intravenous
+drug use and AIDS has been created and issues relating to
+hospice care are being explored by a second working party.
+
+   An interdepartmental committee on housing for clients
+infected with the AIDS virus has been established. Members
+include representatives of the Departments of Health, Youth and
+Community Services, Housing and the Bobby Goldsmith Foundation.
+The Committee has developed policies and procedures in relation
+to the availability and use of special housing. A second
+interdepartmental committee provides advice on issues related
+to school children infected with the AIDS virus. Members
+include representatives of the Departments of Health, Youth and
+Community Services, and Education.
+
+
+	<h> C. FUNDING </h>
+	
+
+   Since 1984, New South Wales has received an allocation for
+AIDS related areas from both State and Federal Governments of
+$11,331,000. This level of funding has enabled the
+establishment and development of a number of programs including
+educational strategies, laboratory diagnostic services,
+outpatient services, blood bank screening, counselling and
+nursing.
+
+  
+	<h> i) Education </h>
+	
+
+	<h> a) General </h>
+	
+The NSW Department of Health has developed a number of
+educational programs in regard to AIDS.
+
+   Intensive courses of seven days duration have been conducted
+for health, welfare and education personnel responsible for the
+provision of education regarding AIDS. The courses have been
+designed to provide accurate, authoritative and useful
+information about AIDS, to explore issues associated with AIDS,
+and to stimulate the further development of educational
+activities.
+
+   Seminars and workshops have also been designed to meet
+particular needs of various professional groups including
+health care workers, health educators, drug and alcohol agency
+staff, counsellors, and youth services personnel.
+
+   A video and associated discussion booklet has been developed
+to assist with providing the general community with accurate
+information on AIDS and its implications.
+
+   A statewide information line has been established to provide
+information on AIDS, its symptoms and transmission, and on
+referral agencies for further information. The usage of this
+service currently stands at 5,700 calls per month.
+
+   
+	<h> b) Youth </h>
+	
+The NSW Health Department has initiated an Adolescents and
+AIDS Project. This special project has surveyed youth services
+in NSW to assess requirements in relation to education and
+resources. Training and information seminars have been provided
+for youth and welfare workers from a range of services, and
+extensive literature distribution has been arranged. A resource
+manual for use by youth workers and educators of adolescents
+has been developed.
+
+   A special health education project directed to youth and
+presented in comic form has been prepared by Streetwize Comics.
+The comics have been well received by young people and will be
+utilised in a series of seminars directed to youth workers.
+
+   A special outreach program for young people is conducted by
+the Albion Street Centre. A nurse and a counsellor in a mobile
+screening unit visit particular areas in the inner city to
+provide education, support, counselling and an AIDS virus
+antibody screening service.
+
+   
+	<h> c) Multicultural </h>
+	
+Ethnic media outlets have been utilised in an information
+campaign about AIDS and STDs for people of non-English speaking
+backgrounds. In addition, seminars for ethnic health care
+workers have been provided. A pamphlet on AIDS has been
+translated into nine community languages and full page
+information advertisements have been placed in 17 community
+language newspapers. Key community organisations, migrant
+health staff and medical practitioners have also received
+relevant information. The campaign has been promoted on SBS
+Television and ethnic community radio. Ethnic Line, a telephone
+referral service for people of non-English speaking background,
+has reported that there has been a strong community response
+to the campaign.
+
+   
+	<h> d) Prostitutes </h>
+	
+The Australian Prostitutes Collective has received funding from
+the NSW and Federal Departments of Health to provide
+preventative education regarding AIDS and other STDs. Three
+field officers conduct outreach visits, present fortnightly
+information seminars and prepare educational material
+specifically directed to the target groups. A counselling
+service is also provided.
+
+   The STD Clinics and a new special clinic in Kings Cross
+provide a health service including education on AIDS. It would
+appear that most brothels and agencies have installed condom
+vending machines and a majority of prostitutes require condom
+use by their clients.
+
+   
+	<h> e) Intravenous drug users </h>
+	
+Strategies in relation to intravenous drug users have
+focussed on providing education and support for AIDS
+infected clients through existing drug treatment services.
+
+   The majority of staff in government and non government
+agencies have attended educational seminars and workshops to
+ensure that they have the necessary information and skills to
+educate and counsel clients about AIDS issues. Direct education
+to intravenous drug users has also been provided through
+outreach programs and contact tracing. The AIDS Drug
+Information Collective has been particularly involved in the
+development and promotion of these outreach programmes. A
+specialised poster and pamphlet directed towards intravenous
+drug users has been developed and distributed to appropriate
+venues. Issues related to the availability of needles and
+syringes are under consideration.
+
+   
+	<h> f) Regional activities </h>
+	
+The Department of Health has conducted intensive courses in
+the larger regional centres for health, welfare and education
+personnel. Seminars and meetings with members of the general
+community and particular professional groups such as
+pharmacists have also been facilitated.
+
+   
+	<h> ii) Counselling </h>
+	
+A range of counselling services is provided by a number of
+centres. Clients have access to personal counselling by medical
+practitioners, experienced social workers, psychologists or
+trained volunteers as appropriate. Support groups for a range
+of AIDS affected people have been established to provide both
+information and therapy. Material is made available on the AIDS
+virus, health strategies, ways to reduce stress, and other
+relevant information.
+
+   
+	<h> iii) Services </h>
+	
+A State Reference Laboratory has been established at St
+Vincents Hospital to undertake confirmatory tests on any
+seropositive cases. The ICPMR unit at Westmead Hospital is
+designated as the State Reference Laboratory for AIDS virology.
+
+   Specialist outpatient services have been established at the
+Albion Street Centre, the STD Clinics, and the major teaching
+hospitals. These services have specialised staff and facilities
+to provide reliable and complete medical information in
+addition to pastoral, psychiatric and social counselling. The
+Albion Street Centre in particular provides intensive medical
+management and support services.
+
+   A number of special units are available for patients
+requiring hospitalisation. St Vincents Hospital has six beds
+available, Prince of Wales/Prince Henry fourteen beds,
+Newcastle four beds, and Prince Alfred four beds. In addition,
+most of the teaching hospitals have also accommodated patients
+infected with the AIDS virus. Five hospice beds are also
+available.
+
+   Most agencies providing services to intravenous drug users
+have developed policies and procedures in regard to AIDS.
+Clients who are AIDS virus antibody positive have priority in
+access to the methadone program.
+
+
+	<h> D. LEGAL ISSUES </h>
+	
+
+There are a number of legislative enactments which make
+specific provisions or have relevance in regard to AIDS.
+
+   
+	<h> i) Notification </h>
+	
+The Venereal Diseases Act was amended in August 1984 to provide
+that Category A and B AIDS were notifiable on a compulsory basis.
+
+   The Public Health Act 1902 was amended in November 1985 and
+Regulations under this Act gazetted on 14 April 1986 to deem
+AIDS (Category A, B or C) as a proclaimed disease under the
+Act; require medical practitioners*practioners to notify the
+Secretary of the NSW Department of Health of cases (by code),
+penalty $1000, and create an offence if a person who knows
+he/she has a proclaimed disease has sexual intercourse with
+another person without the prior informed consent of the other
+person, penalty $5,000.
+
+   Records of the Commonwealth Department of Health would
+indicate that this provision and the provision subsequently
+enacted in Queensland appear to be the only legislation
+worldwide which seeks to regulate the sexual conduct of people
+with AIDS or related conditions.
+
+   The Act also includes clauses providing penalties for
+unnecessary disclosure of the identity of persons having
+proclaimed diseases, penalty $2000.
+
+   The legislation also regulates the activities of medical
+practitioners and laboratories in regard to notification of the
+disease, maintenance of records, confidentiality and provision
+of information to patients.
+
+   
+	<h> ii) Donation of blood and tissue </h>
+	
+The enactment of the Human Tissue (Amendment) Act in May
+1985 provided that blood and semen may not be received for
+transfusion or artificial insemination unless a prescribed
+certificate is signed relating to the medical suitability of
+the donor. The certificate is not required if the specimen is
+to be used for research purposes only or for sole treatment of
+the donor. A person who knowingly signs a false or misleading
+statement may be liable for a penalty of $5000 or imprisonment
+for one year, or both.
+
+   
+	<h> iii) Legislation </h>
+	
+a) The Public Health (Skin Penetration) Regulation 1985
+regulates activities which involve penetration of the skin or
+tissue, including acupuncture, chiropody, podiatry, tattooing.
+
+   b) The Occupational Health and Safety Act, 1983, regulates
+health and safety in the workplace. A number of organisations
+have adopted occupational health and safety policies and
+procedures which have positive implications in regard to AIDS,
+in recognition of their responsibilities under the Act.
+
+   c) The Anti-Discrimination Act 1977 makes it unlawful to
+discriminate on the grounds of sex, race, marital status,
+homosexuality, and physical or intellectual disability in the
+areas of employment, state education, obtaining goods and
+services, accommodation, registered clubs and trade unions.
+
+   The Anti-Discrimination Board investigates and attempts to
+conciliate complaints of discrimination in areas covered by the
+Act. If conciliation can not be achieved, complaints may be
+referred to the Equal Opportunity Tribunal for judicial
+determination. To date, the Board has received approximately
+15 complaints which were directly AIDS related, in addition to
+those other complaints on grounds such as homosexuality which
+may have had some AIDS related causes.
+
+
+	<h> E. DEPARTMENTAL RESPONSES </h>
+	
+
+   
+	<h> i) Department of Health </h>
+	
+The Department of Health has established an AIDS/STD policy
+unit with a full-time staff of four, and an AIDS education unit
+with a full-time staff of five.
+
+   The policy unit has responsibility for evaluating all
+government and community AIDS projects and assessing the
+funding necessary for these initiatives. In addition, officers
+undertake liaison with a range of agencies.
+
+   The activities of the education unit have been directed
+towards health care personnel, members of high risk groups,
+youth workers, personnel responsible for the provision of
+education, and to the general community. Resource material has
+been developed and extensive literature distribution arranged.
+
+   
+	<h> ii) Department of Corrective Services </h>
+	
+The Department of Corrective Services has adopted a number
+of policies and procedures in response to the issues posed by
+AIDS.
+
+   In January 1985 an AIDS Advisory Committee was formed with
+representation from relevent departmental divisions, the Prison
+Medical Service, the then Health Commission and the Public
+Service Association. AIDS groups were established during late
+1985 in most corrective service institutions throughout the
+state to facilitate education for prisoners and staff. 
+
+
+</sample>

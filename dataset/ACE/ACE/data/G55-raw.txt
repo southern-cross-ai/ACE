@@ -1,0 +1,252 @@
+<sample>
+	<id>G55</id>
+	
+
+
+	<source>  Australian Society - February 1986 </source>
+	
+
+
+	<note> 2008 words </note>
+	
+
+
+	<h> The gang of twelve </h>
+	
+
+
+	<bl> By David Brown &amp; David Neal </bl>
+	
+
+
+	<misc> Sensational reporting of `show trials' has
+obscured the real issues of judge and jury </misc>
+	
+
+
+   SHOW CASE trials like those of Lindy Chamberlain, Justice
+Lionel Murphy, Norm Gallagher, Brian Maher and Roger Rogerson
+have placed the jury trial system at the centre of media and
+public attention. Statements by jurors, politicians, judges,
+academics, and journalists - in particular on the Chamberlain,
+Murphy and Gallagher cases - have provoked spirited debate
+about the institution dubbed, by historians `the gang of
+twelve'.
+   Widespread disquiet over the Chamberlain verdict led to
+doubt about the ability of juries to deal with complex
+scientific evidence, with an implication that such cases should
+be taken away from the jury. In the overtly party political
+atmosphere of the Murphy case, by contrast, criticism of the
+verdict was, according to sections of the media and some
+judges, a general attack on one of our most revered
+institutions. In both the Gallagher and Murphy cases jurors
+responded to the public controversy by giving media accounts of
+their deliberations. This proved too much in some quarters: the
+Director of Public Prosecutions threatened contempt proceedings
+against a Sydney radio station if it broadcast further juror
+statements and the Victorian government legislated against
+juror disclosures. Jury trial assumed sacrosanct status and
+further discussion was smothered. While it was generally agreed
+that the jury was a good thing, to discuss why this might be
+the case - apart from the fact that it is a centuries old
+institution - became a sort of sacrilege.
+   Somewhere in the sensationalism surrounding these cases the
+possibility of serious discussion about the rationale for the
+jury trial has been frustrated. Claims that the Murphy and
+Gallagher cases were political met with sharp rejoinders that
+stressed the independence of juries and the legal system in
+general.
+   Partly, the discussion was based on confusion about the
+meaning of `political'. In the general sense of `political' -
+having to do with the distribution and exercise of public power
+- jury trials and the legal system are very clearly so. Legal
+ideology feeds the confusion over this issue by presenting the
+law as technical, value free and capable of mechanical
+application.
+
+   &quot;The political significance of the jury trial remains as 
+   great as ever. It is more important than ever to argue   
+   not merely for retention, but for a radical expansion of   
+   popular, democratic participation in the administration    
+   of criminal justice.&quot;
+   Yet the legal system is shot through with discretion at
+every stage and the belief that the politics of cases like
+those of Murphy and Gallagher do not effect the exercise of
+these discretions is myopic. Jury trials and the legal system
+must be seen as part of the political system; debates about
+their operation must involve discussion of their politics and
+their relationship to other social and political arrangements.
+   Trial by jury is not sacrosanct*sacrosant. It does not have
+to rely simply on its longevity as justification. But in its
+past lie the reasons for its continued political significance:
+a past not narrowly circumscribed by legal history, but located
+in political and social history, in struggles between governors
+and governed over the criminal law's power of life and death.
+This history - so conspicuously absent from the recent
+Australian debate - leads us to call not merely for retention of
+jury trial but for its expansion.
+
+   THE first thing to be said about the great jury debate is
+that it has a whiff of hypocrisy about it. Those who assert the
+sanctity of the jury trial must explain why, in terms of its
+frequency, jury trials are very nearly extinct.
+   In New South Wales, for example, only 0.9 per cent of
+`major' criminal cases are decided by juries. In nine out of
+ten potential jury cases the defendant pleads guilty. The vast
+majority of criminal cases never concern a jury at all; they
+are dealt with by magistrates in the lower courts. This is why
+we refer to Chamberlain et al as `show trials'.
+  But the rarity of jury trial should not be confused with its
+immense symbolic significance. Legal ideology and popular
+commonsense images of the operation of the criminal justice
+system derive overwhelmingly from jury trials in higher
+criminal courts: `adversary justice' and `due process', the
+impression of strict adherence to procedural propriety, the
+battle over the exclusion of evidence, the drama of the trial,
+and the solemnity and ritualism revealed in Rumpole. The
+ideology of justice is constructed in such a way that the
+denial of that ideology in the operation of the summary justice
+production line - where the vast majority of cases are heard by
+judge alone - can be accomplished with scarcely a murmur*murmer. A
+veritable sleight of hand occurs between the two tiers of
+justice. What Doreen McBarnet in her study of British
+magistrates' courts calls an &quot;ideology of triviality&quot; operates
+in summary courts, for:
+
+the position is turned on its head. The 98 per cent     
+becomes the exception to the rule of `real law' and the    
+working of the law comes to be typified not by its      
+routine nature, but by its atypical, indeed exceptional       
+[higher court] form. Between them the ideologies of          
+triviality and legal irrelevance accomplish the            
+remarkable feats of defining 98 percent of court cases       
+not only as exceptions to the rule of due process, but       
+also as of no public interest whatsoever.
+
+   The demise of the jury has been accomplished by stealth
+rather than by denigration or frontal attack. Paradoxically
+this has been accompanied by constant affirmation of its
+significance. The curtailed jury system has resulted partly
+from a massive expansion of new summary (non-jury trial)
+offences, and increased powers for magistrates to
+deal with cases which formerly could only be tried by judge and
+jury. In addition a range of specific practices - the pervasive
+police `verbal', police control over pre-trial interrogation
+outside effective review, plea bargaining and a host of
+situational pressures (time, delay, the effective presumption
+of guilt, denial of bail, etc) - combine to secure the
+overwhelming number of guilty pleas upon which the criminal
+justice system depends.
+
+   THE right to trial by jury can be traced to Magna Carta,
+which provided that:
+
+no free man [sic] shall be taken and imprisoned or      
+disseised of any free tenement or of his liberties or    
+free customs or outlawed or exiled, or in any other way   
+destroyed, nor will we go upon nor send upon him, except  
+by the lawful judgement of his peers or by the law of the 
+land.
+
+   McBarnet quotes an English case from 1699 which refers to
+the fundamental privilege of English citizens &quot;to be tried by
+jury, which privilege has been secured to us by our ancestors&quot;.
+Seen this way the jury trial became one element in the
+historical struggle between a judiciary claiming pre-
+parliamentary authority grounded in the Magna Carta, and
+parliament exercising its prerogative to create summary
+jurisdiction by statute. Juries have stood the test of time in
+that struggle - about eight centuries in England. Governments
+have not liked them. They rightly thought that juries could not
+be relied on to convict in certain sorts of cases. London
+juries in the eighteenth century repeatedly refused to convict
+the champion of liberty, John Wilkes. Juries in country areas
+in the same century refused to convict for poaching. The
+government responded and made poaching a summary offence. The
+tactic prompted the great contemporary commentator, William
+Blackstone, to lament the imminent demise of the jury.
+   The English government - no believer in the sanctity of
+juries - did not trust the jury system in some of its colonial
+possessions, nor does it today in the case of Northern Ireland.
+Withdrawal of jury trial for certain offences became one of the
+factors precipitating the American revolution. The absence of
+jury trial for the first forty years in New South Wales became
+a sore grievance which filled the more politically serious and
+astute press of early Sydney. Our forebears saw jury trial as
+a fundamental political inheritance, a counter to governments
+hand picking courts in which the same government brought
+prosecutions, and an analogue to the right to vote (also denied
+to them).
+   More recently, Margaret Thatcher's government has found that
+juries could not be counted on to convict its political
+enemies. In 1985 an English jury acquitted the civil servant
+Clive Ponting of charges under the Official Secrets Act that he
+had divulged secret information about the sinking of the
+Belgrano in the Falklands War. This was despite a virtual
+direction from the judge that they must convict. A jury
+acquitted a number of striking English coal miners charged with
+riot and unlawful assembly arising out of a picket at the
+National Coal Board offices. These victories came as quite a
+fillip to British civil liberties groups who had seen
+significant reductions in common law rights and liberties by
+judges and magistrates sitting without juries during the
+strike. Towards the end of the year a jury embarrassed British
+security forces by acquitting several Cyprus-based British
+servicemen charged with passing secret communications to the
+Russians. The jury apparently believed that abuses committed by
+the members of the security forces during interrogation of the
+defendants had produced untrue confessions.
+   These instances demonstrate the potential of juries to place
+checks on &quot;power's all intrusive claims&quot;, as the historian E.P.
+Thompson has put it, not only in cases actually brought to
+court, but on countless other occasions when agents of the
+state forebear because they know they could not convince a
+jury. The selection of jurors from the population at large, on
+a transient basis, means they are much less likely to be swayed
+by `reasons of state' than those holding permanent state
+positions. This of course is the very reason why governments
+have sought to avoid the jury by creating summary offences.
+   So here is our first major point: it is important to
+understand the jury in terms of politics and the organisation
+of power rather than simply by*be reference to its practicality,
+rationality, expertise, economy or efficiency as a legal
+institution.
+   This leads to our second major point: the significance of
+the jury in terms of popular democratic participation in the
+criminal justice system. Stated baldly, jurors are supposed to
+apply rules of law articulated for them by the judge to the
+facts of the case. Their job is also to decide what those facts
+are. But such a bald statement does no justice to the
+complexity of the task.
+   In the first place, the distinction between the law and the
+facts is notoriously fluid and often exploited by judges to
+usurp further the remaining functions of the jury. Secondly, it
+will often be very difficult for anyone to determine what the
+facts are, especially when witnesses' accounts contradict one
+another. Ultimately, arriving at the facts depends on
+assessments of credibility, a task for which juries are as well
+fitted as, or perhaps better fitted than any other device.
+   Of course, rules of law are often complex, technical and
+expressed in the arcane language of the law. The evidence given
+in a trial is elicited according to the protocols of the law of
+evidence and procedure, pre-trial investigatory practices,
+legal ethics and etiquette, and dramaturgical devices. The
+discourse produced by these protocols and practices is quite
+different from popular, everyday speech.
+   These factors are often quoted against juries. However,
+lawyers and judges rather than juries are the source of many of
+these problems. Much can be done to alter these and other
+practices - denying access to transcripts, failure to exploit
+new communication technology to present evidence, refusing
+jurors a right to comment on or qualify the verdict, improving
+representation of minorities, examining the grounds for
+exclusion (such as prior criminal record), improving
+remuneration, information, physical conditions, etc) which so
+constrain the jury's the democratic role and keep it
+subservient to the control and directions of the judiciary.
+
+   BUT even this does not fully state the complexity of the
+jury's task.  
+
+
+</sample>

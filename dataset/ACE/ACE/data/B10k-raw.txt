@@ -1,0 +1,18 @@
+<subsample>
+	<id> B10k</id>
+	
+
+
+	<source>The Sun News-Pictorial - 23 June 1986</source>
+	
+
+FAMILY allowance now stops when the fulltime student turns 18. It is then
+means-tested. A single-income family with two children is allowed $293 a
+week. Senator Ryan, do we HSC students quit school and claim the dole?
+
+
+	<bl>  Struggling, Confused (Geelong). </bl>
+	
+
+
+</subsample>

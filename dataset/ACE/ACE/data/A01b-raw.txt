@@ -1,0 +1,29 @@
+<subsample>
+	<id> A01b </id>
+	
+
+
+	<source> The Australian - 28 October 1986 </source>
+	
+
+ 
+	<h> Japan acts against dumping </h>
+	
+
+
+	<misc> TOKYO:  </misc>
+	
+
+The Ministry of International Trade and Industry (MITI) has started 
+surveillance on the export prices of seven popular types of semiconductors in 
+a bid to prevent dumping, MITI officials said last week. 
+  The items under the strict surveillance, which started on October 1, were 
+DRAM, EPROM, SRAM, ECL Logic and RAM, and microprocessors and controllers, 
+they said.
+  Under the system, Japanese manufacturers have to submit export details on 
+each contract.  
+  Japan and the United States agreed in August to prevent the dumping of 
+Japanese-made semiconductors on the US market.
+
+
+</subsample>

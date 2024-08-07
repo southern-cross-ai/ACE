@@ -1,0 +1,27 @@
+<subsample>
+	<id> A09g </id>
+	
+
+
+	<source> The Sun - 12 Novembder 1986 </source>
+	
+
+ 
+	<h> BARKER RETURNS </h>
+	
+
+
+	<bl>- Glenn Robbins </bl>
+	
+
+CONTROVERSIAL jockey Noel Barker resumes riding at Rosehill on Saturday
+after his two months Riverdale suspension.
+  Barker, the regular rider of Riverdale, was outed after the gelding finished
+eighth at Randwick in the Tramway Handicap.
+  Barker has been riding work at Randwick for the past two weeks 
+to gain fitness for his comeback.
+  He has one early booking for Rosehill - Hasty Miss in the Pacific Welter
+(1500m).
+
+
+</subsample>

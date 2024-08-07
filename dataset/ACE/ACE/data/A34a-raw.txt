@@ -1,0 +1,57 @@
+<subsample>
+	<id> A34a </id>
+	
+
+
+	<source> The National Times - 21 December 1986 </source>
+	
+
+
+	<h> Watchdog bound in fraud hunt </h>
+	
+
+
+	<bl> By Matthew Stevens </bl>
+	
+
+  CHAIRMAN Henry Bosch says the National Companies and Securities Commission
+has neither the staff nor the money to chase the corporate fraudsters.
+  He says it has never successfully trapped an insider trader, that illegal
+share warehousing occurs often without punishment and that the growth of
+&quot;sharp business practice&quot; is damaging the already battered reputation of
+the business community.
+  In recent weeks, world headlines about the insider trading of Wall Street's
+fabulously scandalous Ivan Boesky has focused attention on the level of
+insider trading in our own markets.  According to Bosch, insider trading
+happens frequently but is almost impossible to prove.
+  To emphasise his point, he produced a computer print-out showing a dramatic
+improvement in a small company's share price.  He said the real price growth
+happened two weeks before an &quot;absolutely vital press announcement on a
+new contract&quot;.
+  He said:  &quot;But to go from that information to finding out who did the
+business and then prove that he knew about the contract before the information
+was made public is very difficult and very, very costly.  We could not afford
+to chase all the insiders.&quot;
+  But that, he says, is not the biggest problem.  Bosch sees collusion
+as the greatest threat to the sort of equality of opportunity for shareholders
+which he believes is why regulation should exist in the first place.
+  &quot;There have been frequent cases of collusion in which nominally independent
+bodies have acted in a way that is mutually supportive.  If the agreements
+had been written down, those actions would have certainly been in breach
+of Section 11 of the Companies Act.  But, as we all know, these agreements
+are never written down and it is very difficult to prove what we know to
+be true.&quot;
+  He added:  &quot;I will not make specific comment, but you may draw some inference
+on the present inquiries.&quot;  It was an obvious reference to the NCSC's inquiry
+involving what is now an international investigation into the purchase of
+a $58 million parcel of takeover-targeted Humes Ltd.
+  The NCSC has an annual budget of $5.7 million.  It has eight commissioners,
+three full-time and five part-time, and 82 permanent staff of whom about
+30 have resigned this year alone.
+  Like other Public Service bodies which  attempt to deal with the highest
+level of the business community, the NCSC has tremendous trouble recruiting
+the best staff because of its &quot;highly inappropriate&quot; Public Service salaries
+and conditions.
+
+
+</subsample>

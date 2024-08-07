@@ -1,0 +1,208 @@
+<sample>
+	<id> J23 </id>
+	
+
+
+	<note> 2001 words </note>
+	
+
+
+	<source> Power Play - Essays in the Sociology of Australian Sport </source>
+	
+
+
+	<h> Australia - this sporting life </h>
+	
+
+
+	<bl> By Jon Stratton </bl>
+	
+
+This chapter is a discussion of sport in the Australian context, that is to
+say, it is concerned with the position that sport holds in what might be
+called the Australian world-view. It is often argued by Marxist theoreticians
+that there is no such thing as a socially based world-view. Such arguments
+emphasise the importance of class-based ideologies as the loci for analysis.
+Althusser, on whose ideas much recent Marxist cultural analysis has been
+based, summed up his position like this:
+  As a first formulation I shall say: all ideology hails or interpellates
+  concrete individuals as concrete subjects, by the functioning of the category
+  of the subject.
+By this he meant that the individual is always already in ideology. S/he
+can only think in and through ideology. At another point in the same essay
+Althusser sums up his delineation of ideology by writing:
+  It therefore appears that the subject acts insofar as he is acted by the
+  following system (set out in the order of its real determination):
+  ideology existing in a material ideological apparatus, prescribing material
+  practices governed by a material ritual, which practices exist in the
+  material actions of a subject acting in all conscience according to his
+  belief.
+Althusser is arguing, as he puts it, that ideology has a material existence.
+Ideology, in other words, exists in practice, indeed practice is ideology.
+In modern Marxist theory this formulation is opposed by the `cultural studies'
+approach of writers such as Richard Hoggart, Raymond Williams and E.P.
+Thompson. In his outline of the debate between these two positions Richard
+Johnson has described the group of cultural studies writers' definition
+of culture like this:
+  Cultural studies inherits [the ways-of-life conception of culture] and
+  expands it further so that it contains matters as heterogeneous as
+  language-in-general, the specific output of the mass media, the literary
+  text, the values implicit in forms of working class collective action, the 
+  styles of sub-groups and the general political discourse.
+As Johnson goes on to indicate there is a tendency on the one hand for the
+Althusserian formulation of ideology to overgeneralise, taking in all actual
+behaviour, whilst there is an equivalent tendency on the other hand for
+the `cultural studies' formulation of `way of life' to assimilate the category
+of ideology. Both these theoretical positions tend towards an elision of
+the awareness of the specificity of cultural patterns. Idological themes,
+even if manifested in material practices, may be manifested in different
+practices in different socio-cultural orders. Reformulated from the `cultural
+studies' position it can be suggested that a way of life may embody a variety
+of values and beliefs but the `way of life' itself consists of certain 
+behaviours and not others.
+  A distinction needs to be drawn between the ideological theme and the
+cultural materialisation of that theme. We need to recognise that there
+are, here, two levels of analysis. First, there needs to be discussion
+of the specific organisation of the cultural order. Second, there is the
+more `micro' analysis (which the tools of semiotics can help us with) of
+the ideological themes implicit in the meaning of cultural manifestations.
+  We may well be able to discuss `middle-class ideology' as an aspect of
+the production and reproduction of capitalism, but the specific, lived
+formulation of that ideology is mediated through cultural concerns which
+are specific to particular socio-cultural orders and sometimes to specific
+groups within a socio-cultural order. Thus the articulation of ideological
+themes such as egalitarianism or individualism occurs in the context of,
+and is inflected by, broader cultural preoccupations which structure the
+uniqueness of a particular socio-cultural entity. John Hargreaves has expressed
+this well. He has written:
+  ... culture is both constituted by people consciously making choices and
+  evaluations of their experience AND simultaneously, because culture
+  is also inherited from the choices and evaluations people have made in
+  the past as tradition, it is also constitutive of choice and action, and
+  therefore culture can also, though it never does entirely, act as a powerful
+  constraint on understanding social life in appropriate terms and on taking
+  appropriate forms of action.
+Hargreaves' argument implies a randomness to the production of culture.
+But the constitution of particular society's cultural order, the structure
+of meaning which, from the point of view of the individual who lives it
+we might term a world-view, is based on the negotiation of material conditions
+and social formations which come together in specific historical conjunctures.
+  Culture, like ideology, is an holistic concept. The difficulty which it
+poses for Althusserian-influenced Marxism lies in its relation to the idea
+of practice. Ideology may be conceived as being structurally articulated but
+this is because ideology is conceptualised as thematic. Culture may be
+understood as the material practice through which ideology is mediated and
+manifested. As a consequence, the category of culture tends towards the
+reintroduction of the human subject through the necessity of accounting
+for the `random' signs which go to make up a society's cultural order. For
+the lived subject culture is not organised randomly. It is the product of
+ongoing historical, ideological and material determinations. It is also,
+in a specific sense, a product of invention. For example, whilst cricket
+at a specific historical moment might manifest a particular ideological
+theme or themes, we need to recognise that criket itself was not inevitable
+in other socio-cultural orders, while other games may manifest the same
+ideological themes.
+  This rather arid discussion needs to be taken further - but not here. It
+would be possible to take sport in general, or indeed one particular sport
+such as cricket, and explain the material and ideological conditions
+surrounding its production in a specific socio-cultural order such as that
+constituted by Australia. Equally, it would be possible to examine some
+of the cultural myths surrounding sport, or particular sports, in, let
+us say, Australian culture. In this Chapter I will do a little of each.
+However, my main purpose is to bring both these analytical positions together
+in order to discuss the circumstances which produced an image of sport as
+an important aspect of Australia's structure of culture. The structure
+of culture refers to those ideas which form an essential part of the matrix
+(or framework) of the Australian socio-cultural order. What I want to argue
+is that the last part of the nineteenth century was the crucial period in
+the production of the Australian image of sport and its positioning in the
+structure of culture. Throughout this article there will be an interweaving
+of these two concerns.
+  In the context of the deployment of an Australian structure of culture
+one of the most important factors was the historical conjuncture which produced
+a conception of the un-naturalness of the Australian environment. Bill Mandle
+has already had something to say about this in the context of developing
+attitudes towards sport in Australia. It is worth elaborating on his argument.
+In his article Mandle notes how, in the latter half of the nineteenth century,
+an anxiety about the quality of the Australian race developed from two sources.
+The first, which is not of concern here, was the question of the extent
+to which the convict origins of many Australians might provide the basis
+for the development of a degenerate people. The second source lay in a
+perception of the degenerating qualities of the Australian environment,
+including its climate. Mandle notes that, as Australian cricket teams started
+beating English teams during the 1870s:
+  Almost overnight the mood changed from one of doubt and relief to one
+  of confidence, and the part that cricket played in generating that confidence
+  cannot be underestimated.
+What we need to investigate here are, first, the changes which went on to
+produce cricket as what late nineteenth-century society understood as a
+sport (something I will return to later) and second, how cricket was being
+used within the Australian structure of culture (specifically how and to
+what extent it contributed to `national confidence'). In order to do this
+we need to understand how sport was coming to be structured into the English
+midlle-class's view of the world. Below I want to say more about the qualities,
+such as manliness, attributed to sport. Here we need to consider briefly
+how physical exercise came to provide the basis on which these qualities were
+articulated.
+
+
+	<h> Bodies and bourgeois values </h>
+	
+The late eighteenth century in England saw the rise of what is usually called
+the Romantic movement. One aspect of this was a celebration of the environment,
+of the natural world as being natural and, indeed, for being natural. In
+more general, cultural terms the English nineteenth-century intellectual
+middle-class had a certain revulsion against the growing industrialised
+urbanism and found in nature a nostalgia for a lost pastoral past. The human
+(male) body, an articulation of the natural, but carrying within it the mind -
+the basis of civilisation - lay at the intersection of the urbanised (and
+civilised) world. The deployment of the category of sport originated from
+within the English public schools, most obviously as a part of Thomas Arnold's
+reorganisation of Rugby which Simon has summed up like this:
+  ... [Arnold] provided a form of education designed to fuse aristrocracy
+  and bourgeoisie, to make the aristocracy more useful and the bourgeoisie
+  more polished - one which corresponded exactly with, and in turn helped
+  to form, the aspiration of the Victorian upper-middle class.
+The practice of sport, in the form of institutionalised and delimited physical
+activity, provided a training for the `natural' body and a discipline which
+was a part of `civilising' the mind. The body became the site of a complex
+resolution. On the one hand there was the attempt to eradicate nature in
+the form of the `natural' child through the inculcation and internalisation
+of bourgeois values. On the other hand, however, nature as a general concept
+was valorised over the `unnatural' depredations of city life. In practice,
+in the context of the child, this was represented in the celebration of exercise
+as the way to health. These contradictory positions were reconciled through
+the argument of `mens sana in corpore sano.' A new, natural bourgeois man
+would be developed as the mind, full of bourgeois values, was harmonised
+with the physical body of nature.
+  The nineteenth-century arguments about such things as the violence of
+football were carried out in precisely these terms. Dunning and Sheard note,
+for example, in relation to the debate over the acceptability, or not, of
+hacking - a debate which played a large part in the formation of the Rugby
+Football Union - that:
+  ... Rugby supporters were the most persistent advocates of a rougher and,
+  as they saw it, more `manly' game. However, a growing body of opinion, inside
+  as well as outside Rugby circles, regarded practices such as `hacking' as
+  barbaric.
+The young middle-class male's body became the site for a set of arguments
+which amounted to a debate about what the synthesis between nature and
+bourgeois values was to be and how it was to be articulated in practice.
+  With this background we can now appreciate how much importance the
+Anglo-Australian middle class would have placed on sport. In England sport
+mediated and reconciled the natural and the civilised. The natural, however,
+was implicitly associated with the British (and European) environment. As
+Richard White notes:
+  Such attitudes raised intriguing questions about the development of new
+  types from British stock. When transplanted to other parts of the world,
+  did the Anglo-Saxon racial type continue to progress, or did it degenerate?
+In Australia this question was asked against a backdrop of the perceived
+`enervating nature of our climate' and the experienced alienness of the
+environment in which, for example, Flinders abandoned his attempt to use the
+Linnean system of classification, whilst the Reverend Sydney Smith simply
+thought that here nature `seems determined to have a bit of play'. In Australia,
+then, sport did not mediate and reconcile the lived-in nature with civilisation
+but rather provided a bulwark, a protection against this new, un-natural
+environment. 
+
+
+</sample>

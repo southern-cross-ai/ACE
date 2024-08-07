@@ -1,0 +1,19 @@
+<subsample>
+	<id> B10g</id>
+	
+
+
+	<source>The Sun News-Pictorial - 1 December 1986</source>
+	
+
+DEAR 3Rs &amp; Former Infant Teacher: Illiteracy is caused by teaching methods used
+since 1968, physical handicaps and parental non-cooperation. Methods in
+school's first three years are crucial. Modern methods have failed for the past
+20 years. 
+
+
+	<bl>  Mother &amp; Former Infant Teacher (Fawkner N).  </bl>
+	
+
+
+</subsample>

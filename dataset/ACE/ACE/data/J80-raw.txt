@@ -1,0 +1,259 @@
+<sample>
+	<id> J80 </id>
+	
+
+
+	<note> 2003 words </note>
+	
+
+
+	<source> The Second National Space Engineering Symposium - Sydney - 25-27 March 1986 </source>
+	
+
+
+	<h> INTELSAT TDMA and its implementation in Australia </h>
+	
+
+
+	<bl> By Stuart Howe </bl>
+	
+
+
+	<h> ABSTRACT </h>
+	
+
+  The paper considers the emergence of digital communications through the
+complementary processes of innovative research and advancing technology.
+INTELSAT's part in the use and development of digital satellite communications
+is considered, with emphasis on the TDMA system, which is currently being
+introduced into INTELSAT networks. The advantages and economies of using
+TDMA over traditional analogue techniques, and other digital methods is
+then explored, as a preface to considering some of the difficulties encountered
+in implementing a TDMA traffic terminal at an existing earth station.
+
+
+	<h>1. INTRODUCTION </h>
+	
+
+  Communication is a basic and growing need of businesses and of the
+individual, and demand for flexibility in connectivity of links and provision
+of services is definitely not static. This demand, and the technology that
+can satisfy it frequently tend to appear as complementary processes, each
+aiding the other. However, often is the case that innovative thoughts outstrips
+practical technological development, and some years pass before new
+communication systems can be realised utilising appropriate and economical
+technology.
+
+  A example of this is the emergence of the INTELSAT TDMA network. The
+concepts, characteristics, and advantages of the system are detailed, in
+addition to noting hurdles encountered and overcome whilst implementing
+a TDMA traffic terminal at an Overseas Telecommunications Commission (OTC)
+earth station in Ceduna, South Australia.
+  
+  The emphasis throughout the paper is that the main thrust behind the
+development of these new systems is not merely to exploit new theories,
+techniques or methods of manufacture, but to strive to make the most efficient
+use of available resources.
+
+
+	<h>2.  INTELSAT AND DIGITAL SATELLITE SYSTEMS </h>
+	
+
+  The International Telecommunications Satellite Organisation, INTELSAT,
+is no stranger to the staggering demands of communications systems users,
+and to the need for constant investment in development of novel and more
+efficient means of utilising both ground and space resources. This is born
+out by considering that during the relatively short operational existence
+of INTELSAT since 1965, the total number of half-circuits provided has grown
+to greater than 100,000, making the consortium the largest worldwide carrier
+of international traffic.
+
+  INTELSAT also has significant experience in the provision of digital
+satellite communications. Single Channel Per Carrier (SCPC) systems have
+for considerable time offered medium rate digital services at 48, 50 and
+56 KBit/sec. Other multi-user PSK/FDMA methods, such as INTELSAT's Business
+Service (IBS) and Intermediate Data Rate (IDR) carriers allow digital
+transmissions at up to 44 MBit/sec. In fact, the equipment required for
+IBS and IDR operation is considerably simpler and less costly than that
+needed for INTELSAT's latest digital satellite system, Time Division Multiple
+Access (TDMA). In order to appreciate why a great deal of time and effort
+has been expended on the development of TDMA networks, a closer look at
+the system is required. 
+
+
+	<h>3.  INTELSAT TDMA </h>
+	
+
+
+	<h>3.1 History </h>
+	
+
+  The introduction of TDMA systems into the global communications network
+is a good case where advancing technology, and the development of requirements
+for a workable system tended to complement each other. It was in the mid-60's,
+very early in the satellite communications era, when an experiment between
+America and Britain was set up to investigate timing considerations for
+satellite multiple-access digital carriers [Schmidt et al, 1969]. It wasn't
+until the end of the decade that very primitive TDMA equipment was tested
+between Australia, Hawaii, and Japan, and then four more years before a
+prototype TDMA equipment specification was produced [INTELSAT, 1974].
+
+  Throughout the late '70's, in field trials using &quot;2nd generation&quot; equipment,
+experiments using live traffic were carried out [INTELSAT, 1979]. These
+indicated that increased reliability and reduced cost of traffic stations
+could be achieved if all network control and timing functions were concentrated
+into specialist stations. The result of the field trials was the production
+by INTELSAT of a refined TDMA specification in 1980 [INTELSAT, 1980], which
+was followed in 1983 by a revision, to which the network today runs [INTELSAT,
+1983].
+
+
+	<h>3.2 General System Concepts </h>
+	
+
+  Under the TDMA mode of operation, each participating station in the network
+transmits, in turn, a digitally-modulated &quot;burst&quot; of traffic. The basic
+time interval over which this cyclic sequence is repeated is the TDMA &quot;frame&quot;,
+and during this time each station will transmit one or more bursts, and
+receive one or more bursts from its correspondents. The exact length*lenth
+of the bursts, their position within the frame, and destination of traffic,
+is laid down in a predetermined Burst Time Plan (BTP).
+
+  Obviously, in a system where carriers from a number of geographically
+widely-separated earth stations must be co-ordinated to arrive at the satellite
+at precise times relative to one another, there has to be a common network
+timing source. The TDMA system provides specialist stations, alluded to
+above, which solely transmit bursts containing network timing and control
+information, and which allow all traffic stations to establish frame timing,
+and hence relate their transmissions to a common reliable timing source.
+The stations are referred to as reference stations, and the bursts, reference
+bursts. The TDMA specification [INTELSAT, 1983] describes the network as
+having four reference stations per satellite. Figure 1 shows the typical
+coverage areas of a satellite carrying TDMA traffic; an east and a west
+hemisphere beam, and east and west zone beams (usually contained within
+the hemisphere beams) of opposite polarisation. Two reference stations (a
+primary and a secondary) located in each of the zone beams can thus provide
+redundant monitoring and control for the entire network.
+
+  In many ways TDMA, or PCM/QPSK/TDMA, can be thought of as the digital (time
+domain) counterpart of the well-known analogue (frequency domain) FDM/FM/FDMA
+system. Carriers, of fixed bandwidth and separated in frequency by guard
+bands, within a transponder in the FDMA system appear as bursts, of fixed
+length and separated by guard times, within a frame in the TDMA system.
+Figure 2 shows the basic TDMA frame, with traffic and reference bursts,
+and also shows a typical FDMA transponder configuration, for comparison.
+In fact, the basic TDMA system carries approximately the same number of
+channels, per frame, as FDMA systems could carry in the same transponder
+under single carrier conditions. Where, then, are the advantages of TDMA?
+
+
+	<h>3.3 System Benefits </h>
+	
+
+  The most basic advantage*advanatage TDMA offers is the method of satellite
+access. The transmit powers of multiple FDMA carries in a single transponder
+must be reduced from the maximum (&quot;backed-off&quot;) so as to avoid driving the
+satellite amplifying travelling wave tube (TWT) into saturation, or non-linear
+operation, and causing intermodulation products (IMPs) between carriers.
+This is not a problem with TDMA operation, where there is only ever a single
+carrier in the transponder at any one time, avoiding the formation of any
+IMPs. The TDMA system thus allows maximum use to be made of the satellite
+power resource by operating spacecraft TWTs non-linearly at, or near
+saturation. In a practical network, there could be anywhere between five
+and twenty users of a single transponder. Multiple FDMA carriers in a
+transponder, we have seen, have to be backed-off to avoid IMPs. The more
+transponder accesses, the greater the individual back-offs and the more
+inefficient the transmission method becomes. The decrease in the number
+of channels able to be carried through the transponder thus decreases sharply
+with the number of users.
+
+  The TDM network, on the other hand, can cope with any number of users, all
+carriers being transmitted at, or near the satellite TWT saturation point.
+The only overhead in allowing a greater number of frame accesses, is the
+addition of guard time and traffic burst preamble. As this corresponds to
+the loss of approximately 5 SCs for each added burst, the fall off in capacity
+with users is much less dramatic. Figure 4 shows that an 80% efficiency,
+or traffic carrying capability, is still possible even with 50 or more frame
+accesses. Thus, a low sensitivity to the number of system users means that
+efficient system operation does not restrict access to large volume users
+(as FDMA does), or to small (as SCPC does), but handles all burst sizes
+equally well.
+
+  A further advantage afforded by the basic TDMA system over its FDMA
+counterpart is achieved by the use of a technique called DSI, or digital
+speech interpolation. This can effectively increase system capacity for
+voice channels, which comprise the majority of satellite traffic, by a factor
+of up to 2.5. The technique takes advantage of the fact that during a telephone
+conversation, one party is listening not (using his half-circuit) as the
+other talks. Considering this, as well as the natural pauses, hesitations,
+and intervals in normal speech patterns, an average circuit activity of
+only 35 to 40% results.
+
+  If terrestrial channels (TCs), incoming to an earth station, are dynamically
+assigned to available satellite channels (SCs) only when active, then
+theoretically, over a large number of channels, up to 2.5 or more TCs can
+be compressed into one SC. This results in SCs being active for a large
+percentage of time and gives a maximum theoretical capacity of the TDMA
+frame, utilising DSI, as approximately 2.5 times that of an equivalent FDMA
+system in the same transponder. However, despite various overheads in the
+TDMA frame, due to reference bursts, traffic burst preambles, channels giving
+the dynamic TC-SC assignments, coding of traffic, and special time slots
+in the frame (see figure 3), an advantage of a factor of about 2 is still
+retained.
+
+  The benefits of using TDMA are not limited to providing increased capacity
+either. There is one distinct virtue, related to ground station equipment.
+Traditionally with FM/FDMA or PSK/FDMA techniques, for each new overseas
+correspondent, extra baseband, modulating, and radio frequency (RF) equipment
+is needed. The need may not be as great for transmit equipment (where &quot;multi
+destination user&quot; carriers are often used), but is definitely present for
+receive equipment.
+
+  A simple TDMA station will include some baseband quipment, burst formatting
+and modulating equipment, and RF equipment. Owing to the fact that traffic
+is transmitted as short bursts (say 100us duration) every 2ms (the INTELSAT
+frame time), the terminal modulating and RF equipment is only operating
+for a small percentage of the frame time. Thus, operations can be extended
+to a number of new overseas correspondents for the addition of extra baseband
+equipment only. This advantage is significant for communications
+administrations in smaller countries, for which the cost of providing a
+service is of prime importance.
+
+
+	<h>3.4 The TDMA Traffic Station </h>
+	
+
+  TDMA earth station equipment was mentioned briefly above, but it may serve
+useful to detail the basic building blocks comprising a traffic terminal.
+There are essentially four separate functional blocks: the terrestrial
+interface equipment (TIE), baseband equipment, burst formatting and modulating
+equipment, and RF gear.
+
+  The TIE is responsible for converting the diverse formats of information
+present in terrestrial networks (analogue FDM multiplex stacks, or digital
+streams of various speeds and coding) into a standard form acceptable to
+the TDMA equipment (2.048MB/S, according to CCITT rec. G.732). The TIE will
+obviously differ from station to station. The 2.048 MB/S streams are then
+fed to the baseband or (DSI) units, which perform the traffic concentration
+function noted previously. It also serves to correct for the small relative
+(plesiochronous) drift between the terrestrial clock (if there are digital
+terrestrial links) and the TDMA system clock.
+
+  Timing and control of the actions of the TDMA terminal is concentrated
+into the central TDMA Terminal Equipment (CTTE). This unit is responsible
+for generating the terminal transmit/receive timing, forming the burst
+preamble, and coding, scrambling (for energy dispersal) and then modulating
+the burst. Additionally, the terminal operator interface is generally part
+of the CTTE.
+
+  The RF portion of the terminal consists, as with most other transmission
+systems, of up-and-down-converters, and burst-mode carrier control equipment.
+The TDMA specification allows for groups of synchronised transponders, all
+having identical start-of-frame times. A traffic terminal needing to transmit
+to stations in a number of different satellite coverage areas, or with
+different signal polarisations, can (by virtue of the burst-mode nature
+of carriers) access transponders of different frequency and polarisation
+by switching between up-converters, or transmit feeds respectively.
+
+
+</sample>

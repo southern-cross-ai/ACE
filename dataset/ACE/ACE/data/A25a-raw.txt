@@ -1,0 +1,29 @@
+<subsample>
+	<id> A25a </id>
+	
+
+
+	<source> Telegraph - 1 October 1986 </source>
+	
+
+ 
+	<h> Royal staff `moonlight'  </h>
+	
+
+ 
+	<misc> LONDON (AAP): </misc>
+	
+
+  Staff at Buckingham Palace and other royal homes regularly
+&quot;moonlight&quot; in their spare time with the agreement of the Royal Family,
+it was disclosed today.
+  A palace spokesman said:  &quot;Staff have permission to take extra jobs. 
+What they do in their own time is their business.&quot;
+  He was commenting on a report in today's Daily Mirror which said Prince
+Charles' $462-a-week butler, Harold Brown, could be employed for private
+parties for $69.22.
+  The newspaper said he could be hired - preferably for cash - by ringing
+Kensington Palace.
+
+
+</subsample>

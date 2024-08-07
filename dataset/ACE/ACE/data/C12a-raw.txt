@@ -1,0 +1,59 @@
+<subsample>
+	<id> C12a </id>
+	
+
+
+	<source> Adelaide Advertiser - 1 August 1986 </source>
+	
+
+ 
+	<h> Music </h>
+	
+
+
+	<h> Moving harmonic experience </h>
+	
+
+
+	<misc> Japanese Koto Musicians
+The Space
+Wednesday </misc>
+	
+
+
+	<bl> Stephen Whittington </bl>
+	
+
+  IF I had to find one word to describe this exquisite performance it would
+be harmony.
+  Not harmony in the Western musical sense of chords and the like, but harmony
+as a balance of form and feeling, a perfect agreement of action and expression.
+Whether in the pure classical style or the Western-influenced modern style,
+or even in koto versions of Waltzing Matilda and Click Go The Shears, there
+was a refinement in the playing of these enchanting young women which
+permitted no wasted effort or histrionics. The art of koto playing appears
+to be that of economy, with every action perfectly matched to the production
+of the desired sound.
+  At first it would seem that there is very little to look at. A group of
+young women in kimonos kneel beside their instruments, bow politely to the
+audience, and begin to play. But before long you are under their spell. Their
+modesty and humility and the lack of display, only add to the pleasure
+of the performance. It soon becomes clear that the koto, for all its apparent
+simplicity - 13 strings stretched aross a wooden soundboard - is an extremely
+subtle instrument. The actual plucking of the string is just the beginning
+of the process. The sound is then modified in a surprising variety of ways
+by applying pressure to the string to bend the pitch, produce vibrato and
+so on.
+  After a while, one begins to realise that there is a lot to look at.
+There is also a lot to listen to. The music of the ensemble pieces moves
+from unison to several distinct parts and back again in ways which are quite
+different from European music.
+  But it was the traditional style that really intrigued and delighted me.
+The gentle flow of the music, its delicate and expressive embellishment
+and sometimes piquant harmonies belong to an age far removed from the present
+and to a culture very different from our own.
+  But its beauty, simplicity and refinement conspire to make a most moving
+musical experience.
+
+
+</subsample>

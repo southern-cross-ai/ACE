@@ -1,0 +1,766 @@
+<sample>
+	<id> J19 </id>
+	
+
+
+	<note> 2029 words </note>
+	
+
+
+	<source> Australian Journal of Statistics </source>
+	
+
+
+	<h> Modelling examination marks </h>
+	
+
+
+	<bl> D.J. Daley and E. Seneta </bl>
+	
+
+
+	<h> Summary </h>
+	
+The paper proposes a model to describe marks as awarded to students who
+select and sit for examinations in a subset of the courses offered.
+  For each subject a linear transformation of the raw marks is sought so
+as to place all marks on a common scale. In this guise, the set-up reduces
+to a simple linear model with multiplicative interaction term, totally lacking
+in balance as would results from experimental design practice.
+  A variety of methods of estimating the linear transformation parameters
+is described.
+
+
+	<h> O. Introduction </h>
+	
+The main object of this paper is to exhibit and study some properties
+of a simple stochastic model which facilitates the study of data sets
+consisting of examination marks.
+  At the end of secondary schooling in Australia a student is usually provided
+with a certificate indicating his achievements at that stage relative to
+others within the same system. Usually, the certificate includes a few (usually
+in the region of 4 to 7) course scores which decades ago were examination
+marks but nowadays may include or consist entirely of some form of school-based
+assessment. These  course scores have usually been moderated from the raw
+course score data, the aim of this operation being to produce scores which
+can be compared &quot;fairly&quot; or &quot;equitably&quot; across subjects, and hence (so it
+is argued) can be summed to form a student's aggregate score as the sum
+of his best v moderated course scores for some fixed number v.
+  Different educational systems have different schemes for moderating the
+raw scores, and have different rules governing formation of the aggregate.
+The main purpose of the model proffered below is to provide a framework
+within which different moderation procedures can be compared as statistical
+procedures. It is used here to illustrate versions of three existing
+procedures.
+  Clearly the availability of an appropriate model makes simulation a possible
+technique for the empirical investigation of its applicability. The model
+itself (see equation (1.3) of the text) can be viewed as a single factor model
+associated with the name of Spearman (see e.g. Section 1.2 of Lawley and
+Maxwell (1971). In this context, it must be noted that preliminary examination
+of data suggests that, in spite of this one factor being quite dominant and i
+nterpretable as a general level of ability/achievement, a further factor akin 
+to a contrast of quantitative and verbal abilities may also be identifiable.
+Neither of these matters is pursued in the sequel.
+  The moderating procedures of various examining bodies are documented mostly
+as internal memoranda and they are not necessarily available to the general
+academic community. Yet such procedures are widespread (e.g. Broyden (1983),
+Murgatroyd (1975, 1979), Smith (1971); all of these are encompassed by the
+model below or special variants of it). Comprehensive documentation of
+Australasian experiences is overdue (cf. Cooney (1976).
+
+	<h>1. Notation and the Model</h>
+	
+  We are concerned with a finite population of candidates, i=1,...,N, each
+taking a selection from the courses j=1,...,S. We write 
+	<note>?</note>
+	 if candidate i
+takes course j, =0 otherwise. When 
+	<note>?,</note>
+	 we denote by 
+	<note>?</note>
+	 the raw course 
+score of candidate i in course j. Moderated course scores 
+	<note>?</note>
+	 are taken to 
+be given by an appropriate linear transformation of the raw course score for 
+each course. Thus, if 
+	<note>?,</note>
+	
+
+	<note>
+		? 
+		<misc> (1.1) </misc>
+	</note>
+	
+for some course parameters 
+	<note>(?,</note>
+	 
+	<note>?)</note>
+	. An important empirical observation
+is that correlation  coefficients of raw course scores 
+	<note>?,</note>
+	 
+	<note>?</note>
+	
+for distinct courses j,k taken over their common candidature i, are positive
+(usually, in the range 0.3 to 0.7). On the basis of this, the crucial
+assumption is made that appropriately moderated scores 
+	<note>?</note>
+	 can be placed (apart
+from random error) on a common scale furnished for individual i by some
+unobservable value vi which can be interpreted as representing a general
+measure of i's achievements, or alternatively, i's ability. Thus, when
+
+	<note>?,</note>
+	
+
+	<note>
+		? 
+		<misc> (1.2) </misc>
+	</note>
+	
+where the residual random variables 
+	<note>?</note>
+	 are assumed to have 
+	<note>?,</note>
+	
+
+	<note>?,</note>
+	 and to be uncorrelated amongst themselves. Here and below 
+(e.g. (2.1b), (2.4a)) the notation 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 refers to variances (as 
+second moments of random variables) whereas 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+
+	<note>?,</note>
+	 
+	<note>?</note>
+	 refer to formal moment expressions defined on 
+finite sets of numbers.
+  Substituting from (1.1) into (1.2) the model becomes
+
+	<note>
+		? 
+		<misc> (1.3)</misc>
+	</note>
+	
+where 
+	<note>?,</note>
+	 so 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 say, with 
+	<note>?</note>
+	 
+for distinct (i,j) uncorrelated, and we regard 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 as unknown parameters.
+  In the language of experimental design, (1.3) is a model with multiplicative
+interaction term, but there is complete absence of balance so our analysis
+is necessarily ad hoc. For purposes of statistical inference, further
+conditions, such as normality, may need to be imposed on the eij's.
+Krishnaiah &amp; Yochmowitz (1980) surveys such questions in the case of a balanced
+design and allowing for more general structure of the interaction term.
+
+
+	<h>2. Moments </h>
+	
+From (1.3) it follows that, if 
+	<note>?,</note>
+	
+
+	<note>
+		? 
+		<misc> (2.1a) </misc>
+	</note>
+	
+
+	<note>
+		? 
+		<misc> (2.1b) </misc>
+	</note>
+	
+i=1,..., N; j=1,...,S.
+  Writing 
+	<note>?</note>
+	 for the number of candidates taking course j, we introduce
+formal moments with respect to i or j as illustrated by
+  
+	<note>?,</note>
+	
+  
+	<note>?</note>
+	.
+Thus,
+  
+	<note>?,</note>
+	
+  
+	<note>?</note>
+	.
+  From (2.1a) it follows that
+
+	<note>
+		? 
+		<misc> (2.2a) </misc>
+	</note>
+	
+or equivalently from (1.2),
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (2.2b) </misc>
+	</note>
+	
+Linearity gives us another equivalent form, namely
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (2.2c) </misc>
+	</note>
+	
+Also, from (2.1),
+  
+	<note>?</note>
+	
+where we have used (2.2a). Thus,
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (2.3) </misc>
+	</note>
+	
+  As the variance analogue of (2.2a) and which we regard as a manifestation
+of the double expectation theorem we define
+  
+	<note>
+		?, 
+		<misc> (2.4a) </misc>
+	</note>
+	
+but it must be noted that this differs both from 
+
+	<note>
+		? 
+		<misc> (2.4b) </misc>
+	</note>
+	
+and of course from
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (2.4c) </misc>
+	</note>
+	
+  Finally we note that from the identities 
+	<note>?</note>
+	 we can construct
+normalized linear expressions like both
+
+	<note>
+		? 
+		<misc> (2.5a) </misc>
+	</note>
+	
+and the minimum variance linear combination
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (2.5b) </misc>
+	</note>
+	
+  In the next three sections we outline approaches that have been (or, could
+be) used to estimate in particular the parameters 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 with a
+view to being able to form an aggregate score for i out of the totality
+of moderated scores 
+	<note>?</note>
+	. We shall find that the expressions developed
+above at (2.2)-(2.5) concerning moments and formal moments have analogues
+in equations for estimation in Section 3.
+
+
+	<h>3. Maximum Likelihood Estimation </h>
+	
+The strongest set of assumptions which we consider is that the r.v.s
+
+	<note>?</note>
+	 are independent normal r.v.s with zero mean and variance 
+	<note>?</note>
+	. The 
+log likelihood of the data set 
+	<note>?</note>
+	 is then given by
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (3.1) </misc>
+	</note>
+	
+Differentiation with respect to 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 leads
+in the usual manner to the following relations satisfied by the maximum
+likelihood (ML) estimates 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 in terms of
+the data set 
+	<note>?</note>
+	:
+  
+	<note>
+		?, 
+		<misc> (ML.1) </misc>
+	</note>
+	
+  
+	<note>
+		?, 
+		<misc> (ML.2) </misc>
+	</note>
+	
+  
+	<note>
+		?, 
+		<misc> (ML.3) </misc>
+	</note>
+	
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (ML.4) </misc>
+	</note>
+	
+  Clearly, these equations are just the analogues of (2.2a), (2.3), (2.4a)
+and (2.5b) respectively. Consequently, the estimators in (ML.1-4) can be
+regarded equivalently as moment estimators which do not in essence require
+the additional assumption of normality imposed in the present section.
+  It is relevant to later comparisons to note that the equations (ML.1-4)
+can be written in terms of the ML-moderated course scores 
+	<note>?,</note>
+	 the 
+formal correlation coefficient 
+  
+	<note>?</note>
+	
+and 
+	<note>?</note>
+	 as follows:
+  
+	<note>
+		?, 
+		<misc> (ML'.1) </misc>
+	</note>
+	
+  
+	<note>
+		?, 
+		<misc> (ML'.2) </misc>
+	</note>
+	
+  
+	<note>
+		?, 
+		<misc> (ML'.3) </misc>
+	</note>
+	
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (ML'.4) </misc>
+	</note>
+	
+  Nothing has been said yet about existence or uniqueness of any solution
+of (ML.1-4). These matters will be discussed later in Section 6. Digby (1979)
+considered three algorithms for solving equations (ML.1), (ML.2) and (ML.4)
+in the case that all 
+	<note>?</note>
+	 (and so (ML.3) does not arise).
+
+
+	<h>4. An Approach for Weighted Scores </h>
+	
+It is well known that, provided the variances 
+	<note>?</note>
+	 are known, the ML 
+equations for 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 can be obtained by minimizing
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (4.1) </misc>
+	</note>
+	
+Now it is not uncommon, in the formation of any aggregate, to have the course
+score 
+	<note>?</note>
+	 contribute with the weight or unit value 
+	<note>?</note>
+	 which is
+typically a smaller integer: in the present NSW system, 
+	<note>?</note>
+	 takes one
+of the values 1, 2, 3 and 4, while in the ACT system it takes values 0.6,
+1, 1.6 or 2. The weight may reflect either or both of the amount of work
+being covered in course j and the extent of assessment (e.g. the amount
+of examining). In the latter case it is plausible that the variance
+
+	<note>?,</note>
+	 viewed as a measurement error of 
+	<note>?,</note>
+	 should be inversely 
+proportional to 
+	<note>?</note>
+	. In other words, we would assume that 
+	<note>?,</note>
+	 
+where 
+	<note>?</note>
+	 is known, and then (4.1) becomes (apart from a multiplicative 
+constant)
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (4.2) </misc>
+	</note>
+	
+  Minimizing this last expression for S with respect to 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	
+
+	<note>?,</note>
+	 we obtain least-squares (LS) or maximum likelihood estimators
+
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 which satisfy
+  
+	<note>
+		?, 
+		<misc> (LS.1) </misc>
+	</note>
+	
+  
+	<note>
+		?, 
+		<misc> (LS.2) </misc>
+		 
+	</note>
+	
+  
+	<note>
+		?, 
+		<misc> (LS.3) </misc>
+	</note>
+	
+or equivalently, writing 
+	<note>?,</note>
+	 
+  
+	<note>
+		?, 
+		<misc> (LS'.1) </misc>
+	</note>
+	
+  
+	<note>
+		?, 
+		<misc> (LS'.2) </misc>
+	</note>
+	
+  
+	<note>
+		?, 
+		<misc> (LS'.3) </misc>
+	</note>
+	
+where 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 is the total number of units taken by candidate 
+i. Clearly (LS.1) and (LS.3) resemble (ML.1) and (Ml.4), but the estimating 
+equations for 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 differ in the role of the correlation coefficient. 
+We discuss this point later in Section 5.
+  A computational attraction of (LS.1-3) is that the reparametrization
+
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 leads to a linear system of equations for the
+estimates 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	. Thus, (LS.3) becomes
+  
+	<note>
+		?, 
+		<misc> (4.3) </misc>
+	</note>
+	
+so (LS.2) becomes
+  
+	<note>
+		?, 
+		<misc> (4.4) </misc>
+	</note>
+	
+using (4.3). Similarly, (LS.1) takes the form 
+  
+	<note>
+		?, 
+		<misc> (4.5) </misc>
+	</note>
+	
+so (4.4) and (4.5) constitute a linear system for 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 can then be 
+obtained from (4.3) if the linear system is soluble.
+
+
+	<h>5. A Bivariate Adjustment Procedure </h>
+	
+In Queensland, Western Australia, and the A.C.T. an essentially different
+practice to either of those above is followed, though of course there are
+modifications as to details in the different regions. The essence is that
+the common scale values 
+	<note>?</note>
+	 are estimated in a separate test (the Australian 
+Scholastic Aptitude Test (ASAT)). Thus, in contrast to the approaches of 
+Sections 2-4, this component of the modertion procedure is external. Denoting 
+these external estimates by 
+	<note>?</note>
+	 the course parameters 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 are then defined by 
+  
+	<note>
+		?, 
+		<misc> (5.1a) </misc>
+	</note>
+	
+ 
+	<note>
+		 ?
+		<misc> (5.1b) </misc>
+	</note>
+	
+because with these values, the ASAT-moderated course scores 
+ 
+	<note>
+		 ?
+		<misc> (5.2) </misc>
+	</note>
+	
+are then claimed to be on the common scale of the vi on account of
+  
+	<note>
+		?, 
+		<misc> (5.3a) </misc>
+	</note>
+	
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (5.3b) </misc>
+	</note>
+	
+  Inspection shows that (5.3a) is of the same form as (ML'.1) and (LS'.1),
+just as (5.1a) has the appearance of (ML.1) or (LS.1); indeed, (5.1a) can
+be deduced from (LS.1) or (ML.1) as follows. Regard the 
+	<note>?</note>
+	 as having the 
+status of moderated course scores yi0 say, corresponding to some fictitious 
+course 0, so 
+	<note>?</note>
+	 (all i). Suppose the weight w0 is exceedingly large 
+(for(LS.1)) or else 
+	<note>?</note>
+	 (for (ML.1)). Then from (LS'.3) we have 
+
+	<note>?,</note>
+	 and similarly from (ML'.3), 
+	<note>?</note>
+	.
+  On the other hand, on comparing (5.3b) with (ML'.2) and (LS'.2) which
+it parallels, we see that if it should happen that 
+	<note>?</note>
+	 for all i then
+  
+	<note>?</note>
+	.
+  The equations (5.3) quite clearly take the approach that &quot;abilities&quot;
+as represented by 
+	<note>?</note>
+	 determine the &quot;achievements&quot; as represented
+by yij, whereas the other approaches regard the achievements 
+	<note>?</note>
+	
+as measuring the unobservable underlying abilitites 
+	<note>?</note>
+	. In fact,
+the most that is claimed by the designers of ASAT is that the observed measures
+
+	<note>?</note>
+	 are estimates of some general scholastic aptitude measure. While
+attention has been given to relations like (ML'.2) and (LS'.2), with (5.3b)
+emerging as a compromise (see Cooney (1975, 1978), Hasofer (1978), Hasofer
+&amp; Davis (1979)), it has been in the context of a bivariate selection model.
+Our model and approaches are much closer to those of a multivariate model.
+
+
+	<h>6. Existence and Uniqueness </h>
+	
+These problems arise only in connection with the procedures of Sections
+3 and 4. First, supposing 
+	<note>?,</note>
+	 it follows that in (1.3) we can write
+
+	<note>?</note>
+	<misc> (6.1) </misc>
+	
+where for any real 
+	<note>δ</note>
+	 and non-zero 
+	<note>γ</note>
+	 we have 
+	<note>?,</note>
+	 and 
+	<note>?,</note>
+	 
+so there is of necessity a considerable degree of non-uniqueness present. What 
+we discuss here is the simplest case - and of practical relevance for a 
+procedure currently implemented by Sydney University - where, in the 
+situation Section 4, we suppose that the values of the paramaters 
+	<note>?</note>
+	 are fixed 
+beforehand. Then the relevant estimation equations are given by (LS.1) and 
+(LS.3). Equivalently, we need to determine the 
+	<note>?</note>
+	 from the system (4.5),
+which, the 
+	<note>?</note>
+	 being known, can be rewritten as
+
+	<note>
+		? 
+		<misc> (6.2) </misc>
+	</note>
+	
+where j=1,...,S. Thus by introducing the S x S matrices 
+	<note>?</note>
+	 and
+
+	<note>?</note>
+	 and the S x 1 vectors 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 where
+  
+	<note>
+		?, 
+		<misc> (6.3) </misc>
+	</note>
+	
+  
+	<note>
+		? 
+		<misc> (6.4) </misc>
+	</note>
+	
+where 
+	<note>?</note>
+	 is the Kronecker delta, (6.2) can be rewritten compactly
+as 
+  
+	<note>?</note>
+	.
+	<note>
+		<misc> (6.5) </misc>
+	</note>
+	
+Now the matrix B is stochastic, i.e., its elements are non-negative and its row
+of sums are unity, so that the matrix I - B is singular.  If we assume (as is usually the case in practice) that it is irreducible (Seneta, 1981), this implies that there is a unique left eigenvector  
+	<note>?</note>
+	 satisfying
+
+	<note>?</note>
+	
+and it is then elementwise positive. This in turn implies that I - B is of rank S -1, and that u = 
+	<note>?</note>
+	 spans the subspace orthogonal to the subspace spanned by the columns of I - B. It is easily checked directly that in our case, u = 
+	<note>?</note>
+	 using (6.3), and 
+	<note>?</note>
+	 using (6.4), so 
+	<note>?</note>
+	 is in the space spanned by the columns of I - B, and hence (6.5) does have a solution, albeit non-unique. Now if 
+	<note>?</note>
+	 is any specified solution and 
+	<note>?</note>
+	 denotes any solution, it follows from (6.5) that
+
+	<note>?</note>
+	.
+
+
+
+
+</sample>

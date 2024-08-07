@@ -1,0 +1,29 @@
+<subsample>
+	<id> A25g </id>
+	
+
+
+	<source> Telegraph - 1 October 1986 </source>
+	
+
+ 
+	<h> Paris terror toll climbs to 10 dead </h>
+	
+
+  
+	<misc> PARIS (AAP): </misc>
+	
+
+  The death toll in the September wave of terrorist attacks
+has risen to 10, with the death of a young woman wounded in the bombing
+of a discount clothing store on September 17.
+  Police said the bomb-thrower had been identified from photographs as Emile
+Abdallah, a brother of Georges Ibrahim Abdallah who is one of three Middle
+East terrorists whose freedom has been demanded by the group claiming
+responsibility for the bombings.
+  Emile and three other Abdallah brothers, also sought by French authorities,
+have told reporters they have not left Lebanon in recent months and had
+nothing to do with the bombings.
+
+
+</subsample>

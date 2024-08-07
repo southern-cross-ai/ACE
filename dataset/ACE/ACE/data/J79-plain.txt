@@ -1,0 +1,252 @@
+By L C Kenna and P E Peploe 4. Measurements and Results  
+
+  Details of the instrumentation used for acoustic and vibration
+measurements are given in Appendix A.
+
+ 4.1 Vibration Measurements  
+
+  Measurements of vibration were taken at four different
+locations around the eastern revetment bay, for operation of
+both F/A-18 and Mirage aircraft. The locations are illustrated
+on Figs. 2 and 3. At each of these locations acceleration
+levels were measured at several positions between ground level
+and full height of the concrete walls. Figure 4 shows the
+positions of the accelerometers on the north wall. Figure 5
+shows the positions on the steel roof support. Figure 6 shows
+the accelerometer positions used on the dividing wall between
+the eastern and central bays; the block on which measurements
+were taken was adjacent to the exhaust nozzles of the Aircraft.
+(Note that accelerometer position B, at this location, was the
+same position at which the consultant's vibration measurements
+were taken). Figure 7 shows the accelerometer positions for
+vibration measurements on the eastern wall: the accelerometers
+were mounted along the centre of one block and situated 6
+metres south of the junction of the block wall and the cast-
+in-situ wall. Figure 7 also shows a position labelled M: at
+this position, a microphone was inserted through the wall to
+measure the sound pressure level to which the wall was exposed.
+For practical and safety reasons, all accelerometer positions 
+were on the outsides of the walls, relative to the position of 
+the aircraft.
+
+  The results of the measurements, in terms of the acceleration values 
+at the various measured points, are shown in Tables 1 to 7 inclusive.
+
+ 4.2 Noise within the Revetment  
+
+  Measurements of noise levels within the facility were taken at
+the locations shown on Figs. 8 and 9, for the F/A-18 and
+Mirage, respectively.
+
+  For the F/A-18, measurements were taken for two power settings.
+These were:-
+(i) port engine on full afterburner, starboard engine at 80%
+military power;
+
+(ii) both engines on full afterburner.
+
+  For the Mirage, measurements were taken for the power settings
+maximum dry and full afterburner.
+
+  In Fig.8, the positions shown as A and B are positions
+representative of where ground crew are likely to be located
+during engine run-ups. Position A is 3 metres forward of the
+exhaust and 3 metres to the left of the aircraft centreline.
+Measurement at this position indicates the level to which
+ground crew may be exposed when examining the rear of the
+aircraft. Position B is 12 metres forward of the exhaust and
+7 metres to the left of the aircraft centreline. Ground crew
+are located near this position when communicating with the
+person in the cockpit controlling the aircraft engine. Position
+C (which is the position marked M on Fig.7) is just below the
+top of the wall, and 7 metres south of the start of the block
+wall. This position was chosen to check the correlation between
+acoustic and vibration measurements. Positions D and E on Fig.8
+are both 6 metres south of the commencement of the block walls
+on the two sides of the bay, and both 2 metres out from the
+walls. These positions were measured in order to ascertain the
+extent to which reverberation from the walls of the revetment
+raises noise levels within the facility: because D is external
+to the bays, it experiences no reflected sound other than that
+reflected from the relatively-distant south wall, while E
+receives reflected sound from several pathways.
+
+  In Fig.9, positions A and B are the positions where ground crew
+members may be located. Position A, on the wing, and 4.5 metres
+forward of the exhaust was measured only for the maximum dry
+power setting: this position is not occupied during run-ups at
+full afterburner power. Position B is located 11 metres forward
+of the exhaust and 7 metres to the left of the aircraft
+centreline. Position C is described above for the F/A-18
+measurements. Position D is at the aircraft tie-down position
+in the central bay, position E is at the centre of the
+uninstalled engine enclosure and position F is on the hardstand
+area in front of that enclosure.
+
+  The overall sound pressure levels, linear and A-weighted,
+measured at these positions are tabulated on the tables
+included in Figs. 8 and 9. For the critical positions from a
+health and safety aspect, (positions A and B on both figures),
+the spectrum of the noise is of importance for assessing the
+adequacy of hearing protection. The one-third-octave spectra
+at these positions, for the various combinations of aircraft
+and power setting, are shown on Figs. 10, 11, 12 and 13.
+
+  A further set of measurements were taken in the facility to
+quantify the effect of reverberation on the noise exposures at
+positions A and B for the F/A-18 aircraft. For this
+measurement, a large loudspeaker capable of producing sound
+down to very low frequencies, and thus able to simulate the
+spectrum of jet engine noise was used. The loudspeaker was
+situated at the exhaust nozzle position of the aircraft, on
+the centreline of the revetment and driven with a pink noise
+signal. The loudspeaker faced towards the rear of the
+revetment. Measurements of sound pressure level were taken at
+positions A and B. The loudspeaker was then moved to a
+hardstand area out of the revetment, and well clear of any
+reflecting walls. Measurements of sound pressure level were
+taken at two positions situated identically, relative to the
+loudspeaker, as positions A and B in the revetment had been.
+The differences between the two corresponding pairs of
+measurements illustrates the effects of reverberation within
+the revetment on the sound levels at positions A and B. The
+one-third-octave spectra for the two pairs of measurements are
+shown on Fig.14.
+
+ 4.3 Environmental Noise  
+
+  Sound levels in the environment surrounding the facility were
+measured at three different points along each of five
+directions from the facility, radiating from the nozzle
+position of the aircraft. Measurements were taken for the F/A-
+18 aircraft operating with port engine on full afterburner and
+starboard engine at 80% military power. For the Mirage,
+measurements were taken with the engine running at full
+afterburner power. The locations of measurement positions have
+been shown on Fig.15 and the A-weighted sound levels measured
+at each position are shown on Figs. 16 and 17, for the F/A-18
+and Mirage respectively.
+
+  (It should be noted that the position 1.5 kilometres from the
+facility, in direction E (35 degrees) is in the married
+quarters area of the base).
+
+  During these sound measurements, meteorological conditions were
+also measured using a balloon to record this information at
+various heights, and additional measurements were taken from
+a ground meteorological station. The results of these
+meteorological measurements are shown in Tables 11 and 12. The
+average wind speed and direction for each of the periods when
+the sound measurements were taken have been shown on the
+figures containing the measurements results.
+
+  In addition to the environmental measurements taken during
+aircraft engine run-ups, measurements of the insertion loss of
+the revetment structure were undertaken. The procedure involved
+the use of two high-powered loudspeaker systems, one situated
+at the aircraft position in the revetment, the other situated
+external to the revetment bays. Measurements were taken, at
+each environmental measuremental position, of the noise level
+due to the in-revetment speaker, followed immediately by
+measurements of the noise level of the out-of-revetment
+speaker. The results are shown on Figs. 18 and 19, in units of
+dBA, at each measurement position. Due to the weather
+conditions and the volume of traffic (both aircraft and motor
+vehicles), at some positions the sound from the loudspeaker was
+not detectable above the ambient sound level.
+
+ 5. Discussion of Results 5.1 Vibration  
+
+  Examination of the results shown in Tables 1 to 7 reveals that
+for each measurement location on the concrete walls, the
+maximum acceleration occurred at the tops of the walls.
+Comparison of the measurements at different heights indicates
+that the side T-block walls are rocking as a solid unit on
+their plinths. However comparing the accelerations at the tops
+of the side walls with the damage risk criterion of Fig.l shows
+that the measured values fall below the range covered by the
+criterion curve. Hence these walls are considered to be safe
+from damage due to noise induced vibrations.
+
+  For the block wall, which is exposed to buffeting from the
+exhaust as well as to noise, the measurements indicate that
+the wall is vibrating in a flexural mode, that is, the wall is
+bending. The measured value of several peaks of acceleration
+at the top of the wall, when plotted on the criterion curve
+(see Fig.20), falls into, or close to, the region where damage
+is possible. Our advice from the Vibration Group at the CSIRO
+National Measurement Laboratories, who have examined these
+results, is that the north wall of the facility requires
+remedial treatment to avoid possible damage due to vibration.
+However, any remedial treatment should not be considered in
+isolation from other aspects: other results discussed below
+have a bearing on what action may be taken concerning the north
+wall.
+
+  The results of vibration measurements undertaken on the steel
+upright supporting the roof indicate no risk of vibration
+causing damage. The effect of the vibration is to add a small
+inertial load to the columns.
+
+  Note that although accelerometers were located at positions
+where maximum sound pressures and exhaust pressures (positions
+1 and 4 respectively of Figs. 2 and 3) were anticipated there
+may be other areas, not measured, in the revetment structure
+where vibration levels exceed those shown in the results table.
+
+ 5.2 Noise within the Revetment 5.2.1 Auditory Effects  
+
+  The sound levels shown on Figs. 8 and 9 indicate that hearing
+protection is essential in virtually all parts of the facility
+whenever an engine is running in any of the three bays, no
+matter how short the exposure time may be.
+
+  For the ground crews involved in the engine running, the sound
+levels are sufficiently high, even with efficient ear
+protection, that exposure times must be very limited if the
+hearing conservation criterion is not to be exceeded. The
+permissible exposure times, per day, can be calculated by
+subtracting the attenuation spectrum of the ear protection from
+the measured sound pressure levels of the aircraft noise
+spectrum: the result is the spectrum of the noise reaching the
+ears. This spectrum is then A-weighted and combined to yield the A-weighted
+sound level at the ears, from which the permissible exposure
+time is determined. (Because of the very strong low frequency
+components present in the aircraft noise spectrum, the
+simplified SLC80 procedure, which can normally be applied to
+industrial noise levels to determine the adequacy of hearing
+protection, does not yield accurate results).
+
+  The procedure described above has been applied to the noise
+spectra at the crew positions of the two aircraft, at both
+power settings, for two types of hearing protection. The two
+types of hearing protection are:-
+
+(i) a combination of ear muffs (Protector type EML-45) and ear
+plugs (E.A.R.);
+
+(ii) heavy ear muffs (David Clark type E310) - these are one of 
+the highest rating ear muffs in NAL's publication "Attenuation 
+of Hearing Protectors" (4th edition).
+
+  Both of these systems of hearing protection have been
+evaluated at NAL according to the procedures of Australian
+Standard AS1270-1975 "Hearing Protection Devices". Their nett
+attenuations (mean minus standard deviation) are shown in Table
+8.
+
+  The results of applying the attenuations of these hearing
+protectors to the measured noise spectra are tabulated in
+Tables 9 and 10 for the F/A-18 and Mirage, respectively. The
+tables show the A-weighted sound levels reaching the ears, and
+the maximum permissible daily exposure time at each position.
+
+  The results show that, using ear muffs, the maximum permissible
+daily exposure times are impractically short. Hence all crew
+working in the run-up facility should wear a combination of
+earmuffs and ear plugs during engine running.
+
+  Several additional points are of importance:-
+
+(I) only one aircraft was undergoing ground running at the time when the measurements were taken.
+

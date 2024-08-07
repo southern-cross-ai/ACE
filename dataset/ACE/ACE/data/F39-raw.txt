@@ -1,0 +1,200 @@
+<sample>
+	<id> F39 </id>
+	
+
+
+	<source> Australian Geographic - January 1986 </source>
+	
+
+
+	<note> 2000 words </note>
+	
+
+
+	<h> Living in the Pilbara </h>
+	
+
+
+	<h> When the earth moves, so does the population </h>
+	
+
+
+	<bl> By Phil Jarratt </bl>
+	
+
+  WHEN my father left the Pilbara for the last time, 45 years ago, he wasn't
+leaving much behind. Just a long, long jetty, which was the pride of his
+town, a failed butcher shop, a few good friends and three streets of slap-up
+huts which had been knocked down by a blow and slapped up again, all in the
+space of a decade and a half.
+  When Hitler marched on Poland, my dad and his mates marched - well, drove
+- on Perth, covering the 1200 corrugated dirt kilometres in just 26 hours
+in my father's '34 Chevy. They had the world in front of them and the
+rock-hard, heartbreak dust of the Pilbara behind them, and in those days
+there was a reason to be cheerful at every milepost south.
+  In the early part of this century the north-west of our country was as
+inhospitable as it was in 1688 when William Dampier had noted sourly on
+disembarkation at Shark Bay:
+  &quot;The land is of a dry sandy soil, destitute of water, except you make
+Wells ... the Inhabitants of this Country are the Miserablest People in
+the world.&quot;
+  It was a place where men came to make fortunes and then got the hell out.
+It was not a place that inspired new beginnings and yet many of those lured
+by its mineral potential stayed on - more often out of financial necessity
+than desire. My grandfather, Walter Oswald Jarratt, was one who stayed.
+Lured from the Victorian farmlands by the prospect of riches, he worked
+in the huge Whim Creek copper mine at the turn of the century and stayed
+on to watch it become the biggest and most profitable in the Southern
+Hemisphere. 
+  When its German owners were interned during World War I, however, the
+mine fell on hard times and my grandfather was retrenched. In 1916, the
+year my father was born, Walter Oswald was hustling a buck the best way
+he could, odd-jobbing around the big stations of the North West, hunting
+camels and sinking fence posts. But the work became scarce in the 1920s
+and, with a wife and four children to support, my grandfather drifted south
+in search of new opportunities.
+  In 1925, he heard about the exciting developments at the town of Onslow
+at the mouth of the Ashburton River. A major jetty was under construction
+at nearby Beadon Point and the entire town of some 150 residents was to
+be relocated. There were construction jobs aplenty, so Walter Oswald loaded
+his family and all his worldly goods into the back of his Willys Overland,
+threw a tarp over the perishables and hit the dusty track.
+  The new town of Onslow was nothing more than a half-finished hotel and
+some hastily-built shacks dotted along the beachfront between the jetty and
+the creek, but he was able to rent two rooms from the mailman and the family
+established itself amidst the sand and the sawdust. By the time the
+construction work was finished the Jarratts had come to regard Onslow as
+home. Searching for a permanent niche, Walter Oswald returned to his original
+trade and opened a butcher shop. He supplied meat to the townsfolk and visiting
+pearlers, whose luggers made use of the new jetty at the southernmost point
+of their sweeps out of Broome.
+  When Walter Oswald died unexpectedly in 1931, my father left school and
+donned the apron. His three sisters took turns behind the counter and their
+mother, Jesse, smartly acquainted herself with the noble art of bookkeeping.
+But my father was not cut out for cutting up carcasses. At night in his
+bachelor pad near the Beadon Hotel he studied the radio operators' manual
+and dreamed of a life at sea in the radio room of a grand ship, far away
+from the choking dust of the Pilbara and the depressing saltpans of the
+Ashburton.
+  Among my earliest memories are faded photographs of a great twisting jetty
+- the pride of Onslow - and the homely old Beadon Hotel with its vast
+verandahs, the luggers in port and the fine-chiselled features of the Malays
+and Japanese who manned the pearl-diving bells. Accompanying these photos
+was a wealth of bedtime stories about the characters of the old North West
+and the harsh, honest lives they endured.
+  The Pilbara seemed to me then such a romantic last frontier, full of the
+sights and sensations a city boy could never know. By the time I left school,
+the Pilbara had come to mean something quite different. It was the heart
+of the fabulous mining boom, wherein raced the pulse of the State of Excitement
+in those heady days of the late 1960s. It was big red mountains of iron
+ore, the deafening roar of heavy machinery and a place where towns sprang
+up out of the desert almost overnight. It was, we were told, Australia's
+future, but it was Newman and Tom Price, not Cossack or Roebourne, and
+my father was the only person who ever spoke of Onslow.
+
+
+	<h> ENTER AN ARMY OF MEN AND MACHINES </h>
+	
+
+  Seen from the air, the new towns of the Pilbara look like the crosshatching
+on an artist's unfinished landscape. They are orderly, like tiny pieces
+of Canberra hurled across the map. They are green on a canvas of brown,
+the result of years of hard work with the watering can.
+  On closer inspection the towns are uniformly neat (`Tom Price is a tidy
+town' proclaims the sign) and seemingly soulless. Shopping centres point
+inwards, as though ashamed of their enterprise, and pubs are brick cells
+attached to drive-in bottle shops. The rows of houses remind me, as do those
+of the Woden and Belconnen valleys and the new suburbs of Darwin, of nothing 
+so much as the facades of sweet-smelling suburbia knocked up on Hollywood
+back-lots for the filming of situation comedies - so normal they become
+surreal. It is as if the building code was devised by an automaton.
+  In stark contrast to the orderly streets is the backdrop of spinifex and
+wild mountain ranges. From the Tropic of Capricorn north to the edge of
+the Great Sandy Desert, there is not a Pilbara township out of sight of
+the great prehistoric escarpments of the Hamersley and Chichester Ranges.
+Over 2000 million years old, these mountains are scarred with fault lines
+and lava flows, and give way to deep and terrifying gorges. It is dramatic
+country in every way, but no less dramatic has been its development over
+the past two decades.
+  The mineral wealth of the Pilbara has been known and exploited for almost
+a century, but the booms in gold, copper, manganese, tin, lead and silver
+have come and gone, leaving ghost towns and shattered dreams in their wake.
+Since 1960, however, when the then Prime Minister Sir Robert Menzies repealed
+the embargo on the export of iron ore, that metal has ruled the region.
+Getting it out of the ground and onto huge ships has become the lifeblood of
+the Pilbara's growing population. 
+  At the 1961 census there were 4000 residents in the four shires of the
+Pilbara; by 1981 the population was almost 50,000, and one company alone
+- the giant Hamersley Iron - had invested more than $1.2 billion in plants,
+ports, railways and company town dormitories for the workforce. Its mining
+operation had become so immense that each day nine, mile-long ore trains
+hauled more than 150,000 tonnes of iron ore from the mines at Tom Price
+and Paraburdoo to the port of Dampier, where a daily ore carrier was completely
+loaded and sent on its way to Japan.
+  The mind-boggling enormity of Hamersley Iron's development is dwarfed,
+however, by the broader consideration of what remains untouched: some
+200 billion tonnes of high-grade (68 per cent or better) iron ore, by one
+prospector's estimation.
+  &quot;A hell of a bloody lot!&quot; according to Lang Hancock, the rogue bull of
+the Pilbara. Since his discovery of the Tom Price deposits in 1952, Hancock
+has fuelled his vision of the Pilbara becoming the `Ruhr of South-East Asia'
+with the $30,000 a day he receives in prospector's royalties from Hamersley
+Iron.
+  Hancock, now 76 and without a pilot's license since a heart bypass operation,
+claims to have found the ore deposits as he flew through a gorge to avoid
+low cloud on a trip to Perth. He later returned to the spot in a jeep and
+staked a claim. But he did not go public with his high-grade find until
+the iron embargo was lifted. He then set about finding a backer who could
+finance such a giant undertaking. In 1962, Hamersley Iron was born out
+of an alliance between the British-based Conzinc Riotinto and the American
+Kaiser Steel.
+  Two years later the company signed contracts with seven major Japanese
+steel mills and, in 1966, operations began at Tom Price. Into the heat and
+dust of the Pilbara came an army of men and machines.
+
+
+	<h> DESERT SUBURBIA </h>
+	
+
+  In Paraburdoo on a Sunday night, the hotel (another brick cell) closes
+at 7 o'clock, but visitors are welcome at the Demons Australian Rules Football
+Club, a shed on the edge of town past the drive-in movies.
+  Like all male-dominated mining towns, Paraburdoo is mad about sport and,
+like all sports-loving miners, the men of Paraburdoo have powerful thirsts.
+Thus in the Demons on a Sunday night, after a big weekend of footie, golf,
+archery and tennis, it is perhaps understandable if the last-drinks bell
+is roundly ignored and the members and guests continue to slake their thirsts
+with Emu Bitter. A dozen or so of the town's 344 single men, cleanshaven
+but tough in singlets and shorts, remain in the bar. The conversation is
+about the need to get involved in as many diversions as possible and the
+need to get out of town - to Perth or to Asia - as often as possible.
+  &quot;I save up and go to Thailand,&quot; says a miner named Andy. &quot;Not just for
+the women either. I go rafting up near Chiang Mai. That's about as far away
+from mining as you can get.&quot;
+  But even in the very middle of a company town a man can lose himself
+in leisure.  For this reason Paraburdoo, with fewer than 2500 residents,
+boasts 29 sporting clubs - including tae kwon do, pistols, darts, dog
+breeding, speedway and the Hash House Harriers - and 13 service clubs, including
+an amateur repertory company.
+  The town's facilities, built by Hamersley Iron little more than a decade
+ago, are superb, although some, such as the 18-hole golf course, have to
+be viewed within the context of the generally brutish environment.
+  &quot;Iron ore fairways and sand greens,&quot; said club champion Bob Pepper,
+delicately chipping onto the oiled green, where the ball came to an abrupt
+halt.  &quot;We tee off on rubber pads and generally don't have any problems
+on the fairway, unless you hit a chunk of ore and ricochet into the scrub.
+It's these sand greens that are a bastard to play. We mix oil into the sand
+to make it stick together, but you really can't putt on it. We've got an
+Astroturf green on order and I can't wait until we've got 18 of them.&quot;
+  Pepper, a 10-handicapper who drives truckloads of ore from the open face
+to the crusher for seven hours each evening, plays nine holes every morning
+and 18 on Sunday afternoons. He loves his golf, even on a track of iron.
+  &quot;It's the only thing that keeps me sane,&quot; he said with a grin.
+  The mine, tucked behind the hills just a few kilometres out of town, directly
+employs more than two-thirds of the population. The rest of the workforce
+looks after the needs of the miners. In other words, despite a process which
+is quaintly called 'normalisation', if you haven't sold your soul to Hamersley
+Iron you don't belong in Paraburdoo.
+ 
+
+</sample>

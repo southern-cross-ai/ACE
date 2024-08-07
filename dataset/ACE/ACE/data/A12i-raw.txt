@@ -1,0 +1,26 @@
+<subsample>
+	<id> A12i </id>
+	
+
+
+	<source> The Canberra Times - 31 October 1986 </source>
+	
+
+ 
+	<h> Buildings to be used for education </h>
+	
+
+  Buildings at Watson High School are likely to continue to be used for
+educational purposes after the school's closure at the end of next year.
+  The Minister for Education, Senator Ryan, said in a statement yesterday
+that the school was &quot;valuable public property&quot; and that it was &quot;desirable
+that it continues to provide some form of educational service&quot;.
+  Senator Ryan did not detail what the school could be used for but said
+it would be decided after talks with the ACT Teachers' Federation and other
+interested parties.
+  The president of the federation, Mr Peter O'Connor, said yesterday that
+it was &quot;encouraging&quot; that Senator Ryan wanted the buildings used for
+educational purposes.
+
+
+</subsample>

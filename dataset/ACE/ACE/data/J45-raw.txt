@@ -1,0 +1,277 @@
+<sample>
+	<id> J45 </id>
+	
+
+
+	<note> 2008 </note>
+	
+
+
+	<source> Australian Family Law Cases </source>
+	
+
+
+	<h>[¶91-626] In the marriage of LEE STEERE, C.P. and LEE STEERE,
+                 T. Full Court of the Family Court of Australia at Perth.
+                 Judgment delivered 12 August 1985. 
+                 Full text of judgment below. </h>
+	
+
+Family law - Property - Principles applicable to farming properties 
+- Correct approach to sec. 79 application - Contribution as a 
+homemaker and parent - Inherited property - Financial resources 
+and needs - Inclusion of legal costs in assessment of financial 
+resources - Effect of proposed order on earning capacity - Family 
+Law Act 1975, sec. 79.
+
+  The husband and wife were married in 1975. At the time of the
+marriage the husband brought into the marriage a farming
+property transferred from his father and an interest in an
+adjoining property. The wife brought about $2,000 into the
+marriage.
+
+  Throughout the marriage the husband ran the farm. The wife had
+the responsibility for rearing the children of the marriage and
+running the home. In addition she gave the husband assistance
+on the farm when required. The parties separated on 14 May
+1983.
+                               
+  The wife filed an application in March 1984 in which she sought
+the sum of $180,000 by way of settlement of property and lump
+sum maintenance together with $100 per week maintenance for the
+children. At the time of trial the husband's net assets
+amounted to approximately $670,000. The wife's assets totalled
+$10,500. In addition she had a credit of $42,751 from a family
+trust. Her liabilities, including estimated legal costs, were
+about $16,000. The trial Judge made orders for the payment of
+$70,000 to the wife and child maintenance of $85 per week.
+
+  The wife appealed as to the lump sum-awarded on the basis
+that the trial Judge had erred in that: (i) he had approached
+the matter partly on a needs basis and partly on a capacity to
+pay basis, and that this was not a permissible approach under
+sec. 79 of the Family Law Act 1975; (ii) the wife's
+contribution to the family and the property should be
+recognised in a substantial and not a token way; (iii) even on
+a needs approach the trial Judge's views were inappropriate;
+(iv) the trial Judge had disallowed the wife's liability for
+legal costs in considering her needs.
+
+  Both parties agreed that, should the Court reach a conclusion
+that the trial Judge had incorrectly exercised his discretion,
+the Full Court should exercise its discretion and substitute an
+appropriate figure rather than remit the matter for further
+trial.
+
+  Held: 
+
+
+	<h> Farming properties </h>
+	
+
+  (a) In relation to farming properties, as in relation to all
+other assets be they business assets or suburban land, the
+ordinary principles of sec. 79 apply. There is no &quot;farming
+case&quot; exception to the ordinary principles applicable under
+sec. 79 (Magas and Magas (1980) FLC ¶90-885 followed).
+
+
+	<h> Correct approach to a sec. 79 application </h>
+	
+
+  (b) An application under sec. 79 should first commence with the
+assessment of the contributions made by each of the parties
+under sec. 79(4)(a), (b) and (c). Secondly, the financial
+resources, means, needs of the parties and other matters set
+out in sec. 75(2) so far as relevant should be considered
+(Pastrikos and Pastrikos (1980) FLC ¶90-897 followed).
+
+
+	<h> Contribution as homemaker and parent </h>
+	
+
+  (c) It is possible to arrive at the conclusion that in a
+marriage there has been equality of contribution by each of the
+parties within his or her own sphere - that of the wife as a
+good homemaker and parent, and that of the husband as
+breadwinner (Mallet and Mallet (1984) FLC ¶91-507 extensively
+discussed).
+
+  (d) If the parties at the inception of the marriage acquire a
+farm for value and build it up through equal efforts in their
+respective spheres, the conclusion that the contributions are
+equal would be difficult to resist (Magas and Magas (supra)).
+
+
+	<h> Inherited property </h>
+	
+
+  (e) If inherited or donated property was acquired before
+marriage, and especially where it was worked and developed by
+the party who received it before marriage, that is an important
+consideration. 
+
+  (f) The strength of a contribution made at the inception of a marriage is
+eroded, not by the passage of time, but by the off-setting contribution
+of the other spouse.
+
+
+	<h> Legal costs </h>
+	
+
+  (g) In a realistic assessment of the financial resources of the parties
+it is proper to include any legal costs each of the parties may have to
+pay, subject to any reimbursement by way of an order for costs. This should
+not be viewed as a backdoor method of awarding costs.
+
+
+	<h> Earning capacity </h>
+	
+
+  (h) Section 79(4)(d), which directs the Court to consider the effect of
+any proposed order on the earning capacity of either party to the marriage,
+is mainly relevant to the question of the ways and means in which the
+entitlement of a party can be met. If injustice can only be avoided by the
+sale and division of the business property then this must be done (Magas
+and Magas (supra)).
+
+
+	<h> The present case </h>
+	
+
+  (i) The trial Judge did not correctly approach the issues in the case. He
+based his decision on the needs of the wife and the capacity of the husband
+to raise a sum while still retaining the farming assets. This was incorrect
+in principle and led to an inappropriate result.
+
+  (j) Appeal allowed. The husband was ordered to pay to the wife the sum of
+$165,000, to be paid by instalments.
+
+  Appearances: Mr M.H. Holden of counsel (instructed by Lavan Solomon) for
+the appellant wife; Mr K.G. Forrest of counsel (instructed by Ilbery Barblett
+&amp; O'Dea) for the respondent husband.
+
+  Before: Fogarty, Maxwell and Nygh JJ.
+
+  Fogarty, Maxwell and Nygh JJ.: By Notice of Appeal dated 21 January 1985
+the appellant T. Lee Steere appealed against orders 3 and 4 of certain orders
+made by his Honour Judge Anderson on 21 December 1984 after a hearing on
+28-30 November 1984. Those orders were:
+
+  &quot;3. As and by way of settlement of property and lump sum maintenance the
+  husband do pay to the wife on or before the 28th day of February 1985
+  the sum of $70,000.
+
+  4. From and including the 1st day of February 1985 the husband do pay
+  to the wife interest on the said sum of $70,000 or so much thereof as
+  remains owing from time to time at the rate of 15% per annum calculated
+  daily.
+
+  5. The husband who resides at Elderslie via Boyup in the State of Western
+  Australia do pay to the Collector of Maintenance at 45 St George's Terrace,
+  Perth in the said State for disbursement by him to the wife who resides
+  at Balga in the said State maintenance for the said children at the rate
+  of $85 per week apportioned as to $30 per week each in respect of N and
+  A and as to $25 per week in respect of M the first payment thereof to
+  be made on the 21st day of December 1984.
+
+  6. The husband indemnify and keep the wife indemnified in respect of any
+  income tax liability for the year ended the 30th day of June 1984 including
+  any interest or penalties and thereafter keep the wife further indemnified
+  in respect of any income tax liability including any interest or penalties
+  arising out of income from any trust or partnership in which the husband
+  and wife together participated.   
+
+  7. The interest (if any) of the husband in the motor vehicle presently
+  in the possession of the wife vest in the wife.
+
+  8. The wife do assign to the husband any interest she has in any partnership
+  in which the husband and wife participated.
+
+  9. There be no order for costs of the proceedings against the wife.&quot;
+
+(By orders 1 and 2 the wife was granted the sole guardianship and custody
+of the three children of the marriage and detailed orders were made as to
+access. It is unnecessary to set out the detail of those orders.)
+
+  The parties were married on 15 February 1975, their ages then being
+approximately 31 and 29 respectively. They finally separated on 14 May 1983,
+a period of approximately 8 years, but there were other short periods of
+separation during the marriage. During the course of the marriage there
+were three children born to the parties, namely N born on 6 March 1976 so
+that her present age is 9, A born on 5 October 1978 and now aged 7, and
+M born on 3 September 1980 and now aged 6. All of these children have lived
+with the wife since separation and it is anticipated that this will continue
+to be the case.
+
+  In her application filed on 14 March 1984 the wife sought the sum of
+&quot;$250,000 or such other sum as the Court deems fit in respect of property
+settlement and lump sum maintenance&quot;. At the trial the orders which the
+wife sought were that the husband pay to her the sum of $180,000 by way
+of &quot;settlement of property and lump sum maintenance&quot; together with $100
+per week maintenance for the three children of the marriage, the transfer
+to her of a motor car which was then in her possession and an order that
+the husband indemnify her in respect of a tax liability.
+
+  That claim by the wife was particularised during the course of the trial
+and was recorded by his Honour as follows:  
+
+  &quot;The wife put in a statement that her immediate needs were:
+
+  
+	<misc>1. A three bedroomed, low maintenance house in 
+     Morley/Noranda area                           $70,000 </misc>
+	
+
+	<misc>2. New or second-hand reasonable car              10,000 </misc>
+	
+
+	<misc>3. Liabilities, say                               20,000
+                                                  --------
+                                                  $100,000 
+                                                  --------     </misc>
+	
+The liabilities of $20,000 included an amount of $10,000 for the wife's
+  anticipated legal expenses but this was subsequently reduced to $8,500.
+  In opening it was stated that the wife's intention was to invest the balance
+  and with the maintenance she would receive for the children, live on the
+  income produced.&quot;
+
+  The position adopted by the husband at the trial was that he should pay
+to the wife by way of settlement and future maintenance a total of $70,000
+and pay a total of $60 per week maintenance for the three children. There
+was apparently no dispute at the trial about the orders in relation to the
+motor car or the tax liability. The cases of the parties also proceeded
+on the basis that the wife would assign to the husband her interest in a
+partnership in which they were involved and that is embodied in order 8.
+ 
+  Neither party has appealed against the orders in respect of maintenance.
+The issue on this appeal was the correctness of his Honour's order under
+sec. 79 in awarding the wife the sum of $70,000. Before us both counsel
+conducted their cases upon the basis that in the event that the Court concluded
+his Honour had not correctly exercised his discretion and that the appeal
+for that reason should be allowed, the preferable course for this Court
+was to exercise its discretion and substitute an appropriate figure rather
+than remit the matter for further trial. Both counsel also agreed that the
+case should be conducted on the basis of an application of sec. 81 so as
+to encompass the wife's future maintenance.
+
+  The facts as found by the trial Judge were not the subject of any serious
+challenge before us and consequently it is convenient to turn to the findings
+of the fact and the history of the matter as his Honour recorded them in
+his judgement.
+
+  His Honour after setting out the background marital facts and the nature
+of the claims before him and after making some general observations to which
+we will return later dealt with the history of the parties prior to their
+marriage.
+
+  So far as the husband is concerned, his Honour found that after he had
+completed two years at an agricultural college the husband commmenced working
+on his father's farm known as &quot;Elderslie&quot; in the south west of Western
+Australia, a property concerned in sheep, cattle and coarse grain production.
+His Honour recorded that &quot;the husband is a farmer and has been for the whole
+of his working life.
+
+
+</sample>

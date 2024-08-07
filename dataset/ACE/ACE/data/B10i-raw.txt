@@ -1,0 +1,19 @@
+<subsample>
+	<id> B10i</id>
+	
+
+
+	<source>The Sun News-Pictorial - 23 June 1986</source>
+	
+
+IF Mr Hawke wants to help young unemployed, would it not be better to donate
+the unemployment benefit, where applicable, to an employer who could use this
+as a subsidy, making it a more attractive proposition for him to take on a
+young unemployed person for training. 
+
+
+	<bl> Gainful (Swan Hill). </bl>
+	
+
+
+</subsample>

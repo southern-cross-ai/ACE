@@ -1,0 +1,281 @@
+<sample>
+	<id> J04 </id>
+	
+
+
+	<note> 2038 words </note>
+	
+
+
+	<source> Ausralian Journal of Chemistry </source>
+	
+
+
+	<h> Cyanogen-bromide and methyl-chloroformate-mediated synthesis of some 
+[3]benzazonino[8,7,6-abc]carbazole, [3]benzazecino[9,8,7-abc]carbazole,
+naphth[1,8,7-def]azonine and naphth[1,8,7-def]azecine derivatives  </h>
+	
+
+
+	<bl> By John B Bremner and Kevin N Winzenberg </bl>
+	
+
+
+	<h> Abstract </h>
+	
+
+Reaction of 7,8-dimethoxy-1,4,5,9,13c,13d-hexahydro-2
+H-indolo[3',2':4,5]indolo[1,7,6-aji]isoquinoline(4a) and
+8,9-dimethoxy-1,2,3,5,6,10,14c,14d-octahydro-indolo[3',2':3,4]naphtho[2,1,8-ija]
+quinolizine(4b) with cyanogen bromide in the presence of potassium carbonate
+afforded the elimination products 7,8-dimethoxy-1,2,3,4,5,9-hexahydro[3]
+benzazonino[8,7,6-abc]carbazole-3-carbonitrile (5a) and
+8,9-dimethoxy-2,3,4,5,6,10-hexahydro-1 H-[3]benzazecino[9,8,7-abc]carbazole-
+4-carbonitrile (5b) in 4% and 88% yield respectively;
+7-(2-bromo)ethyl-1,2-dimethoxy-4,5,6,6a,7,12-hexahydroisoquino[8,1-ab]carbazole-
+6-carbonitrile (6a) was also isolated in 20% yield from the former reaction.
+Products of analogous structure were also obtained from (4a,b) when methyl
+chloroformate was used in place of cyanogen bromide.  Reaction of (4b) with
+cyanogen bromide in the presence of water and magnesium oxide afforded the
+solvolysis product 14d-hydroxy-8,9-dimethoxy-2,3,4,5,6,10,14c,14d-octahydro-1
+H-[3]benzazecino[9,8,7-abc]carbazole-4-carbonitrile (8b) together with (5b).
+Similarly application of this reaction to 8,9-dimethoxy-2,3,5,6,11a,11b-
+hexahydro-1 H-naphtho[2,1,8-ija]quinolizine (1b) afforded both the
+corresponding solvolysis and elimination products; (4a) and
+7,8-dimethoxy-1,2,4,5,10a,10b-hexahydronaphtho[1,8,7-ghi]indolizine (1a),
+however, gave only solvolysis products.  Solvolysis and elimination products
+were also isolated when (1b) and 4(b) were subjected to
+cyanogen-bromide-mediated methanolysis reactions.  Acid-catalysed elimination
+reactions of the alcohol solvolysis products are described along with reaction
+of some of the elimination products with lithium tetrahydroaluminate.
+
+  Central to recent interest in bridged-aromatic compounds (for recent review
+see) has been the remarkable deformation induced  in the aromatic
+ring by the addition of aliphatic bridges of suitably small lengths.  Also
+of interest is the influence of nonplanarity of the aromatic moiety, and
+of transannular interactions between the aromatic ring and the proximate
+aliphatic bridge, on the physical and chemical properties of these compounds.
+Recently we reported the synthesis of the aromatic-ring distorted 
+1,7-bridged naphthalene derivatives (2a-e): crucial to our synthetic strategy 
+was the cyanogen-bromide- and chloroformate-ester-mediated (cf.) rupture of the 
+central carbon-nitrogen bond of (1a,b) (Scheme 1).  We now wish to report 
+the application of this strategy to the synthesis of related indole-annelated 
+derivatives, and to outline some further aspects of the key ring-destruction 
+reactions and of the chemistry of some of the bridged heterocyclic derivatives.
+
+
+	<h> Results and Discussion </h>
+	
+
+  The indole-annelated substrates (4a,b) required for the ring-destruction
+reactions were prepared in good yield from boron-trifluoride-mediated 
+Fischer indolization reactions of the amino ketones (3a,b) (Scheme 2).
+  Structural assignment of (4a) and (4b), which are derivatives of new
+heterocyclic ring systems, was made on analytical and spectroscopic grounds.
+In the infra-red spectra of (4a) and (4b) the appearance of an absorption
+band at 3460 cm-1 and 3465 cm-1 respectively was consistent with the 
+presence of an indolic NH group.  In the 1H n.m.r. spectra a one-proton 
+singlet at 
+	<note>δ</note>
+	  9.38 in (4a) and at 
+	<note>δ</note>
+	 9.37 in (4b) was assigned 
+to this secondary amino group in each case.  A one-proton doublet at 
+
+	<note>δ</note>
+	 4.41 (J 8.1 Hz) in (4a) and at 
+	<note>δ</note>
+	 4.39 (J 6.4 Hz) in (4b) were
+assigned to H 13d and H 14d respectively.  In the proton off-resonance
+decoupled carbon-13 n.m.r. spectra of these compounds the methine carbon
+atoms of (4a), C 13d and C 13c, and of (4b), C 14d and C 14c, appeared as
+doublets at 59.8, 34.9, 57.5 and 33.4 ppm respectively.
+  Reaction of (4a) and (4b) with cyanogen bromide in ethanol-free chloroform,
+in the presence of potassium carbonate, gave the hexahydro benzazonino
+[8,7,6-abc]carbazole-3-carbonitrile (5a) and the hexahydro-1 H-bezazecino
+[9,8,7-abc]carbazole-4-carbonitrile (5b) in 4% and 88% yield respectively
+(Scheme 2).  The related urethanes (5c) and (5d) were also obtained in 14%
+and 82% yield respectively when methyl chloroformate was used in place of
+cyanogen bromide.
+  Structural assignment of these compounds rests on spectroscopic evidence,
+and also analytical evidence in the case of (5b) and (5d); the elemental
+composition of compounds (5a) and (5c), which were obtained as unstable
+gums, was established from high-resolution mass spectroscopy.  By way of
+illustration, a detailed account of the structural assignment of (5a) and
+(5b) only is presented.  In the infrared spectra of these compounds a
+characteristically sharp band for the cyanamide group was present [at 
+2200 cm-1 for (5a) and 2220 cm-1 for (5b)] together with bands [at 3420 
+cm-1 for (5a) and 3390 cm-1 and 3310 cm-1 for (5b)] ascribable to the NH 
+group.  In the 100-MHz H n.m.r. spectrum of (5a) a downfield singlet at 
+
+	<note>δ</note>
+	 9.78 (1H) and two other singlets at 
+	<note>δ</note>
+	 7.58 (1H) and 6.83 
+(1H) were assigned to H9, H 13d and H6 respectively, while a doublet at 
+
+	<note>δ</note>
+	 8.12 (J 8 Hz,1H) was assigned to H13; the chemical shift of this
+latter proton was similar to that reported for H4 and H5 in carbazole. In 
+the 300-MHz H n.m.r. spectrum of (5b) the corresponding protons H 10, H 14d,
+H 7 and H 14 appeared at 
+	<note>δ</note>
+	 10.00(singlet), 7.62(singlet), 7.03(singlet) 
+and 8.13(doublet,J 8 Hz).  The remaining aromatic protons in (5b), H 11,H 12
+and H 13, were assigned to signals at 
+	<note>δ</note>
+	 7.67 (broad doublet, J 8 Hz),
+7.46; (ddd, J 8,7,1 Hz) and 7.31 (ddd,J 8,7,1 Hz) respectively; the
+corresponding protons H 10, H 11 and H 12 in (5a) appeared as an unresolved
+multiplet between 
+	<note>δ</note>
+	 7.70 and 7.05.
+  In the case of the reaction of (4a) with cyanogen bromide and methyl
+chloroformate the ring-opened derivatives (6a) and (6b) were also obtained
+in 20% and 42% yield respectively.  The bromide (6a) was obtained as a gum
+and decomposed rapidly on storage; however, this compound, together with
+(6b), was adequately characterized.  Products of analogous structure to
+(6a) and (6b) were also reported from the reaction of (1a) with cyanogen
+bromide and methyl chloroformate.  Indeed the preparative usefulness of
+these reactions of (1a) and (4a) is clearly limited by the formation of
+halogen-containing side products.  Accordingly, attention was directed to
+cyanogen bromide-mediated solvolysis reactions of (1a,b) and (4a,b)
+with the aim of developing an alternative and more viable route to the
+cyanamides (2a) and (5a).  A further incentive for exploring a solvolytic
+route to (5a) was forthcoming from a comparison of the ultraviolet spectra
+of (5c) and (5d); a significant red-shift, consistent with aromatic-ring
+distortion, was observed in that of (5c), and it was therefore
+of interest to attempt to obtain larger amounts of the related compound
+(5a) for more detailed structural studies.
+  Reaction of (1a,b) and (4a,b) with cyanogen bromide in the presence of
+water, and also in the presence of methanol in the case of (1b) and (4b),
+afforded the alcohols (7a,b) and (8a,b), and the ethers (7c) and (8c) (Schemes
+2 and 3) (Table 1).  The carbonitriles (2b) and (5b) were also obtained
+from the reactions of (1b) and (4b).
+  Structural assignments for these solvolysis products were supported by
+spectroscopic data, and molecular compositions were established by
+high-resolution mass spectra. 
+  The infrared spectra of all these compounds showed a strong absorption
+band with frequency values ranging from 2200 to 2220 cm-1 for the
+cyanamide group, while, additionally, those of (7a,b) and (8a,b) had a broad
+band centred at 3420, 3440, 3290 and 3410 cm-1 respectively which
+confirmed the incorporation of a hydroxy group.  Likewise in the H n.m.r.
+spectra of (7c) and (8c) the presence of a three-proton singlet at δ
+3.15 and 
+	<note>δ</note>
+	 3.14 respectively confirmed the incorporation of an aliphatic
+methoxy group; a downfield one-proton singlet at 
+	<note>δ</note>
+	 4.58  and one-proton
+doublet (J 3 Hz) at 
+	<note>δ</note>
+	 4.88 respectively were assigned to the methine
+proton attached to the carbon bearing the methoxy group.  In the H n.m.r.
+spectra of the alcohols (7a,b) and (8a,b) the corresponding methine proton
+appeared as a downfield one-proton signal at chemical shifts ranging from
+
+	<note>δ</note>
+	 4.94 to 5.67.
+  Acid-catalysed elimination of the hydroxy groups of (7b) and (8b) was
+expected to be facile and, in the event, brief treatment of these compounds
+with hydrochloric acid afforded the more highly aromatized derivatives (2b)
+and (5b) in excellent yield.  On the other hand the alcohols (7a) and (8a)
+were inert under identical reaction conditions; this reflects the increased
+strain which must be accommodated in the conversion of C 8a and C 10c in
+(7a) and C 13c and C 13d in (8a) from tetrahedral to trigonal geometry.
+The elimination of water from these compounds was, however, effected by
+reaction with p-toluenesulfonic acid in refluxing toluene.  The isomeric
+4 H-naphth[1,8,7-*1def]azonine-6-carbonitrile and 1 H-naphth[1,8-de]
+azocine-3-carbonitrile derivatives (2a) and (9) were obtained in 47% and
+29% yield respectively from (7a) whereas the [3]benzazocino[7,6-a,b]carbazole-
+6-carbonitrile (10) was obtained in 51% yield from (8a).
+  In the H n.m.r. spectrum of (9) a downfield doublet of doublets at δ
+8.17 (1H,J 8.6, 1.4 Hz) was assigned to H 9.  Two other signals with the
+same multiplicities at 
+	<note>δ</note>
+	 7.37 (1 H,J 8.6, 6.9 Hz) and at 
+	<note>δ</note>
+	 7.16 
+(1H, J 6.9, 1.4Hz) were assigned to H 10 and H 11 respectively.  A singlet at
+
+	<note>δ</note>
+	 7.07 (1H) was ascribed to H 6. Significantly the ultraviolet absorption
+spectrum of (9) showed a significant blue shift compared with that of (2b),
+consistent with the reduction of naphthalene ring distortion in (9), expected
+from an inspection of Dreiding molecular models of these molecules; it is
+noteworthy that, apart from (9), the only other reported representative
+of the naphth[1,8-de]azocine ring system is an amide prepared from the
+photocyclization of 2-chloro-N-[2-(naphthalen-1-yl)]ethylacetamide. 
+  In the 1H n.m.r. spectrum of the pentacyclic derivative (10) a broad singlet
+downfield at 
+	<note>δ</note>
+	 10.19 (1H) was ascribed to H 14.  Two other singlets at
+
+	<note>δ</note>
+	 7.86 (1H) and 7.07 (1H) were assigned to H9 and H3 respectively, 
+whereas doublets at 
+	<note>δ</note>
+	 8.07 (1H, J 7.5 Hz) and 7.60 (1H, J 8.2 Hz) were 
+assigned in turn to H 10 and H 13.  The remaining aromatic protons H 12 and 
+H 11 appeared as multiplets.
+  The mechanistic pathway for these elimination reactions of (7a,b) and
+(8a,b) has not been rigorously delineated; however, it was shown in another
+experiment that heating (2a) in refluxing toluene in the presence of
+p-toluenesulfonic acid did not afford (9), although (2a) was slowly consumed.
+The formation of (9) and (10) is consistent with the intermediacy of carbonium
+ions derived from acid-promoted heterolysis of the benzylic carbon-oxygen
+bond of (7a) and (8a); the reduction of strain energy which should follow
+from a 1,2-alkyl shift would provide a strong driving force for the formation
+of these rearranged products.
+  Reaction of the cyanamide (5b) and of the urethane (5d) with lithium
+tetrahydroaluminate was expected to afford the amine derivatives (5e) and
+(5f) respectively; in the event only mixtures of intractable polar products
+were formed.  Reaction of (2b) with lithium tetrahydroaluminate likewise
+took an unexpected course, and the amine (11) was isolated in 86% yield
+(Scheme 1); the structural assignment of (11) was confirmed from an alternative
+synthesis by palladium-mediated oxidation of (1b).  Reduction of the urethane
+(2d) with lithium tetrahydroaluminate afforded (2f) in 95% yield.  In the
+1H n.m.r. spectrum and proton off-resonance decoupled C n.m.r. spectrum of
+this compound a singlet at 
+	<note>δ</note>
+	 2.46 (3H) and a quartet at 43.2 ppm
+respectively confirmed the presence of the aminomethyl group.  The chemical
+shifts of H 3, H 10 and H 11 in the 1H n.m.r. spectra of (2d) and (2f) were
+very similar: 
+	<note>δ</note>
+	 6.89 (s), 7.19 (dd,J 10, 2 Hz), 7.88 (d, J 10 Hz) 
+compared with 
+	<note>δ</note>
+	 6.89 (s), 7.24 (broad d, J 8.4 Hz), and 7.90 (d, J 8,4 
+Hz).  However, H 11c was dramatically deshielded from 
+	<note>δ</note>
+	 7.94 in (2d) to 
+9.33 in (2f), presumably due to a transannular deshielding effect of the amino 
+group; the fact that the nitrogen in the bridging chain may indeed be proximate
+to H 11c is supported by the single-crystal X-ray data on the related urethane
+derivative (2e).
+
+
+	<h> Experimental </h>
+	
+
+  Microanalyses were carried out by the Australian Microanalytical Service,
+Melbourne, and by the Microanalytical Service of the Australian National
+University, Canberra, on samples which had been dried in a vacuum over
+phosphorus pentoxide, at a temperature of 65°, unless indicated 
+otherwise.
+  Melting points were determined on a Yanagimoto Seisakusho micro-melting
+point apparatus and are uncorrected.
+  Mass spectra were determined on a VG MM 7070F mass spectrometer operating
+at 70 eV with a source temperature of 200° (direct insertion); peak
+intensities (in brackets) are expressed as a percentage of the base peak.
+  1H nuclear magnetic resonance spectra were recorded on a Jeol JNM-4H-100
+(100 MHz), a Jeol FX-200 (200 MHz), a Bruker HX-270 (270 MHz), or a Bruker
+CXP-300 (300 MHz) spectrometer, tetramethylsilane being the internal standard.
+The 13C n.m.r. spectra were recorded on one of the last three
+spectrometers; chemical shifts, in ppm, were measured relative to
+tetramethylsilane, and the spectrometer used is implied by the frequency
+noted for the corresponding proton spectra in each case.
+            
+
+</sample>

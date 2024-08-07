@@ -1,0 +1,251 @@
+<sample>
+	<id> J06 </id>
+	
+
+
+	<note> 2215 words </note>
+	
+
+
+	<source> The Australian Physicist - September 1986 </source>
+	
+
+
+	<h> Spectroscopy of molecular clusters </h>
+	
+
+
+	<bl> By K.G.H. Baldwin </bl>
+	
+
+
+	<h> Introduction </h>
+	
+
+  The simultaneous development of two powerful experimental techniques since
+the mid 1960's has brought about a revolution in the study of molecules
+and molecular systems. These techniques, tunable laser spectroscopy and
+molecular beam devices, have been combined with a concurrent expansion in
+the theoretical simulation of molecular systems.  The result of this productive
+marriage between theory and experiment has been a greater understanding
+of the physics of how molecules interact, with important consequences for
+the chemistry of molecular reactions.  Some of the major advances that have
+been made in this area using the molecular beam facility at the Research
+School of Physical Sciences, ANU, under Dr. R.O. Watts, are described in
+this article.
+
+
+	<h> Molecular Beams </h>
+	
+
+  The development of the supersonic jet source (Anderson et al., 1965) has
+enabled the production of high intensity, monoenergetic molecular beams.
+In this device, a gas at very high pressure (some tens of atmospheres) is
+forced through a very small nozzle (some tens of microns in diameter) into
+an evacuated chamber, producing a supersonic expansion of the gas through
+the nozzle. The result is a well collimated beam travelling in excess of
+one kilometre per second, but with very low temperatures (a few degrees K)
+for the internal molecular degrees of freedom (rotation and vibration).
+  The supersonic jet has a number of important properties that make this
+source an extremely useful device for the study of molecular systems:
+
+  2The extreme cooling by the supersonic expansion greatly simplifies the
+spectroscopy of the molecules because of the small number of excited states.
+  2The conversion of random kinetic motion into a unidirectional beam with
+very little transverse kinetic motion results in the molecules being totally
+isolated from one another once they have travelled several nozzle diameters
+downstream of the expansion.
+  2The low transverse energy allows aggregation of the molecules as they
+pass through the nozzle to form weakly bound van der Waals clusters, which
+can survive almost indefinitely once they reach the free molecular flow
+region.
+  2The expansion into a vacuum allows the study of isolated molecular systems
+with no effects due to external perturbations.
+
+  The ANU Molecular beam system is shown in Figure 1.  A nozzle is situated
+in each of the primary and secondary chambers, which are pumped to a pressure
+of around 10-4 torr during operation of the beam.  The two chambers
+are isolated from the main chamber by a conical skimmer some several hundred
+microns in diameter, which further collimates the beam to a few milliradians.
+The low pressure in the main chamber (10-6 torr) ensures that the beam
+remains unperturbed in its transit to the detectors.  Two types of detector
+are used (the beam can be rotated to either): a quadrupole mass spectrometer,
+and a more sensitive, cryogenically cooled, bolometer which responds to
+very small changes in the total energy of the incoming beam.
+  The molecule to be studied is usually seeded in a light carrier gas (hydrogen
+or helium) prior to the nozzle.  Not only does this increase the expansion
+velocity (up to 2km/sec) and hence improve the cooling, but it also allows
+control of the aggregation of molecules into clusters.  Higher concentrations
+and greater cooling (due to higher nozzle pressures) will increase the size
+of the clusters formed.
+  Most of the experiments that have been performed at ANU have studied the
+spectroscopy of molecular clusters.  For this work tunable infra-red F-centre
+lasers (2-3.5 
+	<note>?</note>
+	 M) and CO2 lasers (10 
+	<note>?</note>
+	 m) have been used.  The
+reason for the avoidance of visible and UV spectroscopy in the ANU cluster
+studies is that these transitions involve alteration of the electronic
+structure of the cluster.  Studies of the infra-red rotational and vibrational
+transitions, on the other hand, leave the basic structure of the cluster
+unaltered, and this simplifies the interpretation of the experimental data.
+The lasers enter the beam chamber through windows at the top, and can either
+be single passed perpendicularly to the beam (yielding Doppler widths of
+a few MHz), or multipassed to increase the laser-induced signal on the
+detector.
+  The laser beam (or the molecular beam in the case of the scattering
+experiments) can be chopped to enable phase sensitive detection to be used.
+The signal detected by the bolometer can be of two types.  If the photon
+energy is absorbed by the cluster and the cluster remains intact during
+its submillisecond transit time to the bolometer, then the bolometer will
+register an increase in energy, because the radiative lifetime of typical
+infra-red ro-vibrational transitions is of the order of milliseconds or
+longer. However, if the cluster dissociates soon after absorbing the
+infra-red photon (whose energy is usually many times greater than a typical
+van der Waals binding energy), then a decrease in the beam energy is registered
+after the cluster explodes into fragments which fly apart and miss the
+detector.
+
+
+	<h> Molecular Clusters - Theory </h>
+	
+
+  The ANU group has developed novel methods for calculating the vibrational
+frequencies of molecules forming the clusters.  Quantum simulation, in which
+an analogy between the time dependent Schrodinger equation and a diffusion
+equation with source/sink terms is exploited, to give a numerically exact
+ground state wavefunction for the cluster.  This many body wavefunction
+is used to define a reference configuration for subsequent variational
+calculations of the vibrational eigenvalues of the cluster. The success
+of this theory, particularly when compared with more traditional normal
+mode and local mode calculations, is clearly evident in the results for
+the water dimer shown in Figure 2. 
+
+  In the case where a large number of cluster configurations contribute
+to the infrared band shape, the group has developed powerful semi-classical
+theories of inhomogeneous line broadening.  Classical trajectory methods
+taken from liquid state theory (Watts and McGee, 1976) are used to generate
+a Boltzmann distribution of cluster configurations.  Full quantum vibrational
+eigenvalue calculations for these configurations are used to determine the
+inhomogeneous band spectrum.
+  Both the quantum simulation and the semi-classical method require accurate
+intermolecular potential functions.  These are found using semi-empirical
+models which are consistent with a wide range of data taken from the gas,
+liquid and solid phases (Watts and McGee,1976).
+
+
+	<h> Experimental Results </h>
+	
+
+(i) Scattering and intermolecular potentials.
+
+  Differential scattering cross section measurements provide a very accurate
+probe of intermolecular potential surfaces.  Quantum scattering theory predicts
+that several types of interference phenomena should be observed in low energy  
+scattering experiments.  If the quantum interferences can be resolved, then
+they can be used to give detailed information on such matters as the relative
+sizes of molecules and the strengths of their interactions.  The ANU group
+has developed a crossed molecular beam apparatus that is able to resolve
+the interference structure, particularly rainbow and Fraunhofer diffraction.
+  An excellent example of this work is the differential scattering cross
+section measured for hydrogen molecules scattered from N2 and HF at
+collision energies near 100meV (Figure 3 - Miller, Vohralik and Watts, 1986).
+The experimental data shows clearly resolved quantum interference structure
+corresponding to Fraunhofer diffraction.  Theoretical predictions of the
+scattering cross section obtained using isotropic potentials agree with
+the H2/N2 data, but give a poor representation of the H2/HF data.
+Multichannel quantum scattering calculations based on a strongly anisotropic
+pair potential since developed (but not shown in Figure 3) give much improved
+agreement with the H2/HF experiments.
+  The ANU group has reported similar measurements for the collision partners
+He/HF (Boughton, Miller, Vohralik and Watts, 1986), CH4/CH4
+(Boughton, Miller and Watts, 1985), and Ar/HF (Miller, Vohralik and Watts,
+to be published).  By combining this type of measurement with coupled states
+calculations and other scattering theories, they have determined accurate
+interaction potentials for these systems.
+
+
+	<h>(ii) Changes of state </h>
+	
+
+  One of the most remarkable results of the molecular beam work at ANU has
+been the measurement of molecular spectra under conditions in which the
+state of the molecules has been varied (by altering the nozzle pressure)
+in a continuous fashion from the gaseous to the solid state.  In no other
+field of spectroscopy can spectral properties be measured as the state of
+matter is varied continuously.
+  An example of the spectra obtained by this method is shown in Figure 4(a)
+(Miller, Watts and Ding, 1984), where the composition of a mixture of nitrous
+oxide in helium is varied to yield conditions of increasing cluster size.
+The position of the dissociation spectrum shifts from the gaseous frequency
+to the solid crystal frequency as the cluster size is increased.  The
+simultaneous presence of peaks at the gaseous and solid frequencies indicates
+that in the intermediate regions, both small and large clusters exist in
+the beam.  This result is born out by the mass spectrometer studies.
+  Even more remarkable is the similarity between the theoretical predictions
+for the dissociation spectra of N2O and the experimental results. 
+Figure 4(b) shows the simulated N2O spectrum obtained using the
+semi-classical theory outlined above for (a) N2O dimers, (b) clusters
+with 55 molecules and (c) molecules arranged in the solid lattice configuration
+(Miller, Watts and Ding, 1984).  The synthetic spectra reproduce exactly
+the same shift in the spectrum from the gaseous to the solid frequency as
+is exhibited in the experimental results.
+
+
+	<h>(iii) Excitation and dissociation dynamics </h>
+	
+
+  While the position of the spectra yield important information on the
+structure of complex molecular systems, the detailed shape of the spectra
+provides information on the dynamics of the dissociation of these systems
+following excitation.  The dynamic behaviour is particularly important for
+understanding molecular interactions, because the cluster dissociation process
+can be viewed as a sort of half collision, where the molecules start already
+together and then fly apart.  Very recently, results from the molecular
+beams laboratory at ANU have helped answer important questions as to what
+happens when excited clusters dissociate.
+  Two competing models have been used to describe this process.  The first
+states that the absorbed photon is localised at a particular molecule in
+the cluster, and the photon energy is then passed around between the cluster
+vibrational modes before the cluster ultimately dissociates.  This is called
+the Intermolecular Vibrational Relaxation (IVR) model.  The second model
+asserts that any absorption must occur into an eigenstate of the cluster
+as a whole, and that the time taken to dissociate is simply related to the
+probability amplitude of the eigenstate wavefunction at the van der Waals
+bond.  The decay rate is then determined in a statistical process by the
+number of available decay channels, which increase with the complexity of
+the molecule and with the number of final states available to the fragment
+products.  This is the direct dissociation model.
+  Until recently there had been some evidence for the direct model from
+the fine structure present on some of the cluster spectra measured in 
+different dimer systems (CO2 and N2O - Miller and Watts, 1984, C2H2
+and C3H4 - Fischer, Miller, Vohralik and Watts, 1985), This fine 
+structure is thought to be due to rotational levels in the vibrational  
+bands of the cluster, and the width of the structure is inversely related
+(by the Fourier theorem) to the lifetime of the excitation.  As the systems
+became more complex, the lifetime was found to decrease from &gt;80 to 0.4
+nanoseconds, thereby giving some support to the direct model.
+  However, the fly in the ointment was ethylene (C2H4), which
+is of similar complexity to the larger of the systems mentioned above. 
+Surprisingly though, ethylene was observed by a number of laboratories to
+have a very broad (12cm-1) ?7 band spectrum which yielded lifetimes
+of only 1 picosecond (e.g. Hoffbauer et al., 1983).  These measurements were
+taken using linetunable CO2 lasers near 950cm-1 in intervals of
+nearly two wavenumbers, and similar widths were obtained for the ethylene
+?9 band at 3000cm-1 using continuously tunable F-centre lasers (Fischer,
+Miller, Vohralik and Watts, 1985).  These results implied that a statistical,
+direct dissociation process was not responsible for the observed widths.
+Instead, it was surmised, the lifetime of the photon excitation was limited
+by IVR which occurred on a picosecond timescale long before dissociation
+took place.
+
+  However, recent studies of the ?7 band at the ANU (Baldwin and Watts,
+1986) and elsewhere (Shels et al., 1986) have shown that there is indeed 
+rotational fine structure on top of the very broad ?7 band spectrum which 
+was missed in the previous point-by-point scans. Figure 5 shows a high resolution (0.01cm-1) scan obtained by piezoelectrically altering the cavity length of the CO2 laser near the 951cm-1 P12 lasing transition (Baldwin and Watts, 1986). The fine structure is most apparent at low concentrations and disappears completely at high concentratiopns leaving only the broad background, indicating that the broad spectrum measured by previous workers was probably due to very large clusters. The fine structure is still present using hydrogen as the carrier gas, and its presence a tthe dimer mass on the mass spectrometer indicates that the fine structure is due purely to the ethylene dimer.
+
+So the ethylene dimer is now shown to behave not dissimilarly to the other dimer systems, and from the measured linewidths has a lifetime of around 10ns. These results provide further evidence that molecular clusters behave like a single large molecule, whose excitation lifetime is limited purely by the pre-dissociation lifetime of the excited cluster eigenstate. This is yet another example of the way in which molecular beam spectroscopy has become a powerful tool in the study of molecular behaviour.  
+            
+
+</sample>

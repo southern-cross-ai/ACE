@@ -1,0 +1,27 @@
+<subsample>
+	<id> A27a </id>
+	
+
+
+	<source> The Adelaide Advertiser - 2 July 1986 </source>
+	
+
+ 
+	<h> Knight to king, check </h>
+	
+
+
+	<misc> MELBOURNE </misc>
+	
+
+ - A ballet about chess comes to the Melbourne stage tonight,
+Australia's world-famous dance knight, Sir Robert Helpmann, playing a king.
+  The ballet is Checkmate, the role, the Red King, which Sadler's Wells
+Ballet founder Dame Ninette de Valois created for Sir Robert 49 years ago.
+  In those days, Sir Robert, 28, had to pretend he was a tottery old man.
+ Today, at 77, he doesn't have to pretend very much, although he exaggerated
+his fragility yesterday at the Victorian State Theatre.  &quot;I'm very thrilled
+about tottering on in this role,&quot; Sir Robert said.  
+
+
+</subsample>

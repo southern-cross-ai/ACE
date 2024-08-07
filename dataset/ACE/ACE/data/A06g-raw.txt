@@ -1,0 +1,47 @@
+<subsample>
+	<id> A06g </id>
+	
+
+
+	<source> The Daily Telegraph - 27 June 1986 </source>
+	
+
+ 
+	<h> Inventor seeks foreign backing </h>
+	
+
+
+	<bl> By Peter Lowe </bl>
+	
+
+THE man judged Australian Inventor of the Year in 1980 says tax imposts are 
+forcing him to seek overseas backing for his latest creation: a pocket-sized 
+emergency safety beacon which may save the lives of snow skiers, hikers and 
+other adventure seekers. 
+  The sophisticated device, weighing only 160g, emits a continuous radio 
+homing beacon which makes it usable in the most remote country. 
+  But according to its inventor, Mr Iain Saul, import taxes of up to 30
+per cent on components and a sales tax of 20 per cent make the cost of
+producing it in Australia uneconomic. 
+  In addition, Mr Saul has encountered difficulties in obtaining a frequency 
+allocation for the mini safety beacon which emits a continuous signal for 60 
+hours after it is activated. 
+  &quot;The Department of Civil Aviation didn't want the beacons transmitting 
+because they thought people would set them off in a mischievous manner. 
+  &quot;The Department of Communications recognised the need for the beacon, 
+took the bull by the horns and allocated a frequency,&quot; said Mr Saul. 
+  &quot;They made up their minds about six weeks ago at a meeting where the 
+disappearance of Simon Crean's brother in the snow was mentioned,&quot; he said. 
+  The beacon is designed for one-off use only, to discourage pranksters. 
+  Despite a decision to manufacture the first batch at the small Consolidated 
+Technology factory in the Melbourne suburb of Frankston,  the inventor, who 
+is also managing director of Consolidated Technology, doubts whether 
+manufacturing will prove practicable in Australia. 
+  &quot;There are virtually no manufacturers of electronic components any more in 
+Australia.  There used to be a lot but they found it cheaper to manufacture 
+overseas,&quot; he said.
+  Consequently most components for the safety beacon must be imported and the
+import tax ranges from 2 per cent to 30 per cent.
+
+
+</subsample>

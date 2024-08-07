@@ -1,0 +1,19 @@
+<subsample>
+	<id> B10d</id>
+	
+
+
+	<source>The Sun News-Pictorial - 29 October 1986</source>
+	
+
+MY farmer husband is incapacitated (accident) and I have to manage the
+finances. I asked Rural Finance for help and they said the farm was viable and
+I should go back to the bank. The bank now charges me 24 per cent, plus other
+charges. What hope do I have? 
+
+
+	<bl> Kicked When Down (Kerang). </bl>
+	
+
+
+</subsample>

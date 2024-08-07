@@ -1,0 +1,24 @@
+<subsample>
+	<id> C15d </id>
+	
+
+
+	<source> The Sun Herald - 3 August 1986 </source>
+	
+
+
+	<h> CHAUFFEUR GOES DOWN ZANY, RAUCOUS ROAD OF BAD TASTE AND SCHMALTZ </h>
+	
+
+
+	<misc> MY CHAUFFEUR (M)
+Directed by David Beaird. Starring Deborah Foreman, Sam Jones, Sean McClory.
+Hoyts </misc>
+	
+
+  WHAT A mess this raucous little movie turned out to be. My Chauffeur
+introduces us to Casey Meadows - a supposedly zany and bubbly girl - who
+lands an unlikely job as a chauffeur with snooty Brentwood Limousines.
+
+
+</subsample>

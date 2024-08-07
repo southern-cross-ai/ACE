@@ -1,0 +1,234 @@
+<sample>
+	<id> J33 </id>
+	
+
+
+	<note> 2004 words </note>
+	
+
+
+	<source> Northern Territory pidgins and the origin of kriol </source>
+	
+
+
+	<bl> By John W. Harris </bl>
+	
+
+
+	<misc> Travel by Aboriginal people to Macassar and to other parts of the South-east
+Asian archipelago </misc>
+	
+
+Visits by Aboriginal people to Macassar are widely acknowledged in the
+literature. Substantial Aboriginal narratives exist, some of the most detailed
+being from Groote Eylandt and Elcho Island (Berndt and Berndt 1954:50-63).
+Detailed prau records from Raffles Bay in 1829 show that the Pattie Djawaija
+carried a crew of 37 `besides 4 black natives who were going to Macassar'
+(see Macknight 1976:130-131). Barker (1829:7 May) described these particular
+Aboriginal travellers in his diary. On an earlier occasion, he recorded
+that the crew of a prau had
+ 
+  ... described a very good race of Blacks (in the Gulf of Carpentaria as
+  well as I could make out) who ... spoke a little Malay. Several had been
+  at Macassar, probably 100 and some were there now. 
+	<misc> (Barker 1829:2Apr.)</misc>
+	
+
+This reference is almost certainly to Groote and Bickerton Islands. Any
+reasonable conjecture as to the population of those islands in 1829 indicates
+that a hundred visitors to Macassar represents a significant proportion
+of the population (J. Harris 1984b:114). Barker did not actually record
+any such voyages by Raffles Bay Aboriginal people, but some fourteen years
+later at Port Essington, Jukes (1847:35) observed that a prau
+
+  ... brought back a native of Port Essington, who had gone away with them
+  last year to Macassar. This, we were told was not an uncommon occurrence
+  as the natives of Port Essington are very fond of going abroad to see
+  the world. 
+
+Formal concern was expressed about this practice in official correspondence
+during the 1870's at which time there seemed to be some doubt as to whether
+the Aboriginal travellers went to Macassar voluntarily or under compulsion.
+The matter was of particular concern to the official `Protector of Aborigines'
+and was a frequent subject of correspondence between him and the Government
+Resident in Darwin and between the Government Resident and the South Australian
+Minister controlling the Northern Territory. Cadell reported on the matter both
+from the north coast (SAA 790/1878/351) and from Macassar itself (SAA
+790/1879/83), where recent legislation, requiring a deposit of 200 rupees
+per person for crew members recruited in Macassar, was making it difficult
+for Aboriginal people to secure return passages to Australia. The voyage
+to `Macassar', however, seems to have been considered to be a normal feature
+of the life of many of the younger Aboriginal men and of some women (Macknight
+1976:86). The Aboriginal perception would appear to be that most of the
+voyagers returned with exciting travellers' tales to tell.
+  
+  Many of the black men went back to the Malay country with the returning
+  fleets and stayed through the intervening season. There are a few cases
+  of men who stayed permanently and married Malay women, but this was very
+  rare.  
+  
+	<misc>(Warner 1932:458) </misc>
+	
+
+  When people used to go from here to Macassar, they used to come back with
+  stories about how they were treated there ... Our people liked to go there
+  and see these different things ... where they made their dug-out canoes,
+  and the beautiful cloth called liba, and their knives.  
+  
+	<misc>(Lamilami 1974:70)</misc>
+	
+
+The linguistic significance of this is that the Aboriginal people concerned
+would have been obliged to gain some fluency in the language of the prau
+crews and of the places where they lived, and they would have used these
+skills in communicating with the trepangers in the years after they had
+returned home to Australia. Clearly a significant number of Aboriginal people
+went to Macassar itself as the commercial home-base of the trepang industry,
+but it is also important to note that the term `Macassar' was used by Aboriginal
+people to denote south-east Asia generally. Many Aboriginal people travelled
+to and lived in places other than Macassar. Not only were there other ports
+of call for the praus returning to Macassar, but an unknown number of people
+had opportunities to travel even further afield (Berndt and Berndt 1954:50;
+Worseley 1955:5). An interesting example was noted by a semi-official survey
+party in 1875 which met an Aboriginal man at Caledon Bay on the Western
+side of the gulf of Carpenteria who had not only been to Macassar but also
+to Singapore where he had learnt, among other things, a small amount of
+English (SAA 790/1876/74). Tindale was able to record stories of such travels
+on Groote Eylandt within twenty five years of the close of the industry
+while people who had actually travelled away with the praus were still alive.
+
+  Several old men of the Ingura (Anindilyakwa) tribe, as youths, made voyages
+  with the Malays, principally of Macassar, who regularly visited the North
+  Australian coast until about twenty-five years ago, and are familiar with
+  the language of Macassar, with sometimes a smattering of other languages,
+  such as Bugi and Malay ...
+  
+  One very old Bartalumbu man, Yambukwa by name, was taken away before
+  initiation, and spent many years in various foreign places, returning as a 
+  middle-aged man ... He told us of woolly haired Papuans, of Timor Laut,
+  Macassar, Ke, Aru, Banda, and many other places which I could not recognise
+  by his names or descriptions. With the aid of one of our crew, a Macassar-Torres
+  Strait half-caste, who conversed fluently with him, something was learned
+  about the visits of the Malays.
+	<misc> (Tindale 1925:130) </misc>
+	
+
+This involvement of Aboriginal people in the trepang industry outside
+Australia, their travels around the archipelago and their sojourns in Macassar
+itself indicate that those who underwent these experiences would have had
+the opportunity to become familiar with the languages of the region. It
+has been shown already that they were members of multilingual speech
+communities and quite possibly had a tradition of using contact languages
+that stretched back for several centuries. They were what Bickerton (1977:51)
+calls `multilingual autodidacts' with well developed strategies for acquiring
+other languages and they would certainly have gained knowledge of a number
+of languages while overseas.
+	<misc> (Urry and Walsh 1981:95)</misc>
+	
+
+Firstly, they would have gained increased familiarity with the lingua franca
+of the ports, the `Portuguese-Malay' pidgin. The ease with which Aboriginal
+people seem to have been able to merge into the cosmopolitan life of the
+trading ports, when considered in the light of the sociolinguistic and
+historical-linguistic logic of maritime trade expansion, argues for the
+existence of a lingua franca which Aboriginal people first learnt in Australia,
+used and expanded in South-east Asia, and then brought back with them, thus
+enriching the local contact language.
+
+  Secondly, those who remained for extended periods in Macassar itself would
+have become familiar with Macassarese. In the life of the port city of Macassar
+and in the Macassan households with whom they lived, Macassarese would
+have been the normal means of communication. On their return to Australia,
+these particular people would have retained reasonable facility in Macassarese.
+As particular praus tended to return year after year to the same locality,
+there to deal with the same groups, Aboriginal people who had returned from
+Macassar would have been able to maintain annual direct contact with their
+Macassan acquaintances. In these circumstances, it seems likely that
+Macassarese could sometimes have been used in communication between native
+Macassan trepangers and Aboriginal people on some parts of the coast. It
+must also be noted that specifically Macassan crews did not visit all parts
+of the coast and that relationships varied from locality to locality. There
+was obviously a degree of friendship in some places. The Groote Eylandters
+still speak of how welcome the trepangers were, how they were awaited each
+year with excitement, and how flags were flown to guide them to where their
+hosts were waiting. It was from places such as Groote Eylandt that Aboriginal
+people travelled away with the `Macassans'. On some other parts of the coast
+relationships were strained, in some cases quite antagonistic. Barker's
+diary shows this clearly. In such places, the sort of limited communications
+which would have occurred would most likely have been in a restricted form
+of the `Portuguese-Malay' trade language.
+
+Thirdly, Aboriginal people travelling around the archipelago in the
+multilingual company of other people involved in the trepang trade, would
+have had opportunities to learn something of yet other languages. There
+are a number of records of Aboriginal people stating that they could speak
+languages other than Macassarese, such as Buginese (Tindale 1925:130).
+Earl also made such observations including one, reported in Stokes (1846:61)
+in which an Aboriginal man spoke in `the New Guinea dialect' when addressed
+in that language by a Ceramese who mistook him for a New Guinean.
+
+The observation that some Aboriginal people knew and took pleasure in using
+a number of Austronesian languages when the occasion allowed it, does not
+detract from the fact that the situation demanded a lingua franca which,
+Urry and Walsh (1979:95-98) argue, must have been based on the
+`Portuguese-Malay' pidgin. It is not unlikely that the trepangers would
+have used this pidgin in their first attempts at communication with Aboriginal
+people. One cannot, however, ignore the predominance of people from Macassar
+on some of the praus and the visits by Aboriginal people to Macassar itself.
+These facts point strongly to the likelihood that in some parts of the coast,
+there was considerable use of Macassarese or at the very least, that the
+Australian version of the `Portuguese-Malay' pidgin contained a large number
+of lexical items of Macassarese origin.
+
+This view, however, must be balanced against the only piece of evidence
+so far located of the trepangers' perception of the language. According
+to Barker (1829:2 Apr.), the trepangers at Raffles Bay described Aboriginal
+groups further to the East who `spoke a little Malay'. This is a very important
+observation because unlike many references to `Malay', it is in the diary
+of someone who, as already noted, distinguished between `Macassarese' and
+`Malay' and who recorded the problems of communication with a trepanger
+who could speak `only the Macassar tongue'. It appears that it was not the
+language of Macassar but the `Portuguese-Malay' pidgin, the general language
+of the trade in the archipelago, which was perceived by the trepangers
+themselves as the language of the trepang trade in North Australian waters.
+                                               
+The discussion so far has only acknowledged the linguistic input of the
+trepangers. In terms of what is normally understood to be the origin of pidgins,
+the language or languages of the trepangers certainly appear to have been
+the superstrate or target languages. The contact, however, spanned some
+centuries and the question of Aboriginal contribution to the language of
+the trade must also be considered. The strongest evidence of this comes
+from the widespread use of the `Macassan' Pidgin between groups of Aboriginal
+people.
+
+
+
+	<h> The development of a lingua franca between Aboriginal people </h>
+	
+
+As has been discussed earlier, Aboriginal people of the northern coastal
+regions belonged to multilingual speech communities and were quite able
+to communicate with all neighbouring groups. When, however, Aboriginal people
+used the raw materials of the languages of the trepang trade, which were
+common to widely separated groups, and made from them a lingua franca for
+use between themselves, it had far reaching sociolinguistic and cultural
+consequences.
+  
+It may be presumed that the `Portuguese-Malay' pidgin, the trade language
+of the archipelago, formed the basis of the contact language of the trepang
+trade in this area. It may also be presumed, that in areas of intense contact
+with specifically Macassan people and with Macassar itself, Macassarese
+was also a language of communication. It should not, however, be presumed
+that Macassarese or even the `Portuguese-Malay' pidgin was simply taken
+and used, quite unmodified, by various groups of Aboriginal people in
+communication with each other.
+
+Urry and Walsh (1981:96) emphasise the necessity to distinguish between
+the language of the trepang trade and the local lingua franca. Not to do
+so is to deny Aboriginal people all creativity and linguistic innovation
+in the development of the `Macassan' Pidgin which was to become their own
+lingua franca, yet it is now extremely difficult to determine just what
+the Aboriginal or substrate contribution may have been.
+
+
+</sample>

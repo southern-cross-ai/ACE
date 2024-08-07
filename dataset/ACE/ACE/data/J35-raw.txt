@@ -1,0 +1,202 @@
+<sample>
+	<id> J35 </id>
+	
+
+
+	<note> 2028 words </note>
+	
+
+
+	<source> Style in Australia: current practices in spelling, punctuation, hyphenation, capitalisation, etc. </source>
+	
+
+
+	<h> Colloquialism </h>
+	
+
+
+	<bl> By Arthur Delbridge </bl>
+	
+
+  There seem to me to be two questions about colloquialism for this Council:
+first, what is it? Are there some characteristics of a word or a phrase
+that would let you say confidently this is a colloquialism, or is not a
+colloquialism? And supposing the answer to the first is &quot;yes&quot; - here's the
+second question: in what circumstances is the use of colloquialism either
+good or bad? What place does colloquialism hold in communicative competence?
+
+  So let me start with the question of definition. And I shall work my way
+into this question first entirely as a lexicographer, concerned only with
+words and phrases as they may be listed and labelled in a dictionary.
+
+  As you know, dictionaries often use colloquial as a status label, along
+with other labels like formal, slang, coarse slang, taboo, informal, vulgar,
+not in polite usage, deprecated, familiar etc. Now, where does colloq. fit
+in that list of status labels, if they can be put in order between the two
+extreme terms? The etymology of the word doesn't help much: Colloq. is an
+English form of Latin colloquium; the loquium part means &quot;speaking&quot;, and
+col- is a variant of con, meaning &quot;with&quot;. So colloquium etymologically is
+speaking together, conversation, conference. But the usual sense of colloquial
+(OED) is &quot;belonging to common speech; characteristic of or proper to ordinary
+conversation, as distinguished from formal or elevated language&quot;. This
+definition suggests a dichotomy common and ordinary as against formal and
+elevated.
+
+  Now formal and elevated have an old-fashioned ring. They put you in mind
+of the sort of journalism in which a policeman doesn't &quot;go&quot; but &quot;proceeds&quot;,
+and the news reporter arrives transpiring at every pore. Or perhaps the
+words call up the parliamentary style of Edmund Burke, or the prose of Gibbon's
+Decline and Fall. That definition was written for the Oxford English Dictionary
+(OED) about a hundred years ago, and it has not been given any amendment
+in the four volume supplement in which the Oxford editors concentrated on
+twentieth-century English. But it's not hard to agree that the words used
+in an editorial in say, The Sydney Morning Herald (SMH) or the Melbourne
+Age are more formal than those of some columnists in the same papers. Among
+critical reviews written in those papers, the vocabulary of reviews of &quot;fine&quot;
+music concerts tends to be more formal than those of rock concerts. If you
+had the job of rating on a scale of formality from 1 to 10 all the pieces
+in a single issue of a modern daily newspaper, you'd probably have no
+difficulty in using up all or most of the numbers; and if you could calculate
+the median degree of formality for a number of different papers, it would
+be interesting to see if that bore any relation to their circulation figures.
+Even so you may be left with a feeling that formal is not quite the right
+word for the extreme right-hand end. It is impersonal, detached, neutral
+in tone, but it may well lack the sense of &quot;front&quot; that the word formal
+suggests.
+
+  Nevertheless, there is that dichotomy expressed in the Oxford, and the
+colloquial is to be found on the lower side of it, a side which is itself
+subdivided in a graduated way with a set of labels like taboo, coarse slang,
+slang, colloquial. All else is on the higher side, as formal or elevated.
+
+  This isn't very satisfactory, for it's so hard to find the basis of the
+categories.  Let me illustrate with the OED's treatment of the word pull
+in the Third Supplement of the OED in (see The Age Monthly Review Vol.
+2 No. 11 March 1983). This Supplement, which presents twentieth century
+usage, devotes seven and a half pages to recent uses of pull. We learn that
+pull off (as in &quot;clever enough to pull such a thing off&quot;) now has its status
+amended: it had been slang in the Dictionary itself (that is, up to 1933);
+but the label is changed to colloquial in the Supplement, on the evidence
+of citations taken from Policeman's News (1918), H.G. Wells (1923), The Times
+(1968) and The Times again (1977). To pull down a salary is labelled slang,
+and to take a pull (at oneself) in the sense of pull oneself together, is
+colloq. (chiefly Australian). The various sexual senses of pull are labelled
+either slang or coarse slang, though it is not clear whether the distinctions
+are on linguistic or moral grounds. And there are many senses of pull and
+its phrases left unlabelled, (e.g. pull rank, pull the other one). One can't
+imagine that the OED editor is implying that these are formal or elevated;
+rather it seems that there must be a middle ground of words (perhaps
+accommodating the majority of all English words) which are neither colloquial
+nor formal in the senses suggested, but rather occupy a vast neutral ground
+between the two. If one must have a complete classification expressed in
+a range of usage labels, let's make it at least tripartite, with left to
+right separated by a large central neutral class that accommodates words
+like come and go, banana and apple, man and woman and (I suppose) person.
+
+  Of course, it must be allowed that the same word might enter different
+parts of this classification, depending on its meaning. The OED says,
+charmingly, of the word bugger, that it is &quot;found in decent use only as
+a legal term for a sodomite or one who commits buggery&quot;. That use of the
+word is not labelled. OED goes on to say that &quot;in low language&quot; bugger is
+&quot;a coarse term of abuse or insult&quot;. For this sense it is labelled coarse
+slang. And so it is (though without any necessary sense of abuse or insult)
+when the meaning is just &quot;something unpleasant or undesirable&quot; (that's a
+bugger, What a bugger!). So it is, too, with the sense of &quot;go away&quot;, as
+in I think you'd better bugger off, and with the sense of occupying oneself
+in a desultory fashion (bugger about), or the sense of &quot;nothing at all&quot;,
+in bugger all. All labelled coarse slang.
+
+  I think the OED is typical of English dictionaries in the confused attitudes
+it reveals in this sort of treatment. The Collins Dictionary changes the
+labels - coarse slang becomes taboo slang. According to Collins it is slang
+to say bugger about, but taboo slang to say bugger off. The Encyclopedic
+World Dictionary admits that it is not always pejorative to call a person
+or even a child a bugger: yet the label for this usage is taboo slang; the
+label for bugger as a verb (as in bugger it) for a strong exclamation of
+annoyance or disgust is the simple imperative: taboo, i.e. (according to
+EWD's definition of that word) &quot;forbidden to general use; placed under a
+prohibition or ban&quot;.
+
+  It was precisely this instance that led the Macquarie Dictionary team
+to look again at questions of definition and labelling, and not for &quot;swear
+words&quot; only, but for the whole vocabulary. If there is one thing that one
+learns from the study of sociolinguistics, or indeed from simply observing
+the way people choose their words in company, it is that there are many
+factors in such choosing. The intended sense is just a first consideration
+since it is usually important for it to be clear what you're referring to
+(usually but not always). But that's not the end: suppose you intended to
+say that something was good. According to the Macquarie Thesaurus you might
+consider choosing an appropriate word from a list that included amazing,
+bang-up, bonny (Scot.), bonzer, bosker, brave (Archaic), braw (Scot.),
+budgeree, capital, castor, copasetic (US), corking, crackerjack, cracking,
+crash-hot, daily, dandy, decent, desirable, excellent, extra, extra grouse,
+etc., etc.
+
+  How the choice is actually made depends on three principal factors.
+Halliday's terms for them are tenor, field and mode. Tenor is the nature,
+the personal nature, of the people present in the speech event, including
+the speaker as well as those spoken to and those within hearing range, and
+their role in the present occasion. Field is simply what is going on: a
+feast, a funeral, a party. If a party, is it an apres ski, a bottle party,
+a conversazione, a soiree, a shivoo, a reception? Choice of words depends
+again partly on what role one has for this occasion: Are you host, guest
+of honour, old family friend? Are you held to be the life of the party?
+If so, do you want to fill the role in the expected way, or are you out
+to surprise people, even shock them? The third term mode relates to what
+part language is playing in the occasion.
+
+  The choice is wide, whether you are using speech or writing, whether you
+read aloud from a prepared script of do some ad-libbing, but the range of
+choices is different for each medium of expression. I don't want to labour
+the point; there are many factors which may constrain your choice on particular
+occasions. You are aware of the constraints from your knowledge of the language
+norms of the community you belong to. The major constraints tend to lead
+you towards conformily with the norm, towards standard usage, towards being
+conservatively safe, correct; particularly in public utterance, tho' less
+so in intimate utterance. Nevertheless, your reaction to these constraints
+is individual and occasional: the existence of a lexicographical constraint,
+a label (like coarse slang or taboo) even if known about, may not influence
+your decision at all.
+
+  The Macquarie team formed the view that there is little to be gained from
+using labels to create a dichotomy in the lexicon or of initiating a tripartite
+classification in typical dictionary style. Rather, we felt we should mark
+certain words to alert the dictionary user to the possibility of there being
+constaints of one kind or another operating in the community against their
+use at least in some particular situations. One could not specify the precise
+strength of the constraint or which type of situation the constraint applied
+to. All that could reasonably be done was to mark the word or phrase in
+a cautionary way. It was our decision, then, to mark all such word uses
+with the single label colloquial. And we defined colloquial as &quot;appropriate
+to or characterisitic of conversational speech or writing in which the speaker
+or writer is under no particular constraint to choose standard, formal,
+conservative, deferential, polite or grammatically unchallengeable words,
+but feels free to choose words as appropriate from the informal, slang,
+vulgar or taboo elements of the lexicon&quot;.
+
+  We've never regretted making that decision, and on the whole it has been
+very well received, because it did not pass judgement: instead it invited
+the user to consider in what degree the use of the word was appropriate
+to the speaker (or writer), the company, the roles involved and the situation.
+It made the user the master, like Humpty Dumpty, and it is the user, also
+like Humpty Dumpty, who pays. The user is responsible, as always.
+
+  Now let me turn to the question of attitudes to colloquialism. These tend
+to be polarised: the colloquial is seen as either good or bad. I quote a
+note by Thomas Pyles, writing about George Santayana that &quot;as might be expected
+of one with his cultivated use of English, he uses colloquial in the sense
+`familiar, easy-going, informal' (in Thomas Pyles Origins and Development
+of the English Language, second ed., p.17) the meaning which it still has
+among the highly educated. It is notable that in common usage the word has
+come to mean `regional' or `local'... Hence a word which for many denotes
+a quality altogether attractive and desirable (and in fact usually unavoidable)
+has come frequently to denote what is supposed to be bad.&quot;
+
+  Well there certainly is, especially in well-educated use, a perception
+of &quot;the colloquial&quot; as naturally good. Daniel Jones in his English Pronouncing
+Dictionary said simply and without argument that his dictionary records
+&quot;the pronunciation used by a considerable number of typical Southern English
+people in ordinary conversation&quot;. 
+    
+
+</sample>

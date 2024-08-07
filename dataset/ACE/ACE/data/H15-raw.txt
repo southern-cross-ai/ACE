@@ -1,0 +1,327 @@
+<sample>
+	<id> H15 </id>
+	
+
+
+	<note> 2013 words </note>
+	
+
+
+	<source> New South Wales coal resources and reserves </source>
+	
+
+
+	<bl> M Sniffin, P Sayers, J Beckett </bl>
+	
+
+
+	<h>2.1 SCOPE AND OBJECTIVES </h>
+	
+
+The aim of this volume is to provide the following information:
+
+2 To present the coal resources and reserves for New South Wales
+  on a coalfield basis in a useable and concise format.
+
+2 To present a general picture of each coalfield and to discuss:
+  geology, mining methods, coal seam geology, seam quality, and coal
+  utilization in each area.
+
+2 To delineate areas of both sterilized or uncategorized coal and
+  to discuss the factors which determine this.
+
+The coal resources of the Sydney - Gunnedah Basin were designated
+as the primary focus of this study. The smaller coal bearing
+provinces of the Oaklands, Gloucester and Ashford Basins have also
+been assessed. The Cranky Corner Basin has been included with the
+Newcastle Coalfield of the Sydney Basin. Minor coal deposits in the
+Clarence-Moreton Basin and the Clyde Coal Measures of the Sydney
+Basin have been excluded because of their negligible economic
+importance.
+
+
+	<h>2.2 DEFINITION OF COAL RESOURCE AND RESERVE CATEGORIES </h>
+	
+
+The coal resources and reserves contained in each authorisation, 
+colliery holding, and other areas not held by title were determined 
+by applying the Fifth Edition of the Standing Committee on Coalfield 
+Geology of N.S.W. &quot;Code for Calculating Resources and Reserves&quot;, 
+(N.S.W. Geological Survey Records 22(1), 1984), which is included 
+as Appendix 1.
+
+A national code for reporting coal resources and reserves was
+ratified in April 1986 by the Government Geologists Conference and
+was adopted in June 1986 by the Standing Committee on Coalfield
+Geology of N.S.W. This code, referred to as the &quot;Australian Code
+for Reporting Identified Coal Resources and Reserves&quot; makes
+provision for two classes of Inferred Resources; Class 1 which is
+equivalent to the Assumed category of the Code presented herein,
+and Class 2 Inferred Resources. The Class 2 category is broadly
+equivalent to the previous category of Inferred Resources. The
+majority of the coal resource data was supplied prior to
+ratification of the 1986 national code and consequently resources
+within this document are reported according to the 1984 &quot;Code for
+Calculating Coal Resources and Reserves&quot;.
+
+Coal resources for each coalfield in New South Wales have been
+categorized according to the level of confidence to which they have
+been assessed. This confidence level is dependent upon the density
+of exploration data available and the extrapolation of information
+from these points of observation (Figure 2.1). Definitions for each
+category (i.e. Measured, Indicated, Assumed and Inferred) are given
+in Appendix 1.
+
+Coal reserves in this publication are reported in categories of
+Recoverable and Marketable Reserves. These estimates are obtained
+only from the calculated Measured and Indicated Resources and then
+only when a mine plan exists for the extraction of the coal.
+Consequently, the Recoverable and Marketable (saleable) Reserves
+often represent only a small proportion of the reported coal
+resources.
+
+Application of this code allows the various categories of Measured
+to Inferred Resources and Recoverable to Marketable Reserves in
+each coalfield to be grouped on a mining method and depth of cover
+basis. Additional criteria for seam thickness and coal quality are
+incorporated into this assessment as shown in Table 2.1.
+
+
+	<note> TABLE </note>
+	
+
+In this report, potential open cut coal resources are defined
+as coal which occurs at depths of less than 300 metres and with
+a linear overburden to coal thickness ratio (stripping ratio)
+of less than 10:1. Although mine plans exist for deep open cut
+deposits, coal is presently being mined to a limit of
+approximately 150 metres when the stripping ratio is 6:1 or
+less. Most current open cut mines in New South Wales range from
+60 to 80 metres deep with stripping ratios ranging from 5:1 to
+7:1.
+
+The majority of underground mines in the State are operating
+at depths of less than 300 metres where linear overburden to
+coal thickness ratios exceed 10:1. The minimum mineable working
+thickness is usually 1.5 metres which allows miners and
+machinery to operate comfortably. Most underground mining in
+New South Wales is by bord and pillar methods using continuous
+miners to extract the coal, but an increasing number of
+longwall units are being installed in the Southern, Western and
+Newcastle Coalfields. In 1984/85 twelve longwall units were in
+operation with an additional two installed in the latter part
+of the year. The average output per unit/shift totalled 1,547
+tonnes compared with 337 tonnes for the 238 continuous miners
+in use.
+
+Increasing amounts of underground recoverable coal are being
+explored for and mined in the 300 to 600 metres depth category.
+This is especially true in the Southern Coalfield which
+contains the only source of premium hard coking coal in New
+South Wales and therefore mining at great depths is
+economically feasible. However, it is considered that the 600
+metres &quot;economic&quot; depth limit which is presently applied to the
+reporting of resources will be increased in the future.
+
+Large areas within most of the major coalfields are poorly
+explored and data are insufficient to allow resources to be
+reported according to any of the categories defined in Appendix
+1. Coal resources in these areas have been grouped as either
+&quot;uncategorized&quot; with an estimate given of the total in situ
+resources or as &quot;sterilized&quot; with reasons given for this
+description.
+
+The reporting of coal resources and reserves in this report is
+limited to the criteria which are outlined in Table 2.1. In
+addition to this, resources and reserves for each coalfield are
+divided into authorisation areas and colliery holdings. Where
+possible, individual coal seam names are identified, otherwise
+resources and reserves are quoted by formation or subgroup
+categories.
+
+This study represents the collation of all available coal
+resource data from current coal exploration authorisations,
+exploration permits, unallocated areas, and colliery holdings
+in New South Wales.
+
+
+	<h>2.3 ACKNOWLEDGEMENTS </h>
+	
+
+The Joint Coal Board collected and assessed resource and
+reserve data from the colliery holdings. All other information
+referred to above was assessed by the Coal Geology Branch of
+the Department of Mineral Resources. Statistics used in the
+diagrams were compiled from preliminary tables of the Joint
+Coal Board statistical yearbook &quot;Black Coal in Australia 1985-
+86&quot;. The overall assimilation of data, writing of text,
+preparation for publication, and editorial responsibility was
+conducted by the authors. Acknowledgement to the following
+persons is made for their time and effort in compiling the
+enormous amount of material which went into preparing this
+report: C. Barto was responsible for contacting companies and
+assembling the coal resource and reserve data; M. Ives, B.
+Kirby and C. Shekhar, geologists with the Joint Coal Board,
+supplied the colliery holding data; N. Clarke and P. West
+contributed information for same of the chapters. Overall
+editorial comment and advice was the responsibility of A.
+Galligan. D. Fitzmaurice, K. McDonald, G. Stewart, and A. Valja
+drafted the figures for the text, while photographs were
+supplied by D. Barnes and M. Sniffin. The manuscript was typed
+by A. Pagano.
+
+
+	<h>3.1 INTRODUCTION </h>
+	
+
+Eight important coal rich areas are discussed in this report.
+They are the Western, Hunter, Newcastle, and Southern
+Coalfields of the Sydney Basin; the Gunnedah Coalfield of the
+Gunnedah Basin, and the Gloucester, Oaklands, and Ashford
+Basins. The Cranky Corner Basin is included as part of the
+Newcastle Coalfield.
+
+The locations of these coalfields are shown in Figure 3.1.
+Minor coal bearing sequences in the Clarence-Moreton Basin and
+the Clyde Coal Measures of the Sydney Basin are excluded from
+this report.
+
+The boundaries used for the coalfields of the Sydney-Gunnedah
+Basin are those adopted by the Standing Committee on Coalfield
+Geology of N.S.W., (N.S.W. Geological Survey Records 22(1),
+1985).
+
+Table 3.1 is presented here to show a broad stratigraphic
+correlation of the major coalfields and coal-bearing basins
+in New South Wales. As exploration continues and more data are
+analyzed, the accuracy of correlation and definition of
+stratigraphic boundaries will continue to improve.
+
+The Sydney-Gunnedah Basin contains the majority of coal
+resources in New South Wales. It extends for up to 500
+kilometres in a northwesterly direction from Ulladulla in the
+south to beyond Narrabri in the north.
+
+The coal bearing rocks of the Sydney-Gunnedah Basin are Permian
+in age. Overlying rocks of Triassic age or younger generally
+form prominent scarps, particularly in the Western and Southern
+Coalfields. Mining methods, either open cut or underground, are
+often dictated by the presence of this younger cover.
+
+The coalfields of the Sydney - Gunnedah Basin offer a broad
+variety of coal types and these are outlined in Table 3.2.
+Quality ranges from low volatile matter, hard coking coal, to
+high quality, low ash thermal coals. Most of the coal produced
+in New South Wales is beneficiated by washing. Depending upon
+market requirements, different coal types may be recovered from
+the one coal seam. In addition, many coal types are produced
+by blending different coals at the port where stackers and
+reclaimers can achieve a specified product.
+
+Relevant information about geology, inherent quality, mining
+methods, and production from each coalfield is presented in the
+following discussion. A more detailed assessment, including the
+coal resources and reserves, is given in the individual
+coalfield chapters.
+
+
+	<note> TABLE </note>
+	
+
+
+	<h>3.2 WESTERN COALFIELD </h>
+	
+
+The Western Coalfield (Figure 3.1) is bounded to the west by
+the western limits of Permian Coal Measures subcrop. It adjoins
+the Gunnedah, Hunter and Southern Coalfields to the north, east
+and south respectively.
+
+The main coal bearing strata are contained in the Illawarra
+Coal Measures. The major seams in the southern and northern
+areas of the Western Coalfield are:
+
+          
+	<note> list </note>
+	
+
+The Illawarra Coal Measures are overlain by thick Triassic
+sandstone (Narrabeen Group) over most of the southern area.
+Coal is mined primarily using underground mining methods.
+Currently 13 underground mines and two open cut mines are in
+operation.
+
+The Western Coalfield contains substantial resources of high
+specific energy thermal coal. Both domestic and export power
+generation and cement industry markets are supplied. Quality
+characteristics of the major seams as mined (Lithgow, Katoomba,
+Ulan) typically yield coals with medium to high ash, low to
+moderate sulphur, and medium to high volatile matter content.
+
+Production in 1985/86 from the 14 collieries in the Western
+Coalfied totalled 13.8 million tonnes raw coal (Joint Coal
+Board figures). A large part of this production came from the
+Ulan open cut operation (6 million tonnes) and the Clarence
+Mine (1.6 million tonnes).
+
+
+	<h>3.3 HUNTER COALFIELD </h>
+	
+
+The Hunter Coalfield is bounded to the northeast by the Hunter
+Thrust System. It adjoins*ajoins the Newcastle, Southern,
+Western and Gunnedah Coalfields to the east, south, west, and
+north respectively (Figure 3.1).
+
+The coal resources of the Hunter Coalfield are contained
+primarily in the Wittingham and Greta Coal Measures. Up to 60
+coal seams occur in the region, the most important of which are
+listed below:
+
+        
+	<note> lists </note>
+	
+
+In terms of both coal resources and current production, the
+Hunter Coalfield is the largest of the State's coalfields. Most
+of the coal occurs at comparatively shallow depths and
+consequently production is primarily from large scale multi-
+seam open cut mines.
+
+Currently 13 open cut mines and 7 underground mines are in
+operation in the Hunter Coalfield. Five coal lease application
+areas are also pending, and exploration in 34 coal
+authorisation areas is actively assessing the resource
+potential of the coalfield.
+
+Both export and domestic markets are supplied from the Hunter
+Coalfield. Several different coal types are produced which
+include:
+
+2 Low ash, medium volatile matter content, soft coking coal for
+  export.
+
+2 Low to medium ash, medium to high volatile matter content,
+  low sulphur thermal coal for export.
+
+2 Medium to high ash, medium volatile matter content, low sulphur
+  coal for domestic power generation.
+
+Most of the export coal is washed and much of it is blended into 
+commercial blends of high and consistent quality.
+
+Raw coal production from the Hunter Coalfield during 1985/86 totalled
+28.8 million tonnes. Underground production totalled 4.9 million tonnes
+while open cut production was 23.9 million tonnes. This represents 37
+per cent of the total coal production in the state of New South Wales.
+
+
+	<h>3.4   NEWCASTLE COALFIELD </h>
+	
+
+The Newcastle Coalfield extends along the coast of New South Wales from
+the Hawkesbury River in the south to the edge of the Hunter Thrust fault
+system in the north.
+
+
+</sample>

@@ -1,0 +1,196 @@
+Growth hormone By Stephen P. Haynes ABSTRACT  
+Haynes, S.P. (1986) Review: Growth Hormone Australian Journal of Science
+and Medicine in Sport 18(1): 3.15.
+Human growth hormone, secreted by the pituitary gland, is the major hormone
+responsible for post-natal somatic growth. It acts on a variety of tissues
+including bone, cartilage and muscle, mediating anabolic, diabetogenic and
+lipolytic processes. The secretion of growth hormone is modulated principally
+by two hypothalamic hormones - somatostatin and growth hormone releasing
+hormone and stimulated by a number of factors including exercise, deep sleep,
+hypoglycaemia and the infusion of amino acids. Growth hormone is used in
+the treatment of growth hormone deficient children. It is prepared by
+extraction from cadaver pituitaries and it is currently in extremely short
+supply. Growth hormone is now used in sport in an attempt to enhance athletic
+performance, a situation that may be aggravated by the availability of
+synthetic growth hormone produced by recombinant DNA techniques.
+
+The use of hormones in the treatment of a variety of endocrine deficiency
+states is well-known, and includes the use of insulin in diabetes mellitus,
+thyroxine and cretinism, androgens in primary hypogonadism and human growth
+hormone in idiopathic and organic growth hormone deficiency. The use of
+hormonal agents by athletes in an attempt to enhance performance became
+evident several decades ago. Initially anabolic steroids, synthetic derivations
+of testosterone, were used, but as drug control procedures were instigated
+their use was supplemented by endogenous androgens, particularly testosterone,
+or hormones that stimulate androgen production, primarily human chorionic
+gonadotrophin. More recently human growth hormone has been added to the
+arsenal of doping agents used in sport principally because of its reported
+effects on anabolic processes in a variety of tissues including muscle.
+This review provides topical information on growth hormone, including
+biochemical and physiological aspects, the use and abuse of growth hormone
+and the clinical manifestation of excess and deficiency states. It will
+provide fundamental knowledge for all health care professionals, particularly
+those concerned with discouraging the use of doping agents in sport.
+ 
+ BIOCHEMISTRY AND METABOLISM OF GROWTH HORMONE  
+Human growth hormone (hGH) is not homogenous but is a mixture of a number
+of peptides, the major one being a single chain of 191 amino acids containing
+two disulphide bridges, with a molecular weight of approximately 22,000 (Niall
+1971).
+  Growth hormone is synthesised and stored in the somatotrophes of the anterior
+lobe of the pituitary gland. These cells comprise over a third of the gland 
+and contain 5 to 10 milligrams of growth hormone, making it the most abundant
+hormone in the pituitary. The genes responsible for hGH biosynthesis are 
+located on the long arm of chromosome17. The daily production rate of hGH 
+approximates 0.5 mgs/24 hours/m2 in normal females (Thompsons et al 1972) and 
+0.4 mgs/24hrs/m2 in adult males (Alford et al 1973). The secretion rate
+in adolescence is about 0.7 mgs/24hrs compared to 0.1 mgs/24hrs in the
+pre-pubertal state (Finkelstein et al 1972). Although the metabolic clearance
+rate (MCR) is usually constant in individuals there is much variation between
+individuals (Thompson et al 1972). In addition upright posture decreases
+the MCR by 24% (Alford et al 1973). A MCR of 170 litres/24hrs/m2
+approximates most reported estimates (Franchimont and Burger 1975). The
+disappearance rate of hGH from plasma is multiexponential (Cameron et al
+1969) and therefore the significance of half life estimates of 20 to 30
+minutes is difficult to state. There are marked fluctuations in blood levels
+of hGH throughout a twenty-four hour period, peak levels occurring within
+the first two hours of sleep. Twenty-four hour integrated concentrations
+are about 3 mgs/L in adult males and females. However, mean levels in puberty
+(Tanner, stage 5) of 7.7 mgs/L are higher than mean levels of 5.7 mg/L (in
+puberty Tanner State 2.4) or prepubertals. Levels decline significantly
+in the second decade of life (Zadik et al 1985).
+  
+ ACTIONS OF GROWTH HORMONE  
+Growth hormone is the major hormone responsible for post-natal somatic growth
+and acts on a variety of tissues. The growth promoting actions of hGH on
+muscle and skeletal tissues are insulinlike whereas the diabetogenic effects
+on carbohydrate metabolism and the lipolytic effects on fat oppose those
+of insulin. Similarly the actions of cortisol on muscle and cartilage are
+catabolic inhibiting the actions of hGH whereas cortisol and hGH are
+synergistic in promoting diabetogenic and lipolytic effects. Simplistically,
+growth hormone directly affects carbohydrate and lipid metbolism whereas
+the anabolic actions are mediated through somatomedin-like peptides.
+  Growth can occur by cellular proliferation (hyperplasia) or by hypertrophy
+with concomitant synthesis of differentiated cell products. Somatomedins
+can stimulate cell proliferation in some tissues, differentiation without
+proliferation in others, and in all responding target tissues, the production
+of characteristic cell products. In muscle, for example, somatomedins stimulate
+both the proliferation of myoblasts and their differentiation into myotubes
+(Ewton and Florin 1980). In cultured chondrocytes DNA synthesis is stimulated
+during the log growth phase until growth to high density has occurred when
+the components of cartilage matrix, particularly proteoglycan, are stimulated
+(Hill 1979). Somatomedins mimic some of the effects of insulin. The
+insulin-like actions include increased intracellular transport of glucose
+(Hall and Uthne 1971) and its incorporation into glycogen and total fat
+in the epididymal fat pad (Stern et al 1969), oxidation of glucose to carbon
+dioxide (Hall 1972) and inhibition of glycerol release in adipose tissue
+(Underwood et al 1972). Furthermore insulin has been shown to mimic some
+effects of somatomedin in cartilage including the stimulation of collagen
+and chondroitin sulphate synthesis (Salmon et al 1967) and the uptake of
+nucleic acids into RNA and DNA (Salmon et al 1968). These similar actions
+relate to the fact that insulin will bind to IGF I receptors and IGF I will
+bind to insulin receptors. Two receptors in fact, mediate the actions of
+somatomedins, one preferentially binding IGF I and the other IGF II.
+Exogenously administered somatomedin can stimulate growth in the intact
+animal (van Buull-Offers et al 1979). Both insulin-like growth factor I
+and II stimulate growth when administered by implanted osmotic pump over
+a six-day period (Schoenle et al 1982).
+  A number of direct actions of growth hormone on isolated tissues has been
+observed including RNA synthesis, plasma protein synthesis and somatomedin
+release in the liver (Jefferson and Korner 1967; Griffin and Miller 1974;
+McConaghey and Sledge 1970), amino acid transport and incorporation in muscle
+(Kostyo et al 1959), lipolysis in rat adipocytes (Fain et al 1965), DNA
+synthesis and sulphate incorporation in chondrocytes (Madsen et al 1983),
+somatostatin secretion from hypothalamii (Berelowitz et al 1981) and 
+replication of hepatocytes in culture (Moon et al 1962). In growth hormone
+deficient rats GH administration initiates an increase in glucose uptake
+in muscle or adipose tissues accompanied by an increased uptake of amino
+acids and fatty acids and inhibition of lipolysis. This is followed by
+increased hepatic glucose output, decreased glucose uptake, stimulation
+of lipolysis and increased peripheral utilisation of fatty acids and 
+stimulation of protein synthesis, the overall effect being protein anabolism,
+glucose sparing and fatty acid metabolism (Goodman 1968).
+  Specific receptors for human growth hormone are present on liver membranes,
+adipocytes, fibroblasts and lymphocytes. However, the early events following
+activation of the growth hormone receptor remain unclear (Hughes and Friesen
+1985). The administration of hGH to hypopituitary patients has an immediate 
+insulin-like action that results in transient hypoglycaemia. The continued 
+administration of hGH antagonises the peripheral action of insulin. This 
+results in increased insulin secretion after glucose ingestion. Growth 
+hormone may also have a direct action on pancreatic islets to increase B-cell 
+secretory capacity and in certain circumstances to promote B-cell 
+hyperplasia. Prolonged elevation of hGH levels as occurs in acromegaly, 
+can lead to diabetes in susceptible patients because insulin secretory 
+capacity is not sufficient to overcome the growth hormone induced insulin 
+resistance.
+  After hGH administration, the oxidative energy lost through diversion
+of amino acids from oxidative to anabolic pathways and promotion of hepatic
+and muscular glycogenesis is balanced by increased lipolysis and fatty acid
+oxidation. This lowers the respiratory quotient and promotes ketogenesis.
+Clinically the lipolytic effect of hGH is evident in hypopituitary dwarfs
+as a loss of subcutaneous fat during the early months of hGH treatment.
+Growth hormone deficient children have a decreased number of muscle cells.
+This is normalised following hGH administration, indicating a stimulating
+effect of the hormone on cell division (Brasel and Cheek 1968; Check et
+al 1970; Cheek and Hill 1970).
+ 
+ REGULATION OF GROWTH HORMONE SECRETION  
+The regulation of growth hormone secretion is shown in Figure 1 and includes
+adrenergic and cholinergic mechanisms, two hypothalamic hormones -
+somatostatin and growth hormone releasing hormone (GHRH) - and substances
+emanating principally from the liver termed somatomedins. The secretion
+of the hypothalamic hormones somatostatin and GHRH which regulates hGH
+secretion is modulated by a complex network of neurotransmitters (Muller
+1979). Cholinergic mediation is probably the most important since growth
+hormone secretion in response to arginine, clonidine, and physical exercise
+can be blocked by atropine, a muscarinic cholinergic receptor blocker
+(Casanueva 1984). Whether acetylcholine mediates hGH secretion by stimulation
+of GHRH or inhibition of somatostatin remains unclear.
+  Somatostatin or growth hormone release inhibiting factor was first isolated
+by Krulich et al (1968) and later sequenced as a cyclic peptide containing
+fourteen amino acids - S14 (Brazeau 1973). Somatostatin (S14) is in fact
+a member of a family of peptides that inhibit not only the pituitary secretion
+of growth hormone and thyrotrophin (TSH) but also a number of gastrointestinal
+and pancreatic hormones. Somatostatin is secreted into the portohypophyseal
+circulation and binds to pituitary somatotrophic cell plasma membranes to
+affect growth hormone secretion.
+  The existence of growth hormone releasing hormone, recently termed
+somatocrinin (Guillemin 1983), was first demonstrated in 1964 (Deuben and
+Meites 1964) and more recently a number of active peptides have been
+characterised from human pancreatic tumors (Rivier et al 1982; Guillemin
+1982) including a 44 amino amide (GRF 44, GHRH 1-44NH2) and the free
+acids of the first 37 and 40 amino acids (GRH 37, GHRH 1-37, GRF 40, GHRH
+1.40 OH). The molecular weights of these peptides approximates 13.000.
+Intravenous bolus injection of GHRH will elicit a prompt and significant
+rise of hGH (Gelato et al 1983). However, as with luteinising hormone releasing
+hormone (Haynes et al 1985), for physiological effect GHRH may depend on
+pulsatile secretion since sustained infusions of GHRH over several hours
+produce a decrease in hGH levels (Goldman et al 1984).
+  Some effects of growth hormone are meditated by inducing the secretion
+of a group of substances, principally from the liver and kidney, termed
+somatomedins or insulin-like growth factors (IGF) (Clemmons and Van Wyk
+1981; Daughaday 1981). Of particular interest are somatomedin C or insulin
+like growth factor I (IGF I) and insulinlike growth factor II (IGF II).
+IGF I is a straight chain basic 70 amino acid peptide (Rinderknecht and
+Humbel 1978) whereas IGF II is a neutral peptide being less dependent on
+growth hormone secretion than IGF I. In addition to the actions first observed
+on cartilage (Salmon and Daughaday 1957) somatomedins may also play an
+important role in growth hormone feedback mechanisms by stimulating
+somatostatin production (Berelowitz et al 1981) and inhibiting growth hormone
+synthesis in response to GHRH (Brazeau et al 1982).
+                                                         
+ STIMULI TO GROWTH HORMONE SECRETION  
+There are a number of neuronal hormonal and metabolic stimuli to growth
+hormone secretion as summarised in Table 1. Hypoglycaemia is a significant
+stimulus (Roth et al 1963, Greenwood et al 1966) (Figure 2), a reduction
+of blood glucose by only 25% being sufficient to stimulate hGH release even
+though there may be no subjective signs of hypoglycaemia. The release of
+growth hormone is of short duration and is normalised as blood glucose returns
+to control levels. In contrast oral glucose administration leads to a reduction
+in growth hormone levels within two hours (Roth et al 1963). Hyperglycaemia
+attenuates the response of hGH to GHRH (Masuda et al 1985). These effects are
+probably mediated by glucoreceptors in the ventromedial nucleus of the
+hypothalamus. Cholinergic mechanisms are unlikely since growth hormone
+release induced by hypoglycaemia is not diminished by cholinergic blockade
+(Mendelson et al 1978; Blackard and Waddell 1969).
+

@@ -1,0 +1,35 @@
+<subsample>
+	<id> A26a </id>
+	
+
+
+	<source> The Adelaide Advertiser - 14 November 1986 </source>
+	
+
+ 
+	<h> Paper battle flares in Victorian nursing row </h>
+	
+
+
+	<misc> MELBOURNE - </misc>
+	
+
+ Victoria's 15-day nurses' strike has become a war of documents.
+  The State Government and nurses tried to take the high ground yesterday
+in their battle for community support by putting their cases to the public.
+  The Royal Australian Nursing Federation released a negotiating document
+outlining arguments on its 20 grievances.
+  The Health Department said it would accede to an Industrial Relations
+Commission request for more details on its stance.  
+  And it placed another full-page notice in newspapers explaining its
+proposals to end the dispute.
+  Meanwhile, the number of hospitals hit by mass walkouts is set to reach
+34 with the addition of Royal Southern Memorial yesterday, Goulburn Valley
+Base and Dandenong District today, and Geelong tomorrow.
+  Administrators at most hospitals said they were continuing to cope with
+seriously ill and emergency patients.  But it is feared the Statewide
+elective surgery waiting list may have swollen by more than 7000 to around
+34,000.
+
+
+</subsample>

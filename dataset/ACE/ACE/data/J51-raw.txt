@@ -1,0 +1,208 @@
+<sample>
+	<id> J51 </id>
+	
+
+
+	<note> 2015 words </note>
+	
+
+
+	<source> The ends of philosophy: an essay in the sociology of philosophy and rationality  </source>
+	
+
+
+	<bl> By Harry Redner </bl>
+	
+
+
+	<h> The Second Secession </h>
+	
+
+The second secession of the sciences from philosophy resulted from those 
+transformations that ushered in the second phase of classical science. 
+Decisive changes took place in the natural sciences which made them 
+further removed from the previous epistemological metaphysics: physics 
+moved towards greater mathematisation and abstraction; mathematics, too, 
+developed the abstractions of non-Euclidian geometry and symbolic logic; 
+chemistry became atomic and biology cellular. Of even greater importance 
+for philosophy were, however, the new sciences of life, history, society, 
+culture, or in short the sciences of evolution and Man. All this brought 
+about the beginning of the end of metaphysics, or at least its 
+transformation into a form which no longer had any direct relation
+to traditional First Philosophy. And, simultaneously, it brought about a
+transformation of Rationalism from its classical to its progressivist mode.
+  Progressivist Rationalism is inherent in the post-Enlightenment ideal of 
+rational Progress. Rationality is viewed in terms of one or another of the 
+concepts of Progress, be it development, evolution, concrete realisation, 
+or the stages of history or production. Progress is seen as inherently 
+rational, and rationality is seen as the outcome of Progress; the one 
+defines the other: Progress is the realised movement of rationality, and 
+rationality is what is unfolded in the course of Progress. Thus the 
+progressive unfolding of the stages of development of anything is always 
+judged to be a rational sequence which, though not necessarily teleological, 
+does move toward some goal or fulfilment. Rationality is inherent not so much 
+in any ultimate culminating telos or end, as it would be in metaphysical
+thought, but in the very process of self-development, which is held to be 
+governed by rational law. Rationality thus becomes subject to temporality; 
+it is no longer manifest all at once, all there in the one ever-present order 
+or structure; rather it presents itself successively over time through the 
+propulsion of a creative Deed of ordering and structuring. It no longer 
+simply `is', it `becomes': becoming, not being, is its quasi-metaphysical 
+subject.
+  It is sociologically apparent why this should have meant an end to
+traditional metaphysics. Progressive Rationalism negated every fixed order 
+so that no unity of being could maintain itself in the face of universal 
+development and change. The earlier epistemological Rationalism still 
+maintained, though in a greatly altered form, all the old metaphysical 
+principles of Being, God, Nature, Human Nature, Essence and Truth. With the 
+onset of Progressive Rationalism, all these were set in motion - first subjected 
+to continual transformation, then finally abandoned. Being became Becoming, 
+God became Progress or History, Nature became raw material for human activity, 
+Human Nature became Man the chief active agent, fixed Essence was abandoned in 
+favour of existence and Truth was relativised in terms of sequential stages.
+  According to Marx, this intellectual revolutionising process was brought about 
+by the material revolutionary inroads of capitalism and carried through by 
+the bourgeoisie:
+
+  Constant revolutionising of production, uninterrupted disturbance of all 
+  social conditions, everlasting uncertainty and agitation distinguish the 
+  bourgeois epoch from all earlier ones. All fixed, fast-frozen relations, 
+  with their train of ancient and venerable prejudices and opinions, are 
+  swept away, all new-formed ones become antiquated before they can ossify.
+  All that is solid melts into air, all that is holy is profaned, and man 
+  is at last compelled to face with sober senses, his real conditions of 
+  life, and his relations with his kind.
+
+Among the ancient and venerable prejudices and opinions that were thus swept 
+away, metaphysics would hold a prominent place. But the belief that such a 
+clean sweep would force man to face with sober senses his real conditions of 
+life rests on an historical empiricism that is no longer credible. We have
+learned to read the critique of ideology as itself an ideology. Marx's 
+Progressivist Rationality is by no means the sober truth of historical reason.
+  Despite evident differences, Progressivist Rationality is a mode of 
+Rationalism; for even though it is rationality temporalised, it is as 
+law-governed, ordered and inherent in things or processes themselves as the 
+earlier classical Rationalism. It is also method-bound and analytic; and 
+though no longer simply presenting tabular analyses outlining a structural 
+order, it is itself, nevertheless, given to tracing regular sequences of 
+development and drawing up tables of stages. The new Rationalism is also 
+self-reflexive and critical, like the earlier. The laws of Progress function 
+as the rational standards by which everything traditional may be criticised, 
+as did the laws of Nature earlier. The very same laws apply self-critically 
+to the thought or science that discovers them, so that all new knowledge is 
+viewed as the rational culmination at once of Progress and of
+self-consciousness. This self-conscious philosophic conception of Progressivist 
+Rationalism was first elaborated `idealistically' by Hegel, but it was 
+eventually interpreted `materialistically' and much more scientistically by 
+Marx and even Comte.
+  Under the intellectual aegis of Progressivist Rationalism, there took place 
+that disciplinary separation and definition of most of our sciences which we 
+have called the second secession of science from philosophy. It was mainly 
+carried through within the new German university system, which began with the 
+foundation of Berlin University around 1806. At first it meant a greatly 
+expanded role for philosophy, which temporarily became encyclopaedic, but the 
+eventual outcome as one after another of the sciences broke away was the 
+reduction of philosophy to the status of merely one among many other academic 
+disciplines. As Ben-David and Zloczower see it, 'the German university system 
+provided the basis for the great development of philosophy as a systematic 
+discipline. But contrary to the intention of the philosophers, the university
+system made philosophy into just one of the academic disciplines, and added 
+to it a great many new ones'. These authors go on to explain the sociological 
+processes by which philosophy first expanded and then contracted as it was 
+broken down into specialised disciplines, all of which were at first `closely 
+connected with the ideological bias of German philosophy'. That philosophy was 
+predominantly Idealism.
+  Thus, in its opening phase it was not at all apparent that the second 
+secession of the sciences from philosophy would also signal the end of 
+metaphysics. On the contrary, it seemed as if Idealism meant the revival 
+of metaphysics and speculative reason despite the earlier restrictions imposed 
+by Kantian Critical Philosophy. The Idealist Naturphilosophie culminating
+in Hegel's Encyclopaedia was taken as indicative of the recovery of the hold 
+of metaphysics over the sciences - an attempt at the comprehension and 
+unification of all the sciences such as had not been seen since Aristotle. 
+As we now know, all this proved short-lived and chimerical . Hegelian
+Idealism collapsed - though it did not disappear for reasons we shall explore 
+later - and metaphysics was under attack as never before. The new varieties 
+of sciences, above all the historical sciences of Man together with new 
+evolutionary sciences of Time, were in the process of breaking away from 
+philosophy and they eventually excluded metaphysics completely from any 
+hold on reality. They did so precisely by occupying the intellectual space 
+that had previously enabled Rationalist metaphysics to function: the 
+epistemological ground of knowledge, method and rationality. This ground now 
+became the province of the new sciences of the mind, logic, language, culture 
+and society. It was precisely the field of epistemology, the locus of 
+classical Rationalism, that was subjected to a new scientific understanding.
+  Empiricism and Rationalism in philosophy were no longer needed. The formation 
+of ideas was to be explained from now on purely scientifically by the new 
+science of psychology. This at first took a purely mechanistic guise in 
+Associationism, as in the work of Thomas Brown and Dougal Stewart 
+(1804), but very soon became Phenomenological in the work of Goethe, and 
+eventually spread over every area of human mind, including the unconscious. 
+Its challenge to philosophy became total with the appearance of Fechner's 
+`Psycho-physics' (1860), `which seemed to hold out the prospect of introducing 
+into philosophical discussion the definiteness and methodical treatment which 
+had done so much for the natural sciences'. A similar challenge to any 
+metaphysics of ideas was posed by another presumptive science, that of 
+Ideologie as founded by Destutt de Tracy (1804). This `science', castigated 
+by Napoleon as the work of mere `ideologues', had little success until it 
+transformed itself into ideological critique as part of Marx's science of
+historical materialism, itself established on the basis of a criticism of 
+the new science of `classical' economics founded earlier by Smith and 
+Ricardo. The social formation of ideas was also the subject of the new science 
+of sociology founded by Comte. The almost simultaneous foundation of symbolic 
+logic by Boole, computation by Babbage and the non-Euclidean geometries
+by the pupils of Gauss had an equally decisive effect on all Rationalist 
+metaphysics of deductive reasoning from indubitable axioms and of intuited 
+laws of thought.
+  But perhaps the innovations most destructive of every metaphysical 
+epistemology were those of the new cultural sciences (Geisteswissenschaften), 
+developed largely in Germany. By the early eighteenth century Vico had 
+prefigured a thorough critique of the Rationalism of Descartes and the 
+Empiricism of Hobbes by means of a cultural theory of language and the
+historical development of knowledge. Knowledge derived neither from abstract 
+reason nor sensory experience, neither from intuited truths nor constituted 
+ideas, but from the slow historical growth of cultural forms, above all, of 
+modes of language. Vico's views were taken up by Goethe (who discovered
+his work in Naples on his first Italian journey) and also by Herder and Hamann, 
+none of whom ever fully realised or acknowledged their debt to him. Together 
+they laid the basis for most of our cultural sciences: from comparative 
+literature to folklore, from philology to the history of knowledge, from
+cultural anthropology to a theory of world-history.
+  The emergence of philology alone had manifold consequences for philosophy,
+and perhaps the first man fully to grasp this was Goethe's friend Humboldt.
+(We shall see how his folkish view of language as the primary communal
+expression of a people, with its anti-individualist bias, anticipated
+Wittgenstein's so-called private-language argument against the Cogito.)
+Humboldt decisively rejected the classical Rationalist view of language
+as a set of signs whose function it was to represent ideas through an
+arbitrarily established relation of association - a view which his
+contemporary, Hegel, still held and which de Saussure was partly to revive
+in the context of a new systemic linguistics. He propounded instead a theory
+of the word as an expressive element within a language seen as an organic
+whole charged with `energeia'. This Aristotelian notion, which he acquired
+through Leibniz and endowed with his own `activist' meaning, reveals lingering
+shades of metaphysics. Thus, activity, or the Deed, became explicitly the
+foundation of language, and so implicitly also of all meaning and reality,
+something which no philosopher at the time had yet formulated. To Humboldt
+and the other key figures of Berlin University, philology meant much more
+than the study of language in the sense that contemporary linguistics now
+propounds. Philology was for them the basic form of all humanistic scholarship;
+in his history of this period Merz makes apparent the importance of philology
+as the focus for scholarship throughout the German university system, a
+role that it has scarcely lost in Germany even today. Hermeneutics has
+continued to be its basic philosophical quasi-epistemology; from Schleirmacher,
+a contemporary of Humboldt at Berlin, it was passed on to Dilthey, who first
+formulated it as a `method'; from there it was taken up by Heidegger, and
+it is even now being continued by Gadamer, Ricoeur and even Habermas.
+Nietzsche, too, was trained in classical philology and its hermeneutic
+techniques and he taught rhetoric at Basel, all of which is clearly reflected
+in his first philosophic work, The Origin of Tragedy. Many of his later
+philosophic moves are strictly speaking philological: for example his
+questionable use of changing word-usage for evidence of the master-slave
+morality distinction, his more substantial linguistic critique of moral
+values, and also his suggestive remarks on the relationship between the
+philosophical categories and grammar, which we shall examine critically
+later.  
+  
+
+</sample>

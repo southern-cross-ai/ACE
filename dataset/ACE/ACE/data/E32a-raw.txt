@@ -1,0 +1,203 @@
+<subsample>
+	<id> E32a </id>
+	
+
+
+	<source> Australian Accountant - November 1986 </source>
+	
+
+
+	<h> Freedom of information: obtaining information from the
+Commmissioner*Commissioner </h>
+	
+
+
+	<bl> By Chris Butler </bl>
+	
+
+Traditionally, information interaction between the Commissioner of Taxation
+and the taxpayer has been kept to a bare minimum. Rarely has either party
+been willing to provide information to the other, prior to a judicial
+confrontation.
+  However, in recent history, the taxpayer has been given significant
+consessions in obtaining information from the Commissioner.
+  Information can generally be obtained from the Commissioner by way of
+the following legislation:
+2 Income Tax Assessment Act (1936) as amended.
+2 Administrative Decisions (Judicial Review) Act 1977.
+2 Freedom of Information Act 1982.
+  The Income Tax Assessment Act contains various provisions for dealing
+with the Commissioner, most notably in the areas of secrecy, assessment
+and objection procedures. However, the major concessions have been provided
+by the Administrative Decisions (Judicial Review) Act and the Freedom of
+Information Act concerning the Commissioner's application of the Income
+Tax Assessment Act and regulations.
+  To some degree the Commissioner has participated in this spirit of
+co-operation by way of publishing Income Tax Rulings on specific topics.
+While these statements are useful in determining broad attitudes and policies,
+the major benefits of gaining additional information occur in direct contests
+between taxpayers and the taxation Office. This issue is of growing importance
+in view of the ever increasing number of tax audits.
+
+
+	<h> The Income Tax Assessment Act (ITAA) </h>
+	
+
+	<h> Secrecy </h>
+	
+Employees of the Commonwealth or a State who acquire information about the
+affairs of taxpayers are required to maintain confidentiality (s16).
+  The officer may only disclose such information in the performance of his
+or her duties or if authorised by a Taxation Commissioner to communicate
+information to authorised recipients such as a Royal Commission. Similarly,
+disclosure to a court is only possible when it is necessary to carry into
+effect provisions of the ITAA or a State income tax law. The penalty for
+contravention of these secrecy provisions is $5,000 and/or 12 months
+imprisonment.
+
+
+	<h> Assessments </h>
+	
+The provision by the Commissioner of income tax assessments represents the
+most vital information (ie - income tax assessed) that a taxpayer will receive.
+It is the additional descriptions and explanation for adjustments to income
+as returned which cause the most significant problems.
+  A taxpayer has limited rights to force the Commissioner to make an 
+assessment of income tax. If an assessment does not issue within 12 months of 
+lodgement then a request to make the assessment may be made. However, there 
+is no statutory right to insist on the making of an assessment.
+  Similarly, when an amended assessment issues at the Commissioner's
+initiation (ie - not resulting from a tax-payer's objection eg - a tax audit)
+the Commissioner is under no obligation to provide an adjustment sheet
+disclosing the basis on which taxable income is varied (Lancey Shipping
+Co).
+  This is so even where the amended assessment decreases net taxable income
+but includes disallowances of items which a taxpayer may wish to object
+against.
+
+
+	<h> Objections </h>
+	
+The taxpayer has more power to obtain information when an objection is lodged
+within 60 days of the date of an assessment or amended assessment. Although
+no time limit applies in making his decision a written notice of the
+Commissioner's decision must be served on the taxpayer. Additionally,
+an explanation of any adjustments made in an amended assessment is essential.
+(Trautwein's case).
+  Accordingly, because of secrecy requirements imposed on government
+officials and the limited rights available in relation to assessments and
+objections, the Income Tax Assessment Act, although providing basic
+fundamental information, has only limited capacity to produce more detailed
+informaton for taxpayers upon request.
+
+The Administrative Decisions (Judicial Review) Act (ADJR)
+Generally, the ADJR Act may be invoked when a decision of an administrative
+nature is made under a Commonwealth enactment. However, some forms of
+decisions are expressly excluded from review. The major exclusion can
+be summarised as being a decision referable to any assessment or calculation
+of tax concerning income tax or sales tax. This exclusion is supported in
+cases where decisions were found not to be reviewable in relation to: the
+refusal to give reasons for disallowing an objection that was initially
+withdrawn by the taxpayer (Higgs v FCT); and the refusal of the Commissioner
+to refer a decision to a Board in the absence of a request from the taxpayer
+to refer the decision (Raccuia &amp; Anon v DFCT).
+  Applications to review administrative decisions are made under the ADJR
+Act to the Federal Court for order of review. Applications must be made
+within 28 days from the time of notification of the decision and the cost
+of the review is at least $1,000.
+ The major grounds for review include denial of natural justice, lack of
+jurisdiction, improper exercise of power, error of law involved, decision
+affected by fraud, irrelevant consideration or an exercise of discretionary
+power in bad faith.
+  Successful applications under the ADJR Act have included cases involving
+the refusal to grant a sales tax exemption certificate (Bayford Wholesalers
+P/L); additional time for making a sufficient distribution (Intervest
+Corporation P/L); extension of withholding tax exemption (Mercantile Credits
+Ltd); extension of time to pay tax (Ahern v DFCT); decision to institute
+recovery proceedings (The Hells Angels Ltd (No 4), Terruk P/L, Manners);
+notice to person owing money to taxpayer (Huston v DFCT); the time constraints
+of notice requiring information (Clarke &amp; Kahn); and the refusal to grant
+extension to a tax agent under the standard lodgement program (Balnaves
+v DFCT).
+  Accordingly, the Commissioner's exercise of discretion may be reviewed
+under the ADJR Act in many instances with the notable exceptions of decisions
+referable to assessments or calculation of tax. Other discretions which
+may well be open to challenge are the grant of a substituted accounting
+period, the remission of additional tax for late payment and the satisfying
+of the Commissioner that a taxpayer's permanent or usual place of abode
+is outside Australia.
+  It can therefore be seen that the ADJR Act substantially expands the
+provisions of the ITAA in obtaining information. For example, the limited
+requirements to provide a notice of decision of objection under the ITAA
+are expanded by the ADJR so that the Commissioner is obliged to explain
+any adjustments.
+
+
+	<h> The Freedom of Information Act (FOI) </h>
+	
+The FOI Act provides a statutory right of access to Commonwealth Government
+documents to every person. No special interest needs to be demonstrated
+in order to access the documents. Clearly, this provides a powerful tool
+to the taxpayer to obtain information from the Commissioner.
+  Requests for documents must be in writing and be sufficiently detailed
+to enable identification of the document. A request must be responded to
+within 45 days for requests before 1 December 1986 and within 30 days for
+requests thereafter.
+  However, certain documents are not discoverable under the FOI Act. These
+include documents pre-dating 1 December 1977 unless they relate to the
+applicant's personal affairs or are reasonably necessary to enable a proper
+understanding of other documents discovered by the applicant.
+  Exempt documents also include cabinet documents, internal working
+documents, national security, protection of public safety, confidential
+documents and documents to which security provisions of other laws apply
+(eg - s16 of the ITAA). However, where access to documents is denied, a
+review of that decision is available through various avenues.
+  An initial application can be made under the FOI Act to the principal officer
+of the relevant department within 28 days of receiving notice of the decision.
+The result of the officer's decision is required within 14 days of the
+application. A further request for review by the Administrative Appeals
+Tribunal (AAT) can then be lodged within 60 days of the subsequent refusal
+by the principal officer. The ADJR Act then allows further appeal to the
+Federal Court within 28 days of the AAT's decision. In addition to this
+review procedure, the Commonwealth Ombudsman can investigate and report
+on complaints and make recommendations to the relevant authorities.
+  The decision in Murtagh v FCT provides an interesting insight into the
+powers afforded to the taxpayer under the FOI Act. The taxpayer sought
+access to  copies of all records relating to the assessment of her returns
+for three years. Access was denied by the Commissioner who claimed the
+information was contained in internal working documents and therefore exempt.
+Arguments were raised by the Commissioner that the denial of access was
+to protect its officers; promote the candid consideration of alternatives;
+protect the public from premature exposure to discussions before the
+settlement of policies; and protect decision makers to continue to make
+uninhibited recommendations.
+  In what proved to be a major victory to the taxpayer it was held that
+the assessments were routine in nature not containing any element of special
+sensitivity. It was accepted that the ITAA and Regulations make little
+provision for informing taxpayers of the reasons and evidence used in making
+assessments. It was considered highly undesirable for negotiation purposes
+for the Taxation Office and the taxpayer to deal in a `mutual halflight'.
+It was considered that the granting of documents which disclose the factual
+basis on which the Taxation Office has proceeded would advance the process
+of resolving disputes.
+  There are further victories for the taxpayer in obtaining information
+under the FOI Act to which the Commissioner had denied access. The unsuccessful
+grounds for denial include legal profession privilege, breach of confidence,
+prejudicing the enforcement or proper administration of the law and the
+proper and efficient conduct of the operations of a government department.
+
+
+	<h> Conclusion </h>
+	
+With the introduction of recent statutes the taxpayer is now in a much stronger
+position to obtain information from the Commissioner. This should substantially
+aid the negotiation procedures between the taxpayer and the Commissioner
+and hopefully produce a more productive network for mediation.
+  In addition, reference should be made to the removal of the jurisdiction
+of the Boards of Review to the Administrative Appeals Tribunal (AAT). This
+will have an important bearing on the ability of taxpayers to secure
+additional information as the AAT operates under recognised rules of court
+which include the power of discovery of documents.
+
+
+</subsample>

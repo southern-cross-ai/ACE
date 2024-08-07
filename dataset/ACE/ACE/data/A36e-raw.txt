@@ -1,0 +1,28 @@
+<subsample>
+	<id> A36e </id>
+	
+
+
+	<source> The Sun Herald - 14 September 1986 </source>
+	
+
+ 
+	<h> US air fares cut by 25pc </h>
+	
+
+CONTINENTAL Airlines slashed its Sydney - New York economy fare by 25 per
+cent yesterday as a price war flared again.
+  For business and first-class passengers, the saving is two tickets for
+the price of one.
+ Continental's new economy return fare to the Big Apple is now $1,399 -
+undercutting its rivals by $505.
+  Mr Col Hughes, general manager of Continental, said the new price had
+been introduced to mark the start of the airline's one-stop direct flight
+from Australia to New York on October 26.
+  He said passengers who bought return first or business class tickets on
+the flight would receive a second ticket free.  The new economy fare will
+not be available during the peak Christmas period.
+-  Joan Mabbutt    
+
+
+</subsample>

@@ -1,0 +1,52 @@
+<subsample>
+	<id> A33b </id>
+	
+
+
+	<source> Northern Territory News - 18 November 1986 </source>
+	
+ 
+
+	<h> Moves to stop Australia card </h>
+	
+
+
+	<misc> MELBOURNE. - </misc>
+	
+
+ The Victorian Council for Civil Liberties has launched a campaign
+to stop the introduction of the Australia card.
+  It is calling on State Premiers and the Northern Territory Chief Minister,
+Mr Steve Hatton, to refuse to co-operate with the card legislation.
+  The legislation depends on the assistance of the State and Territory
+births*birth, deaths and marriages registers and lands titles offices to 
+operate.
+  The council's president, Mr Ron Castan QC, said the Australia Card Bill
+confirmed the council's worst fears about the effects on Australian society.
+  &quot;The implications of this legislation make it much more intrusive on our
+privacy than any systems existing in any European or north American country,&quot;
+he said.
+  There would be a de facto compulsory obligation to carry the card.
+  This was despite the suggestion the legislation implied the holding
+of the ID card would be voluntary.
+  &quot;There will be growing unofficial use of the card to the point where
+it will be difficult for most Australians to determine whether or not they
+are legally obliged to produce their card,&quot; Mr Castan said.
+  The Victorian council also was concerned at the way in which the Federal
+Government had fudged issues*isues in the debate on the card.
+  The Federal Health Minister, Dr Neal Blewett, had said the card would
+deal with welfare fraud.
+  But that assertion ignored evidence given to a parliamentary committee
+by the Social Security Department, Mr Castan*Costan said.
+  The department had said identity was a cause of fraud in less than 1 per
+cent of cases and the net result of ID card checks would be zero dollars.
+  &quot;The Government has ignored the enormous cost involved in having people
+take time off work to have their photograph taken and gain their birth
+certificates,&quot; Mr Castan*Costan said.
+  &quot;It ignores the work time lost as each Australian is required to line
+up to be interviewed by a public servant before being assigned a number.
+  &quot;There also will be costs imposed on ordinary decent Australians when
+Australia card computer errors inevitably occur.&quot;
+
+
+</subsample>

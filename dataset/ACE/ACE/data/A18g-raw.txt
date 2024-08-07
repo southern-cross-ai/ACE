@@ -1,0 +1,23 @@
+<subsample>
+	<id> A18g </id>
+	
+
+
+	<source> The Sun News-Pictorial - 29 November 1986 </source>
+	
+
+ 
+	<h> Tax chief reports </h>
+	
+
+THE bottom-of-the-harbor tax evasion era appeared to be over, according
+to the Tax Commissioner, Mr Boucher.
+  He said in his 1985-86 report there were no obvious signs of artificial
+&quot;paper&quot; schemes being promoted during the year.
+  As part of the bottom-of-the-harbor mop-up, $53.6 million in irrecoverable
+tax from company &quot;strip&quot; assessments was written off in 1985-86.
+  A further $160 million was written off in irrecoverable penalties for
+strip company returns not lodged or lodged incorrectly.
+
+
+</subsample>

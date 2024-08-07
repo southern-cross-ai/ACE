@@ -1,0 +1,263 @@
+<sample>
+	<id> J09 </id>
+	
+
+
+	<note> 2006 words </note>
+	
+
+
+	<source> Australian Journal of Zoology </source>
+	
+
+
+	<h> Phylogenetic relationships in the genus Limnodynastes (anura:myobatrachidae): 
+a molecular perspective </h>
+	
+
+
+	<bl> J.D. Roberts and Linda R. Maxson </bl>
+	
+
+
+	<h> Abstract </h>
+	
+
+Phylogenetic relationships among 10 of the 12 currently recognised species
+of Limnodynastes were investigated by the quantitative immunological
+technique of micro-complement fixation (MC'F).  Analyses of albumin
+differentiation in Limnodynastes suggest that L. ornatus and L. spenceri
+are representatives of an independent lineage that emerged in the early
+Tertiary.  We identify four additional lineages appearing in the early
+Oligocene (L. terraereginae, L. dumerili, L. dorsalis and probably
+L. interioris; L. tasmaniensis, L. fletcheri and L. peroni; L. salmini;
+and L. convexiusculus).  Our data do not support the recognition of
+Platyplectron (Heyer &amp; Liem, 1976) as a separate genus. Members of 
+Platyplectron are more closely related to various groupings within 
+Limnodynastes than they are to other burrowing genera (Heleioporus, 
+Notaden and Neobatrachus).
+  Analyses of geographically widespread populations of L. ornatus,
+L. tasmaniensis, L. peroni and of the subspecies of L. dumerili indicate
+degrees of genetic differentiation which are correlated with distance.
+
+
+
+	<h> Introduction </h>
+	
+
+  Frogs of the genus Limnodynastes are widespread over the Australian
+continent with one species also found in southern New Guinea (Tyler et
+al. 1981).  All species in the genus construct floating foam nests for
+egg deposition and these are often a conspicuous feature of amphibian breeding
+sites in Australia (e.g. illustrated in Moore 1961).  There are both
+non-burrowing and burrowing forms of Limnodynastes, with two of the latter
+occurring in the central deserts (L. ornatus and L. spenceri: Tyler et
+al. 1981).
+  Martin (1972), Littlejohn and Roberts (1975), Heyer and Liem (1976), Tyler
+(1976), Tyler et al. (1979), Farris et al. (1982) and Watson and
+Littlejohn (1985) have all recently dealt with systematic, evolutionary,
+or biogeographic questions within this genus.  However, the conclusions
+drawn in these papers need to be treated cautiously for two reasons.
+  First, recent biochemical work on Australian anurans (summarised in Roberts
+and Maxson 1985b) has questioned relationships and speciation patterns amongst
+Australian frogs which have been inferred from similarities in external
+morphology, call structure, and the results of artificial hybridisation
+tests.  These latter types of data were used by Martin (1972), Littlejohn
+and Roberts (1975) and Watson and Littlejohn (1985) to infer speciation
+patterns amongst members of the L. dorsalis group and the L. tasmaniensis
+complex.  Evaluation by an independent molecular technique seems desirable.
+Second, detailed analyses of the same morphological and ecological data
+from Australian myobatrachid frogs (including species of Limnodynastes)
+by Heyer and Liem (1976) and Farris et al. (1982) have reached differing
+conclusions.  Farris et al. noted that the data they used have given
+equivocal information on relationships.  Thus, it appeared that an independent,
+molecular data set could be helpful in addressing questions of phylogeny
+in these taxa.
+  This paper probes phylogenetic relationships among species of
+Limnodynastes, using micro-complement fixation (MC'F) studies of albumin
+evolution.  MC'F and the resultant immunological distance (ID) data have
+been widely used in phylogenetic analysis (e.g. amphibians, Maxson 1984;
+reptiles, Gorman et al. 1971; mammals, Collier and O'Brien 1985; birds,
+Prager and Wilson 1980; insects, Beverley and Wilson 1982; and bacteria,
+Champion et al. 1980).  Moreover, because albumin evolves at a relatively
+constant rate (e.g. Maxson and Wilson 1975; Wilson et al. 1977; Thorpe
+1982), studies of albumin evolution can also provide a temporal perspective
+on the evolutionary process.
+  We address four interrelated questions on systematic relationships and
+speciation in Limnodynastes arising from the recent literature cited above.
+  (1) Is any generic division of Limnodynastes supported by immunological
+data?  This question stems from Heyer and Liem's (1976) use of the name
+Platyplectron to accommodate members of the L. dorsalis group (L. dorsalis,
+L. dumerili, L. interioris and L. terraereginae: Martin 1972) and the
+L. ornatus group (L. ornatus and L. spenceri: Tyler et al. 1979),
+and from the suggestion by Tyler et al. (1979) that each of the three
+distinct morphological groups they recognised within Limnodynastes (sensu
+lato), the `dorsalis' group, the `ornatus' group and the `tasmaniensis'
+group (L. tasmaniensis, L. peroni, L. fletcheri, L. salmini and
+L. convexiusculus), might warrant elevation to generic status.
+  (2) If a division of Limnodynastes is justified, where do the affinities
+of the resulting groups lie?  Heyer and Liem (1976) described Limnodynastes
+and Platyplectron as sister groups but in a re-analysis of the same data set,
+Farris et. al. (1982) showed Platyplectron to be more closely associated with 
+other burrowing genera of the subfamily Limnodynastinae such as Heleioporus,
+Neobatrachus and Notaden.
+  (3) Do the immunological data suggest that descriptions of new species
+or erection of any new synonymies are warranted?  These actions might be
+justified in taxa that have dubious status as separate species,
+e.g. L. spenceri, or in the subspecific taxa recognized in `L. dorsalis
+(Martin 1972) or in the call races of the L. tasmaniensis complex (Littlejohn
+and Roberts 1975; Roberts 1976).  For example, L. spenceri was described
+by Parker (1940), but Moore (1961) and Barker and Grigg (1977) have questioned
+whether this species is distinct from L. ornatus.
+  (4)  Are the call races of the L. tasmaniensis complex and the subspecies
+of L. dorsalis of Pleistocene age or, are they older?  These subspecies
+and call races have been viewed as evolving in the Pleistocene (Littlejohn
+and Roberts 1975; Roberts 1976; Martin 1972).  However, recent papers by
+Barendse (1984), Maxson and Roberts (1984) and Roberts and Maxson (1985a, 1985b)
+have questioned Pleistocene scenarios for speciation events in other components
+of the southern and south-western Australian anuran fauna.
+  By means of MC'F studies of albumin evolution we have been able to provide
+answers to all four questions that we have posed.
+
+
+	<h> Materials and Methods </h>
+	
+
+  Albumins from 14 species of Australian frogs were studied: Limnodynastes
+convexiusculus L. dorsalis, L. dumerili (six populations), L. fletcheri,
+L. ornatus (five populations), L. peroni (four populations), L. salmini,
+L. spenceri (two populations), L. tasmaniensis (11 populations),
+L. terraereginae, Heleioporus barycragus, H. australiacus, Notaden
+nichollsi and Neobatrachus pictus.  Unless otherwise indicated, single
+specimens were used as representatives of each population or species.  Earlier
+work has shown intrapopulation variation for a valid species is within the
+sensitivity of the MC'F assay, ?2 immunological distance units (Maxson
+and Maxson 1979).
+  Serum albumin was purified from plasma by single-step polyacrylamide-gel
+electrophoresis (Maxson et al. 1979).  A single frog of each species
+provided plasma for L. dorsalis, L. dumerili, L. ornatus, L. salmini,
+H. barycragus, H. australiacus and No. nichollsi.  Plasma was pooled
+from three L. peroni and from seven L. tasmaniensis.  Purified albumins
+were used for production of antisera in rabbits.  Antisera were tested for
+purity as described by Maxson et al. (1982).  MC'F experiments were
+performed with antisera to the albumins of six species of Limnodynastes,
+the two species of Heleioporus, and No. nichollsi following procedures
+outlined in Champion et al. (1974).  The six Limodynastes species
+were selected as representative of the described species-groups.  Sufficient
+material was not available to prepare a complete set of antisera.
+  Data are reported as immunological distance (ID) where one ID unit is
+roughly equivalent to one amino acid difference between the albumins compared
+(Maxson and Wilson 1974).  The phylogenetic tree was constructed from the
+averages of reciprocal comparisons by a simple algorithm (Maxson et al.
+1979) which is a modification of Farris' Wagner tree method (Farris 1972).
+This method is appropriate for albumin MC'F data where the large number
+of amino acid positions in albumin permits one to assume there are very
+few parallel- and back-mutation contaminations.  For species where only
+one-way comparisons were available, species were added to the tree by the
+method outlined in Beverley and Wilson (1982).  Estimates of divergence
+dates are based on the relationship between ID and time, described by Maxson
+and Wilson (1975), where 100 units of ID accumulate between two independent
+lineages every 55-60 million years.
+  Voucher specimens were deposited in the South Australian Museum, Adelaide
+(SAM) and Western Australian Museum, Perth (WAM).  The individual frogs
+are indicated by LRM collection number in parentheses and collection locality.
+Standard abbreviations are used for Australian States and Territories, and
+points of the compass.
+
+                           
+	<note> LIST </note>
+	
+
+  Specimens used to prepare antisera are indicated by an asterisk.  Multiple
+museum registration numbers indicate plasma was pooled from several frogs.
+Otherwise, samples are from a single frog except where indicated for species
+with no museum registration number.
+
+
+	<h> Results </h>
+	
+
+  The average titre and slope of the nine antisera used in this study were
+5100 and 375 respectively, values typical of earlier studies of albumin
+evolution in anurans (Maxson 1981).  Table 1 presents the data from reciprocal
+comparisons among the six species of Limnodynastes
+
+                           
+	<note> TABLE </note>
+	
+
+for which we have antisera, as well as the data from one-way comparisons
+with each of the antisera for four additional species.  Reciprocal tests
+indicate how well the albumin sequence differences between species are
+estimated.  Our reciprocal data demonstrate a significant non-randomness
+which was corrected by methods outlined by Sarich and Cronin (1976).  The
+standard deviation (Maxson and Wilson 1975) of the raw data is 17.6% and
+for the `corrected' reciprocal matrix (Table 2) is 12.4%.  In general, standard
+deviations for comparable matrices vary from 10 to 20% (Maxson et al. 1982).
+The averages for the `corrected' reciprocal measurements (Table 2) were
+used to construct a phylogeny for Limnodynastes (Fig.1).  In order to
+estimate how well the tree of the six species (Table 2) describes the input
+data, we calculated the percentage standard deviation between the data input
+and the tree output (Fitch and Margoliash 1967).  This value, 9.4%, is
+comparable to values from other studies (Maxson et al. 1982).  The
+percentage error (Prager and Wilson 1976) is 6.7%.
+
+                          
+	<note> FIGURE </note>
+	
+
+  Four species of Limnodynastes to which we did not have antisera have
+been added to the tree in Fig.1.  The locations of these species were
+determined from their respective reactions to each of the antisera (Table
+1).  Table 3 contains data on albumin variation in different populations
+of four species of Limnodynastes.  These are all one-way comparisons with
+the available, relevant antiserum.  Table 4 contains data comparing
+representative major Limnodynastes lineages defined by this study with
+other, possibly related, genera (Farris et al. 1982).  All data, except
+those involving Ne. pictus, are reciprocal comparisons.  The standard
+deviation of the reciprocal matrix in Table 4 is 11.9%.  If the single pair
+L. ornatus-L. dumerili is omitted, the standard deviation from reciprocity
+drops by almost half to 6.5%.  Such deviation from reciprocity, as is exhibited
+by this single comparison, is not typical, but illustrates why we use averages
+of reciprocal measurements to estimate phylogenies.  Without absolute albumin
+sequences, or data from a second molecule, we have no way of determining
+which value, 57 or 130, is the more accurate estimate of the `true' albumin
+sequence difference between these species.  However, in this instance our
+phylogenetic conclusions are unaffected because all other reciprocal
+comparisons with L. ornatus determine the phylogenetic position of this
+lineage as most distant from all other Limnodynastes, except L. spenceri.
+The averages of reciprocal comparisons in Table 4 were used to add
+Heleioporus and Notaden to the phylogeny in Fig.1.  When input and output
+data for L. ornatus, L. salmini, L.dumerili, H. australiacus, H. barycragus and
+No. nichollsi (Table 4) are compared, the standard deviation is 5.9%. 
+The percentage error is 5.4%.  These parameters suggest the tree is a good
+representation of the branching relationships among the taxa studied.
+Ne. pictus was not included in Fig. 1 because its relationships appear to
+be to Heleioporus (Table 4), not to Limnodynastes, and an antiserum
+will be needed to definitely associate Neobatrachus with other limnodynastine
+genera.
+
+                             
+	<note> TABLE </note>
+	
+
+
+	<h> Discussion </h>
+	
+
+
+	<h> Age of Limnodynastes </h>
+	
+
+  There are clearly some old divisions within this genus.  By means of the
+molecular clock properties of albumin evolution (Maxson and Wilson 1975;
+Wilson et al. 1977; Carlson et al. 1978), we estimate that the lineages
+leading to the modern-day genera of Limnodynastes, Heleioporus and
+Notaden separated from one another in the late Cretaceous-early Palaeocene
+(Fig.1).  The lineage leading to the modern species, L. ornatus and
+L. spenceri, emerged about the same time in the Palaeocene and has had
+a history independent of the remainder of Limnodynastes for the past 57-62
+million years.  
+            
+
+</sample>

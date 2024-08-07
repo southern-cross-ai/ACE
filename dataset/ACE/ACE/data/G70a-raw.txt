@@ -1,0 +1,161 @@
+<subsample>
+	<id> G70a </id>
+	
+
+
+	<source> The National Times - February 7 to 13, 1986 </source>
+	
+
+
+	<h> Computers let the camera lie </h>
+	
+
+
+	<bl> By Frank Walker </bl>
+	
+
+THE old adage that the camera never lies has never really been true. Various
+techniques from throwing Frisbees across the sky to look like UFOs, to
+superimposing negatives, have long put a lie to that.
+  But the electronic age has made reality redundant. From now on we are
+going to have to doubt everything we see on film and on photographs.
+  A new generation of computers has emerged that can change photographs
+so that it is extremely difficult to tell them from the real thing. Until
+now photographs have been changed by superimposing negatives, cropping,
+cutting and pasting, or painting directly on to the print.
+  The new computers take an image of the print, convert it into digital
+data, and put it on a screen. The artist can then move the images around,
+changing colours and making people or objects disappear and reappear at
+will.
+  When the artist is finished, the image is put back into the computer and
+a print comes out at the other end of the process.
+  The pictures shown here were done on two devices: the $200,000 British-made
+Quantel Video Paintbox used mainly for fashioning television logos, and
+the $2-million Crosfield Electronics pagination system also from Britain.
+  Both have been in Australia for 18 months or so, but the operators are
+still finding new ways of using the equipment, testing the boundaries of
+what is possible. Colours of houses, dresses, and eyes can be changed at
+will. Wrinkles, fat, or blemishes can be wiped away from film stars at a
+flick.
+  One operator, who did not want to be named, said a car company last year,
+for an advertisement, wanted to use a spectacular photo it saw in a European
+book of a rally car going around a mountain road. Unfortunately the car
+was not their make.
+  The operator said it used the machine to &quot;paint&quot; in the characteristics
+of the wanted car over the image of the original. To cover over problem
+areas, dust and flying stones from the wheels were added. A group of people
+were standing too far away so the machine simply moved them closer.
+  &quot;You should never believe anything you see any more,&quot; said Terry Fitzell,
+an operator on the Crosfield system at Mansfield Reproductions in Sydney.
+&quot;Even publicity photos of movie and TV stars come to us with bloodshot eyes
+and pimples. We remove them with the machine. One of the worst examples
+we get is the Queen Mother. She has terrible brown teeth. We paint them
+white so no one can see.&quot;
+  For a cigarette advertisement a parachutist jumped out of a plane with
+the brand name on the top of the parachute and the photographer snapped
+away from the plane as he drifted down on a blue lagoon with a sandy beach.
+But the parachutist was in the top right corner of the picture, exactly
+where the advertiser wanted to run words.
+  Using the Crosfield, the operator shifted the parachutist to the bottom
+left corner and doubled his size for good measure. &quot;It saved them about
+$30,000 as they didn't have to re-shoot the ad. Mind you, we could have
+done it on the machine without them flying to the lagoon in the first place,&quot;
+said the operator.
+  The Quantel Video Paintbox is a smaller machine used mainly for video
+advertising and television logos. For moving pictures the artist has to
+retouch every frame of the sequence.
+  According to the marketing director of Quantel in Australia, Haydn Deere,
+the potential of the machine is limited only to the expertise of the artist
+working it. He admits the potential of the machine is &quot;frightening&quot;.
+  &quot;You can really kiss good-bye to photos as evidence of anything. I have
+seen whole battle sequences put on film that never happened. In one
+demonstration, they had the image of a tank, put it on a background, and
+frame by frame made it move across the screen. It was only when the turret
+moved that it looked artificial, but that is only limited by the talent
+of the artist.&quot;
+  In a TV advertisement that would be shown in America, a Hawaiian beach
+scene inadvertently had a topless woman bather revealing all. No problem
+for the Paintbox. Frame by frame, they painted a bikini on her. The only
+question was what colour they wanted.
+  Deere is aware there is a strong ethical question involved in these machines,
+but he says that is up to the people who use them.
+  There are 10 Video Paintboxes in Australia, seven of them in television
+stations. Sometimes they are not used just for station logos. One artist
+who used to work for Channel Nine said the face of a mountain was moved
+slightly on the Paintbox for a short sequence in a mountaineering documentary
+so that it was clearer what the climber was doing.
+  The Video Paint Brush Company does contract work on its Paintboxes in
+Sydney and Melbourne. &quot;Six months is a long time in this business. We are
+doing things we wouldn't have thought of a year ago, and who knows what
+we will be doing in a year,&quot; says Sydney manager Stephen Smith.
+  The senior designer, Michael Murray, is an artist by trade. He said he
+could not only change the colour of people's eyes on the machine, he could
+make them blink.
+  In 10 minutes of playing around on the machine, he gave Neville Wran a
+beard and made Bob Hawke bald, simply by shifting portions of Wran's sideburns
+over his cheeks and gradually extending Hawke's forehead.
+  It would be difficult to pick it as a forgery as actual parts of the
+photograph as recorded on the computer were moved rather than painting on
+the beard or forehead. The only way to tell is to pick repetitions of the
+&quot;cloning&quot; patterns of the parts of the photograph.
+  The Paintbox and the Crosfield are only two of the new machines in the
+rapidly developing field of digital retouching. The Israeli-made Scitex
+machine and the West German Chromacom, for instance, also turn photographs
+into computer data for printing, making photo and graphic reproduction quicker
+and cheaper.
+  The benefits of the new technology are obvious. They are opening up new
+and exciting possibilities in photo and graphic reproduction such as record
+covers, pop videos, and eye-catching magazine covers. Computer enhancement
+of photographs has helped examine the explosion of the Challenger Space
+Shuttle and exposed fake photos of the Loch Ness monster and UFOs.
+  But they bring with them a moral dilemma: How far can one go? The temptation
+to &quot;improve&quot; images or even fake them is now so much greater.
+  As the machines improve and become more widespread, it will become more
+and more difficult to tell the adulterated image from the unadulterated.
+It might be that news magazines and newspapers will have to make public
+declarations that they will not alter or change their photographs.
+  Even a magazine world-famous for its photographs, National Geographic,
+has succumbed to temptation (see picture). A director of the printing and
+engraving section in Washington said the decision to move the pyramids
+was out of &quot;aesthetic reasons&quot; and every effort is made to avoid this sort
+of thing. &quot;But the main point when using this type of technology is not
+to alter the meaning of the photograph. We certainly didn't do that.&quot;
+  &quot;The only other changes we ever made to photographs was to tone over the
+genitals of naked natives. This is a family magazine, after all. But we
+don't even to that any more.&quot;
+  In a letter to a disillusioned reader, the editor-in-chief of National
+Geographic, Bill Garrett, said: &quot;The effect was the same as if the
+photographer had moved over a few feet. More important (to this issue)
+is how much did the use of a telephoto lens move the pyramids? How much
+did the colour change because of a filter? Were the camels there naturally
+or were they brought there for the picture...?&quot;
+  National Geographic, of course, isn't the only one to have fallen to
+temptation. Company annual reports in the US have appeared with a company's
+new building surrounded by trees rather than the car parks which were in
+the original photo. A 1982 photo book called Idylls of France reportedly
+removed unsightly telegraph poles from a rural scene and litter from a stream
+bed from the original photos.
+  In Australia the ethics of retouching photographs were examined when the
+Sydney Daily Telegraph ran a photo of Gough Whitlam sitting alone at his
+desk shortly after the 1975 sacking. The caption said: &quot;Mr Whitlam, a lonely
+figure in the Federal Caucus room.&quot; In fact, the photo was taken at a press
+conference and a secretary in the background had been painted out.
+  The photographer was suspended from Parliament for two weeks and the paper
+apologised, saying it was an error.
+  However, over at the Sydney Morning Herald photographs appeared in the
+early 1970s on Anzac and Remembrance days showing an old digger with jets
+flying over his head. This was done by superimposing one photo over another,
+both taken on the same day but impossible to get in the same frame.
+  The news editor at the time, David Bowman, stopped this practice, saying
+he thought a photograph should only have in it what was captured in the
+lens.
+  The National Times photographer, Lorrie Graham, whose work has been
+published in books, magazines and newspapers around the world, says there
+is little satisfaction for a photographer in &quot;stooging&quot; a photo.
+  &quot;It is usually only for the benefit of editors and the written word that
+photos are changed. Photos themselves have never been sued, only the captions
+have. But if this practice of forging photos ever happened in newspapers,
+the lawyers would have more money than they can handle.&quot;
+
+
+</subsample>

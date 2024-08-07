@@ -1,0 +1,181 @@
+<subsample>
+	<id> H27a </id>
+	
+
+
+	<source> Vice-Chancellor's Report - 1985. The University of Melbourne
+Gazette. </source>
+	
+
+
+	<bl> by Professor David Caro, Vice-Chancellor </bl>
+	
+
+  To write about a single year is to capture merely a fragment
+of University life - a host of dependent, but often unrelated
+events. Of course, 1985 is no exception.
+  Several events dominate - our research successes, the demand for
+student places, the transfer of the RAAF Academy, and our
+continuing efforts to meet new and pressing obligations
+stemming from recent legislation on social issues.
+  Overall the University can look back on its achievements during
+1985 with satisfaction, even pride.
+  The demand for University of Melbourne courses remained high.
+Of the 15,000 applicants for places, we were able to take
+3,500. The year also saw the introduction of the University's
+special admissions scheme - for students who would not normally
+gain entry under the existing selection procedures. One hundred
+and forty students were admitted under the scheme, 82 from
+Victorian high schools, 19 from Catholic schools, two from non-
+Catholic independent schools, four from technical schools and
+15 from technical and further education colleges.
+  The special admissions scheme has been introduced on a three-
+year trial basis to allow the University to evaluate selection
+procedures. In selecting students, the University considered 
+qualitative information such as school principals' recommendations,
+internal school assessments and work experience.
+
+
+	<h> Anti-intellectual environment </h>
+	
+In a recent address the Minister for Science, Mr Barry Jones,
+said &quot;Australia is one of the few countries in the Western
+World in which the words `academic' and `intellectual' are used
+as terms of abuse.&quot; He is right, and I often wonder how long
+we can afford that.
+  Despite this anti-intellectual environment, the University of
+Melbourne added to its international standing as a research
+institution during 1985.
+  The University signed a $140,000 contract to supply a proton-
+microprobe to the Institute of Physics in Beijing, one of
+China's leading research institutes. The microprobe, developed
+in the University's School of Physics, is the most advanced
+instrument of its type in the world.
+  The `bionic ear', or cochlear implant, developed by Professor
+Graeme Clark's research team at the Royal Victorian Eye and Ear
+Hospital, and the bio-medical firm, Nucleus Limited, has
+spawned sister companies to develop, market and sell the device
+internationally.
+  The University also established a microanalytical research
+centre in the School of Physics, and with other institutions,
+developed a key centre for statistics. The statistics centre,
+one of seven centres of teaching and research funded by the
+Commonwealth Government, was established with Monash and La
+Trobe Universities and the Royal Melbourne Institute of
+Technology.
+  To help expand Australia's commercial activities in China and
+Japan, the Faculty of Law launched an Asian Law Centre.
+Initially the Centre will concentrate on Chinese and Japanese
+Law, particularly in the area of trade and commerce. It will
+initiate preliminary research on legal developments in Korea
+and Hong Kong.
+  An era came to an end on 31 December when the RAAF Academy
+transferred from the University to the new Defence Forces
+Academy in Canberra. The Academy's 24-year association with the
+University has been a proud one - both in teaching and research.
+It has graduated 35 students in physics each year during the
+past few years.
+  About 550 students of the RAAF Academy have been awarded the
+Degree of Bachelor of Science including 50 with honours. Fifty
+students have completed the Degree of Doctor of Philosophy and
+30 the Master of Science. Approximately 500 publications have
+resulted from research activities.
+  During 1985 the University appointed an equal opportunity
+officer, and approved policies on equal opportunity and on
+combating sexual harassment. As well, the University made plans
+to expand its childcare facilities. An additional centre
+accommodating 60 children will be opened in Bouverie Street.
+  Last year I reported the establishment of an Alumni Association
+aimed at strengthening and working with existing graduate
+organizations. Throughout the year alumni meetings were held
+in Brisbane, Sydney, Perth and Canberra, and interest in the
+University and its activities increased significantly. More
+than 200 people attended the launching of the University of
+Melbourne Gallery Society in June. The Society provides a means
+for members to develop and extend their interest in the visual
+arts through an active program of events.
+  During the year the University was saddened by the deaths of
+former Vice-Chancellors Sir David Derham and Sir George Paton;
+Professor Emeritus Wilfred Prest, of Economics; Professor
+Emeritus Victor Trikojus, of Biochemistry; and Deputy
+Chancellor Dr Geoffrey Downes. All served the University with
+distinction and will be greatly missed.
+
+
+	<h> Pressures on education </h>
+	
+The year's events have to be seen within the context of the
+pressures on the whole education system. Universities have to
+function in an environment beyond their own control - an
+environment created by Commonwealth and State Governments.
+  Whether we like it or not, universities are part of the
+political scene. At times the education system suffers from
+political compromises and from interaction between governments
+- often without apparent rhyme or reason. It is a political
+environment which can hamper intellectual pursuit in many ways.
+  In so many aspects of University life we are hamstrung by
+government regulation. The number of students, the way we seek
+funds, and the type and, at times, quality of courses are
+circumscribed by governments.
+  On student numbers, for example, the University must follow
+Commonwealth Tertiary Education Commission edicts.
+  The University would like to accept many more students, but
+funding is not available at this stage. There is much talk of
+increased participation and equality of opportunity but not
+much is actually being done about it. When the Commonwealth
+Government abolished tertiary fees, the change for universities
+was profound. Since then there has been a single source of
+income, not three sources as previously. To some extent this
+hinders state and community objectives.
+  When the change in funding took place, the Commonwealth
+expenditure on education rose from four per cent of the budget
+to 9.4 per cent in one year. Ever since, education has been
+under attack by Treasury and the Department of Finance.
+  Beset by more and more government regulation, by both the State
+and the Commonwealth, the problem for Australian universities
+in the past decade has been to survive and find ways to support
+their proper functions despite the government strait-jacket.
+  At present the Commonwealth Tertiary Education Commission is
+undergoing a further change and it seems certain to increase
+its intervention in university affairs. At the same time, the
+Victorian universities are influenced by the Victorian Post-
+Secondary Education Commission. While the Chairman of that 
+body is most helpful to the universities, the Commission's 
+Act would allow it to have a major impact on universities 
+and it could, at any time, be in conflict with the Commonwealth.
+
+
+	<h> Giving education priority </h>
+	
+Of course, there are many problems - student numbers, funding
+of places, re-introduction of fees, research funding, course
+structure, institutional autonomy, the need to help
+disadvantaged groups . . . But our most serious problem may be
+in the way politicians and bureaucrats think about education.
+Too often it is seen only as an expense without an immediate
+economic return. It is an attitude which leads to debates about
+preparing people for set tasks, cost-effectiveness, and
+frustration as attempts to measure human potential defy
+bureaucratic formulae.
+  Now that the Commonwealth is funding higher education and, in
+part, schools as well, the Federal education budget is around
+$4,000 million a year. Unless this can be reduced significantly, 
+education will be attacked in each budget. We need, therefore, 
+to consider how higher education might be funded by means other 
+than, or as well as by Commonwealth grants. However, the 
+re-introduction of fees is just one issue.
+  The time has come to give education priority in our national
+thinking. One hesitates to advocate an education summit
+meeting, but politicians and educators must begin to set common
+goals for education. At the same time they must agree on the
+best methods to achieve them.
+  For our University there are some concerns but I am convinced
+that with goodwill and good management the University of
+Melbourne will continue to serve its communities - both locally
+and internationally - with distinction.
+  One of the greatest comforts for a Vice-Chancellor is the
+knowledge that he can rely for support on the skills and
+influence of a large and increasingly active body of graduates.
+
+
+</subsample>

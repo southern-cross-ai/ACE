@@ -1,0 +1,21 @@
+<subsample>
+	<id> M01b </id>
+	
+
+
+	<source> Omega Science Digest - March 1986 </source>
+	
+
+
+	<h> Qwertymania </h>
+	
+
+
+	<bl> By Carole Wilkins </bl>
+	
+
+IT was Friday morning.  Another exciting day in a lifetime battle for riches
+and fame.   
+
+
+</subsample>

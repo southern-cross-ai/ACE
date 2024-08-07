@@ -1,0 +1,37 @@
+<subsample>
+	<id> C13g </id>
+	
+
+
+	<source> The News - 18 September 1986 </source>
+	
+
+ 
+	<h> Vamp Grace plays for laughs </h>
+	
+
+
+	<misc> -Vamp (M)
+Academy and Glenelg Cinema City from tomorrow. </misc>
+	
+
+
+	<bl> Preview by Megan Campbell. </bl>
+	
+
+  In her latest film, earthy-voiced singer Grace Jones plays out part of her
+real-life career.
+  The raunchy &quot;wild woman of rock&quot; has been cast as a band leader in Vamp,
+which opens in Adelaide tomorrow.
+  But the slinky Grace is not all she appears to be.
+  In Vamp - a &quot;horror comedy of sex and the supernatural&quot; - she is not only
+Katrina the band leader but (as the title suggests) a vampire and a stripper
+too!
+  Working from the murky depths of the After Dark Club, Katrina and a bevy
+of bloodsuckers treat their nocturnal visitors to some amazing performances.
+  One night a trio of ignorant college students (played by Chris Makepeace,
+Gedde Wattanabe and Robert Rusler) descend on the After Dark Club in search
+of a stripper to entertain at a fraternity party.
+
+
+</subsample>

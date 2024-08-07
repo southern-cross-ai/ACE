@@ -1,0 +1,79 @@
+<subsample>
+	<id> C12d </id>
+	
+
+
+	<source> Adelaide Advertiser - 1 August 1986 </source>
+	
+
+ 
+	<h> The sparkle spread broadly  </h>
+	
+
+
+	<h> MOVIES TO WATCH </h>
+	
+
+
+	<bl> with Stan James </bl>
+	
+
+  THE MIXTURE is a broad cross-section of styles with only a few sparkles,
+and except for some classy efforts from directors Alfred Hitchcock and Bill
+Wilder, the weekend offers less than the rest of the week.
+
+
+	<h> Friday </h>
+	
+
+THE LOST COMMAND (1966, AO) 8.30 p.m. ADS 7. Big-budget, spectacular action
+drama set during the Algerian crisis, with an anti-war message shown through
+Alain Delon as a disillusioned Frenchman and the dilemma of George Segal
+as an Arab faced with a tough Choice. Anthony Quinn is dominant as a French
+officer. The action comes off better than the philosophy.
+
+BRITANNIA HOSPITAL (1983, AO) 8.30 p.m. NWS 9. A biting satire on the British
+National health scheme that is crude, ruthless, shocking and not very funny.
+The events are based around the 500th anniversary of a British hospital, its
+staff - including a mad doctor who transplants heads - a Royal visit and a TV
+reporter (Malcolm McDowell). Much of the film looks grotty and clumsy. 
+
+THE BALLAD OF CABLE HOGUE (1970, AO) 8.30 p.m. SAS 10. There is much to enjoy
+in Jason Robard's warm performance as Hogue, left to die in the desert
+by his prospecting partners, and the long revenge he plans. A very different
+approach from director Sam Peckinpah, as Hogue discovers water in the desert
+and love with Stella Stevens, with a few bitter-sweet touches.
+
+
+	<h> Saturday </h>
+	
+
+THE COUNT OF MONTE CRISTO (1975,G) 8.30 p.m. NWS9. The Dumas classic of wrongful
+imprisonment and revenge was first filmed in 1933 with Robert Donat. Now
+it is Richard Chamberlain, in the fourth version, giving his all in a rattling
+good adventure. Louis Jourdan, Trevor Howard, Donald Pleasence, Tony Curtis
+and Kate Nelligan take it with a pinch of swash and a broad buckle.
+
+THE PRIVATE LIFE OF SHERLOCK HOLMES (1970, PGR) 8.30 p.m. SAS10. One of
+writer-director Billy Wilder's best and most intriguing films gives a new
+view of the Sherlock Holmes legend, using satire, humor and character, about
+Holmes's other life, involving women and drugs. Robert Stephens and Colin
+Blakely are splendid as Holmes and Watson. Genevieve Page is stylish as
+Wilder skilfully manipulates his characters to suit his clever story.
+
+PLUTONIUM 10.20 p.m. SBS. West German thriller about stolen plutonium and
+the potential disaster to ecology entwined with political drama. Charlotte
+Kerr plays an investigative reporter.
+
+
+	<h> Sunday </h>
+	
+
+NORTH BY NORTHWEST (1959, G) 2 p.m. ADS 7. Alfred Hitchcock's most entertaining
+adventure using Cary Grant (one of his best roles) as an advertising executive
+mistaken for a spy. Several brilliant, original sequences and chases, and
+grand performances from Eva Marie Saint, James Mason and Jessie Royce Landis
+as Grant's mother (she was nine months younger than Grant at the time).
+
+
+</subsample>

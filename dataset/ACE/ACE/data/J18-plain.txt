@@ -1,0 +1,262 @@
+By G.A. Mohr, H.R. Milner CHAPTER 6 Finite Element Analysis of Vibrations  
+
+In this chapter the beam stiffness matrix developed in Chapter 5 is used
+to analyse the vibrations of frames. We consider the use of both numerical
+time stepping techniques, in which finite difference approximations in time
+are used for the velocity and acceleration terms, and modal analysis
+techniques. 
+  The modal analysis method involves an initial determination
+of those natural vibration modes (or eigenvectors) which have the most
+significant effect on the dynamic behaviour of the structure. These are
+used to diagonalise the stiffness and mass matrices and thereby transform
+the problem to one of analysing a system of equivalent and independent one
+degree of freedom systems, involving a set of artificial variables. The
+analysis of these independent systems may be readily undertaken by such
+methods as numerical time stepping techniques and Fourier type analyses.
+Finally, modal analysis involves summing appropriate multiples of the various
+natural modes and a transformation back to the original variables.
+
+ 6.1 Dynamic problem types  
+
+There is a variety of forces under which structural response will vary with
+time. Wind and earthquake loading are obvious natural forces and dynamic
+forces from machinery are obvious man-made forces. Structural behaviour
+is influenced by the structure's stiffness, mass and damping characteristics
+and the nature of the forces. However, visco-elastic creep under static loading
+is also a dynamical problem but, because displacements develop slowly, inertial
+effects may be regarded as insignificant. Their omission simplifies the analysis
+considerably and we can regard it as a special case of the more general
+problem.
+  The general equation governing the dynamic behaviour of a structural system
+is 
+  
+  In equation 6.1 the mass matrix M is multiplied by the vector of
+accelerations and the damping matrix C is multiplied into the vector of
+velocities. Mass and damping matrices are considered later and, in this
+introductory text, we restrict discussion to lumped mass systems. K is the
+usual structure stiffness matrix and {Q(t)} is the vector of, in general,
+time dependent loads.
+
+ 6.2 Finite difference expressions used for time stepping  
+
+The most common method of modelling the variation of time is through the
+use of finite difference techniques. We consider a variety of the more common
+approximations.
+
+ Inertial effects not significant  
+
+In problems involving creep inertial effects associated with the mass matrix
+are not significant; we require finite difference expressions only for
+the velocities. In the Crank-Nicolson scheme
+     6.2
+     6.3
+is used where δt is the time step length. The time stepping is 
+centralised about   . Substituting equations 6.2 and 6.3 into equation
+6.1 leads to the recurrence relation
+  6.4
+which is used to compute    from   . In using equation 6.4, 
+Irons and Ahmad recommend that, for consistency, an equation similar to
+equation 6.2 should also be used for the loads   .
+  A second scheme involves using the (n1)th time instant as a
+reference point, ie we write    instead of equation 6.2 and 
+continue to use equation 6.3. This approximation is referred to as a backward 
+difference and leads to the recurrence relationship
+   6.5  
+ This formula has been used extensively in transient heat flow analysis
+but seems to have little advantage over the Crank-Nicolson scheme.
+  A further, very similar, alternative is to use the nth time
+point as the reference, ie we write    instead of equation 
+6.2. This approximation is referred to as a forward difference approximation
+and leads to the recurrence relation
+   6.6  
+If the damping matrix, C, is diagonalised by lumping the damping constants
+at the nodes by intuition, the recurrence relationships, equation 6.6, become
+explicit because only a trivial inversion of diagonal coefficients is required
+to invert the C matrix and enable the time stepping to proceed. Although
+such lumping minimises computational effort, the approach is not particularly
+accurate unless small time steps are used. It can be shown that such
+approximations involve a truncation error of 0δt and are equivalent to
+using linear interpolation in time. On the other hand, the Crank-Nicolson
+method involves a truncation error of    and is equivalent to
+using quadratic interpolation in the time domain. It tends to have superior
+accuracy and is to be preferred.
+
+ Inertial effects significant  
+
+The inclusion of inertial effects involves the use of finite difference
+approximations for the accelerations and values of    at three points in
+time. It is now natural to use the cantral difference method centred about
+the nth time point. Considering the two time intervals,    and
+   the velocities at the centre of these are approximated using
+equation 6.3 giving
+    
+    
+and the accelerations at time tn are then estimated as
+    
+  The velocity expressions used within equation 6.1 is not obtained from
+either of equations 6.7 or 6.8. Rather, we use the centre point,   
+as the point of reference giving
+    
+  Substituting equations 6.9 and 6.10 into equation 6.1 we obtain the following
+recurrence relation
+    
+  This process is often referred to as one of time integration but, in fact, it
+can be viewed as one of extrapolation as all the finite difference
+approximations used above can be obtained from linear or quadratic
+interpolations. Equation 6.9, for example, can be obtained from equation 2.8 by
+replacing L by 2δt.
+
+ 6.3 Time stepping analysis of structural oscillations  
+
+The structure of Fig 6.1 is subject to impressed boundary displacements, such
+as might arise under earthquake loading, in which the ground displacement
+   is a specified function of time. It is not unusual to study such
+oscillations by taking into account only the horizontal displacements of the
+nodes at each floor level. This implies that the bending stiffness of the floor
+beams is infinite by comparison with the columns. We also neglect the
+compression in the floor and roof, so that only a single displacement freedom
+is needed at each level. The stiffness matrix for each column is thus a
+contraction of equation 5.15 in which only the shearing entries V are required.
+We sum the pair of column stiffness matrices at each level, giving 
+    
+  Furthermore, to simplify the analysis, we neglect damping and assume the
+entire mass of the building is concentrated at the first floor and roof levels.
+The concentration of mass in this intuitive fashion is referred to as lumping
+the masses.
+  Assembling the element matrices for each floor level and partitioning
+equation 6.11 to distinguish the specified boundary displacements (subscript
+b) and the free displacements (subscript f), we obtain the recurrence relation
+    
+  As ?b is specified the first row of equation 6.13 is all that is required
+to determine ?f at each time step. Further, we can neglect the masses of the
+columns or alternatively lump them together with the naturally lumped floor
+masses shown in Fig 6.1. In this case the system mass matrix is diagonalised so
+that    is null and both    and    are diagonal matrices. This leads to
+the simplified expression
+     6.14
+where the first term on the right hand side gives the loading effect of the
+specified boundary displacements upon the rest of the system. The matrices in
+equation 6.14 are given by
+    
+  Substituting these into equation 6.14 and dividing through by a common factor
+of 10⊃4 we obtain
+     6.16
+where the constant   .
+  The transient boundary excitation at ground level is taken to be given by
+    
+     6.17b
+with   . As we use a time step length of δt=0.02 secs
+we would expect this to give reasonably accurate results. It follows
+    
+  Substituting this value of    and the specified value of    for
+   into equation 6.16 we obtain the two recurrence relations 
+    
+  Using these results we obtain results close to the exact solution produced
+using the techniques outlined in Section 6.4.
+  Once the recurrence relations have been established it is straightforward
+to code the time stepping solution. This is undertaken for equations 6.19
+and 6.20 in Section 6.5.
+
+ 6.4 Modal superposition methods Free undamped vibrations   
+
+Modal superposition methods are based on solutions of a simplified version
+of equation 6.1, viz
+   6.21  
+  Equation 6.21 describes unforced and undamped vibrations of an oscillating
+system having n degrees of freedom. We view the system as excited by some
+initial disturbance, which causes it to oscillate freely and indefinitely,
+in one of its n natural modes after the initial disturbance is removed.
+  In each of these natural modes, the displacements of each node are in phase,
+ie these all reach a maximum value at the same time. It is assumed that
+the displacements, associated with a natural mode, can be expressed in the
+form
+     6.22
+where       and    are respectively the angular
+frequency (in radians/second), phase angle and vector of amplitudes or
+eigenvector of the    natural mode. On substitution of equation
+6.22 into equation 6.21, we obtain 
+   
+which must be true for all t values so that 
+    
+  Equation 6.23 is a statement of an eigenproblem described in Appendix
+A. Computer routines are given there to extract the eigenvalues, which are
+the square of the frequencies, and the eigenvectors or natural mode shapes.
+  We should note the following additional points:
+ 1 the unit of frequency is Hertz (or cycles per second) and this is related
+  to the angular frequency by
+  
+2 the period to complete one cycle of oscillation is given by
+  Orthogonality and related properties  
+
+One of the important properties of eigenvectors is their orthogonality
+with respect to the K and M matrices. Suppose we have two eigenpairs
+      and       then
+    
+  Premultiply equation 6.26a by    and equation 6.26b by
+   and subtract the two expressions. Noting that K and M are
+symmetric and    it follows that
+    
+  Since the eigenvalues are, in general, different it follows that
+     6.28a
+and it is supposed that, by suitably scaling   
+    
+We conclude from equations 6.28 that
+    
+  If the eigenvectors are scaled to satisfy equation 6.28b, they are said
+to be normalised with respect to the M matrix; both computer routines given
+in Appendix A normalise and output the eigenvectors in this form.
+  Assume also that a square matrix E is constructed, the columns of which
+are the eigenvectors   . If I represents the unit matrix then 
+    
+and   
+where    is a diagonal matrix with values    on the
+leading diagonal.
+
+ Forced undamped vibrations  
+When an undamped structure is subjected to the influence of disturbing forces
+which are maintained, equation 6.1 becomes 
+    
+  It is assumed that, for an arbitrary    the displacements may be
+expressed as a linear combination of the eigenvectors or natural modes.
+Let this linear combination be represented as 
+    
+where {  } represents the various multiples of the eigenvectors to be
+taken. Substituting equation 6.32 into 6.31 leads to
+     
+which, on premultiplication by    and the use of equations 6.30, gives
+    
+  In equation 6.33 the various equations are decoupled, ie these can be
+separated into n single degree of freedom systems each having the form
+     6.34
+where   . To solve equation 6.31 we can now undertake
+the simpler exercise of solving the individual decoupled equations, 6.34,
+by time stepping or other techniques. The final solution is obtained by
+substituting the    values back into equation 6.32 to obtain the
+real nodal displacements {D}.
+  In actual analyses, the problem is simpler than just outlined in that
+only a few of the natural modes contribute significntly to the dynamic
+behaviour, viz those having frequencies close to the dominant frequencies
+in the disturbance. For example, in the well known gust factor method for
+wind disturbance, only the eigenvector corresponding to the lowest mode
+is taken into account.
+
+ Damped forced vibrations  
+
+The introduction of arbitrary damping matrices does not allow the decoupling
+(described above) to take place. This means that the modal superposition method
+cannot be applied in general. In practice, special forms of damping are used in
+which the damping matrix is a linear combination of the mass and stiffness
+matrix. For uniform viscous damping, it is assumed that    which leads
+to the decoupled system.
+
+  
+
+Individual systems can be separated from this equation in the same manner as for undamped systems and have the form
+
+  
+
+If the damping is expressed in terms of the mass matrix then the damping is described as uniform mass damping and, if it is a linear combination of the K and M matrices, it is known as Rayleigh damping.
+
+ Behaviour of single freedom systems 
+
+

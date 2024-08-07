@@ -1,0 +1,23 @@
+<subsample>
+	<id> B11b </id>
+	
+
+
+	<source> The Courier Mail - 15 October 1986 </source>
+	 
+
+ 
+	<h> More of the same </h>
+	
+
+THE balance of trade figures released yesterday show, once again, the serious
+nature of the problems confronting the Australian economy.
+  The much-hoped-for effects of devaluation on restricting imports has
+yet to occur, while exports were sluggish. 
+  Admittedly there were some seasonal factors affecting the month's figures
+but no amount of statistical explanation can disguise the fact that, as
+a nation, we are still spending more than we are earning. The Government
+has every reason for concern and none for complacency.
+
+
+</subsample>

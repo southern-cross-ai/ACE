@@ -1,0 +1,251 @@
+<sample>
+	<id> E34 </id>
+	
+
+
+	<source> Engineers Australia - June 13, 1986 </source>
+	
+
+
+	<note> 2008 words </note>
+	
+
+
+	<h> Highway one </h>
+	
+
+
+	<h> RMIT helps give computer chips a better memory </h>
+	
+
+The Royal Melbourne Institute of Technology has joined a project to
+revolutionise computer memories by producing commercial high-speed,
+non-volatile memory devices for computer chips.
+  The project is based on a technology called Rampac which uses a thin film
+of the ferroelectric material potassium nitrate to store information on
+standard silicon or gallium arsenide chips.
+  Rampac was developed by Ramtron Corp, a US subsidiary of the Sydney
+technology-transfer company Newtech Development Corp. Ramtron staff worked
+with engineers at the University of Colorado at Colorado Springs to prove
+the technology on a laboratory scale.
+  Newtech is now setting up a company in Victoria to manufacture the memory
+devices which are known by the acronym FRAM (ferroelectric random access
+memory). The company will be strictly a manufacturer, and all further R&amp;D
+and testing will be carried out by 2 groups at RMIT - the Microelectronics
+Technology Centre and the Centre for Industrial Microelectronics Applications.
+  MTC director Dr Jim Williams said RMIT is still negotiating a contract
+with Newtech but the 2 groups are likely to earn $1-2 million for contract
+R&amp;D and design assistance.
+  Total investment in the project over the first 2 years will be about $25
+million.
+  Rampac represents a major breakthrough in the search for memory chips
+that do not lose their stored information when power supply is cut off.
+This characteristic, known as non-volatility, is currently available only
+from slow and relatively expensive magnetic bubble and PROM (programmable
+read-only memory) devices. These take milliseconds or microseconds to store
+1 bit of information. FRAM, by contrast, takes about 15ns.
+  Williams said the lack of high-speed, non-volatile memories is what has
+prevented widespread use of chips in environments where continuous power
+supply is not guaranteed - for example in condition-monitoring systems in
+cars.
+  Successful development of FRAM would solve that problem and put Australia
+in a leading position in the non-volatile RAM market, which he estimates
+will be worth about $16 billion by 1990.
+  The feasibility of Rampac technology was first demonstrated by George
+Rohrer, an engineer in the US doing research on ferroelectric materials,
+which can be switched between 2 polarised states by voltages passing through
+them. Ferroelectric materials remain polarised even when power is cut off.
+  Most of these materials lose their ferroelectric properties when they
+are reduced to thin films. But Rohrer found that potassium nitrate, which
+normally is ferroelectric only at high temperatures, also has a ferroelectric
+phase in thin-film form at room temperature.
+  Equally exciting was his discovery that KNO#;3 can be switched between states
+of polarisation by an input of less than 5V, much less than is required
+for other ferroelectric materials. And when the film is partitioned into
+tiny cells, each cell can be polarised individually - the basic principle
+of microprocessor memory cells.
+  Rohrer was negotiating to sell the rights to his technology to General
+Motors when Ross Lyndon-James, executive chairman of Newtech, stepped in
+and bought them instead.
+  Newtech set up Ramtron Corp in the US rather than Australia because of
+doubts about Australia's capacity to develop such an important and
+sophisticated technology. However, now that several technical milestones
+have been reached, including production of a prototype 1kb memory array
+for General Motors, Newtech and its backers feel confident enough to bring
+the technology to Australia.
+  The new factory will initially make memory devices and put them on
+conventional silicon or gallium arsenide chips made in the US. It is expected
+to turn out about 10,000 chips/week after 2 years.
+  A longer-term goal is to manufacture the entire chip assemblies in Australia.
+  Williams said State Government incentives and proximity to RMIT were
+the reasons for the new factory being located in Victoria.
+  &quot;RMIT has a unique combination of the facilities and capabilities needed,
+both for chip design and for depositing and characterising thin films,&quot;
+he said.
+  RMIT's involvement will include design of the chips to be made overseas,
+materials testing and assessment, testing the initial memory arrays and
+general troubleshooting.
+
+
+	<h> QEC helps repair damage from cyclone </h>
+	
+The Queensland Electricity Commission is providing the Solomon Islands
+Electricity Authority with powerline steel structures to repair damage caused
+by cyclone Namu.
+  After receiving a request for assistance from the Solomon Islands, the
+QEC found it had 2 suitable steel structures for a construction project
+that could be supplied to the Solomon Islands without affecting the local
+completion date.
+  The cyclone brought down a 33,000V transmission line that supplied a rice
+mill, major sawmills and a large residential area.
+  The steel structures are needed for a river crossing where an island was
+washed away and a new powerline span of 700m is needed.
+  The QEC is also supplying the services of a surveyor to supervise the
+construction work.
+
+
+	<h> Third Aussat launch date up in the air </h>
+	
+The launch date of Aussat 3 may be delayed by up to 6 months following
+the failure of the recent Ariane mission.
+  The Ariane rocket and its satellite payload had to be blown up by mission
+control in French Guyana when the third stage of the rocket failed to ignite.
+  A committee of investigation will be set up by Arianespace by the end
+of this month.
+  The third Aussat satellite was due to be launched on Aug 12. Aussat spokesman
+Leighton Farrell said a delay of up to 6 months will not worry the company
+which, however, is still confident Aussat 3 will be deployed by the end of
+this year.
+  The other 2 Aussat satellites were deployed by the US Space Shuttle program.
+The decision to launch the third satellite with Arianespace was made before
+the Challenger disaster in January.
+  Farrell said it is not yet clear what implications the Ariane disaster
+will have for satellite operators trying to obtain insurance.
+
+
+	<h> Professional virtue </h>
+	
+Engineers are considered to be more honest and ethical than many other
+professionals including accountants and lawyers and they also rate higher
+than both state and federal members of parliament, according to a Morgan
+Gallup Poll survey of professional virtue contained in a recent issue of
+The Bulletin.
+  56% of the people interviewed for the poll thought engineers had high
+standards of ethics and honesty.
+  Above engineers in the poll came dentists, the top scorer with 63%, doctors,
+bank managers and school teachers. Police were on the same level as engineers.
+  The 2 lowest scorers were union leaders with 5% and car salesmen with
+3%.
+
+
+	<h> Test drilling for proposed harbor tunnel </h>
+	
+Test drilling of Sydney Harbor's floor began this month to establish the 
+best route for a road tunnel proposed as a second harbor crossing.
+  The drilling, being carried out by Coffey &amp; Partners, is only one facet
+of a $2 million feasibility study for the project.
+  The Transfield Pty Ltd/Kumagai Gumi joint venture proposing the $350 million
+tunnel has also engaged the services of other consulting engineers including:
+2 Gutteridge Haskins &amp; Davey Pty Ltd, Maunsell &amp; Partners Pty Ltd and Parsons
+Brinckerhoff of the US as a consortium to design the tunnel's mechanical,
+electrical, ventilation, control, hydraulic and fire control facilities
+2 Macdonald Wagner Pty Ltd, assisted by Freeman Fox &amp; Partners of Hong Kong,
+to design the immersed-tube tunnel section
+2 John Connell-Mott Hay &amp; Anderson to design the land tunnels.
+  GHD is also carrying out land survey and traffic studies for the joint
+venture.
+  All the groups working on the project are being co-ordinated by Wargon
+Chapman Partners Pty Ltd, the design manager.
+  The NSW Government has appointed Pak-Poy &amp; Kneebone Pty Ltd to advise
+it on the engineering aspects of the project.
+  Lee Gibbon, formerly of Transfield's Queensland office, is project manager.
+He has worked on the recently completed Gateway Bridge in Brisbane, 2 other
+major bridges across the Brisbane River and on a 11 km, 880mm-diameter
+submarine pipeline under Spencer Gulf.
+  The joint venture is to complete the feasibility study and report to the
+State Government by the end of this year.
+
+
+	<h> Painting inspired 'city of tents' concept </h>
+	
+A travelling exhibition described as a journey through time and space
+will hit the road in Australia for the full year in 1988.
+  Designed to entertain, delight, celebrate and enjoy, it is an exhibition
+that will be about attitudes, values, perceptions, myths and dreams.
+  The Australian Bicentennial Exhibition will start in Albury/Wodonga on
+Jan 1 1988. It will travel 30,000 km throughout Australia visiting 34 towns
+and cities in all states and territories.
+  Exhibits will include hands-on elements such as computers, interactive
+games and computer-activated audiovisuals.
+  The exhibition will be transported by a convoy of 20 pantechnicons pulled
+by prime movers.
+  At each location 6 pairs of pantechnicons will form display modules
+concentrating on different themes. Each module will comprise 2 pantechnicons
+linked by colorful fabric structures. There will be about 250m2 of exhibition
+space in each module.
+  The dominating feature of the exhibition is expected to be a 25m-high,
+600-seat Bicentennial theatre. Other structures will include a specially
+designed sound shell.
+  The structure of the exhibition was designed by architect Daryl Jackson.
+His concept was selected as the result of a competition conducted by the
+Australian Bicentennial Authority in 1983.
+  Jackson said: &quot;My ideas for the design were inspired in part by a Eugene
+von Guerard painting depicting Ballarat as the tent city it was in the 1850s.&quot;
+  The computer-aided design work for the exhibition's &quot;city of tents&quot; recently
+won a prestigious award in the US against 40 finalists from 5 countries.
+The Best CAD Application Award was made to Computer Plot Australia Pty Ltd
+of Melbourne. It is the highest award made each year at the annual conference
+of the Intergraph International Graphics Users' Group.
+  Jackson used Computer Plot's Intergraph 780 CAD system as a design tool
+to refine his original concept and to produce a series of line drawings
+and colored photographs displaying transparency and shadow.
+  Once he formed the idea for the &quot;city of tents&quot; the structural details
+were added by engineer John Connell &amp; Associates.
+  After this the drawings went to Computer Plot which generated 3D
+full-color models on its CAD system.
+  The models can be rotated and expanded and internal as well as external
+views can be displayed. Computer Plot used the Intergraph sculptured surface
+modelling and RSURF software packages in this work.
+  The contract for 25 prime movers has been awarded to Kenworth Trucks,
+while the order for the pantechnicons is expected to be announced soon by
+the exhibition's project manager, the Federal Department of Housing and
+Construction.
+  The Federal Government is providing $19 million for the project and BHP
+is providing a further $6 million. Other funds will be raised through the
+activities of a bookshop, exhibition shop and food services.
+
+
+
+
+	<h> Bureacratic red tape smothers development </h>
+	
+
+Community concerns about many major engineering developments in the past
+have been largely responsible for the complex review procedures of government
+agencies which now must be satisfied before development proposals can proceed.
+Engineers accept that the environment must be protected and that the community
+should be consulted about planned projects.
+But the approval procedures cause so many uncertainties and delays, says 
+John Hannan, that developers can lose confidence and seek opportunities 
+elsewhere.
+Hannan, who is manager, planning and environment, of the NSW Coal Association,
+says in the Perspective article beginning on page 42 of this issue of Engineers
+Australia that the commendable aim of protecting the environment seems to
+have become lost in a plethora of bureacratic procedures.
+
+
+	<h> RMIT to stay with Rockwell </h>
+	
+The Council of the Royal Melbourne Institute of Technology has rejected
+a move to end RMIT's association with a fellowship scheme run by the US
+arms manufacturer Rockwell International.
+  At its May meeting the Council voted not to accept a recommendation from
+the academic board that the Institute sever its links with Rockwell which
+each year gives 2 RMIT engineering graduates the chance to work in the US
+for 12 months.
+  The academic board's recommendation resulted from a motion put by Andrew
+Dodd, president of the Student's Representative Council, who said RMIT
+should not be the recruitment ground for a nuclear weapons manufacturer.
+
+
+</sample>

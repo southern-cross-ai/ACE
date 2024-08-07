@@ -1,0 +1,202 @@
+By Cao Chong, G B Burns, P Jacklyn 3.  RESULT ANALYSIS 3.1  DIURNAL VARIATION  
+
+The histograms of the percentage occurrence versus Greenwich Mean Time (UT)
+and Magnetic Local Time (MLT) of all optical auroral activity and of optical
+pulsating aurorae are shown in Figure 3. Both phenomena show a single
+occurrence peak at Macquarie Island and a double peak for Davis. Optical
+pulsations are a significantly smaller fraction of all optical auroral activity
+at Davis than at Macquarie Island. Note that while there is considerable
+variation in the percentage occurrence of pulsating aurorae with local time,
+pulsating aurorae have been observed during all hours for which observations
+have been made. This feature has been noted by others Iyengar and Shepherd
+(1961), Paulson and Shepherd (1965, 1966a, 1966b), Campbell (1970) and
+Cresswell (1972).
+
+The occurrences of both optical and pulsating aurorae at Davis have two
+peaks during the interval when observations are possible. The first maximum
+of pulsating aurorae is at about 15 MLT in the early afternoon, and the
+first maximum of optical aurorae is at about 14 MLT, earlier by an hour.
+The second maximum occurs at 23 and 00 MLT for pulsating and optical aurorae
+respectively. The two-maximum phenomenon was observed in the occurrence
+of polar cap aurora by Lassen (1969). However, to the authors' knowledge
+there has been no report of a double-peak phenomenon in the diurnal variation
+of pulsating aurorae.
+
+The first occurrence peak at Davis is nearly the same magnitude as the second.
+The first maxima of the occurrences reach 65% for optical aurorae and 14.5%
+for pulsating aurorae, and second maxima are 58% and 14.3% respectively.
+The occurrence of optical aurorae at Davis is much higher than the occurrence
+of pulsating aurorae. The occurrence minimum is near 18 MLT for pulsating
+aurorae and near 20 MLT for optical aurorae.
+  
+Macquarie Island has only a single-peak in the occurrence of these phenomena.
+The occurrence of auroral activity with no discernible pulsations (obtained
+by subtraction of the two histograms presented) peaks at 27% just before
+magnetic midnight, while pulsation activity reaches a maximum of 32% about
+three hours later. This is consistent with pulsation activity being a post
+auroral break-up phenomenon. The histogram of optical auroral activity reaches
+a maximum occurrence of 48% about one hour after magnetic midnight. These
+features are typical of a trans-auroral station.
+
+Burns (1983) compared the percentage occurrence of pulsating aurorae at
+Macquarie Island with the figures obtained by Brekke (1971) for Tromso
+(67°N geomagnetic latitude). Although there are differences in the 
+analysis procedures used on the two data sets the values are in good agreement.
+
+From Figure 3, the percentage occurrence of optical aurora at Davis is higher
+than that at Macquarie Isaland, and the percentage occurrence of pulsating
+aurora is reversed. In addition, the pulsating aurora at Macquarie Island
+is mainly a morning phenomenon, and at Davis an afternoon and near-midnight
+phenomenon. One aspect contributing to this discrepancy may be the limited
+hours during which it is possible to make optical observations at each station.
+At Macquarie Island optical observations are possible from 19 MLT to 07
+MLT while at Davis the range is 13 MLT to 05 MLT.
+
+The variations in the percentage occurrence of `intense' optical auroral
+activity and `intense' pulsating aurora against UT and MLT are shown in
+Figure 4. The arbitrary definitions of `intense' optical auroral activity
+and `intense' pulsating aurora have been described previously. Although
+the occurrence variations at Davis still have the double-peak, the afternoon
+peak is significantly reduced with respect to the midnight peak for both
+`intense' optical auroral activity and `intense' pulsation activity.
+
+Figure 4 indicates that at Macquarie Island the `intense' auroral events
+peak near magnetic midnight. This is one hour earlier than the peak occurrence
+of all optical auroral events as depicted in Figure 3. The `intense' pulsating
+auroral events peak near 06 MLT. This is four hours later than the peak
+occurrence of all pulsating auroral events as depicted in Figure 3. A plateau
+region of occurrence between the hours 02 and 07 MLT is apparent. It is
+a little later than in Figure 3. The delay of the `intense' optical pulsation
+events relative to the optical pulsation events in general is evidence for
+an increased energy and/or flux of the incident electrons towards the morning
+hours.
+
+ 3.2  THE STUDY OF MOON-LIGHT INFLUENCES  
+
+A separate percentage occurrence calculation was made for data collected
+when the moon was not above the horizon at the observation station. This
+is to determine the extent of `cloud and moon' screening of weak auroral
+events. Tables 2 and 3 list the percentage occurrence of various auroral
+phenomena for all the data, and for the data collected when the moon was
+below the horizon (moon-free) at Davis and Macquarie Island respectively.
+
+The Davis results show that the `Moon-Free Data' values are consistent with
+the results obtained using all the data. Occasionally the `All Data' percentage
+occurrences are a little higher than those of the `Moon-Free Data'. The
+overall agreement between the occurrences of the `All Data' and `Moon-Free
+Data' sets is however very good.
+
+The maximum difference in the percentage occurrence of auroral activity
+between the two data sets occurs between 19 and 20 UT. At this time the
+`All Data' value is 49% and the `Moon-Free' value is 58%, a difference of
+9%. All other values have a difference of less than 5%. The authors claim
+an accuracy of 5% for values obtained from the `All Data' auroral activity
+data set.
+
+The Macquarie Island results show that the auroral activity percentages
+are generally larger for the `Moon-Free Data' except near the edges of the
+time span. The `Moon-Free' peak occurrence of 51% is 3% higher than the
+`All Data' percentage between 13 and 14 UT. The average discrepancy between
+the two data sets is 5%. That the `Moon-Free Data' percentages are higher
+than the `All Data' percentages is consistent with events being missed due
+to being swamped by larger amplitude `moon and cloud' fluctuations. The
+hourly occurrence percentages of pulsating aurora are higher for the `Moon-Free
+Data', but the differences are minor before 16 UT. From 16 to 19 UT the
+differences are more substantial. This difference is in part due to a variation
+in the level of auroral activity between the two data sets. This auroral
+activity information was obtained from cosmic noise absorption data which
+was available with the Macquarie Island data but not the Davis data.
+
+The general feature of the optical pulsating aurora occurrences, namely
+a plateau region between 13 and 19 UT, is maintained in the `Moon-Free Data'
+values with the exception of the auroral activity percentages, which differ
+by approximately 5%. The overall agreement between the `All Data' and
+`Moon-Free Data' sets for Macquarie Island is good.
+
+ 3.3  THE VARIATION IN AURORAL OCCURRENCES WITH THE LEVEL OF MAGNETIC ACTIVITY  
+
+The co-ordinates used in this research are the invariant colatitude, the
+magnetic local time, and the magnetic disturbance level as indicated by
+the Kp index. In order to investigate the variation in the occurrence of
+various auroral phenomena with geomagnetic activity, the data obtained at
+both stations were sorted into three groups on the basis of the Kp value
+at the time of observation. The divisions made were       and   . For
+convenience, we call these three groups the low, medium and high magnetic
+activity groups. To show some characteristics of the optical pulsating aurora
+occurrences, the data were further split to include the divisions    and   .
+The histograms in Figures 5 and 6 show the results, for these data divisions,
+for all optical aurorae and for optical pulsations. The Davis results in these 
+figures show little dependence on magnetic activity. Similar results were 
+obtained by Brekke and Pettersen (1971) at Spitzbergen (75.4°N 
+geomagnetic latitude). Their observations were made during the winter 1967-68 
+and 1968-69 with a photometer having a 10° field of view, and equipped 
+with an interference filter of 200nm f.w.h.m. (full width at half maximum) 
+covering the first negative    band at 427.8nm. The data they obtained were 
+divided for high and low Kp. The curves, however, were not significantly 
+different.
+
+The result for optical aurora occurrences at Davis (Figure 5) shows a slight
+dependence on magnetic activity. An increase in occurrence is associated
+with increasing magnetic activity. However, for pulsating aurorae (Figure
+6) there is no confirmed tendency. The    curve in the early afternoon
+part is higher than for some other Kp levels. All Davis curves in these
+figures maintain the double-peak and there is a discernible trough in the
+afternoon hours.
+
+A slight trend shown in the Davis data is that the early afternoon peak
+(15 MLT) is associated with generally lower Kp values than the midnight
+(23 MLT) peak. This is true for both auroral activity and pulsating auroral
+activity. Figure 7 shows histograms of Kp levels associated with the  peaks for both auroral activity and pulsating auroral activity. For
+auroral activity, for the time period 19-23 UT, 31% of events are associated
+with a    while the value for the 10-13 UT peak is 11%. For pulsating
+aurorae the corresponding figures are 31% and 15%.
+
+The Macquarie Island results in Figures 5 and 6 show that all auroral
+activities are significantly dependent on magnetic activity. The `All Aurora'
+data of Macquarie Island in Figure 5 shows an increase in the time span
+for which the optical activity is observed, and an increase in the percentage
+occurrence, as the magnetic activity increases. The peak in auroral activity
+for each of the three Kp divisions occurs between about 01 and 03 MLT. For
+   optical auroral activity is negligible until 20 MLT, yet the
+   data shows an occurrence of 33% in the hour before 20 MLT. A shift
+in the occurrence of the peak, in optical auroral activity, from near magnetic
+midnight towards the evening sector by two hours, occurs as the magnetic
+activity increases. In all the data divisions for optical pulsating aurora
+in Figure 6, the occurrence is minimal prior to 20 MLT. For    and
+   the occurrence is significantly decreased, with respect to peak
+occurrence values, after about 07 MLT. The times of the peak occurrence
+are gradually shifted to later in the morning with increasing magnetic
+activity. The values of the peak occurrence of pulsating aurora are strongly
+increased as the level of magnetic activity increases. For Macquarie Island
+data in the    division, the occurrence peak is 9.4% at about 02-03
+MLT for the    division the occurrence peak is 37% at about 02-03 MLT 
+and for    division the occurrence peak is 60% at about 03-04
+MLT.
+
+For    the occurrence rate averages above 50% for six hours in the
+morning sector. For the    division the peak occurrence of 84% occurs
+at about 06-07 MLT and the occurrence rate exceeds 50% for seven hours in
+the morning sector.
+
+The morphology of the authors' results is also illustrated in polar diagrams
+in Figures 8(a), 8(b), 8(c) and 8(d) for four increasing levels of magnetic
+activity. In these figures the occurrence data are presented with invariant
+magnetic latitude and magnetic local time as the parameters. The double-peak
+in the Davis data and the single-peak in the Macquarie Island data are readily
+apparent.
+
+Kvifte and Pettersen (1969, 1972) divide their data on pulsating aurora
+into three groups according to the level of geomagnetic activity. The
+observations were performed with four identical photometers at Tromso
+(67°N, 117°E geomagnetic co-ordinates) during the winters of 
+1967-68 and 1968-69. The photometers had a 10° field of view and 
+measured the 427.8nm band emission. To separate the data, the sum of local K 
+indices from 12 GMT to 12 GMT the following day was computed for every night 
+that observations were obtained. The sum values limiting the three groups were 
+set at 14 and 22. These observations show more pulsation activity at high 
+magnetic activity than at low. Note that the Tromso data indicates that 
+pulsating aurora does occur in the evening sector. Normally, the evening 
+pulsation occurrence is low. For high magnetic activity a very low percentage 
+of occurrence is recorded before magnetic midnight and very high values late 
+in the night.
+

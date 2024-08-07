@@ -1,0 +1,60 @@
+<subsample>
+	<id> A15i </id>
+	
+
+
+	<source> The Herald - 5 November 1986 </source>
+	
+
+ 
+	<h> Outcry over prices for Brisbane Expo </h>
+	
+
+
+	<misc> BRISBANE </misc>
+	
+
+- The Federal Government will intervene to try to force 
+down the price of tickets for Brisbane's World Fair.
+  A family of two adults and three children face admission prices 
+of $95 a day.
+  Expo 88 is due to run from April to October over a massive area 
+of Brisbane, centred along the south bank of the Brisbane River.
+  Nineteen countries have so far agreed to take part, with 
+organisers aiming for about 30.
+  The prices, announced yesterday by Expo 88 chairman, Sir Llew 
+Edwards provoked an immediate outcry from consumer groups.
+  Mr Keith Wright, chairman of the Federal Government's Consumer 
+Affairs committee said: &quot;Those prices are unbelievable and it is 
+a great pity.
+  &quot;I shall write officially to Sir Llew, explaining that the high 
+prices will be an early deterrent and will influence people's 
+attitudes about Expo.
+  &quot;I am sure I can convince him the cost of running Expo can be 
+offset by attracting large groups of school pupils and pensioners 
+as well as youth organisations.
+  &quot;We must do something to get that admission price down.&quot;
+  Season tickets during the Expo will cost $160 for adults and 
+$95 for children and pensioners.
+  But the tickets will go on sale soon for $99 and $60, 
+increasing in price by up to $15 each three months until April, 
+1988.
+  Sir Llew said there was a definite incentive to buy season 
+tickets early.
+  He said research showed people with season tickets were likely 
+to visit at least 3 times.
+  &quot;This works out at $8.30 a visit for adults and only $5 a visit 
+for pensioners and children using their early season tickets, 
+said Sir Llew.
+  But Mr Wright, the former State Opposition leader who also is 
+president of the Queensland Consumers' Association, said that by 
+the time inflation gnawed at the season ticket price its 
+advantage would be lost.
+  Mr Wright said the Expo 88 chairman must explain fully how he 
+arrived at the prices.
+  &quot;High prices are such a pity because the social and cultural 
+impact for many Australians, let alone Queenslanders, will be 
+tremendously important.&quot;
+
+
+</subsample>

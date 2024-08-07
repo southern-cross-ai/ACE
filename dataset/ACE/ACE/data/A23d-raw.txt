@@ -1,0 +1,14 @@
+<subsample>
+	<id> A23d </id>
+	
+
+
+	<source> The Courier Mail - 15 October 1986 </source>
+	
+
+ 
+	<h> A pub tradition that grew </h>
+	
+
+
+</subsample>

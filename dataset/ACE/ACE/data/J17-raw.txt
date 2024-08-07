@@ -1,0 +1,288 @@
+<sample>
+	<id> J17</id>
+	
+
+
+	<note> 2026 words </note>
+	
+
+
+	<source> The Effects of Unemployment: Physical and Psychological Health </source>
+	
+
+
+	<bl> By Ross D. Harris, Susan Merrett, Anthony J. Radford </bl>
+	
+
+
+	<h>9.    HEALTH </h>
+	
+
+
+	<h>9.1   Employed/Unemployed </h>
+	
+
+Arising from the literature review of research into the effects of unemployment
+are several inferences that were investigated further in this section of
+the study.  The hypotheses that were formulated were:
+
+1.    Unemployed persons will have a greater number of acute illnesses than
+      employed persons.
+
+2.    Unemployed persons will have more chronic illness than employed persons.
+
+3.    Any increase in illness rates amongst the unemployed can be accounted
+      for in part by poorer health-related behaviour on the part of unemployed
+      persons, (i.e. the stress of unemployment causes the unemployed person
+      to smoke more, drink more etc.).
+
+Hypotheses were investigated by the use of a series of questions within the
+main questionnaire.  Responses from employed and unemployed were analysed
+in the first instance using Chi-square the the Student t-test and McNemar's
+&quot;Test of Proportions,&quot; as appropriate.  Multivariate analyses were carried
+out on a number of dependent variables.  The same independent variables
+were used throughout - employment status, place of birth, age,
+occupation/previous occupation, length of unemployment, family size and
+the respondent's perception regarding whether or not he found it impossible
+to achieve his aims for his family (referred to as `family importance').
+
+Respondents were also grouped according to place of birth (Australia,
+England/Wales/Scotland/Ireland - referred to as U.K., and the Rest-of-the-World
+- referred to as R.O.W.), and responses from employed and unemployed within
+each group analysed by using Chi-square or Student t-test as appropriate.
+
+      Hypotheses 1: `Unemployed persons will have a greater number of acute
+                    illnesses than employed persons'.
+
+This was investigated using a symptom check list to detect recent illness.
+Respondents were asked if they had experienced any of the 25 symptoms listed
+on page A.4 of Appendix 1 in the two weeks prior to interview.  The respondent
+was required to answer either YES or NO for each symptom listed.  Results
+appear in Table B1 (page A.4 of Appendix 1).
+
+The employed and unemployed were compared using `total number of complaints
+listed', as the dependent variable. Unemployed respondents listed a
+significantly higher total number of complaints than employed (F(1,269)
+= 10.56, p = 0.001).
+
+In addition, frequency of reporting of each symptom was analyzed for
+significant differences between employed and unemployed respondents, using
+Chi-square.  Individual symptoms where frequency of reporting showed a
+significant difference between employed and unemployed respondents, appear
+in Table 9.1.
+
+
+	<note> Table </note>
+	
+
+Each of the symptoms in which a significant difference occurred, were reported
+more frequently by the unemployed.  There were no symptoms that were reported
+significantly more frequently by the employed.
+
+All symptoms in Table 9.1 are significant at the p&lt;= 0.05 level.  `Feeling
+depressed', `severe headache', `dizziness', and `seriously overweight',
+are significant at the p&lt;= 0.005 level.
+
+Multivariate analysis was carried out, using `total number of complaints
+listed' as the dependent variable, and examining the main effects, two-way
+and three-way interactions between a number of independent variables (refer
+page 66).
+
+As previously mentioned, there is a main effect of employment status, with
+unemployed listing a higher total number of complaints than employed.  There
+is no main effect for place of birth upon total number of complaints listed
+(i.e. `place of birth' irrespective of employment status).
+
+However, a further analysis was carried out, examining a number of dependent
+variables against whether the respondent was born in Australia, U.K. or
+R.O.W.
+
+Amongst Australian-born respondents, there is a significant difference between
+the unemployed and employed, with unemployed respondents listing a higher
+total number of complaints (t = 2.22, df = 114.86, p = 0.029).  There is
+no significant difference between employed and unemployed respondents born
+in U.K. or born in R.O.W.
+
+There was no effect upon the dependent variable by age, occupation /previous
+occupation, length of unemployment or family size.
+
+There was a main effect of `family importance'.  That is, those respondents
+who felt they were unable to achieve their family aims, list significantly
+more complaints. F(1,201) = 7.88, p = 0.005).  This was irrespective of
+employment status.
+
+There was a significant three-way interaction between employment status,
+place of birth and size of family (F(2,262) = 3.53, p = 0.03).  Amongst
+respondents with 3 or less family members, those who are unemployed and
+born in U.K., listed the highest number of complaints, and those who were
+employed and born in the R.O.W., listed the least complaints.  With a family
+size of three or less, there is demarcation between the employed and
+unemployed, with all unemployed (regardless of place of birth) recording
+more complaints than employed.
+
+In families with 4 or more members, employed respondents who were born in
+U.K. report the highest number of complaints, whereas unemployed respondents
+with the same place of birth, report the least.
+
+The clear dichotomy that occurs with family size &lt;=3 (i.e., all unemployed
+list more complaints) does not occur with family sizes &gt;=4.  With a family
+size &gt;=4, the unemployed record fewer complaints for respondents born in
+U.K. and R.O.W..  For Australian-born respondents, the reverse is true,
+with unemployed respondents listing more complaints than employed.
+
+      Hypothesis 2: `Unemployed persons will have more chronic illness than
+                    employed persons'.
+
+This was investigated by asking respondents to indicate from a comprehensive
+list of commmon chronic conditions, which illnesses (if any) they suffered
+from.  The criteria for a condition to be considered `chronic' were:
+
+2The illness had been diagnosed by a doctor.
+2The illness had been present more than six months.
+
+High numbers of both employed and unemployed respondents reported chronic
+illness fulfilling the above criteria - 69.6% of employed and 71.6% of
+unemployed.
+
+The number of chronic illnesses reported appears in Table 9.2.
+
+
+	<note> Table </note>
+	
+
+The majority of respondents who report having long-term illnesses report
+either one or two chronic illnesses - 43.9% of employed and 37.6% of
+unemployed.  A significantly higher percentage of unemployed report three
+chronic illnesses - 17.2% compared with 6.0% of employed. (z = 2.76, p =
+0.003). Percentages of respondents reporting four and five or more chronic
+illnesses are similar amongst the employed and unemployed. Significantly more
+employed report more than five chronic illnesses (z = 2.36, p = 0.009).
+
+The type of chronic illnesses and the frequency of reporting for employed
+and unemployed respondents, appear on pages A.5 and A.6 of Appendix 1. 
+Responses are summarized up to a maximum of five chronic conditions illnesses.
+
+Despite significant differences in reporting of `three' and `more than five'
+chronic illnesses, there is no significant difference in the total number of
+chronic illnesses reported by the employed and unemployed. The unemployed
+reported the following chronic conditions more frequently than the employed.
+
+      
+	<note> list </note>
+	
+
+The only one of these differences which reaches significance is for `allergy'
+(z = 2.21, p = 0.0136).  It is noteworthy that, though the data is not
+appropriate for reporting significant variation, whereas 5% (5/93) of the
+employed reported heart and coronary disease, 13% (9/67) of the employed
+reported coronary problems.
+
+The employed reported kidney stones and bronchitis more frequently, but
+once again the differences are not significant.
+
+Multivariate analysis was carried out using the total number of chronic
+illnesses listed as the dependent variable.  Results were analysed for main
+effects by the independent variables, two-way and three-way interactions.
+
+Employment status, place of birth, occupation/previous occupation, length
+of unemployment, family size and family importance had no effect upon the
+total number of chronic illnesses listed.  However, when subjected to an
+examination of correlation (Pearson Product-Moment Correlation Co-efficient),
+length of unemployment was significantly correlated with number of chronic
+illnesses (n = 105; r = 0.22; p&lt;0.05).  Furthermore, Chi-Square analysis
+of numer of chronic illnesses against months of unemployment indicates a
+significant increase in the number of illnesses reported in those unemployed
+for more than 12 months.
+
+The important implication for further investigation is that illnesses multiply
+in the population who endure a series social dislocation (e.g. unemployment)
+for longer than a year.
+
+There was a significant main effect for age (F(3,201) = 6.0, p = 0.001).
+Age was divided into 4 categories &lt;=35, 36 - 45; 46 - 55; &gt;=56.  Those aged
+46 - 55 years of age listed the highest total number of chronic illnesses,
+followed by &gt;=56 years of age.  Those aged less than or equal to 35 years
+of age, reported the least chronic illness. (This effect was independent
+of employment status).
+
+A significatnt two-way interaction was found between length of unemployment
+and place of birth (F(6,92) = 2.82, p = 0.015).  Those born in U.K. who
+had been unemployed more than three years listed the most chronic illnesses.
+
+Respondents were asked to what degree they found their chronic illness to
+be limiting.  Reference to Table 9.3 shows 6.4% of unemployed reported being
+unable to work at all (compared with no employed) and 17.4% of unemployed
+reported being able to carry out some work but not a full day's work (compared
+with 6.0% of employed).  Cross-tabulation of results and application of
+Chi-square shows the unemployed to report significantly more disability
+as a result of their chronic illness (X2 = 23.12, df = 3, p&lt;=0.001)
+
+
+	<note> Table </note>
+	
+
+There are a number of behavioural parameters that reflect an individual's
+perception of their health.  These were investigated in this study in order
+to further address the hypothesis that the unemployed are `less well' than
+the employed.  The behavioural indices used in the Mature Unemployed Study
+were: days spent in bed recently due to illness/injury; the degree to which
+illness had compromised normal daily activities; recent hospital admissions;
+consultations with health professionals; and medication use.
+
+The numbers of employed and unemployed that reported spending days in bed
+over the two weeks prior to interview due to accident or illness were not
+significantly different (5.4% of employed and 4.6% of unemployed).  There
+were no significant differences in the number of days spent ill in bed in
+the two weeks prior to interview, in limitation of daily activities due
+to illness or injury in the two weeks prior to interview, or in the number
+of days that activities were limited.
+
+There is no significant difference in the number of hospital admissions
+in the twelve months prior to interview.  7.7% of employed respondents and
+12.8% of unemployed respondents having had hospital admissions.  1.8% of
+unemployed respondents (and no employed respondents), had been admitted
+to a psychiatric hospital within the same period.  In both groups, the majority
+of thoe*those who had experienced admission to hospital, had done so on
+only one occasion.
+
+The reason for the most recent hospital admission appears in Table B3, of
+Appendix 1.  Significantly more unemployed (7.3%) were admitted for surgery
+than employed (z = 1.78, p = 0.0375).  No other differences between employed
+and unemployed are significant.  The employed are fairly evenly divided
+between admissions for surgery (2.4%) and admissions for sickness/illness
+(3.0%).
+
+Respondents were asked to indicate the last time they had consulted a doctor.
+Results are summarized in Table 9.4 below.
+
+
+	<note> Table </note>
+	
+
+Significantly more unemployed than employed had visited a doctor within
+the two weeks prior to interview (z = 2.06, p = 0.0197).  There was no
+significant difference in respondents who had visited a doctor two weeks
+to three months ago.  The difference between employed and unemployed once
+again became significant in the three months to six weeks time period, with
+less unemployed having consulted a doctor than employed within three to
+six months of the interview ( z = 2.239, p = 0.0084).  Figures for six to
+twelve months and more than twelve months showed no significant difference.
+
+Multivariate analyses were carried out on two dependent variables:
+
+2Last time a doctor was consulted.
+2Total number of visits to the doctor in the week prior to interview.
+
+With the first dependent variable (`last time a doctor was consulted'),
+data was analysed within four time frames: 1) less than three months; 2)
+four to six months; 3) seven to twelve months; 4) more than twelve months.
+This analysis failed to separate the figures for `two weeks ago or less',
+and the significant difference shown in Table 9.4 was not apparent.
+
+For the second dependent variable mentioned above, (`total number of visits
+to the doctor in the week prior to interview') there were no effects from
+employment status, place of birth, occupation/previous occupation, length
+of unemployment, family size or family importance.   
+
+
+</sample>

@@ -1,0 +1,261 @@
+4. Impact on manufacturers' input prices and costs 4.1 Introduction 
+
+The depreciation of the Australian dollar is expected to
+influence the manufacturing sector in a number of respects.
+First, imported goods which are close substitutes for
+domestically produced goods are a source of actual and
+potential competition for local manufacturers. To the extent
+that prices of competitive imports are raised by the
+depreciation, this provides domestic producers of import-
+competing goods with a relative price advantage. Secondly, many
+manufacturers use imported inputs in their production
+activities, either in the form of capital goods (machinery and
+equipment) or intermediate goods (raw materials, semi-processed
+materials, and components). In so far as the depreciation leads
+to higher domestic currency prices of imported goods, the
+production costs of local manufacturers are thereby raised
+directly.
+
+In this chapter, consideration is given to the magnitude of the
+price increases charged by overseas suppliers of materials and
+components to domestic manufacturers following the
+depreciation, and the speed with which the price increases were
+transmitted. In seeking to explain differences in these price
+changes across industries, information is provided on the
+countries from which the imports were sourced, the currencies
+in which the contracts were denominated, and the order and
+payment lags involved.
+
+One benefit expected from a depreciation is that the resultant
+change in relative prices should lead to a switch in demand
+away from imported goods to relatively less expensive
+domestically produced substitutes. Findings are presented on
+how volumes of purchases of imported and domestically produced
+materials and components by manufacturers changed following the
+depreciation in 1985, and how they were expected to change
+during the first half of 1986.
+
+One factor which influences the extent to which manufacturers
+switch their purchases is the degree of substitutability
+between imported and domestically produced materials and
+components. Accordingly, information is presented on the extent
+to which such import substitution on the input side is feasible
+for manufacturers, and some evidence provided of examples of
+import substitution which have actually taken place as a result
+of the depreciation.
+
+Throughout the chapter, as well as attempting to gauge the
+quantitative magnitude of the price changes and volume
+responses, consideration is given to identifying the time lags
+involved.
+
+
+ 4.2 Characteristics of the firms surveyed  
+
+The 109 manufacturers who responded to the survey were
+classified to industry groups on the basis of their predominant
+activity. The number of firms in each industry group are given
+in Table 4.1, and the distribution by employment size is shown
+in Table 4.2.
+
+As noted in Chapter 1, in selecting the sample of firms, more
+emphasis was placed on those firms which use imports as inputs
+in their production processes and/or whose output is
+competitive with imports. While the coverage of firms across
+industries may therefore not be fully representative of the
+output structure of manufacturing, it is nevertheless thought
+to be satisfactory for the purposes of this study. Further,
+while a very small proportion of the respondent firms are
+`small' (employing less than 100 persons), it is the reactions
+of larger firms to the depreciation which have the greater
+quantitative impact on output and employment changes, and for
+this reason the study gives them greater coverage.
+
+The effect of the depreciation on individual industries would
+be expected to differ, depending on the extent to which they
+are import-using and/or import-competing. Import usage will be
+considered first.
+
+The vast majority of the 109 manufacturing firms were engaged
+in importing, either of materials and components for use in
+production and/or final goods to complement their product
+range. In 1985, some forty-seven of the 109 manufacturers were
+directly involved in both types of importing activity, thirty-
+five firms imported materials and components only, and seven
+firms imported final goods but not materials or components.
+Only twenty of the 109 manufacturers did not engage in any
+direct importing activity.
+
+In order to assess how important the use of imported inputs
+(materials and components) is in manufacturing production,
+information was sought on the cost structure of firms. The
+relevant data are set out in Table 4.3.
+
+For the ninety-two manufacturers imported inputs accounted, on
+average, for around 21 per cent of production costs in 1985,
+while domestically produced inputs accounted for around 36 per
+cent. However, considerable differences are apparent across
+industries in the relative share of costs accounted for by
+these two categories of inputs. Imported materials and
+components accounted, on average, for a relatively small share
+of costs (less than 10 per cent) in Non-metallic mineral
+products and Basic metal products, but represented one-quarter
+or more of total production costs in five industries -
+Textiles, Chemical products, Transport equipment, Appliances
+and electrical equipment, and Industrial machinery and
+equipment. Domestically produced materials and components were
+used most intensively in Wood, wood products and furniture,
+Paper and paper products, Basic metal products, and Fabricated
+metal products.
+
+  
+
+In order to provide additional information on the distribution
+of the share of imported inputs in total production costs of
+manufacturers, firms were assigned to the categories listed in
+Table 4.4. For 19 per cent of firms imported inputs accounted
+for less than 5 per cent of costs, whereas at the other extreme
+they accounted for one-third or more of costs in approximately
+25 per cent of firms.
+
+In addition to undertaking the importation of materials and
+components, many manufacturers also engage in importing final
+goods. Information on the share of domestic sales in 1984-85
+accounted for by domestically produced goods, and imported
+final goods, was provided by all but two of the 109
+manufacturers (Table 4.5). For the majority of firms, imports
+of final goods represented only a very minor share (less than
+5 per cent) of total sales. However, for about one-quarter of
+the firms they accounted for 10 per cent or more of domestic
+sales, and for two firms more than 50 per cent.
+
+Turning now to the extent of import competition faced by local
+manufacturers, two important determinants of the extent to
+which an industry is import-competing are (l) the proportion
+of imports which compete with domestic production, and (2) the
+proportion of the domestic sales of the industry accounted for
+by competitive imports. The latter variable (market penetration
+by competitive imports) is conventionally used as an indicator
+of the degree of actual import competition faced by domestic
+sellers in an industry. However, firm behaviour is also
+influenced by the threat of potential import competition.
+
+Information on the relative importance of competitive and non-
+competitive imports across industries, together with the market
+penetration of competitive imports, is presented in Table 4.6. 
+The definitions of competitive and non-competitive imports
+are those used by the IAC. Non-competitive imports are defined
+as those which attract minimum rates of duty (2.5 per cent or
+less), including those which enter under by-law concessions.
+It is reasonable to assume that higher tariff duties have not
+been imposed on such goods because there is no domestic
+production of close substitutes. Non-competitive imports mainly
+comprise capital equipment, materials and components, and some
+consumer durables. Competitive imports on the other hand are
+those which enter at higher rates of duty (2.5 per cent or
+more), and which tend to compete more closely with domestic
+output.
+
+At the broad industry group level, market penetration by
+competitive imports is most important in Textiles, Clothing and
+footwear, Transport equipment, Appliances and electrical
+equipment, Industrial machinery and equipment, and Other
+manufacturing. Of course, a more finely disaggregated industry
+classification would reveal instances of significant import
+competition within some of the other broad industry groupings.
+
+ 4.3 Prices of imported materials and components  
+
+The extent to which domestic manufacturers have experienced a
+competitive advantage as a result of the depreciation of the
+Australian dollar is dependent on the pricing responses of
+importers of competing goods, and the impact of the
+depreciation on domestic costs of production. One aspect of the
+latter is the extent to which the prices of imported materials
+and components have increased as a result of the depreciation.
+
+Over any given period, changes in landed duty-paid prices of
+imports can reflect a variety of factors - for example,
+movements in exchange rates, fob prices in foreign currencies,
+freight and insurance costs, and tariff rates. The dramatic
+fall in the Australian dollar which began in February 1985 was
+clearly the most important factor which affected price changes
+of imported materials and components during 1985. However,
+Australian dollar prices of imports may not change by the full
+extent of the depreciation if overseas suppliers choose to
+absorb some or all of the effect of the exchange rate change
+by reducing their Australian export prices in terms of their
+own currency.
+
+ 4.3.1 Changes in prices of imported materials and components  
+
+Of the eighty-two manufacturing firms directly importing
+materials and components, sixty-six provided information on how
+prices of these inputs changed during 1985, and how prices were
+expected to change during the first half of 1986. The half-
+yearly and annual information is presented in Figure 4.1, while
+the more detailed quarterly data are set out in Appendix Table
+A4.1. Seventy-seven firms provided data on price movements for
+all imported inputs used, i.e. those imported directly and also
+those purchased from local importers. Because the price changes
+in both series were very similar, only the direct imports data
+are presented.
+
+Across all firms, the most substantial changes in prices paid
+for imported inputs took place in the first half of 1985. On
+average, prices increased at a rate of 7.1 per cent in the
+March quarter, and 8.3 per cent over the June quarter, giving
+a compound rate of 16.0 per cent for the first half of 1985.
+
+The rate of increase in the prices of imported inputs moderated
+somewhat in the second half of 1985. Over the full year, prices
+of imported inputs increased, on average, by 26 per cent. The 
+rate of increase is expected to slow still further over the
+first half
+
+  
+
+of 1986. For this period, the firms surveyed expected prices
+of imported inputs to rise at a rate of only about one-third
+that of the first half of 1985.
+
+There are substantial interindustry differences in the
+magnitude of price increases charged by overseas suppliers to
+domestic manufacturers following the depreciation. Price
+increases appear to have been well above average in Wood, wood
+products and furniture, and Appliances and electrical
+equipment. The speed with which price increases for imported
+inputs took place is also of considerable interest. A measure
+of the speed of price adjustment is provided by the ratio of
+the first quarter price increase to the annual increase. On
+this basis, price increases were transmitted relatively quickly
+in Textiles, Fabricated metal products, Transport equipment,
+Appliances and electrical equipment, and Industrial machinery
+and equipment (refer Appendix Table A4.1). For these
+industries, approximately one-third or more of the annual
+increase was passed on within the first quarter of 1985. The
+largest impact was felt after a lag of at least one quarter in
+Wood, wood products and furniture, Paper and paper products,
+Chemical products, and Basic metal products.
+
+ 4.3.2 Sourcing of imports of materials and components  
+
+The observed price increases for imported materials and
+components faced by manufacturers reflect, in part, the
+different countries of origin of these imports and the
+different degrees of absorption of the effects of the
+depreciation by overseas suppliers. To shed some light on these
+aspects, an examination is made of the countries from which the
+imports of the respondent firms were sourced, and the extent
+to which the Australian dollar depreciated against the
+currencies of these countries.
+
+The major countries from which imports of materials and
+components were sourced by the respondent firms in 1985 are set
+out in Table 4.7. Across all industries, the major source
+countries were the United States, Japan and West Germany. Other
+countries tended to be important only in particular industries - 
+for example, New Zealand in Textiles and Paper and paper
+products, Canada in Non-metallic mineral products and Paper and
+paper products, and Asian countries in Clothing and footwear.
+

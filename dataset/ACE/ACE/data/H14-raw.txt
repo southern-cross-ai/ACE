@@ -1,0 +1,241 @@
+<sample>
+	<id> H14 </id>
+	
+
+
+	<note> 2023 words </note>
+	
+
+
+	<source> New South Wales State Water Plan
+Water Policies for the Future. A Report to the Minister for Natural Resources
+by the State Water Plan Task Force 
+Water Resources Commission, New South Wales </source>
+	
+
+
+
+	<h>7.2.4     Transfer of Rural Water Allocations </h>
+	
+
+
+	<h> Transfer of Irrigation Surface Water Allocations </h>
+	
+
+In a growing economy there is continual autonomous, or natural, adjustment
+by businesses to changing circumstances.  Adjustment may mean changing the
+proportion of inputs used, the production process, the products produced,
+or the location of the production process.  In the long term, industries
+will come and go, be prosperous or unprofitable and grow or shrink.  The
+steel, coal, irrigated horticulture and dairy industries are all examples
+of industries that have undergone major changes in recent times.
+
+By and large, this adjustment process occurs naturally as part of the country's
+economic and social development and in response to trading relationships
+with the rest of the world. Even so, there are frequent barriers to this
+natural process of adjustment - barriers that may not prevent adjustment
+occurring altogether but rather that slow it to a degree that causes problems
+to emerge.  Typical symptoms of these barriers are low incomes within
+identifiable groups and price levels that are much higher in Australia than
+for similar products elsewhere.
+
+State and Commonwealth Government policies for the rural sector have, since
+the early 1970s, paid significant attention to facilitating adjustment to
+change.  The 1980s will continue to see policy emphasis on encouraging the
+rural sector to adjust to change.  To do otherwise will only defer adjustment
+that would occur eventually anyway and which then would be more costly in
+terms of welfare problems and lower economic growth, and which would restrain
+the distribution of benefits from change.  Capacity to adjust will be essential
+to the irrigation industry as the price of water is increased to reduce
+the gap between the revenue and the recurrent costs of the rural water supply
+and distribution systems. 
+
+One means of providing farm management flexibility in the face of change,
+and of improving the allocation of water, is to allow transfer of water
+or water entitlements between irrigators on a rental or a sale (permanent)
+basis.
+
+A water transfer scheme can also provide progressive irrigators with the
+incentive and the means to substantially improve on-farm efficiency at little
+or no financial cost.  By exploiting more water-efficient techniques such
+as spray, drip and micro-irrigation and land forming, a proportion of an
+irrigator's water allocation could become surplus to requirements.  This
+surplus allocation could then be either rented annually or sold to another
+irrigator, so providing additional income which could be used to pay-off
+the capital invested in the new irrigation techniques and perhaps provide
+some additional cash as a reward for more efficient water use.
+
+Further, with the maturity of the water system, resource management, rather
+than further development, has become the main avenue for progress in the
+industry.  The drought of the early 1980s, one of the worst on record,
+reinforced this view by confirming that storages alone could not save
+irrigators from prolonged drought.  It is now considered that water management
+mechanisms aimed at providing irrigators with greater flexibility in making
+use of meagre water supplies might be more effective in alleviating some
+of the problems of drought.
+
+From the Water Resources Commission's experience with a trial surface water
+transfer scheme introduced for the 1983/84 irrigation season and continued
+into the 1984/85 season, there does not appear to be any impediment to allowing
+annual water transfers to continue in future.
+
+Annual water transfer arrangements would operate on the basis of the sale
+of a `volume' of water rather than the sale of entitlements to water.  In
+each case, the water entitlement would remain with the existing licence
+holder.  Because water entitlements would not be traded, changes to the
+Water and Irrigation Acts are not envisaged.
+
+The annual transfer arrangements could operate much like the existing temporary
+scheme with a number of conditions made less restrictive.  In particular,
+the transfers would be possible in any season irrespective of the water
+supply situation at the commencement of the season.  This is in contrast
+to the existing temporary scheme which only allows transfers in most river
+valleys if the initial allocation is less than 100 per cent and then limits
+the amount available for transfer to the difference between the initial
+announced allocation and an irrigator's full allocation.  At this stage,
+merit is seen in allowing irrigators to trade up to an amount of water
+equivalent to their full allocation in any season.
+
+Permanent transfer of water entitlements (that is, the sale of water
+entitlements) is more complex.  First, in order to ensure an effective market,
+permanent water entitlements need to be more specific in terms of volume
+and more secure in reliability of supply.  The Water Act and the Irrigation
+Act would need amendment to allow the present volumetric allocations to
+become the legal entitlement in irrigation areas and districts rather than
+the now virtually-superseded water right.
+
+Second, permanent water transfers on a large scale may over-tax the supply
+capacity in some parts of the river systems, or of channels and drains within
+irrigation areas and districts.  There are definite economies in operating
+area and district distribution systems at or near full capacity.  Permanent
+transfer of water away from any part of this distribution network may erode
+these economies, making the systems more costly to operate per unit of
+delivered water and, in turn, making water more expensive for the remaining
+users.  Significant transfer of water away from any part of the network
+may make it both physically and economically impractical to operate.  Further,
+a concentration of water use in some localities could exacerbate existing
+or potential water logging and salinity problems.
+
+Finally, there is concern by some irrigators in the irrigation areas and
+districts that the introduction of marketable transfers will force the small
+landholder out of irrigation.  There is also a concern that permanent transfers
+could encourage corporate interest in irrigation and, in time, permit
+substantial corporate ownership of irrigation area holdings.  It is feared
+that this will mean diversion of farm profits and purchases away from local
+businesses and have adverse effects on civic and community amenities.  There
+is no evidence to support these views.  Marketable transfers are just like
+the sale or rental of any other property - the seller/renter does so only
+if satisfied with the price or rental.  In this way, ownership of entitlements
+to water is similar to land ownership and the ability to trade water or
+water entitlements is similar to land transactions.  The relative freedom
+from restriction of a large component of the rural land market outside the
+irrigation areas has not led to the demise of the family farm and there is
+no evidence to suggest that marketable water transfers will increase the
+chances of this happening.  More likely, by providing the family farm with
+more flexibility to adjust and a means of exchanging capital assets for
+cash (either water rental income or proceeds from outright sale), the farm's
+and the local community's chances of survival and betterment will be enhanced.
+
+The concept of permanent transfers is definitely worthy of further detailed
+consideration.  Permanent transfers are the only means by which long-term
+permanent changes in water demand can be accommodated.  Presently, the concept
+of permanent transfer is not well accepted by the irrigation community and
+there are obvious operational and economic difficulties in its application
+in the irrigation areas and districts.  Outside the areas and districts,
+licensed pumpers have expressed concern that, in periods of low financial
+returns (due to poor seasons or commodity prices), irrigators with substantial
+borrowings may be forced to sell some, or all, of their entitlement in order
+to meet financial commitments where otherwise financial institutions mostly
+would have accommodated their needs.  To safeguard against such a situation,
+licensed pumpers argue that annual transfers provide adequate flexibility
+in water management.
+
+
+	<h> Intersectoral Transfers </h>
+	
+
+From a standpoint of economic efficiency, there is no reason why water should
+not be transferred between distinctly different uses.  Increased economic
+efficiency will clearly result from a shift of water from irrigation, which
+is a relatively low value use, to other uses such as power generation, town
+water and industry where a demand for water for these purposes exists.
+
+It can be argued that such improvements in economic efficiency may be gained
+at the expense of income distribution and wealth.  Because the impacts of
+major water re-allocation may be significant, these should be quantified
+and evaluated before transfers between sectors are permitted.
+
+A major consideration in intersectoral entitlement transfer is the vastly
+different capacity to pay of*off buyers from different sectors - industry
+and towns will always be able to outbid irrigators.  This provides the party
+with the greater capacity to pay with far greater leverage in the bargaining
+process, particularly as irrigators generally have imperfect knowledge about
+water in alternative uses.  This suggests that intersectoral transfers should
+not be by private treaty as in the annual water transfer arrangements. 
+Rather the Water Resources Commission could `broker' intersectoral transfers
+- buying from irrigators at a capitalized price derived from prevailing
+prices for annual irrigation transfers and selling at a price in keeping
+with the new users' preparedness to pay.  Agreement to intersectoral
+entitlement transfers will require detailed investigation of this and other
+aspects and a policy will need to be developed in close consultation with
+all interested parties.
+
+Annual transfer arrangements need not prohibit intersectoral transfer. 
+Apart from very dry seasons when water sharing arrangements restrict all
+sectors, it is doubtful whether there are many other occasions when actual
+transfers would be attractive to non-irrigation users.  At times when transfers
+may be attractive, short-term policies could be developed in consultation
+with all water users and applications to transfer could be assessed on a
+case-by-case basis.
+
+
+	<h> Transfer of Groundwater Allocations </h>
+	
+
+The rationale for allowing surface water allocations to be transferred among
+users has just been discussed.  A similar rationale applies to groundwater.
+Initial allocations for the major aquifers are being determined.  If these
+allocations are not transferable, the initial allocations will determine
+the long-term efficiency of water use, as the inefficient farm is allocated
+the same water as the efficient farm.  In many respects, the relative
+efficiency of the initial allocations is not critical provided that
+re-allocation can take place over time to achieve optimum efficiency.
+
+Provisions for transferability have been included in the allocation schemes
+so far developed.  But transferability of groundwater allocations must be
+governed by the physical characteristics of aquifers.  The effects of excessive
+withdrawals in some areas, such as local drawdown of water levels, must
+be examined before transfers are allowed.  Implicit in this is that the
+Water Resources Commission must have adequate knowledge of possible aquifer
+behaviour so that quick decisions can be made on whether individual transfers
+should be allowed.
+
+Transfers of allocations between different sectors - for example, irrigation
+and industry - to meet future demands for water, have*has also been discussed.
+For groundwater this is also an option, particularly if the adopted life
+of the aquifer is to be adhered to.  However, the nature of groundwater
+is quite different to surface water and there are more options available
+to meet emerging demands.  Thus, it is best if each situation is examined
+case by case to determine the best way to meet these demands.  However,
+clear provisions should be available in the legislation to allow both temporary
+and permanent transfers of water allocations, subject to physical
+characteristics of the aquifer.
+
+
+	<h> Future Action </h>
+	
+
+Given that presently there is little knowledge or understanding of the social,
+economic and operational impacts of permanent transfers, the best course
+appears to be to allow annual water transfers in any season, regardless
+of the surface water supply situation, and to allow irrigators to trade
+any volume of water up to the equivalent of their full allocation.
+Intersectoral annual transfers should be permitted, although each proposal
+to do so should conform with guidelines for such transfers developed by
+the Water Resources Commission in consultation with local water users and
+other interested parties.
+
+Further investigation must be undertaken of options for permanent transfer of water entitlements of surface water and groundwater. Ultimately, permanent transfer, particularly of surface water, will be essential to reallocate water entitlements to higher value users either within a sector or on an intersectoral basis.
+
+
+</sample>

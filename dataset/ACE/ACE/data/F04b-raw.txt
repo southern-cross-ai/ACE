@@ -1,0 +1,172 @@
+<subsample>
+	<id> F04b </id>
+	
+
+
+	<source> Good Government - February 1986 </source>
+	
+
+
+	<h> IS DEMOCRACY POSSIBLE? </h>
+	
+
+
+	<bl> Professor John Burnheim </bl>
+	
+
+
+	<misc> Professor John Burnheim is from the Department of General Philosophy,
+University of Sydney. </misc>
+	
+
+
+	<h> The Problem of the State </h>
+	
+
+  Surely we have democracy! Not if it means that all citizens have an equal
+chance of an active participation in public affairs. What we have is a
+competition between organised political elites for the majority vote, which
+gives them the right to govern. We elect professional power-brokers who
+trade with each other their votes and patronage. The results of the game
+are determined by concentrating power in organisations which are not
+controlled directly by the people affected by their activities - political
+parties, commercial organisations, lobby groups of all sorts and so on.
+These in turn attempt to manipulate public opinion and voting behaviour,
+especially the relatively small group of `swinging voters' in marginal
+electorates. On the whole the power of the electorate is limited to refusing
+to re-elect a government that offends these strategically placed bodies
+of voters. It is a far better system than any of its actual competitors,
+but it has very serious weaknesses. 
+  The central problem is that it rests on an assumption that public life
+must be organised in the form of States which exercise sovereignty over
+every aspect of life in a given territory through their monopoly of legitimate
+force. The system of States normally ensures a sort of peace and order within
+each State, but at the cost of a perpetual tendency to war between States.
+Internal peace is achieved at the price of a concentration of power that
+breeds abuse of power. Rival groups strive to use State power to their own
+ends, and in doing so constantly tend to increase the range of functions
+of the State and the range of means at its disposal. Social life becomes
+more and more standardised, bureaucratised and mystified. The tasks of
+government become increasingly more difficult and as they fail in those
+tasks governments are drawn into repression and war.
+  Advocates of `small government' contrast the efficiency and responsiveness
+of the market with the inflexiblity, expense and stifling effects of
+bureaucracy. But the market, too, is far from democracy. If it enables
+us to have a more flexible say in what we get as consumers, it gives most
+of us very little opportunity as producers. Most of us simply sell to somebody
+else the right to tell us what to do in our work. Moreover, the market
+cannot take account of things like the needs of future generations, the
+provision of public goods, or the righting of wrongs. One may argue endlessly
+about its scope, but there must be a `public sector'.
+  One of the crucial powers of the State is that of taxation. I believe,
+in sympathy with Henry George, that public revenue should come from the
+revenue from natural resources, though I envisage the way in which this would
+best happen and its rationale somewhat differently. The power to tax should,
+if possible, be eliminated.
+
+
+	<h> Functional Decentralisation </h>
+	
+
+  In the context of the State public goods of all sorts are provided by
+centralised authorities at each level of government. Even at the local city,
+municipal or shire level a large range of functions, e.g. roads, parks
+and recreation facilities, health clinics, libraries, building regulations,
+waste collection and so on are provided by a centralised body, even though
+there is no reason in terms of the functions themselves for doing so. The
+problems of libraries are quite different from those of garbage collection,
+and each has more affinity with similar activities in other areas than with
+each other. Moreover, granted modern mobility and the diversity of people's
+work and recreational interests, the local community hardly exists. We
+belong to many different specialised communities that overlap each other
+in a host of differing and fluid patterns.
+  The diverse activities that are joined together at municipal level
+are united solely by the need for administrative and financial control.
+Would it not be better to hand each over to a committee of people who had
+an interest in that specific activity? That way we would abolish a level
+of bureacracy, allow more flexible allocation of geographical boundaries
+to various activities, and increase the opportunities of popular participation.
+  The same principle can be applied at every level of government, right
+up to international level. The idea of a world State is horrifying. But
+there are already some international agencies that exercise considerable
+authority in specific areas without being dependent on any higher body.
+The functions of States could be dispersed to a variety of independent
+bodies. Naturally, these would have to cooperate among themselves and recognise
+appropriate regulatory and adjudicating bodies which would hear appeals
+against them, adjust their constitutions in tune with changing circumstances
+and needs, and resolve disputes between them. Insofar as these higher bodies
+need co-ordination in turn, it would not be a matter of some higher power
+forcing them to obey its injunctions but of a recognised arbitrating body
+settling disputes brought before it. The sanction on bodies that refused
+to accept arbitration would be the refusal of other bodies to cooperate with
+them. Since each specialised body would need the cooperation of many other
+bodies in many ways, the sanctions could be very powerful. There would be
+no self-sufficient or sovereign bodies at any level.
+
+
+	<h> Democracy by Statistical Representation </h>
+	
+
+  Supposing that it is in fact possible to break up the bodies that provide
+various public needs into specialised functional agencies of this sort,
+how is it possible to control them democratically? Elections would not
+be satisfactory. Each of us has some interest in an enormous range of
+activities, not because we are actively involved in them, but because they
+affect us in varying degrees. Because we cannot know much about the various
+policies that might be pursued in all these areas, the candidates seeking
+office or the practical problems of doing anything to change things, we
+would not make an intelligent vote in most cases. Moreover, granted the
+extreme unlikelihood of our vote making any difference to the outcome,
+it would not be sensible to try. On the other hand, most of us could get
+to know and understand quite a lot about a few of the activities that affect
+us if we had any incentive to do the necessary work, if we had a substantial
+chance of having a significant say in the matter.
+  In the absence of such opportunities there is little we can do in most
+cases except vote for a party ticket. At least a party endorsement tells
+us something about a candidate. But that puts power back in the hands of
+party machines, powerful lobbies and the professional image makers. Politics
+becomes a career and careers depend on patronage. The power game takes over
+at the expense of substantive issues.
+  The alternative is that representatives be chosen not by voting, which
+is a very poor way of conveying and aggregating information, but by a
+statistical procedure that ensures that the representatives are representative
+of those affected by the decisions they will have to make, weighted to take
+account of the importance of the varying ways in which different groups
+are affected. The representatives would need to display an interest in being
+chosen by nominating for selection, and one would expect that in most areas
+there would be a good chance of a candidate getting a turn on the relevant
+committee sooner or later.
+  So it would be worth their while to try to find out as much*muct as possible
+about the activities in which they expressed an interest and follow the
+proceedings of that committee. Moreover, one might expect that such committees
+would be more responsive to suggestions and criticism than politicians or
+bureaucrats as we know them.
+  Members on each committee would be replaced one by one at regular intervals
+in order to ensure continuity. Political organisations might, of course,
+urge their members to nominate for various committees in the hope of
+influencing their decisions. But they would not have the power over their
+members that parties now have, since there would be no place for endorsement,
+advancement or patronage. It would be very difficult, too, for these committees
+to become corrupt, since the membership would be constantly changing in
+a random way, and those who had served on the committees would probably keep
+a keen eye on their successors. If the committee veered too much in a certain
+direction that would stimulate a rash of nominations from people of the
+opposite tendency for the next round of sortition.
+ 
+
+	<h> Market Socialism </h>
+	
+
+  The higher level bodies which would  allocate resources, adjudicate disputes,
+hear appeals and so on would be chosen by lot from a pool of people nominated
+by their peers on lower level bodies as having the qualities necessary for
+these more difficult tasks. There are obviously many ways in which various
+social systems might work using such a framework.
+  My own preference would be for a `market socialism' in which each of the
+major natural and accumulated resources would be entrusted to committees
+of trustees who would lease them out to entrepreneurs, whether individual,
+companies or cooperatives under conditions designed to protect the
+environment, the public interest and the interests of posterity.
+
+
+</subsample>

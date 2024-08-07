@@ -1,0 +1,244 @@
+<subsample>
+	<id> J08a </id>
+	
+
+
+	<source> Journal of Biological Sciences - 1986 </source>
+	
+
+
+	<h> Antifertility activity and toxicity of α-chlorohydrin aromatic ketal
+analogues in male rats  </h>
+	
+
+
+	<bl> By P.D.C. Brown-Woodman, I.G. White and D.D. Ridley </bl>
+	
+
+
+	<h> Abstract </h>
+	
+The antifertility activity and toxicity of ?-chlorohydrin and seven
+aromatic ketal derivatives were investigated in male rats.  At a dose of
+5 mg/kg injected intraperitioneally each day for 14 days, ?-chlorohydrin
+and the methoxy benzaldehyde derivative (compound 2) produced complete
+infertility.  The benzaldehyde derivative (compound 1) was 89% effective
+and the other five compounds 71-25% effective.  All compounds except the
+least effective antifertility agent, the methylbenzaldehyde derivative
+(compound 3), reduced the motility of sperm recovered from the epididymis.
+None of the compounds caused a decrease in body or testes weight but some
+increased adrenal weight. 
+
+
+	<h> Introduction </h>
+	
+
+  Since ?-chlorohydrin possesses many desirable properties as a male
+contraceptive, but has proved too toxic for human use, numerous studies
+have been undertaken in an attempt to find analogues which exhibit
+antifertility activity without the side-effects (Jones 1983).
+
+
+                         
+	<note>FIGURE</note>
+	
+
+  The structural requirements for antifertility activity are very specific,
+and thus the number of possible modifications limited.  The active compound
+must contain three saturated carbon atoms: a primary carbon atom bearing
+a chlorine atom, adjacent to a carbon atom bearing a secondary hydroxyl
+group, adjacent to a primary carbon atom bearing a primary hydroxyl group.
+The hydroxyl groups may be free, esterified or present as ether linkages
+(Fig. 1) (cf. Jones 1978).
+  Brown-Woodman et al. (1979) found that compound 1 (Fig. 1c) was an
+effective antifertility agent in the male rat and apparently less toxic
+than ?-chlorohydrin.  In view of this we have synthesized ketal 
+derivatives of ?-chlorohydrin and tested their antifertility 
+activity in male rats.
+
+
+	<h> Materials and Methods </h>
+	
+
+
+	<h> Treatment of Rats </h>
+	
+
+  Mature fertile Wistar rats were maintained under regulated conditions
+of temperature, light and humidity, and were given food and water ad lib.
+  The formulae of ?-chlorohydrin and the analogues tested are shown*show
+in Fig. 1.  Each compound was dissolved in propyleneglycol and five male
+rats were injected subcutaneously daily for 15 days with each analogue,
+at a dose equivalent to 5 mg ?-chlorohydrin per kilogram body weight.
+A control group of rats received propyleneglycol alone.  Two female rats
+were caged with each male on the seventh day of injection.  Male rats were
+killed and weighed on day 16 and the testes, epididymides, spleen, adrenal
+and body weights recorded.  The vasa defentia were flushed with 0.5 ml
+Krebs-Ringer phosphate buffer (pH 7.2) containing 0.3% (w/v) fructose, and
+the 0.5-ml portions from each rat were pooled.  Aliquots (0.2 ml) were added
+to 1.0 formal saline for assessment of sperm concentration using a
+haemocytometer.  Sperm motility was scored on the remainder according to
+the method of Emmens (1947).  The female rats were killed 20 days after
+mating and checked for pregnancy and the litter size recorded.
+
+
+	<h> Preparation of Ketal Derivatives of  ?-Chlorohydrin  </h>
+	
+
+  The ketal derivatives of ?-cholorohydrin were prepared from
+?-chlorohydrin (0.10) mol), the carbonyl compound (0.11 mol), and
+p-toluenesulfonic acid (0.005 mol) in benzene (200 ml).  The mixture was
+refluxed for 24 h (Dean-Stark water separator being used to remove water
+formed in the reaction), cooled, and extracted with dilute Na2CO3. After 
+evaporation of the dried solvent the residue was distilled under reduced
+pressure.
+  Thus were prepared the benzaldehyde derivative (compound 1), b.p.
+103°C/1.2mm
+(Baggett et al. 1966); (126-127°/4 mm); the p-methoxybenzaldehyde
+derivative (compound 2), b.p. 128-130°/0.2mm (found: C, 57.8; H, 
+5.4; Cl, 15.6. CH13ClO13 requires C, 57.8; H, 5.7; Cl, 15.5%); the
+p-methylbenzaldehyde derivative (compound 3), b.p. 100-104°/0.04 mm
+(found: C, 62.3; H, 6.3; Cl, 16.9.  C11H13ClO2 requires C, 62.1; H, 6.2; 
+Cl,16.7%); the p-chlorobenzaldehyde derivative (compound 4), b.p.
+106°/0.15 mm (found C, 51.2; H, 4.6; Cl, 30.8.  C10H10Cl2O2
+requires C, 51.5; H, 4.6; Cl, 30.4%); the p-nitrobenzaldehyde derivative
+(compound 5), m.p. 55-61° (found: C, 49.2; H, 4.5; Cl, 14.3.
+C10H10ClNO4 requires C, 49.3; H, 4.4; Cl, 14.6%); the acetophenone derivative 
+(compound 6), b.p. 84-86°/0.4 mm (found C, 61.9; H, 6.4; Cl, 16.7.  
+C11H13ClO2 requires, C, 62.1; H, 6.2; Cl, 16.7%; the cinnamaldehyde derivative 
+(compound 7), b.p. 140-142°/0.6 mm (found C, 62.1; H, 6.2; Cl, 16.9.  
+C11H13ClO2 requires C, 62.1; H, 6.2; Cl, 16.7%). All compounds tested were 
+racemic and all of the derivatives of ?-chlorohydrin were additionally 
+mixtures of diastereoisomers which could not be separated.
+
+
+	<h> Statistical analysis </h>
+	
+
+  The significance of differences between treatments was examined by analysis
+of variance and Duncan's multiple-range test (Steel and Torrie 1960).  The
+mean increase in body weight during the experiment for each of the analogues
+was compared with the controls by a paired t-test.  The number of fetuses
+produced per rat was analysed by a Student's t-test.
+
+
+	<h> Results </h>
+	
+
+  ?-Chlorohydrin and all analogues decreased the fertility of the male
+rats to some extent.  Of the analogues, compounds 1 and 2 were the most
+active (Table 1), and the latter, like ?-chlorohydrin, was completely
+effective.  Both the number of pregnancies and the number of fetuses per
+litter were less than in the control group, except for compound 3 which
+did not decrease the litter size.  All compounds except compound 3 reduced
+motility of the epididymal sperm (Table 2).  None of the compounds caused
+an increase in the separation of sperm heads and tails (Table 2).
+ 
+
+                            
+	<note>TABLE</note>
+	
+
+  
+  No significant change in body weight occurred during the 15 days of
+injections.  ?-Chlorohydrin produced a significant decrease in testicular
+weight compared with the control; however, none of the derivatives affected
+testicular weight (Table 3).  Spleen weight was decreased in all groups
+except those which received compounds 1 and 3, while adrenal gland weight
+was unchanged in all rats except those which received compound 7, where
+an increase was noted (Table 3).
+   
+                            
+	<note>TABLE</note>
+	
+
+
+
+	<h> Discussion </h>
+	
+
+  These experiments confirm that it is possible to mask the hydroxyl groups
+of  ?-chlorohydrin with ketal groups and still maintain at least a degree
+of antifertility activity.  ?-Chlorohydrin itself was completely effective
+and did not increase adrenal weight at the low dose in this experiment,
+in contrast to the increase following a single injection of 90 mg/kg (Brown-
+Woodman and White 1975).
+
+                            
+	<note>TABLE</note>
+	
+
+  The benzaldehyde derivative (compound 1) was again found to be highly
+effective (89%) in reducing the fertility of male rats although it did not
+completely abolish fertility as was the case in the previous trial
+(Brown-Woodman et al. 1979).  As there was again no increase in adrenal
+weight, no loss of body weight, and no change in spleen weight, the compound
+is possibly non-toxic.  Stress or injection of toxic substance are known
+to cause enlargement of the adrenals and atrophy of the spleen (Selye 1976).
+  Substitution of a methoxy (-OCH3) group in the para position of the
+benzene ring of compound 1 apparently increased antifertility activity as
+compound 2 was 100% effective, but only six of the 10 rats mated.  This may
+reflect reduced libido or some degree of toxicity, as although body and
+adrenal weights were not affected by the compound, spleen weight was
+significantly decreased.  Addition of a methyl group to the benzene ring
+(compound 3) greatly reduced antifertility activity and the harmful effect
+on epididymal sperm motility.  The compound was also apparently less toxic
+than the methoxy derivative (compound 2) since there was no increase in
+adrenal weight, and no change in spleen weight.  Substitution with chloro
+(compound 4) and nitro (compound 5) groups in the benzene ring did not reduce
+antifertility activity nearly as much as methyl group substitution; compound
+5, however, may be toxic as the weight of the spleen was decreased.
+Substitution of a methyl group in the carbon link (compound 6) of the ketal
+group or lengthening the carbon link (compound 7) also reduced antifertility
+activity and presumably increased toxicity as judged by the decreased spleen
+weights observed in the rats receiving both compounds, and the increased
+adrenal weight seen with compound 7.
+  We had hoped that increasing the lipophilic nature of the ?-
+chlorohydrin derivatives might have enhanced uptake by the epididymis and 
+this, followed by slow release into the blood stream, would reduce the 
+toxicity of the compounds compared to ?-chlorohydrin, without 
+impairing antifertility activity.  However, this does not appear to be 
+the case.
+  It is not known whether these ketal derivatives exert their antifertility
+activity as such or after degradation to ?-chlorohydrin, although the
+decrease in activity observed in the series reflects expected ease of
+hydrolysis to the starting carbonyl compounds and ?-chlorohydrin and
+we believe that ?-chlorohydrin is the active compound.  Some support
+for this was obtained by in situ experiments.  Thus the ketals were
+heated at 37°C at pH 7.4 (KH2PO4-Na2HPO4 buffer) and
+the mixtures were analysed by g.l.c. for the presence of the free carbonyl
+component and ?-chlorohydrin.  Compound 2 was 5% hydrolysed after 24h,
+compound 1 was 1% hydrolysed after 24 h, whilst no hydrolysis products were
+observed under these conditions for compounds 3-7.  The fact that these
+compounds were relatively inert under these near-physiological conditions
+is not surprising since ketal hydrolyses generally become rapid around 
+pH 3; on the other hand their resistance to hydrolysis at pH 7.4 in situ
+does not necessarily indicate resistance to hydrolysis in vivo where
+enzymatic catalysis may occur.
+  Jones and O'Brien (1980) studied the metabolism by the rat of two ketal
+derivatives which had been shown previously to have antifertility activities
+in the rat comparable to that of ?-chlorohydrin (Banik et al. 1972;
+Hirsch et al. 1975).  Both compounds produce ?-chlorolactate, the
+major oxidative metabolite of ?-chlorohydrin, indicating that these 
+ketal derivatives are degraded to ?-chlorohydrin.  The antifertility 
+effectiveness of the compounds tested in the present experiment may therefore, 
+reflect their ease of degradation to ?-chlorohydrin.
+  The reduction in epididymal sperm motility produced by ?-chlorohydrin
+and all the analogues apart from compound 3 was not unexpected in view of
+the data that the primary effect of ?-chlorohydrin is directed towards
+the sperm in the epididymis and it produces biochemical changes in the organ
+(Crabo and Appelgren 1972; Brown-Woodman and White, 1975, 1976; Lobl 1980;
+Tsang et al. 1981; Paz and Homonnai 1982).  Low doses of ?-chlorohydrin
+do not affect the weight or ultrastructure of the epididymis (Reijonen et
+al. 1975) and thus the fact that none of the derivatives produced change
+in epididymal weight was not surprising.  Compounds 1 and 2 would seem to
+warrant further investigation as possible male antifertility agents.
+
+
+	<h> Acknowledgements </h>
+	
+The authors wish to thank Miss H. Hughes for her invaluable technical
+assistance.
+
+
+</subsample>

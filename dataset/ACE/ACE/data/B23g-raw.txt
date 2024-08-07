@@ -1,0 +1,21 @@
+<subsample>
+	<id> B23g </id>
+	
+
+
+	<source> The Sunday Sun - 24 August 1986 </source>
+	
+
+
+	<h> Economic gloom far from over </h>
+	
+
+  The Federal Budget went part of the way towards correcting some of the
+worst features of our recent economic management.
+  But in significant respects Treasurer Paul Keating's actions did not fully
+match his bold words.
+  The moderate majority of Australian people has generally agreed a period
+of tight wage restraint is needed at this critical period.
+
+
+</subsample>

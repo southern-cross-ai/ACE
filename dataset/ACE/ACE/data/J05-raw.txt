@@ -1,0 +1,592 @@
+<sample>
+	<id> J05 </id>
+	
+
+
+	<note> 2103 words </note>
+	
+
+
+	<source> The Australian Physicist </source>
+	
+
+
+	<h> Photoionisation and auger electron emission from the lithium molecule:
+calculations using multicentre numerical continuum functions   </h>
+	
+
+
+	<bl> By F.P. Larkins and J.A. Richards </bl>
+	
+
+
+	<h> Abstract </h>
+	
+
+A numerical method has been used for the generation of molecular
+continuum wavefunctions at the relaxed Hartree-Fock level associated with
+the photoionisation of the lithium molecule.  Exchange between the continuum
+electron and the ion core is included, but L coupling is neglected.
+Cross sections for core and valence shell photoionisation have been calculated
+from threshold to 6.0 a.u.  The results differ significantly in detail from
+previous multiple scattering calculations.  Continuum phase shifts and the
+asymmetry parameters for the various processes are also reported.  The
+molecular cross section values are compared with atomic cross sections
+calculated at the relaxed Hartree-Fock level.  The Li2 molecular Auger
+transition rates are also calculated from first principles using the
+appropriate two-centre continuum functions.  The results provide a basis
+for the reinterpretation of recent experimental findings of photoemission
+data for the lithium vapour system.
+
+
+	<h>1. Introduction </h>
+	
+
+  A major challenge in the calculation of molecular photoionisation cross
+sections and the associated angular distribution parameters is to describe
+adequately the final continuum state involving the ejected photoelectron.
+A range of methods has been proposed to address this problem.  Many are
+approximate in nature and do not require the explicit evaluation of continuum
+wavefunctions.  Such methods do not provide a basis for a theoretical
+description of photoelectron angular distributions, or of Auger electron
+emission.  A fully numerical method of evaluating molecular continuum functions
+has been reported recently (Richards and Larkins 1984, 1986).  It has been
+previously applied to calculate photoionisation phenomena associated with
+the hydrogen molecule and the hydrogen molecule ion.  In this paper the
+numerical method has been used to calculate continuum functions for the
+determination of photoionisation cross sections, angular distribution
+parameters and Auger transition probabilities associated with the lithium
+molecule.  The photoionisation findings are compared with atomic cross
+sections.  The work provides a basis for the reinterpretation of the
+photoemission data of Krummacher et al. (1982) and Gerard (1984).
+  Photoionisation of the lithium dimer Li2 is of fundamental importance.
+Theoretically Li2 is the electronically simplest stable homonuclear
+diatomic molecule after H2.  It has a large internuclear equilibrium
+separation of 5.052 a.u.  The ground state electronic structure 
+	<note>?</note>
+	
+contains both core and valence electrons.  Previous investigations of the
+electronic properties of Li2 have tended to concentrate on bound state
+calculations of ground and excited Li2, and valence hole states of Li2, 
+due to the interest in Li2 for laser use (Harris 1980; Hyman and Mani 1977).  
+The most important theoretical contribution has been the series of 
+multiconfiguration self-consistent field (MCSCF) studies by Konowalow 
+and coworkers (Konowalow and Fish 1984; and references therein). Reviews 
+of this area are given by Schmidt-Mink et al. (1985) and Hessel and Vidal 
+(1979).  The present work on Li2 continuum processes complements the
+existing bound state work.
+  There has been only one previous calculation of either core or valence
+photoionisation in Li2 namely, the multiple scattering calculation of
+Davenport et al. (1983).  The corresponding photoionisation of atomic Li
+has been studied more extensively.  Both core (Amusia et al. 1976; Larkins
+et al. 1981, 1986; de Alti et al. 1983) and valence (McDowell and Chang
+1969; Chang and Poe 1975; Bhatia et al. 1975;  Tiwari et al. 1977; Sukumar
+and Kulander 1978) studies have been reported.
+  The Li2 molecule is also the simplest diatomic molecule in which Auger
+emission processes are significant.  Although little is known experimentally
+or theoretically about the Li2 Auger processes, Li2 is a convenient
+system on which to test the two-dimensional numerical continuum method.
+Calculations of the Auger transition rates are presented herein.
+
+
+	<h>2. Theory </h>
+	
+
+
+	<h>(a) Photoionisation cross section </h>
+	
+
+  The cross section for photoionisation of a system in initial state `i'
+by an unpolarised photon beam of energy hv, ejecting a photoelectron of
+energy 
+	<note>ε,</note>
+	 leaving the system in final state `f' is given by
+	<note>?</note>
+	<misc> (1) </misc>
+	
+where 
+	<note>α</note>
+	 is the fine-structure constant, 
+	<note>?</note>
+	 is the Bohr radius
+and 
+	<note>?</note>
+	 is the statistical weight of the initial discrete state. 
+The ionisation energy 
+	<note>?</note>
+	 and the photoelectron energy 
+	<note>ε</note>
+	 are in
+atomic units, and 
+	<note>σ</note>
+	 is in units of Mb 
+	<note>(?)</note>
+	.  Within the
+dipole approximation the transition moment 
+	<note>?</note>
+	 is given by 
+	<note>?</note>
+	 
+	<misc> (2) </misc>
+	
+where 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 are the total initial- and
+final-state functions, respectively, for the N-electron system and 
+	<note>?</note>
+	
+is the one-electron dipole operator.  If the wavefunctions 
+	<note>?</note>
+	
+and 
+	<note>?</note>
+	 are exact, there are two equivalent forms of the dipole
+operator: 
+	<note>?</note>
+	 (length form) and 
+	<note>(?)</note>
+	 (velocity form).
+When non-exact wavefunctions are used in practice, the forms are no longer
+formally equivalent.  For diagram photoionisation processes, especially
+those involving the lowest member of a state manifold, it can be shown (Manson
+1976; Richards and Larkins 1983) that generally no one form is to be preferred.
+In practice, both forms should be evaluated, since the agreement between
+the forms provides one measure of the quality of the calculation.
+  In a Hartree-Fock treatment the initial state is represented by a
+single-configuration state function (CSF) 
+	<note>?</note>
+	 (N) and the final
+state by the CSF, 
+	<note>?</note>
+	 (N), where 
+	<note>
+		? 
+		<misc> (3) </misc>
+	</note>
+	
+Here 
+	<note>?</note>
+	 (N) is the antisymmetrised product of the final ion CSF 
+	<note>?</note>
+	
+(N - 1) with the continuum function 
+	<note>?,</note>
+	 which is normalised to unit 
+outgoing energy.
+
+
+	<h>(b) Photoionisation angular distribution </h>
+	
+
+  Photoionisation by an electric dipole interaction between linearly polarised
+radiation and randomly oriented target molecules (Yang 1948; Cooper and
+Zare 1969) gives rise to a differential cross section of the form 
+	<note>
+		? 
+		<misc> (4) </misc>
+	</note>
+	
+where 
+	<note>?</note>
+	 is the angle-integrated total cross section, 
+	<note>θ</note>
+	 is
+the ejection angle of the photoelectron relative to the polarisation vector
+of the incident radiation, and 
+	<note>?</note>
+	. The angular distribution 
+is determined completely by the asymmetry parameter 
+	<note>β,</note>
+	 the value of 
+which is physically confined to the range 
+	<note>?</note>
+	.  The analysis by Tully 
+et al. (1968) gives the vibrationally and rotationally unresolved differential 
+cross section of a linear molecule as 
+	<note>
+		? 
+		<misc> (5) </misc>
+		 
+	</note>
+	  
+	<note>
+		? 
+		<misc> (6) </misc>
+		 
+	</note>
+	
+and hence 
+	<note>
+		? 
+		<misc> (7) </misc>
+		 
+	</note>
+	    
+                                                                    
+The quantum numbers L and 
+	<note>λ</note>
+	 asymptotically characterise the final state
+continuum angular momentum states; 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 are the magnetic
+quantum numbers of the initial state and the final ion core state respectively,
+
+	<note>?</note>
+	 are Clebsch-Gordan coefficients, and 
+	<note>?</note>
+	 is the incident 
+photon energy.  The asymmetry parameter for a given system is then 
+determined by the continuum phase shifts 
+	<note>?</note>
+	 and dipole transition 
+moments 
+	<note>?</note>
+	 for each of the allowed final state continuum channels.  
+The phase shifts are fixed by the asymptotic radial form of the continuum 
+wavefunction, which is the Coulomb function (Abramowitz 1972) with argument 
+
+	<note>
+		? 
+		<misc> (8) </misc>
+		 
+	</note>
+	  where 
+	<note>?</note>
+	 is the photoelectron momentum and 
+	<note>?</note>
+	 is the net charge on the final state molecular core.  The transition moments are given by
+
+	<note>
+		? 
+		<misc> (9) </misc>
+		 
+	</note>
+	     
+
+  In the present work expressions for 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 are required for
+photoionisation from a 
+	<note>?</note>
+	 or 
+	<note>?</note>
+	 initial state orbital. 
+Expressions for the 
+	<note>?</note>
+	 case are given elsewhere (Richards and Larkins
+1986).  By writing the interaction term as 
+	<note>?,</note>
+	 and including terms up to L = 5, the expressions for 
+	<note>?</note>
+	 in the 
+	<note>?</note>
+	 case with 
+	<note>?</note>
+	 are 
+	<note>
+		? 
+		<misc> (10) </misc>
+		 
+	</note>
+	 
+	<note>
+		? 
+		<misc> (11) </misc>
+		 
+	</note>
+	
+
+
+	<h>(c) Li2 continuum wavefunction evaluation </h>
+	
+
+  The details of the two-dimensional numerical treatment of molecular continuum
+wavefunctions have been outlined previously (Richards and Larkins 1984, 1986).
+At the Hartree-Fock level the equation to describe a continuum electron
+of energy 
+	<note>ε</note>
+	 in the field of a bound-state molecular core comprising 
+(N - 1) electrons, abbreviated 
+	<note>?,</note>
+	 is 
+	<note>
+		?, 
+		<misc> (12) </misc>
+		 
+	</note>
+	
+where 
+	<note>
+		?, 
+		<misc> (13) </misc>
+	</note>
+	  
+	<note>
+		?, 
+		<misc> (14) </misc>
+	</note>
+	 
+	<note>
+		?, 
+		<misc> (15) </misc>
+		 
+	</note>
+	
+
+Here the subscript 
+	<note>μ</note>
+	 refers to atomic nuclei (of charge  
+	<note>?)</note>
+	
+in the molecule, and the subscript j refers to the bound-state orbitals;
+
+	<note>?</note>
+	 represents the molecular Coulomb potential and 
+	<note>?</note>
+	 represents 
+the molecular exchange potential, and the coefficients 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 
+are characterised by the symmetry of the total N-electron state (Roothaan 1960).
+  The numerical treatment consists of performing a conventional algebraic
+basis set calculation on the initial and final ionic core bound states and
+then solving for the photoelectron continuum wavefunction numerically, in
+the relaxed Hartree-Fock ion core potential derived from the bound state
+calculation.
+  In the present work an (11s,6p) uncontracted gaussian set from Huzinaga 
+and coworkers was used for the Hartree-Fock initial and final ion core bound
+state calculations (11s from Huzinaga et al. 1971; 6p from Huzinaga 1965).
+The cross section and angular distribution results reported here correspond
+to the use of the relaxed Hartree-Fock model.
+
+                                      
+
+	<h>(d) Auger transition rates </h>
+	
+
+  The Auger process involves a radiationless transition between a highly
+excited initial (N - 1) -electron state 
+	<note>?,</note>
+	 and a final state
+
+	<note>?</note>
+	 consisting of an (N - 2)-electron bound state and a free
+Auger electron of energy 
+	<note>?,</note>
+	
+
+                          
+	<note>
+		?. 
+		<misc> (16) </misc>
+	</note>
+	
+
+The many-electron Hamiltonian of a system undergoing a radiationless transition
+is given by
+
+                          
+	<note>
+		?, 
+		<misc> (17) </misc>
+	</note>
+	
+
+where
+ 
+                          
+	<note>?</note>
+	
+
+is the Coulomb interaction between electron pairs,
+
+                          
+	<note>?</note>
+	
+
+is the remainder of the nonrelativistic Hamiltonian, and 
+	<note>?</note>
+	 is the
+relativistic spin-orbit interaction.  The transition probability for an
+Auger transition from 
+	<note>?</note>
+	 to 
+	<note>?</note>
+	 is given from first order 
+perturbation theory (Wentzel 1927) by
+
+                          
+	<note>
+		?, 
+		<misc> (18) </misc>
+	</note>
+	
+
+where 
+	<note>?</note>
+	 is the energy density of states about the final state energy.
+  The Auger transition can be treated in various coupling schemes, either
+Russell-Saunders, jj, or intermediate coupling (Asaad and Burhop 1958).
+For the molecules of interest in the present work consisting of low Z
+nuclei, Russell-Saunders coupling applies, that is 
+	<note>Λ</note>
+	 and S are conserved
+in the transition for linear molecules, and a nonrelativistic treatment
+is appropriate.  In the nonrelativistic limit the perturbation in the
+transition operator (18) reduces to the Coulomb interaction between the
+electrons participating in the transition.  In the Hartree-Fock approximation,
+single configuration state functions are used to represent 
+	<note>?</note>
+	 and 
+
+	<note>?</note>
+	:
+
+                         
+	<note>
+		?, 
+		<misc> (19) </misc>
+		 
+	</note>
+	
+
+                         
+	<note>
+		?. 
+		<misc> (20) </misc>
+		 
+	</note>
+	
+
+If different orbital sets are used to construct the bound states
+
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 the transition probability expression
+(18) becomes complex to evaluate, although the appropriate formalism exists
+(Howat et al.1978).  If, however, a frozen core approximation is made, in
+which the final state is constructed from the initial state orbital set,
+the transition probability reduces to an expression in terms of the Coulomb
+and exchange integrals (Siegbahn et al. 1975)
+
+                        
+	<note>?,</note>
+	 
+	<note>
+		?, 
+		<misc> (21) </misc>
+		 
+	</note>
+	
+
+involving the continuum orbital 
+	<note>?,</note>
+	 the final state orbital 
+	<note>?</note>
+	 
+in which a vacancy is present in the initial state ion, and the initial 
+state orbitals 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 which correspond to the vacancies 
+produced in the final state by the ejection of the Auger electron and the 
+filling of the existing initial state vacancy.  Expressions for the transition 
+probability are given by Agren (1981) for both initially closed and open shell 
+molecules.
+
+
+	<h>3. Results </h>
+	
+
+
+	<h>(a) Li2 cross sections </h>
+	
+
+  Photoionisation cross sections and angular distributions were calculated
+for the core ionisation processes
+
+                     
+	<note>
+		?, 
+		<misc> (22) </misc>
+	</note>
+	
+
+                     
+	<note>
+		?,
+		<misc> (23) </misc>
+	</note>
+	
+
+and for the valence ionisation process
+
+                     
+	<note>
+		? 
+		<misc> (24) </misc>
+	</note>
+	
+
+The ground state equilibrium geometry of R = 5.052 a.u. (Huber and Herzberg
+1979) was used in all calculations.  The bound state SCF wavefunctions were
+evaluated using an uncontracted (11s, 6p) gaussian basis set, as mentioned
+previously.  The final core state was described in a relaxed orbital approach.
+Calculations were performed using the UIBMOL SCF program package (Faegri
+and Manne 1976).  The total SCF energies for the molecular states are given
+in Table 1.  While lower total energies result from multiconfiguration
+calculations which include correlation (Schwarz et al. 1978; Bacskay et al.
+1986) the SCF approach was considered adequate to generate the N - 1 electron
+potential required for the determination of molecular continuum functions.
+  The calculated 
+	<note>Δ</note>
+	 SCF ionisation energies for photoemission from
+1 
+	<note>?,</note>
+	 1 
+	<note>?</note>
+	 and 2 
+	<note>?</note>
+	 orbitals are 64.68, 64.63 and 
+4.38 eV respectively.  These theoretical values have been used for specifying
+ionisation thresholds required for the transition moment calculations. 
+The only ionisation energy known experimentally with reasonable confidence
+is the 2 
+	<note>?</note>
+	 adiabatic ionisation potential of 5.14 eV (Eisel et al.1983;
+Bernheim et al. 1983) which is not directly comparable with the Franck-Condon
+value.
+
+                  
+	<note>TABLE</note>
+	
+
+  The photoionisation properties for continuum angular momentum states to
+L = 5 for u symmetry and to L = 4 for g symmetry at photoelectron energies
+up to 6.0 a.u. have been determined.  As in previous work L coupling between
+the exit channels has been neglected.  The Li2 ground state equilibrium
+bond length of over 5 a.u. is one of the largest of the first row diatomics.
+It is significantly longer than for the diatomic molecules 
+	<note>?)</note>
+	 
+and 
+	<note>?)</note>
+	 which we have considered previously using the numerical 
+method.  From the physical point of view it is of interest to assess the extent to which the ionisation process retains atomic-like character at this large internuclear separation. From the numerical point of view, however, the large bond length is troublesome. It means that a finer grid spacing is needed and, since the molecular potential approaches its asymptotic form more slowly, the grid must extend further. Moreover, the larger bond length causes the influence of L coupling in the continuum wavefunction to be larger. The overall result is that for numerical calculations of a given size, lower numerical accuracy is obtained for Li2 cross sections than for H2 or H2. Various numerical (r, θ) grid arrangements were used, with grid spacings h  0.051-0.084 a.u. and 
+	<note>?,</note>
+	 and boundary values 
+	<note>?</note>
+	. The Li2 exchange potential calculation converged more slowly than the H2 calculation, and 5-15 iterations were generally necessary compared with 3-10 for the H2 molecule.
+            
+
+</sample>

@@ -1,0 +1,29 @@
+<subsample>
+	<id> C04d </id>
+	
+
+
+	<source> The Sun - 2 December 1986 </source>
+	
+
+
+	<h> DON'T BE LATE FOR BREAKFAST </h>
+	
+
+
+	<bl>-LISA HABERMANN </bl>
+	
+
+THE Late Late Breakfast Show is pretty bizarre.
+  This BBC production is also funny, entertaining and surprising.
+  And lately, it has become controversial as well.
+  Earlier this month a contestant, Mike Lush, 25, plummeted to his death
+when a safety bracket failed in a Houdini-style stunt.
+  Host Noel Edmonds admits he feels a certain amount of guilt and says there
+are no more plans to continue the show on the BBC but admits Channel 10
+in Australia are thinking about bringing him out here to compere a
+similar-style show.
+  The show premieres tonight on Channel 10 at 7.30.
+
+
+</subsample>

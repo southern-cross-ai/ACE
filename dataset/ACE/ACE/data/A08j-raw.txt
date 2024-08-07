@@ -1,0 +1,32 @@
+<subsample>
+	<id> A08j </id>
+	
+
+
+	<source> The Sun - 8 September 1986 </source>
+	
+
+
+	<h> HOMES: PRICE IS NOT RIGHT! </h>
+	
+
+POTENTIAL sellers appeared to be holding back on the sale of their homes,
+possibly waiting for prices to pick up.
+  And those who placed their property on the market were seeking a higher
+price than what their home was worth, according to a national survey by
+the Real Estate Institute of Australia.
+  The institute commented that these owners did not seem to realise in
+general prices were depressed, and in some cities still slipping downwards.
+  Agents in Sydney found that the stock of houses for sale continued to
+decline, with many claiming that &quot;realistically priced good listings were
+very difficult to obtain.&quot;
+  More than half of agents surveyed said they had the lowest number of listings
+since May.
+  The survey, covering the month of July, said that some agents commented
+that unless vendors price their properties more realistically sales market
+activity is likely to remain low.
+  In Sydney, most houses sold in Sydney in July were priced between $90,000
+and $110,000.    
+
+
+</subsample>

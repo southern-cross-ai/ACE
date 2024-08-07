@@ -1,0 +1,21 @@
+<subsample>
+	<id> B22e </id>
+	
+
+
+	<source> The Sunday Press - 30 November 1986 </source>
+	
+
+
+	<bl> Brian White </bl>
+	
+
+  
+	<h> Dear Admiral, in reply to your SOS </h>
+	
+
+  THE Kerry Packer station 3AK again performed disastrously in the latest
+radio ratings.
+
+
+</subsample>

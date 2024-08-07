@@ -1,0 +1,37 @@
+<subsample>
+	<id> B07c</id>
+	
+
+
+	<source>The Canberra Times - 30 August 1986</source>
+	
+
+
+	<h> HEALTH CARE DECLINES</h>
+	
+
+&quot;It's got to the stage where people have to die before anything is done.&quot;
+This disturbing statement, published on the front page of The Canberra Times
+on Thursday, was made by a doctor who had tried for 10 days to have a patient
+with heart trouble admitted to a Canberra public hospital. Health authorities
+say the doctor &quot;clearly has not followed standard admission procedures&quot;.
+Whatever the reason, it emphasises the growing frustration of the medical
+profession, not just in Canberra, but in most parts of Australia, with the
+shortage of hospital beds, especially for patients requiring elective surgery.
+  In Canberra, it appears that the longer an elective surgery patient is
+likely to be in hospital the longer he or she will have to wait for a bed.
+Preference goes to those expected to be discharged within a day or so. To
+get patients to hospital, some doctors have, in desperation, sent them to
+casualty departments hoping that from there they would gain admittance to
+a normal hospital ward. The word &quot;elective&quot; is not strong enough to convey
+the urgency of the needs of many patients. Too often the word is associated
+with cosmetic surgery - a facelift or a &quot;nose job&quot;. While many people accept
+that cosmetic surgery has a role in improving the appearance and therefore
+the self-esteem of a patient, it is generally accepted that when hospitals
+are crowded the cosmetic patients should drop to the end of the queue. However,
+elective surgery can be much more serious: it can reveal that the patient
+is seriously ill, as when elective surgery to remove a lump reveals the
+presence of cancer and the need for urgent treatment.              
+  
+
+</subsample>

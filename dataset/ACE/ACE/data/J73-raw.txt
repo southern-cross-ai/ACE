@@ -1,0 +1,288 @@
+<sample>
+	<id> J73 </id>
+	
+
+
+	<note>2005 words </note>
+	
+
+
+	<source> Surfaces and their protection  </source>
+	
+
+
+	<bl> ed. C D Kimpton </bl>
+	
+
+
+	<h> Corrosion Protection by Coatings </h>
+	
+
+
+	<bl> by Dr P.N. Richards, General Manager, Research and Technology Centre, BHP
+Coated Products Division </bl>
+	
+
+
+	<bl> presented by Mr L.G. Gore, General Manager, Development and Planning, BHP
+Coated Products Division </bl>
+	
+
+The art and science of preserving the aesthetic and monetary value of articles
+by surface coatings to prevent corrosion has paralleled the history of
+metallurgy with earliest examples dating from around 3000 BC.
+
+  Gilding by burnishing gold leaf to a heated base appears to have been
+the earliest practice but towards Roman times, amalgam gilding became the
+art form. This required the base metal to be thoroughly cleaned; recommended
+was a &quot; ... dip article into an acid solution prepared from dried unripe
+apricots ...&quot;.
+
+  The article was then rubbed with mercury to produce a surface amalgam
+to which the gold leaf was applied and the mercury was finally distilled
+off by heating leaving the gilded article.
+
+  Tin coatings were used for decorative purposes from at*a least Roman times
+but tinning of iron appears much later - about the 12th century AD when
+it was widely practised in Europe. The art was not established in Britain
+till around 1740 at Pontypool in Wales; this was about 100 years before
+the development of zinc galvanizing, again in Wales around 1837. The latter
+process was initially known popularly as zinc tinning from which was derived
+the concept of the &quot;old tin shed&quot;.
+
+  Two important aspects follow which were established in the early
+developments:
+  2surfaces to be coated have to be very clean to obtain a bond;
+  2for coating with molten metal, some alloying between base and coating
+    is necessary to obtain satisfactory surface coating.
+
+  Quite extensive alloy growth at the coating/base interface can occur and
+this is often detrimental to mechanical properties. However, in many cases
+its thickness can be controlled by the addition of a third element. For
+example, in the production of aluminized steel sheets for various heat
+applications, 3 per cent Si is added to the Al to control the thickness
+of the Fe/Al interface.
+
+  Similarly when steel is dipped into molten zinc at 450°C, a series of
+brittle intermetallic layers may form at the interface which may lead to
+coating detachment on bending. As practised now on all modern galvanizing
+lines, these alloy layers are controlled by the addition of a small amount
+of Al (0.2%) to the zinc bath, converting the thick Zn-Fe alloys at the
+interface to a thin Zn-Fe-Al layer.
+
+  Because of the great commercial importance of steel based products, it
+is intended to concentrate today on mainly metallic protective coatings
+on steel. There are few manufacturing industries in which Australia is one
+of the biggest and best - this is one - our 1.5 million tonnes a year sheet
+coating capacity is exceeded by few countries.
+
+  In Australia today, 70 per cent of all sheet steel products are coated
+for protection, with every indication that this will increase as more proteted
+panels are used in automobiles. We use about 70Kg per capita per year in
+Australia, which is amongst the highest in the world.
+
+  Metallic coatings are classifiable into three types: barrier, cathodic
+or anodic:
+
+  
+	<note> List </note>
+	
+
+
+	<h> Vitreous enamelling </h>
+	
+Enamelling is the science of using fused frits to cover the article with
+a clear or coloured glass-like coating which protects the base only so long
+as it covers it completely. It has been used extensively for domestic
+appliances such as baths and stove fronts. In certain applications (e.g.
+stove tops, ovens), enamelling has no rival process. Costs have been reduced
+by new techniques such as pickle-free enamels, electrostatic dry power
+application of the frits, and two-coat/one-fire systems. However, enamelling
+still remains a fairly expensive coating method compared to metallic or
+organic coatings.
+
+
+	<h> Metallic coatings </h>
+	
+A cathodic coating is essentially a protective barrier in which case the
+base steel should be completely covered, as for example, for tin cans exposed
+to the atmosphere. Any small pinholes in the cathodic metal coating can
+lead to pitting of the steel substrate and this is normally avoided by using
+thicker coatings.
+
+  Anodic coatings protect the steel base by electrochemical action, the
+anodic coating corroding slowly and protecting the cathodic steel (sacrificial
+protection). Unlike cathodic metal coatings, any pinholes in an anodic metal
+coating will not lead to pitting of the steel substrate due to the sacrificial
+action of the anodic metal coating.
+
+  Most anodic metal coatings on steel are based on zinc because it is more
+electronegative than iron and with the two in contact, the zinc will corrode
+sacrificially and protect the steel from rusting.
+
+  Where zinc is exposed without concurrent exposure of steel, such as the
+broad areas of galvanized steel roofing, the zinc forms a protective film
+of zinc hydroxide through an anodic reaction with moisture. The hydroxide
+inhibits the electron flow and stifles the cathodic reaction and thus the
+extent of corrosion or loss of zinc.
+
+  The addition to zinc of small quantities of elements such as Al, Ni, Co,
+Cu and Mg promotes a more stable hydroxide and thus reduces the corrosion
+rate of zinc.
+
+
+	<h> Galvanising </h>
+	
+Zinc coating of steel to protect against corrosion is the most widely used
+corrosion protection. The well known corrugated iron was first produced
+using steam power in 1854 and the product was soon in great demand as roofing
+and cladding due to the combination of a strong, ductile base and a bright
+corrosion resistant coating.
+
+  Modern galvanized sheet products are produced on continuous process lines
+at speeds of up to 200 m/min. or more giving annual production in excess
+of 250,000 tonnes per line.
+
+  Cold reduced steel strip is softened by annealing in line with the coating
+pot where the coating mass of zinc on the strip is controlled by a locally
+developed automatic system involving air jets or knives placed each side
+of the strip. BHP's five lines have vertical heating and precleaning furnaces
+unlike many overseas lines which tend to be essentially horizontal furnaces.
+
+  The exposure life of galvanized steel is directly proportional to the
+thickness of the zinc coating and a range of coating thicknesses from 100
+to 500 g/m2 is produced to cover the commercial variety of end use. For
+example, 100 g/m2 coatings are used for mild structural steel applications
+(purlins, girts), 275 g/m2 coatings for prepainted roofing and walling
+applications, 450 g/m2 coatings for roofing applications; and 600 g/m2 
+coatings for water tanks and culverts.
+
+  Exposure life is also related to environmental conditions, severe marine
+exposure resulting in the most rapid corrosion rate.
+
+  Modern continuous galvanizing lines such as BHP's with their high capacity,
+high capital cost and technology intensity are beyond the means of many
+developing nations, so we invented and developed the unique Lysaght
+Mini-Galvanizing Process to produce top quality continuously galvanized
+coil for annual production of less than about 80,000 tonnes. The process
+is patented in 44 countries and is operating very successfully in Malaysia
+(2), Indonesia, Thailand and the Philippines and will soon be operating
+in India.
+
+
+	<h> ZINCALUME </h>
+	
+The most important coating development in three decades was inspired by
+pioneering work by Bethlehem Steel who showed the superior corrosion resistance
+of a 55% Al, 43.5% Zn plus Si alloy compared with zinc, particularly in
+marine atmospheres, an environment that has traditionally been very severe
+on galvanized steel. John Lysaght (Australia) Limited, became the first
+licensee of this process and further successful patented processing and
+marketing developments by Lysaght led to an arrangement whereby the process
+is now jointly promoted and marketed by Bethlehem International Engineering
+Corp. and Lysaght.
+
+  Although production costs of galvanized and ZINCALUME are similar, the
+life expectancy of ZINCALUME is greater, with a slower corrosion than
+galvanized, while still sacrificially protecting steel. 50 g/m2 coating
+is used for dry interior applications, general manufacturing and appliances;
+150 g/m2 coating is used for prepainted roofing and walling; 200 g/m2 coating
+is used for roofing and walling where added corrosion resistance is required,
+and for ZINCALUME rainwater tanks.
+
+  Since 1976, BHP has produced over 2.7 million tonnes, about equal to the
+rest of the world put together by the now 18 licensees world wide.
+  
+  The corrosion rate of ZINCALUME is much lower than zinc in most exposure
+conditions.
+
+  This unique coating contains 2 phases - an Al-rich continuous phase
+comprising about 80 per cent of the coating volume, together with a zinc-rich
+phase and a very thin quaternary Fe-Al-Zn-Si compound at the coating-steel
+interface.
+
+  ZINCALUME is predominantly used in the building industry where its excellent
+corrosion properties under conditions of atmospheric exposure are an obvious
+advantage. ZINCALUME also performs well in rainwater goods. It is expanding
+in its applications including heat reflective applications and heat cum
+corrosion resistance.
+
+Protection of automotive panels
+In the last decade, largely in America, the automotive industry has been
+concerned with providing body panels that will not show rust within a
+reasonable time, particularly in conditions where salt is used to disperse
+snow on roads.
+
+  Corrosion in cars is mainly of three types:
+
+  2cosmetic, on outer surfaces where paint has been chipped
+  2Inside-out where it begins on the inside of panels due to an accumulation
+    of dust and moisture and where it remains damp for long periods, typically
+    rocker panels and door outers.
+  2dissimilar metal corrosion.
+
+  Coatings for body panels are generally either:
+
+  2electroplated zinc or zinc alloy coating, or
+
+  2a zinc-rich paint system known as Zincrometal, which is a two-layered
+    composite of epoxy resin/inhibitor and metallic zinc powder, the latter
+    added to provide sacrificial protection of the steel. Zincrometal is
+    a product from continuous paint lines and improved versions of the original
+    product are now available.
+
+  Zincrometal is used for 35 per cent of protected panels in the United States
+but will be displaced by electrogalvanised.
+
+  Of our domestic steel shipments to local car manufacturers, 18 per cent
+is Zincrometal with a total of 21 per cent being coated product.
+
+  For electroplating sheets, horizontal cells, vertical cells or radial
+cells are utilized with either sulphate or chloride solutions and consumable
+(zinc) anodes or non-consumable anodes. They can be arranged for plating
+one or both surfaces of the strip.
+
+  The consumer demand for more corrosion resistant vehicles has resulted
+in Canadian legislation for vehicles built after 1981 of no outer panel
+corrosion after 1.5 years or 60,000 Km, and no outer panel perforation after
+five years or 200,000 Km. Other countries are likely to follow this pattern.
+Cars will last longer and have better resale value.
+
+  While straight zinc appears to be the most favoured electroplate for autobody
+sheet in the USA, various alloy coatings such as Zn-Fe or Zn-Ni are being
+promoted vigorously, particularly in Japan. Among the new coatings being
+developed overseas are two layer coatings having a thin high Fe-Zn surface
+layer to promote better paintability.
+
+
+	<h> Tinplate and tin-free steel </h>
+	
+Tinning of iron and steel is probably the oldest example of commercial corrosion
+protection and is now used most widely in food containers. The coating on
+tinplate is made up of four distinct components:
+  
+	<note> list </note>
+	
+
+  The three innermost layers define the corrosion behaviour of the composite
+under the many varied conditions found particularly in food packaging. Under
+normal atmospheric aerobic conditions the tin coating acts as a cathodic
+barrier type coating, enhanced by the chromium oxide passivating layer.
+Under anaerobic and mildly acid conditions tin acts as a mildly anodic,
+i.e., sacrificial, coating as in wet food packs and provides protection
+for any exposed base steel. With some very aggressive foodstuffs, tinplate
+does not offer sufficient protection and must be supplemented by lacquer
+coatings. In other cases, lacquer cannot be used because the presence of
+tin in very small amounts is required for taste and appearance.
+
+  Early production of tinplate was by the hot dip process, but electrolytic
+tinning is today's process which allows a wide range of tin coating mass
+to be applied.
+
+  Heavy coatings up to 15 g/m2 are typical for canning certain aggressive
+products, where lacquer coatings are not applicable and these heavy coatings
+are used also on utensils in constant repetitive use such as bread baking
+dishes. 
+
+
+</sample>

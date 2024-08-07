@@ -1,0 +1,30 @@
+<subsample>
+	<id> C11f </id>
+	
+
+
+	<source> Telegraph - 3 December 1986 </source>
+	
+
+ 
+	<h> canvas for Carradine </h>
+	
+
+
+	<h> Starring role as Gauguin </h>
+	
+
+
+	<h> tv telegraph </h>
+	
+
+
+	<bl> By PAUL WICKS </bl>
+	
+
+  David Carradine has proved a most versatile actor.
+  His craggy features have been perfect for lean and hungry roles as baddies.
+Indeed, he has starred in more than the occasional Western.
+
+
+</subsample>

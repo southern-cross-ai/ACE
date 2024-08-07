@@ -1,0 +1,269 @@
+<sample>
+	<id> F32 </id>
+	
+
+
+	<source> A home guide to diagnosing illness - women </source>
+	
+
+
+	<note> 2014 words </note>
+	
+
+  
+	<h> The female body </h>
+	
+
+A woman is female from the moment she is conceived. This is determined by
+the pattern of chromosomes (thread-like structures within each living cell
+that contain genetic information) in the fertilized egg. Every woman has
+23 pairs of chromosomes, 22 are the same as for men, but the 23rd pair is
+different. It consists of two X-chromosomes. Men have one X- and one
+Y-chromosome. The two X-chromosomes are responsible for ensuring the
+development of internal and external genitals such as ovaries, fallopian
+tubes, womb and vagina. Hormones secreted by the ovaries and other glands
+during fetal growth are thought to affect the development of the brain and
+its sense of being female.
+  The feminine body shape is largely the result of the action of the sex
+hormones oestrogen and progesterone, which are responsible for the development
+of features known as secondary sexual characteristics - full, round and
+mature breasts; rounded swelling hips; thighs well padded with fat; a
+well-defined, curved waistline; absence of hair on the torso and face. Other
+distinctly female characteristics include a relatively high-pitched voice
+and a higher proportion of body fat. The rising and falling levels at which
+oestrogen and progesterone are secreted by the ovaries, are also responsible
+for the regular monthly changes that are known as the menstrual cycle (see
+p.117).
+  Because of differences between the physical and hormonal make-up of men and
+women, there are small but important differences in the susceptibility of
+each sex to certain disorders. The monthly bleeding experienced by women
+means they suffer more often than men from anaemia (lack of sufficient red
+blood cells). For reasons not yet understood fully, women seem to more susceptible
+to liver damage from alcohol and so should drink less. On the positive side,
+the female sex hormones may well provide extra protection against coronary
+heart disease up until the menopause. Women generally live longer than men;
+average life expectation is 76 for women, 70 for men. Some of these additional
+years can be attributed to the fact that fewer women have traditionally
+been smokers. The gap now seems to be narrowing - perhaps as a result of
+the changes in women's lifestyle over the past few decades.
+
+
+	<h> The changing body </h>
+	
+
+Most body systems lose some efficiency as a result of the ageing process,
+partly because specialist cells die and are not replaced, and partly because
+tissues become less elastic and more fibrous. Loss of elasticity due to
+age is most obvious in the skin, and this process may be accelerated by
+excessive exposure to sunlight and by smoking. By the time a woman approaches
+middle-age she tends to gain weight, and muscle tone may become more lax,
+especially if she has not taken regular exercise. An unhealthy life style
+- particularly lack of exercise and a poor diet - may exaggerate the physical
+effects of ageing. The most significant milestone of the middle years is
+the menapause (see p. 116), when a woman ceases to be fertile and menstruation
+no longer occurs.
+  Following the menopause the ageing process continues. One possible
+development is a thinning of the bones, which may become brittle and easily
+broken by minor falls. In later years, compression of the bones of the spine
+can lead to loss of height, and there may be loss of weight due to wasting
+of muscle. As the body ages it has fewer resources with which to withstand
+periods of ill health, and the healing process of minor injuries slows down
+considerably. Even so, if you take regular, vigorous exercise throughout
+your life, you will be likely to have much the same body shape at 60 as
+you have had at 30.
+
+
+	<h> Skeleton </h>
+	
+
+The bony skeleton provides the rigid structure that supports the muscles
+and provides a protective framework for the organs. Female bones are generally
+slightly lighter than a male's, and the pelvis wider in order to allow a
+baby's head and body to pass during childbirth. Bone itself is made up of
+a protein hardened with calcium salts. It is living material with cells
+that are constantly replacing old bone with new material. To maintain healthy
+bones, you need adequate amounts of protein, calcium and vitamins in your
+diet.
+
+
+	<h> Muscles </h>
+	
+
+Movement of the body and its internal organs is carried out by the muscles.
+These are made up of a soft tissue arranged in fibres which can contract
+and relax to produce movement. There are two distinct types of muscle:
+voluntary muscles, which control body movement, and involuntary muscles,
+which are responsible for movement within the body - for example, the womb,
+which expands to an enormous extent during pregnancy.
+  Muscles normally remain in good condition if used regularly. Vigorous
+exercise increases the size of muscles and improves the circulation of blood
+to them, thereby increasing their capacity for still more strenuous activity.
+Conversely, inactivity can soon lead to muscle-wasting and weakness.
+
+
+	<h> Respiratory system </h>
+	
+
+Respiration - inhaling (breathing in) and exhaling (breathing out) air -
+allows the blood to absorb oxygen essential for the production of energy.
+As the blood passes through the lungs it gives off carbon dioxide and water
+as waste products.
+  The respiratory system consists of the lungs and tubes through which air
+passes on its way to and from the lungs. Air is breathed in through the
+nose and mouth, passes down the trachea (windpipe) and enters the lungs
+through a branching tree of tubes - the bronchi and bronchioles.
+  The respiratory system normally remains in good health unless damaged by repeated
+exposure to pollutants in the atmosphere, including dust from industrial
+or agricultural processes and tobacco smoke, or by repeated infection.
+
+
+	<h> Fat distribution </h>
+	
+
+Fat is deposited in a layer under the skin and within the tissues in other
+parts of the body including the buttocks, breasts and inside the abdominal
+cavity. It makes up 20 to 25 per cent of a woman's weight (compared with
+15 per cent of a man's) and is distributed in such a way as to give a woman's
+body its characteristic contours. Fat is laid down when food intake is greater
+than is needed to fuel the body's energy requirements. It is burnt up when
+food intake fails to meet the body's need. It also acts as insulation against
+cold.
+  Both too much and too little fat in the body can be unhealthy. Being too
+fat can lead to heart and circulation problems. Being too thin is less of
+a health risk, but may be a sign of undernourishment and can lead to reduced
+resistance to a variety of diseases. Fluctuations in the level of fat deposits
+is almost always the result of an imbalance between food intake and energy
+output.
+
+
+	<h> Heart and circulation </h>
+	
+
+The heart is a muscular pump with four chambers into which enter the major
+blood vessels carrying blood to and from the rest of the body. As the heart
+rhythmically squeezes the chambers, making them expand and contract, blood
+flows in the correct direction.
+  Blood transports oxygen and nutrients (see Blood analysis, p. 22) to all
+parts of the body and carries away waste products. It circulates via the
+arteries, which carry &quot;used&quot; blood. Good blood circulation, essential for
+the health of every organ in the body, depends on the efficient functioning
+of the heart muscle and partly on the ease of blood flow through the arteries.
+  It also depends on the blood vessels remaining free from any obstruction,
+such as fatty deposits*desposits or blood clots. High blood pressure (hypertension)
+may damage the blood vessels or increase the risk of blockage of the blood
+vessels. For advice on reducing the risks of diseases of the heart and
+circulation, see Coronary heart disease, p. 100.
+  Women under the age of 50 are relatively free from coronary heart disease.
+This is thought to be partly due to larger amounts of the hormones progesterone
+and oestrogen being present in the body. 
+
+
+	<h> The circulatory system </h>
+	
+
+The circulatory system carries blood to and from every part of the body.
+The centre of the system is the heart. Arteries carry blood away from the
+heart; veins return blood to the heart.
+
+
+	<h> Arteries and veins </h>
+	
+
+The walls of arteries need to be strong, because blood is forced along them
+under high pressure, so they are made of four layers. Arteries and their
+various branches (arterioles) are surrounded by muscle which allows them
+to dilate or contract to regulate the body temperature. Veins have less
+elastic, less muscular walls. Valves in the veins stop blood from flowing
+in the wrong direction.
+
+
+	<h> Heart vessels </h>
+	
+
+The heart is divided into two by the septa. Each side has two chambers -
+an atrium, and a ventricle - linked by a one-way valve. The left atrium
+and ventricle control oxygenated blood, and those on the right de-oxygenated
+(&quot;used&quot;) blood. The septa prevents the two types of blood from mixing.
+
+
+	<h> Brain and nervous system </h>
+	
+
+The brain and nervous system together provide the control mechanism for both
+conscious activities, such as thought and movement, and for unconscious
+body functions such as breathing and digestion. Nerves also provide the
+means by which we register sensations such as pain and temperature.
+  The brain and nervous system require a constant supply of oxygenated blood.
+Disruption of the blood flow to any part of the system is one of the most
+common causes of malfunctioning of the brain and nervous system. Therefore,
+the prevention of circulatory trouble (see left) is important. Injury,
+infection, degeneration, tumours and diseases of unknown cause may also
+affect the brain and nervous system. Certain disorders may arise out of
+abnormal electrical activity or chemical imbalances in the brain.
+
+
+	<h> The nervous system </h>
+	
+
+The brain and the nerve tracts of the spinal cord together make up the central
+nervous system. A network of peripheral nerves, which are named after the
+four regions of the spine, link the central system with other parts of the
+body.
+
+
+	<h> The brain </h>
+	
+
+The brain itself is the most complex organ in the body; many aspects of
+its structure and function are not yet fully understood. Different parts
+of the brain seem to control different activities. The two cerebral hemispheres
+control conscious thought and movement, and interpret signals from the sensory
+organs. The cerebellum regulates some subconscious activities such as
+coordination of movement and balance. The brain stem governs vital body
+functions such as heartbeat and breathing.
+
+
+	<h> The senses </h>
+	
+
+The senses are the means by which we monitor the different aspects of our
+environment. Five separate systems respond to different types of physical
+stimuli: the eyes enable us to interpret visual information; the ears monitor
+sound and control balance; the nose and tongue respond to different smells
+and tastes respectively; and the sensory neves in the skin allow us to feel
+physical contact (touch), changes in temperature, and pain.
+
+
+	<h> Smell </h>
+	
+
+Smells are detected by the olfactory nerves. These hair-like organs project
+into the top of the nasal cavity and absorb and analyse molecules from the
+breathed-in air. The sense of smell may be damaged by smoking and may
+temporarily be impaired by a common cold or hayfever. Permanent loss of
+the sense of smell may occur following damage to the nerves, perhaps as a
+result of a skull injury, or it may be caused by a disorder affecting the
+part of the brain responsible for interpreting smell sensations.
+
+
+	<h> Taste </h>
+	
+
+The main taste organs are the taste buds. These are located in hair-like
+papillae that project from the upper surface of the tongue. They can
+distinguish only four basic tastes: sweet, sour, salt and bitter. The taste
+buds for each taste are located in a different area of the tongue. The sense
+of taste is closely allied to the sense of smell, which helps us to
+differentiate a greater range of flavours. Loss of the sense of smell is
+the usual cause of impairment to the sense of taste, but certain drugs and
+occasionally zinc deficiency may also have the same effect.
+
+
+	<h> Touch </h>
+	
+
+The sense of touch, which includes all skin sensations, is conveyed through
+the nerves from the sense receptors that lie under the surface of the skin.
+
+
+</sample>

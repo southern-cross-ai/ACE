@@ -1,0 +1,238 @@
+<sample>
+	<id> E31 </id>
+	
+
+
+	<source> New Doctor - 1986 </source>
+	
+
+
+	<note> 2013 words </note>
+	
+
+
+	<h> Doctors as certifiers of incapacity </h>
+	
+
+
+	<bl> By Ian Webster  </bl>
+	
+
+  I could have been in Australia in December 1983 as I watched London's
+Granada Television. Through interviews with disabled people, their relatives
+and their doctors, WORLD IN ACTION examined claims that the UK government
+was cracking down in invalidity benefits by declaring sick people fit for
+work. Four years earlier Australia's crackdown had removed 30 thousand in
+one year from its list!
+  The program showed how the assessments and opinions of GPs, spouses and
+workmates were widely disparate from the official line. To one supervisor
+the suggestion that his workmate was a malingerer was rejected as rubbish;
+given half the chance, he would happily employ more men of his mate's calibre.
+This worker died on his way to yet another of a sequence of DHSS medical
+examinations.
+  An official of the Miner's union, experienced at fighting appeals for
+his members, described the legislation as pernicious; it attacked people
+unable to defend themselves, and by disallowing the benefit reduced them to
+abject poverty.
+  The Minister for Health and Social Security denied that decisions were
+made on financial and not medical grounds to transfer people from the sick
+list to the dole queue. No, the medical guidelines had not been changed,
+he said. The problem was the high levels of unemployment and lack of jobs.
+  As this journal pointed out at the time, the Australian events were uncannily
+similar. The precipitous fall in invalid pensions granted between 1979 and
+1982 is shown in fig. 1. The differences with the UK were that the medical
+guidelines here were shifted subtlely from the concept of (social) disability
+to medical impairments with remarkable compliance of the medical profession.
+And there was no right of appeal for those disenfranchised from their
+entitlements by these actions.
+  In Australia the Minister and Social Security officials protested that
+nothing had changed - but they failed to explain the plummeting number of
+grants (see fig.1). The profession remained strangely silent. It took a
+public outcry from the Australian Council of Social Services, disabled
+persons and some lawyers and doctors, assisted by Graham Williams of the
+Sydney Morning Herald, before the Government responded. Appeal mechanisms
+were introduced and the medical guidelines reversed to the previous criteria.
+The situation is still not good but an improvement, nevertheless. The
+Handicapped Programs Review (1985) and the Disability Advisory Council of
+Australia, and many other bodies, want the Invalid Pension reviewed and
+replaced by other provisions.
+  Although doctors may not realise it, indeed many deny it, their decisions
+are central to how social policy is implemented. The doctor's statutory
+and legal capacity to certify incapacity controls access to sickness benefits,
+workers' compensation, legal damages, invalid pensions, repatriation benefits
+and pensions, as well as social assistance in housing, education, transport
+and other areas. All citizens potentially may be affected. Is society justified
+in entrusting this area of decisionmaking to us?
+ 
+
+	<h> What are the questions? </h>
+	
+
+When certifying incapacity, say, for work, the doctor is presented with
+explicit and implicit questions. The explicit questions make proper use
+of medical skills and often require additional knowledge and skills: whereas
+the unstated questions potentially subvert the medical role.
+  The medical opinion is used (1) to test the truth of the person's claims,
+(2) to diagnose the cause, again to test veracity but also to assess severity,
+(3) to measure the severity of impairment(s), and (4) to describe the disabling
+and handicapping effects on the person. Some of these are more important
+to the courts than to the welfare system. For example, in negligence the
+search for cause and &quot;truth&quot; assumes importance: but even the welfare system
+takes an interest in such questions if the claimant can be blamed, as with
+alcoholism.
+
+
+	<h> A medical skill? </h>
+	
+
+Doctors are pretty good at judging a story and whether it hangs together and 
+fits with a person's current state; that is what we understand to be the art 
+of consultation and diagnosis. Doctors are expected to be open, accepting, 
+indeed gullible, when unravelling a person's predicament and condition (this 
+is known very well by drug addicts). But trust and truthfulness underpin this 
+process; and if confidence is lost, or doubts cast, a medical history becomes 
+valueless. On the other hand, cultivation of a healthy suspicion and respect 
+for facts is essential for astute diagnosis - especially when dealing with 
+confused patients. However, to maintain an ubiquitous state of suspicion would 
+be a stressful way to practice medicine, bordering on paranoia. Under these 
+circumstances, if evidence is required about the onset of a person's injury or 
+illness and its effects on their activities, this could be provided by others 
+better placed than the doctor to do so.
+  In my opinion, it is unreasonable and unfair to cast the doctor as the
+arbiter of truth, as he/she cannot claim this expertise. The AMA advises
+that when writing a certificate to attest only to facts which can be observed
+or validated and recommends that medical history data should be reported
+as &quot;the patient stated ...&quot;, or similar wording.
+  The doctor is expected to make a diagnosis. This is relevant in assessing
+an underlying cause. It also contributes to understanding the nature of
+incapacity and the severity of disability and handicap.
+  For the disabled person seeking compensation or welfare benefits the effect
+on their working and daily living activities is the critical issue. Invalid
+pension legislation defines the threshold for invalidity at &quot;85 per cent
+incapacity for work&quot;: whereas compensation legislation has a range of
+incapacity levels which may be compensated for, as well as lump sums for
+particular losses.
+  In these circumstances, the severity of incapacity has to be assessed
+and certified. The decision goes beyond diagnosis to include the effects
+on human functioning: ability to get about, to work, socialise, be independent
+and to be economically self-sufficient. The judgement is about who is to
+be paid money and whether this adequately compensates the person for losses
+(of pain and suffering) or, in the case of welfare benefits, prevents the
+descent into poverty.
+ Decisions in this domain incorporate the social world, a knowledge of the
+availability of work and social welfare. Can the doctor tread these health
+and social boundaries?
+  In medical school the assessment of organ damage and dysfunction is taught:
+restriction, pain and stiffness of joints, limitation of exercise tolerance
+and respiratory impairments. These are the first steps to comprehensive
+assessment of disability and handicap; thus medical practitioners have
+a fundamental contribution to make in the assessment of disability.
+  The recent moves to define and codify disability reflect a concern with
+the whole person and their social status. Herein lies a real practical
+expression of trendy &quot;wholistic medicine&quot; which all doctors can adopt. The
+current moves towards comprehensive assessment and the team approach parallel
+these developments.
+  Is certifying incapacity a specialist or generalist function? Medical
+specialisation is oriented to organ systems, new technologies or special
+need groups, for example, the specialities of cardiology, radiology,
+paediatrics and geriatrics. The eclectic whole-person approach of the &quot;old
+time&quot; GP seems more appropriate for disability assessment than this. Frankly,
+some of the decisions made by specialists appear severe and oriented to
+physical impairment and less to actual functioning.
+  The American Review of Respiratory Diseases in 1980 showed that respiratory
+standards for compensation or social security purposes were extremely severe
+and inappropriate for patients with interstitial lung disease - to fulfil
+some of the criteria many patients would be nigh unto death. Specialists
+see people who are referred in clinical and not community contexts with
+diseases affecting the organ systems of their special expertise. We know
+that chronic diseases often affect several organ systems. How does one fit
+together partial deafness from childhood, moderate breathlessness, and some
+arthritis in a person who has never learnt to read or write? From the medical
+point of view these judgements require the wisdom and sensitivity of an
+experienced and broadly educated practitioner.
+  Should there be specialist assessors? A review of invalid pension
+administration showed that the GP's opinion is likely to be upheld against
+the full-time Commonwealth Medical Officer's when the decision is contested
+before an independent tribunal. In addition, part-time CMOs' decisions,
+often GPs brought in for this purpose, were frequently upheld against the
+full-time CMO's.
+
+
+	<h> A team of assessors? </h>
+	
+
+The Woodhouse Report (1974) proposed a radical reform for compensation in
+Australia. It made a distinction between the medical function of measuring
+impairment and the administrative function of determining incapacity. Since
+that time, our understanding of disability has advanced and comprehensive
+assessment is the favoured approach. It has now a solid place in the philosophy
+of aged care and in assessing childhood handicaps.
+  To be done well, and it must be if another form of social control of 
+disadvantaged people is not to be imposed, assessment will require extra
+professional personnel and be time-consuming. If, as many hope, assessment
+becomes the linchpin of geriatrics, rehabilitation, occupational health,
+management of alcohol and drug dependence and in certifying incapacity and
+sickness, it is most unlikely that enough resources will be available.
+Certifying sickness (temporary incapacity) and the major part of certifying
+invalidity is likely to remain a primary function of medical practitioners.
+  Added to the resource question is that of medico-legal liability. As welfare
+and patients rights movements strengthen, legal contest over decisions of
+this kind will increase. New South Wales doctors now pay upwards of $900
+per year for medical liability insurance to cope with  rising litigation;
+other professions may not be so willing to accept these costs.
+
+
+	<h> Assessment of needs versus eligibility criteria </h>
+	
+
+An important issue raised by the increasing use of assessment teams is
+that needs assessment will become directly linked to deciding whether a
+person is elibible for government assistance or access to government-funded
+facilities. In the past society has taken steps to separate medical and
+administrative functions. It is the judge and jury which decide the extent
+of damages on hearing the medical evidence in the courts. In occupational
+medicine, in assessing persons for insurance and pensions, this separation
+has been strict, especially excluding the treating doctor from the eligibility
+process. This does not gainsay the value of the treating doctor's opinion
+and perspective!
+
+
+	<h> Ethics </h>
+	
+
+In medical ethics the primacy of the patient's needs runs counter to the
+imposed role of the doctor as a gatekeeper to the welfare system. Set against
+this the wider interests of the community and accountability. In addition
+there is the conflicting loyalty to the employing authority and to the claimant
+citizen. It is critical that the medical judgement should be independent
+- the true stance of a professional.
+  I think the conflict of loyalties can only be reconciled by separating
+needs assessment and responsibility for care from deciding eligibility for
+government or third party provision. I have no doubt they should be linked
+but independent decisions. For example, needs assessment should be done
+first and its results fed into the eligibility process, the final decisions
+for which should not be medical.
+
+
+	<h> Conclusion </h>
+	
+
+I once said to a professor of law that a medical practitioner should be
+an advocate. He disagreed. He viewed medical practitioners as independent,
+unbiased arbiters of health, sickness and need. His concept of a legal advocate
+did not gel with my idea. The legal advocate presents his client's case
+persuasively to get the best deal for him: a contest according to the rules
+of law. The doctor, however, needs only to be honest to act as an advocate
+for individuals or communities. There is so much injustice in the social
+system, of the kind I have described above, that to be fair is to be an
+advocate!
+  Is this the scenario fanciful? To be realistic, medical conceptions will
+need to reflect concerns with social justice and welfare if medicine is
+to contribute in ways I have proposed. Of the purpose of medicine, Theodore
+Fox, a distinguished editor of the Lancet, said: &quot;Our purpose is to enlarge
+human freedom to set people free so far as we can from disability and suffering.
+  Although these ideas struggle for a place in contemporary medicine -
+they are not foreign. 
+
+
+</sample>

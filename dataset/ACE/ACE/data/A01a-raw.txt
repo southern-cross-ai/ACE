@@ -1,0 +1,62 @@
+<subsample>
+	<id> A01a </id>
+	
+
+
+	<source> The Australian - 28 October 1986 </source>
+	
+
+ 
+	<h> Gala Opening for extension to Qld Govt's DP centre </h>
+	
+
+  THE Premier of Queensland, Sir Joh Bjelke-Petersen, didn't disappoint the 
+crowd at the opening of the $20 million extension to the State Government 
+Computer Centre in Brisbane last week.
+  The Premier, who is facing a State election on November 1, was 
+presented  with a tie-pin decorated with a microchip  containing 
+more memory than the first computer the centre bought in 1965.  
+  Never one to let an opportune moment slip by, Sir Joh reminded guests of 
+the awesome power of high technology.
+  &quot;Now you know why I'm so afraid of the ID card that our beloved brethren in 
+Canberra are so fond of,&quot; he said.
+  Stages one and two of the State Government Computer Centre are worth $50 
+million.  The stage two building cost $20 million and $30 million of computer 
+equipment is installed in both sections. 
+  The importance of the centre was demonstrated by the calibre of guests at 
+the opening ceremony.
+  Sir Joh, who officiated, was backed up by the Deputy Premier, Mr Bill Gunn, 
+the Minister for Works and Housing, Mr Claude Wharton, the Minister for 
+Industry, Small Business and Technology, Mr Mike Ahern, and the Under-
+Treasurer, Mr Leo Hielscher.
+  With four floors below ground level and two above, the centre is highly 
+secure and only certain staff are permitted into &quot;dark areas&quot; where central 
+processors are situated.
+  Indeed, staff on one level underground have a large television screen 
+relaying pictures from a camera focussed on street level to relieve the 
+bunker-like*bunker-lie atmosphere and let them know just what sort of a 
+day it is outside.
+  Alternative power systems have been built-in.  The centre has its own 
+electricity sub-station and a diesel system for back-up.
+  A computer maintenance system ensures 24-hour operation.
+  The director of the State Government Computer Centre, Mr Mal Grierson, said 
+the centre now has more than 200 times the processing capacity it had in 1965.
+  &quot;As well as supporting individual departmental applications, the centre's 
+major responsibilities are the service-wide applications, for example, land 
+information systems, government accounting, computer aided drafting, office 
+automation and videotex,&quot; he said.
+  &quot;Research and strategic planning activities play a vital role in the 
+centre's activities.
+  &quot;Technical developments within the industry are continually monitored and 
+researched so as to assist departments to take advantage of current 
+innovations.
+  &quot;Areas under investigation include resource planning, communications, new 
+services such as graphics, electronic mail and videotex, data analysis and 
+design support tools.&quot;
+  According to Mr Gunn, Queensland's computer centre has set a lead for other 
+States to follow.
+  He had visited other States to assess their facilities and found none to 
+match the Queensland venture, he said.
+
+
+</subsample>

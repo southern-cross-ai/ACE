@@ -1,0 +1,218 @@
+Defining literacy: common myths and alternative readings  
+
+  
+
+This paper is concerned with crucial issues which need to be addressed in
+attempting to define literacy.  Several persistent myths or common misreadings
+of the nature of literacy are critiqued, namely the myths of literacy as:
+an absolute, word perfect standard; a collection of functional skills; an
+autonomous, context-free and unified competence; and a means of economic
+benefit.  Alternative definitions, differing radically from the myths in
+their reading of reality, are proposed.  These argue for a broad, inclusive
+definition which takes into account two broad perspectives - (i) the
+essentially creative meaning-centred and relative nature of language learning
+or use, and (ii) the patterns of social and cultural contexts in which literate
+behaviours are learnt, developed, constrained by or act to constrain the
+literacy of others.  A dual focus is argued for.  First, a focus on individual
+learning and experience serves to highlight the essentially constructive,
+selective, purposeful nature of the literacy process and the organic relation
+beteen literacy, experience, personal growth and autonomy.  Thus, liteacy
+is seen as transcending exclusively linguistic considerations and empowering
+its possessors to make sense of, to read and reread their experience, both
+to "take meanings" from the world and to act to transform that world.  The
+second essential focus entails the recognition that socio-cultural contexts,
+including the nature, availability or distribution of information and printed
+materials in a society, are a vital part of the literacy process itself,
+shaping the meaning, values status and conceptions of literacy practices
+or competences.  Hence discussion moves to the wider definitional framework
+for the analysis of literacies as social practices embedded in socio-cultural
+contexts of parent-child relationships, socialization patterns and ideologies.
+
+"I don't know what you mean by `glory,'" Alice said. Humpty Dumpty smiled
+contemptuously. "Of course you don't - till I tell you ..."
+"When I use a word," Humpty Dumpty said in rather a scornful tone, "it means
+just what I choose it to mean - neither more nor less".
+"The question is," said Alice, "whether you can make words mean so many
+different things".
+"The question is," said Humpty Dumpty, "which is to be master - that's all".
+ (Lewis Carroll, 1985:173)  
+
+Substitute the word `literacy' for `glory', and we have an apt account of
+the idiosyncratic and variously motivated definitions or uses of the concept
+of `literacy'.  The attempt to define literacy is problematic.  Varying
+definitions abound, both in theory and practice.  Some emphasize the
+acquisition of basic communication skills or a level of competency required
+for effective functioning in a given society, some other definitions - such
+as "organic literacy" (Carozzi, 1974) - focus upon literacy as a process
+"at the heart of the growth of a person", and again others encompass
+sociological and political perspectives as central (Street, 1984; Levine,
+1986).  A further, common approach has been to ignore problems of definition
+altogether.  Large scale surveys of literacy levels, such as in Australia
+in 1975, and the USA in 1986, and various media debates regarding literacy
+standards often assume that what it means to be literate in our society
+is clear cut, self-evident, uncontroversial and readily measurable.
+
+However, the difficulties of suggesting a simple but acceptable formulation
+of literacy are conveyed by Levine's (1986:22) metaphor of an indigestible
+cake
+
+     .... what might appear to be an endless series of disagreements and
+     controversies will be encountered which reflect the fact that we are
+     dealing with a complex amalgam of psychological, linguistic and social
+     processes layered one on top of another like a rich and indigestible
+     gateau.  Different varieties of academic specialists cut slices out
+     of this cake with the conceptual equipment their disciplinary training
+     has taught them to favour.  Consumers of the cake (teachers, pupils,
+     politicians, employers) have very different appetites and push and
+     jostle each other to secure a wedge of a particular size and, if possible,
+     try to get their preferred wedge defined as the standard helping for
+     everybody else.
+
+The questions of `what is literacy?' and `what is literacy for?' are
+fundamental to the responsible and effective work of language teachers,
+educators, policy and curriculum designers, researchers and academics. 
+Otherwise we are working in the dark, unaware of what informs and constrains
+literacy policy, practice and evaluation at all levels, and complacent about
+or blind to the rival conceptions represented by traditional mainstream
+and minority literacy practices in the community.  Yet characteristically
+there has been academic neglect of these issues (Levine, 1986:3-6), or
+discipline-bound discussion, public confusion and misreading of the problems
+of literacy and illiteracy, and eclectic uninformed approaches applied in
+schools.  The back-to-basics or know-nothing movement (as Goodman (1982)
+dubs it), the application of business or systems management, or cost benefit
+analyses to the school curriculum, the nationwide surveys of literacy levels
+of performance in schools and/or the community conducted in USA, UK and
+Australia, the media preoccupation with headlines - "1 million adult
+illiterates in Australia", and the recent Victorian Ministerial initiatives
+to introduce assessment of literacy levels in state primary schools - all
+represent inadequate definitions of literacy and its uses.  As well, they
+can be seen as evidence for Spencer's (1986:442) claim that
+     Concern about literacy and the competences of learners is strongest
+     when the sociocultural functions of written language in a community
+     are changing.  That this is the case at present is another commonplace.
+
+A starting point for defining literacy is to clear the ground of tenacious,
+common literacy myths which have contributed to the notion of "the standard
+helping for everybody else".  In particular, the persistence of these myths
+has closed off enquiry into two deeper issues: (i) the analysis of the
+socio-cultural practices in which all literacy learning is embedded, assigned
+value and becomes sociologically determining and constraining, and (ii)
+the analysis of the changing social functions of printed material in an
+increasingly technological society, which includes the emergence of other
+literacies of the future which are already gaining ground on the traditional
+mainstream literacy of the school.
+
+ COMMON MYTHS AND ALTERNATIVE READINGS  
+Five common myths are discussed below and critiqued in turn by the posing
+of alternative readings of reality.  The myths have in common the conception
+of literacy as essentially technical, linguistic or skills based, instrumental,
+neutral and autonomous.  Some of their appeal comes from their ability to
+enlist literacy to serve other causes, while sidestepping close analysis
+of the nature of literacy and direction of social change.  The counter readings
+argue for a broader understanding of literacy that is more inclusive of
+learner purposes and experiences and more aware of prevailing social, cultural
+and political realities.  These readings share the belief that language
+is inescapably social and that, therefore, a theory of language learning
+presupposes a social theory which goes beyond socio-linguistic considerations.
+
+It may be useful to quote here three shorthand definitions of literacy argued
+for in the literature which are consistent with the alternative readings
+I am proposing.
+
+     By literacy I mean the ability to make and comprehend meanings in reading
+     and writing in a particular context, for particular purposes, with
+     respect to particular texts.   (Boomer, 1983:2)  
+
+     I shall use the term `literacy' as a shorthand for the social practices
+     and conceptions of reading and writing.   (Street, 1984:1) 
+
+     .... a general definition of literacy as the exercised capacity to
+     acquire and exchange information via the written word.  Functional
+     literacy can be [re]defined as the possession of, or access to, the
+     competences and information requried to accomplish transactions entailing
+     reading and writing which an individual wishes - or is compelled -
+     to engage.   (Levine, 1986:43) 
+
+Myth 1: that literacy is the ability to read, write and spell correctly
+(the myth of literacy as an absolute or perfectable product).
+This myth defines reading and writing as word exact processes, and hence
+focusses upon the mastery of correct forms and the eradication of errors.
+Phonics and skills-centred approaches to language instruction rely heavily
+on this definition, fragmenting, structuring and sequencing language learning
+accordingly.
+
+Indeed such systematic approaches to language instruction seem part of the
+attraction: exponents can put their trust in ordered, manageable prepackaged
+lessons, defer to marketed instructional programs and reading schemes, test
+for mastery or remediation, and prescribe additional practice appropriate
+to the master plan.  Moreover a line of common sense reasoning bolsters
+the myth - that those who can use the language correctly are literate, and
+that Standard English usage provides access to power denied to the less
+educated.  Simple solutions have their appeal, thrusting aside disturbing
+questions about the nature and purposes of literacy, the life-chances of
+different social groups and the alarming pace and complexity of social and
+technological change.  They also have their ideological base.
+
+The existence of fixed levels of competence and a word perfect standard
+is presumed, separating the literate from the `illiterate' or `sub-literate'.
+Many parents and adult literacy students rigidly adhere to such debilitating
+literacy myths, as Phillip (Grant, 1985) for instance admits after ten years
+in an adult literacy program.
+
+     I can read and write a bit now, but I think you tell yourself you can't
+     all the time, and you brainwash yourself .. branded meself as being
+     slow or dumb ... But with me I've gotta be right or not at all ...
+     If I'm not gunna be right I won't write at all .... because I don't
+     want to make a fool of meself.
+
+Despite significant progress made in the tuition program many literacy
+students, like Phillip, continue to see themselves as `illiterate' and to
+insist on unrealistic notions of literacy as an exact, word perfect standard
+in reading, writing and spelling (Grant, 1985; Pollock, 1983). They often
+draw stark, absolute contrasts of literacy as for the `literates', `being
+right' all the time, otherwise one is stigmatized as `illiterate', `bad'
+and `wrong'.
+
+While the myth exacerbates social stigma and low status, the product approaches
+it promotes in schools are damaging in other ways.  They are reductive of
+language as a meaning-making process, and of the child as a learner; to
+read becomes recognizing words or decoding correctly, to learn a second
+language becomes translating accurately, and to write becomes expressing
+and spelling conventionally.  Programs, techniques and systems-oriented
+approaches cast the learner in a passive role of recipient dependent on
+the `reading expert' or instructional program.  Literacy purposes are likely
+to be limited to information processing - the one way transmission or
+extraction of supposedly unambiguous information.  It is assumed that a
+single, objective meaning resides in the text and that the reader's
+`comprehension' of it will be either right or wrong.  This continues despite
+all the counter evidence that variation is
+
+     the norm rather than the exception ... no concept has been more difficult
+     for the [teaching] profession to abandon than this notion of language
+     as a perfectable absolute.   (Harste, Woodward and Burke, 1984:104). 
+
+Thus individual variations in response, comprehension and interpretation
+of meaning are discouraged as divergent. 
+
+Alternative reading 1: literacy is a creative, selective, meaning-centred
+process, and a relative concept, relative to different texts, social contexts
+and purposes.
+In reality, being literate entails far more than reading, writing and spelling
+correctly.  Reading and writing - the recognized core of literacy - are
+creative, actively predictive and selective not exact processes.  Hence
+achieving fluency depends upon taking risks in anticipating and constructing
+meaning and varies according to context, purpose and text (e.g. Smith,
+1978:1983).  Being literate is a relative concept, and not the attainment
+of a particular level of mastery.  Accordingly, we are each more or less
+literate in different settings, for example we may be literate in respect
+to reading a literary text for pleasure, but not literate in respect to
+reading a physics textbook or the installation instructions in a home appliance
+manual poorly translated from Japanese.
+
+Moreover, the reader's active construction of meaning is a tentative and
+cumulative process.  Meaning is not transmitted absolutely from text to
+reader, but is itself relative.  It is relative to: the implied questions,
+purposes, ways of making sense of and taking sense from the world the reader
+brings; the context and nature of particular reading tasks; as well as to
+the demands and nature of the texts (Grant, in press).  
+                                          

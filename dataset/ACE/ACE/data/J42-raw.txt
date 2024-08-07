@@ -1,0 +1,254 @@
+<sample>
+	<id> J42 </id>
+	
+
+
+	<note> 2024 words </note>
+	
+
+
+	<source> The Economic Record </source>
+	
+
+
+	<h> More or less equal? Australian income distribution in 1933 and 1980 </h>
+	
+
+
+	<bl> Ian Mclean and Sue Richardson </bl>
+	
+
+     Utilizing information in the 1933 census we estimate several
+  measures of individual and household income inequality for that
+  year. Allowance is made for the effect of the Depression on the
+  1933 income distribution, revealing a clearly adverse impact.
+  Comparisons with recent years indicate marked declines in
+  aggregate income inequality.
+
+  
+	<h> I Introduction </h>
+	
+The pursuit of an egalitarian ideal has a long history in
+Australia. A widely shared objective during the colonial period
+was the creation of a society free of extreme disparities in
+wealth and income and of the rigid divisions of class that had
+prevailed in Britain during the 18th and l9th centuries. These
+aspirations found expression in the assertions of the miners'
+rights on the goldfields, the squatter-selector conflicts of
+the 1860s to 1880s, the rise of the trade union movement and
+Labor parties, and in the innovative regulatory and social
+welfare legislation that dates from the depressed years of the
+1890s. Since Federation, policies to reduce perceived
+inequalities have been part of the social and economic program
+of all governments, State and Federal. What has been the
+result?
+     Our knowledge of trends in economic inequality over this
+century is fragmentary, despite the social, political and
+economic significance of the subject. The principal impediment
+to an improved understanding is the limited amount of survey
+information available on either income or wealth. An income
+question was included in the special 1915 wartime survey of
+private wealth holding (Knibbs, 1918). The 1933 population
+census was the first to include a question on income: such a
+question was not repeated until the censuses of 1976 and 1981.
+No official surveys were conducted between 1915 and 1933, or
+between 1933 and 1969, though an unofficial survey of household
+expenditure was conducted in 1967 which collected details of
+income. Beginning in 1969 the Australian Bureau of Statistics
+began surveys of income distribution that have been repeated in
+1974, 1979 and 1982. And in 1976 it conducted a survey of
+household expenditure which also sought details of income. Thus
+evidence for the period since the late 1960s is abundant
+relative to that available for any earlier period, and the 1915
+and 1933 censuses acquire considerable significance as sources
+of information about long-run changes in income distribution.
+This last-mentioned source has been totally ignored in previous
+inquiries, yet it provides the only opportunity to observe the
+distribution of income directly and in a comprehensive manner
+in the half century between 1915 and the late 1960s. Although
+serious obstacles face would-be users of the income-related
+information in the 1933 census, our contention is that these
+obstacles are surmountable.
+     It is the primary purpose of this article to estimate the
+distribution of income for 1933 in a manner that permits
+comparisons with the official estimates for recent years. Brief
+comparison is also made with the less reliable measures based
+on the 1915 war census. In addition, we report an attempt to
+take account of the different economic conditions that attended
+the 1933 and recent censuses, namely, to estimate the degree of
+inequality that might have existed in 1933 had the economy at
+that time not been in severe depression.
+     The paucity of survey evidence regarding inequality in
+Australia has not prevented speculation about long-run trends.
+In 1970 Encel wrote `the distribution of income appears to have
+remained largely unchanged during this century' (quoted in
+Jones, 1975, p. 21). In the most thorough and frequently cited
+empirical assessment of this judgement, based on the evidence
+of male incomes in the 1915 war census and 1969 ABS Survey,
+Jones concluded, `It would require a mind peculiarly
+resistant*resistent to evidence to deny that over the last half
+century there has been a significant reduction in inequality of
+income distribution among men' (Jones, 1975, p. 32), and
+estimated that the Gini coefficient had declined from 0.420 to
+0.338. One purpose in constructing income distribution
+estimates for 1933 is to assess whether or not this decline has
+been continuous. For three reasons our prior expectation was
+that the decline occurred primarily after 1933. The major
+expansion of redistributive social welfare programs dates from
+the 1940s; unemployment has been lower in the post-war than
+inter-war decades; and if Australian experience paralleled that
+of the United States, it may be noted that marked declines in
+American income inequality this century have been confined to
+the 1930s and 1940s (Williamson and Lindert, 1980, Chap. 4).
+     In the next section we briefly describe the 1933 census
+information regarding income. We then report our procedures for
+estimating the distribution of income in 1933 (Section III). In
+Section IV the 1933 distribution is compared with those for
+1915 and recent years using as a basis individual male and
+female income recipients. In an effort to remove the effect of
+the Depression on measured income inequality, we `re-employ'
+part of those recorded as unemployed and the hidden unemployed
+in 1933, and then re-estimate the distribution of income for
+that year (Section V). There follows an attempt to convert the
+1933 income data to a family rather than individual income unit
+basis, and to compare family income inequality trends between
+1933 and the present (Section Vl).
+
+     
+	<h> II 1933 and the Census </h>
+	
+Either 1931 or 1932 marks the trough of the Depression,
+depending on the choice of economic indicator, with some
+recovery evident in most time series by 1933. For example, the
+trade union based estimates of the unemployment rate peaked in
+the June quarter of 1932 at 30 per cent, and over the ensuing
+12 months had fallen to 26 per cent (Commonwealth Year Book,
+1934, p. 739). The general unemployment rate similarly declined
+from 21.4 to 19.3 per cent between 1931-32 and 1932-33, while
+over the same period real GDP rose by 6 per cent and total
+employment by 5 per cent. The census on 30 June 1933 thus
+occurs at the end of a year in which a strong recovery in the
+economy commenced.
+     In his report on the census of 1933 the Commonwealth
+Statistician, Roland Wilson, states that the decision to
+include an income question for the first time was in part
+`actuated ... by the special interest in the effects upon the
+pattern of distribution produced by more than three years of
+severe Depression'. But in addition to the special
+circumstances of the time he indicates a more general
+appreciation of the value of such information for the study of
+inequality in Australia: he cites `the increasing need for
+recurrent and comprehensive statistical measurement, in the
+place of occasional and partial measurement, of income
+distribution throughout the community' (Wilson, 1940, p. 332).
+We share the same twin interests in the long-neglected evidence
+he decided to collect. 
+     The income question did not ask for actual values but for
+an indication as to the class into which the respondent's
+income fell. It follows that there is no census estimate of
+total income either within any income class or for all classes.
+There were seven classes: zero income; £1 to £51; £52 to
+£103; £104 to £155; £156 to £207; 
+£208 to £259; and £260 and over.
+The basic information with which we must work is thus the
+number of income recipients in each of the seven income
+classes, cross-classified by such characteristics as sex, age,
+marital status, grade of occupation, industry, religion and
+State or territory of residence. The absence of precise income
+data makes difficult enough the task of estimating means and
+distributions within any closed income interval; it raises
+special problems for the open-ended upper income group -
+problems to which we return in the next section.
+     The advice given on the census form concerning the
+definition of income or earnings is worth quoting:
+
+     all income for the year ended 30th June, 1933, by way of salary
+     or wages or from any business must be included plus any income
+     from property or other sources. The value of board and
+     lodgings, rations, or other allowances received from an
+     employer must be included.
+
+     In every case the income to be stated is the total income for
+     the year without deduction for household or domestic
+     expenditure.
+
+     Allowances received by wife from husband should not be included
+     by wife as income nor should allowances from surviving parents
+     or other relations be stated unless received as payment for
+     services rendered.
+
+     A strict interpretation might exclude some forms of income
+(or imputed income) that the survey was meant to capture. The
+Statistician notes, for example, that maintenance and
+allowances in money or kind received from persons other than
+employer (for example, from family or charities) might be
+omitted. He also notes that there is likely to be
+understatement of the imputed value of primary produce consumed
+on farms (Wilson, 1940, p. 334).
+     Two further comments on the census are warranted. First,
+among those responding to the census, 2.4 per cent of male
+breadwinners and 5.8 per cent of female breadwinners did not
+state their income class. Whatever uncertainties surround the
+accuracy of the recorded figures, comparatively few respondents
+failed to answer the question. Second, for purposes of
+comparison we treat the term breadwinner as equivalent to
+income recipient, as this term is used in contemporary ABS
+publications. In doing so, we acknowledge the possible
+inaccuracy arising from the exclusion of dependants who receive
+an income.
+
+     
+	<h> III Estimating the 1933 Income Distribution </h>
+	
+As mentioned, it was necessary to estimate mean incomes
+for the seven income intervals, and this posed particular
+problems with the open-ended, highest income class of £260 and
+over, and to a lesser extent with the interval that covered the
+range of £1 to £52. For the other five (closed interval) income
+classes we have simply adopted the mid-point of the range as
+the average.
+     For the bottom income interval of £1 to £51 Clark and
+Crawford assign an estimate of £46.4 for average income (1938,
+p. 9). Since the source of their estimate is unpublished, we
+sought an independent assessment of this figure. From
+information in the census regarding the occupational
+composition of those recorded as receiving between £1 and £51,
+it was possible, separately for males and females, to allocate
+them into five occupational groupings: unemployed; self-
+employed; wage and salary earners (full or part time) and
+apprentices; pensioners, persons of private means, and persons
+engaged in religious and benevolent institutions; and
+employers. This provided a set of weights to apply to estimates
+of the average income of each group. The weighted average
+incomes thus derived for those earning less than £52 were £39
+for males, £45 for females and £41 for persons.
+     Two approaches were adopted in the estimation of the
+average income for those reporting incomes of over £259. The
+first was simply to impose a top-tail distribution (we are
+dealing with the top 14 per cent of income recipients) drawn
+from more complete censuses. This was done using the 1915 war
+census and the 1979 income distribution survey data. Insofar as
+some secular reduction in inequality was thought to have
+occurred over this period, these alternative top-tail
+distributions would be expected to produce upper and lower
+bound estimates respectively of measures of inequality in 1933.
+     The second approach was more direct. In principle it is
+possible to adjust national income estimates to obtain a
+measure of total personal income of residents consistent with
+the census definitions. Subtraction of the estimate of total
+income attributable to those earning less than £260
+leaves a residual amount which then can be divided by the
+number of income recipients recorded in the census as earning
+over that amount. In practice the procedure is hazardous. The
+most widely accepted and secure national accounts estimates for
+1932-33 (Butlin, 1962) have been compiled from the production
+rather than the income side. For national income figures
+derived by the latter approach it is necessary to turn to the
+contemporary estimates of Clark and Crawford (1938, p. 13). No direct
+assessment of the reliability of these is possible in the absence of
+alternatives; indirect assessment is feasible, however, by comparing other,
+production-based national income figures Clark and Crawford arrived at with
+those of Butlin.
+
+
+</sample>

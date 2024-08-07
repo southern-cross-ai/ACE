@@ -1,0 +1,244 @@
+<sample>
+	<id> L07 </id>
+	
+
+
+	<note> 2019 words </note>
+	
+
+
+	<source> All possible avenues </source>
+	
+
+
+	<bl> By Tom Howard </bl>
+	
+
+&quot;Would you like to lie in bed with her?&quot; asked Mr. Gorham.
+  I flushed. &quot;Yes,&quot; I answered.
+  &quot;Did you hear that?&quot; yelled Mr. Booker. &quot;The Coat's just admitted he'd
+like to lie in bed with Jean Ferguson!&quot;
+  &quot;I hope you use a french letter, Coat,&quot; said Mr. Street.
+  &quot;There's enough bastards around already,&quot; agreed Louis Jessup.
+  &quot;You can say that again!&quot; exclaimed Mr. Bear.
+  &quot;You oughtta know, Teddy,&quot; said Zach McLaurence.
+  &quot;I wouldn't mind sleeping with her myself,&quot; leered Mr. Gorham.
+  &quot;Is she good in bed, Coat?&quot; asked Mr. Street.
+  &quot;Tell you what, Coat,&quot; said Bob Booker. &quot;I've got a french letter in my
+desk I can lend you.&quot;
+  &quot;Second-hand, of course,&quot; said Sporrie.
+  &quot;Erk!&quot; grimaced Mr. Gorham.
+  &quot;Full of colly-wobbles is it, Bob?&quot; asked Louis Jessup.
+  &quot;I've only used it once!&quot;
+  &quot;Erk!&quot;
+  &quot;Have you popped the question yet, Coat?&quot; continued Booker.
+  &quot;Well, no, I haven't.&quot;
+  &quot;Tell you what, Coat! I'll pop round and tell her.&quot;
+  &quot;Don't do that!&quot;
+  But ignoring my protestation, Booker sailed out the door.
+  The laughter had scarcely abated, when Mr. Kennel walked in. A little
+man with horn-rimmed spectacles, Mr. Kennel was Chief Teller in Accounts
+Section. &quot;Where's the boss?&quot; he asked.
+  &quot;Gone to see about a broken clock,&quot; said Sporrie, picking his nails.
+  Kennel surveyed the damage. &quot;How did that happen?&quot; he asked.
+  &quot;Fell down, I guess,&quot; replied Sporrie, again without looking up.
+  &quot;Anything we can do you for, Jed?&quot; asked Mr. Rochester.
+  &quot;I think I'll just wait till he comes back.&quot; So saying, Kennel strolled
+to the top of the room and calmly sat down in Witcharde's chair.
+  A few minutes later, Horrie Waterman came in and began distributing an
+Information Circular from the Association.
+  &quot;Getting a bit sensational, aren't we, Horrie?&quot; commented Mr. Gorham.
+  And indeed we were! The circular was headed CRITICISM OF POLICE METHODS
+and ran as follows:-
+           
+	<h> SEARCH WITHOUT WARRANT </h>
+	
+The methods of the Commonwealth Investigation Service in the Sales Tax
+Office have been bitterly criticised by incensed members following the recent
+search of an officer's private home.
+  After undergoing a sustained ordeal of handwriting tests and interrogation
+the officer was bundled into a car and driven away by three powerful-looking
+well-built investigators.
+  Only when the car had travelled some distance was the officer told the
+investigators were going to his home. On arrival the investigators &quot;invited&quot;
+the officer to let them search the premises without a warrant.
+  The officer, who maintains his innocence of any malpractice, was subjected
+to humiliating questioning without being told the nature of the offence
+he was suspected of committing. His wife was ill and expecting a child at
+the time and he was reduced to a state of extreme nervous tension.
+  Later he was sent back to his desk and left without any indication of
+what was going to happen to him next.
+  The methods of enquiry and search were so unusual that citizens generally
+may well wonder what the Commonwealth investigators will be capable of doing
+when they start full-scale operations under the new Federal Police legislation.
+            
+	<h> INVESTIGATOR TALKS OF &quot;MURDER&quot;</h>
+	
+Having found no evidence of wrong-doing by the officer, the investigators,
+with apparent relish, took possession of a war-time souvenir pistol found
+abandoned in the bottom of a wardrobe.
+  When an Association official enquired what the investigators were going
+to do with the pistol, he was told it would be treated as an &quot;unlicensed
+revolver&quot;.
+  It was explained to the investigators that the pistol was given to the
+officer during the war by an Air Force mate who was later killed in action.
+The gun had not been used since and when the officer returned from the war
+it was thrown aside and forgotten.
+  With something like the melodrama of a fifth rate detective novel one
+of the investigators quite seriously told the Association official that
+the revolver might be a &quot;missing murder weapon.&quot;
+  The pistol was rusted, broken, old and useless. It was about as incapable
+of being fired as the Commonwealth Investigation Service apparently is of
+solving the &quot;extra man mystery.&quot;
+  &quot;I don't know that you had any right to print all that, Horrie,&quot; complained
+Mr. Gorham.
+  &quot;Who was it, Horrie?&quot; asked Mr. Street.
+  &quot;Wasn't me - that's for bloody sure!&quot; said Wakington-Snell.
+  &quot;What's all this `extra man' crap?&quot; asked Mr. Street.
+  &quot;Well, I told her, Coat,&quot; said Booker, breezing back. &quot;She said she'd
+be happy to sleep with you any time.&quot;
+  I knew she had not said anything of the sort, but I raced around to Records
+all the same. &quot;Has Booker been speaking to you about me?&quot; I asked.
+  &quot;Yes; he has.&quot;
+  &quot;I hope you didn't take any notice of what he said.&quot;
+  &quot;No; I didn't.&quot;
+  &quot;That's all right, then.&quot;
+  Just as I returned, Witcharde came in the other way. Fortunately, his
+attention was distracted by Kennel. &quot;There you are!&quot; exclaimed that worthy.
+&quot;I see you've got a broken clock.&quot;
+  &quot;Did you fix that chair?&quot;
+  &quot;Yes,&quot; replied Southey. &quot;Everything under control.&quot;
+  Witcharde tore up two forms he was carrying, and sat down beside Rochester.
+  &quot;Don't worry about me,&quot; said Kennel. &quot;I've got all day.&quot;
+  &quot;Get stuffed,&quot; answered Witcharde.
+  Kennel made no attempt to execute this order, and Witcharde went on talking
+to Rochester. They were discussing Waterman's Circular.
+  This stalemate seemed set to continue indefinitely, when there was a sudden
+commotion in the direction of Accounts Section.
+  &quot;Man overboard!&quot; It was old Gruber's voice. There was the sound of running
+feet in the corridor outside. Then tumult. &quot;Mann the lifeboats!&quot; Gruber
+was screaming. &quot;Ahhhhhhhhhhhhhhhhhhhh!&quot; - &quot;Fire!&quot; some-one shouted. &quot;Fire!&quot; -
+&quot;Fire!&quot;
+  We sat at our desks like statues of ice. 
+  Witcharde dived for the door.
+  The corridor was choked with pandemonium. Females were screaming, wielding
+their purses like clubs, their bodies for battering rams. &quot;Fire!&quot;, &quot;Fire!&quot;
+It was every woman for herself; clawing frantically at those in front; being
+clawed by those behind. &quot;Fire!&quot;, &quot;Fire!&quot; Using the heels of their shoes
+like spurs to a horse, the gentler sex battled their way down the stairs.
+&quot;Fire!&quot;, &quot;Fire!&quot; The call re-echoed from floor to floor.
+  At last we were in the street.
+  &quot;Some-one stop the traffic!&quot; But there was no need. An impenetrable barrier
+of human flesh spilled across the road-way. The pressure was increasing.
+I slipped down King Street and caught a tram to the Uni.
+
+&quot;Where did you get to, yesterday, Mr. Howard?&quot; Spindel's tone was cold and
+sarcastic.
+  &quot;I took myself out to the University, if it's any business of yours.&quot;
+I could see Carrier's jaw drop, out of sympathy I suppose.
+  &quot;I think it is our business, Mr. Howard, when you take yourself off, without
+permission,&quot; continued Spindel.
+  &quot;I think I acted rather wisely, considering the circumstances.&quot;
+  &quot;You'll have to fill in a leave form, and you'll be docked for the time
+you were absent. That's all, Mr. Howard.&quot;
+  &quot;I refuse to fill in the form.&quot;
+  &quot;In that case, I have no alternative, but to report your conduct to the
+D.C.&quot;
+  &quot;I would welcome the opportunity. And I shall seek an interview for myself.&quot;
+I thought better of it, however, and returned to I.E.s. &quot;Spindel reckons
+he's going to dock the time from my pay,&quot; I explained to the room at large.
+  &quot;He can't do that, Coat,&quot; said Booker. &quot;We were all in the pub, and he's
+not doing anything about that.&quot;
+  &quot;He'd better not!&quot; exclaimed Wakington-Snell with surprising vehemence.
+  &quot;No. I should say not,&quot; agreed Rochester.
+  &quot;What will I do about it?&quot; I asked.
+  &quot;You want to write a letter to the D.C.,&quot; suggested Sporrie.
+  &quot;That's a good idea,&quot; I said. Witcharde came in. Under his beady eye, I
+removed all the files from the top of my desk, took out a sheet of ruled
+foolscap, and wrote the following memo:-
+                                          
+	<misc> Internal Examinations </misc>
+	
+Yesterday afternoon, as you are doubtless aware, in Accounts section,
+while Mr. Kennel was out of the room, a gust of wind blew a large number
+of cheques that were on his desk out of the window. I only learnt of this
+occurrence this morning. Yesterday afternoon, due to the carelessness of
+Mr. Kennel and the irresponsibility of Mr. Gruber, I, along with most of
+the staff, and half the building in fact, was made to feel that a fire had
+broken out. I flatter myself that I am not a person to whom the spectacle
+of a fire fulfills some vicarious amusement - chasing fire engines is a
+habit I have long outgrown - and I therefore took myself away from the scene
+so as not to hamper the efforts of such gallant fire-fighters as would
+presently appear - or so I assumed.
+  Mr Spindel has stated that I will be required to take the leave without
+pay.
+  It is submitted that, in view of the extraordinary circumstances outlined
+above, Special Leave be granted.
+                                          
+	<misc> Thomas Howard </misc>
+	
+The Deputy Commissioner of Taxation.
+  I was tempted to add a proviso that, failing the grant of the Special
+Leave, the pay be deducted form Gruber's salary, but I thought better of
+it.
+  Witcharde was still watching me. With an elaborate gesture, I placed the
+memo in Rocky's In-tray.
+  Later that morning, Rocky called me over. &quot;I take it, you're not planning
+to spend very long in this department?&quot; he asked.
+  &quot;Why's that, Rocky?&quot;
+  &quot;This memo. If you put this through, you'll be finished for life.&quot;
+  &quot;It's true, isn't it?&quot;
+  &quot;That's not the point. It doesn't always pay to be truthful in this place.
+Especially when you attack old Gruber. He's the white-haired boy.&quot;
+  &quot;What's the matter with everyone? The man's a raving lunatic. Surely they
+realise that, even from yesterday's incident.&quot;
+  &quot;He just gets a bit excited, that's all. I suggest you tear up this memo,
+if you want to stay here for any time.&quot;
+  Like a coward, I took his advice. But having thrown Witcharde off his
+guard, I thought it would be a good idea to pen a note to Jean Ferguson.
+Due to the supervisory activities of Mr. King, our correspondence had rather
+decreased of late. Most of my letters were made up of the most atrocious
+puns and all manner of terribly juvenile devices.
+  Her letters to me were much more interesting:
+Tom Howard Q.C.
+  The caption above looks impressive but don't be misled by it, for I think
+the following parenthesis (brag, brag, brag) suits you better - You certainly
+were not behind the door when the gab was handed out.
+  So I am ignorant am I?
+  Well, I am pleased to say I am not a walking dictionary like yourself.
+  Sarcastic aren't I?
+  Well, you ask for it sometimes, always pointing out my ignorance on not
+knowing the literary characters that you have so painstakingly looked up
+in the encyclopedia (never could spell that word seeing that I do not possess
+one) but, undoubtedly, you possess stacks of them, and I bet you wouldn't
+have to dust them either.
+  Who is Descartes?
+  Hiprophesis?
+  Or, how long is the Suez canal?
+  Or, maybe I could ask you a few points on sport, a subject you know
+comparatively little about.
+  Then I could also say &quot;Oh! you are so ignorant.&quot; As for reading the `Water
+Babies' in kindergarten I am afraid I was far too much advanced for my years,
+for I fancied literary works of Kathleen Windsor much better.
+  Never mind Tom, I loved the ending of your letter.
+  I might be dumb and ignorant but I have blue eyes, beautiful physiognomy
+and a nice personality. 
+  Oh! my, I simply curled up on the mat when I read that. 
+  Don't upset me like that.
+                                      Yours Truly,
+                                            
+	<misc> Jeannie </misc>
+	
+Sir Charles Freeman,
+  I appear to be getting more like you every day, what with colloquial
+expressions and pseudonyms.
+  (look that one up in the dictionary).
+  Do you know what `Sidere mens eadem mutato' means? Well! I found out,
+it means `Tempus fugit but the mind remains the same.' (Impressive, isn't
+it?)
+  Sitting at my desk yesterday, I was startled to find a masculine head
+(combined with a husky voice) so intimately close to mine, and do you know
+who the possessor of the head was?
+                                         
+
+</sample>

@@ -1,0 +1,29 @@
+<subsample>
+	<id> B16d </id>
+	
+
+
+	<source>The West Australian - 18 September 1986 </source>
+	
+
+
+	<h> Cricket pitch </h>
+	
+
+WITH the completion of a $4 million lighting system at the WACA Ground,
+Perth has the facilities it needs to host more top-class cricket matches.
+  All that is lacking now is a decent programme of matches for Perth to
+give the cricket-starved WA public a long overdue fair go. That will require
+a change of attitude by Australia's cricket administrators and more than
+a few one-off matches this summer to coincide with the America's Cup.
+  Despite WA's major contributions to Australian cricket, the State has been
+a poor relation when it comes to hosting big matches. For instance, though
+WA has reached the final of the limited-overs competition 11 times, only
+two of those finals have been staged here. The rest have been held to cash
+in on potentially bigger crowds - and financial returns - in other States.
+  WA cricket fans are entitled to better treatment. With the provision of
+the new lights, local facilities can no longer be used as an excuse to
+deny WA a better share of top cricket action.
+
+
+</subsample>

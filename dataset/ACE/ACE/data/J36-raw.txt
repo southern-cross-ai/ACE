@@ -1,0 +1,229 @@
+<sample>
+	<id> J36 </id>
+	
+
+
+	<note> 2008 words </note>
+	
+
+
+	<source> Planning Federalism: Australian &amp; Canadian Experience </source>
+	
+
+
+	<bl> By Kenneth Wiltshire </bl>
+	
+
+
+	<h>1949 to 1961</h>
+	
+
+From 1949 to 1961 the word planning almost ceased to exist in the vocabulary
+of the government. The Liberal-Country Party coalition had a strong free
+enterprise platform aimed at reduction of all forms of government
+intervention, and reduction of the size of the public sector. It was symbolized
+by Menzies' efforts to reduce the size of the Commonwealth Public Service
+by 10,000, a goal which was achieved over five years by nonreplacement of
+wastage. Clearly, this was an environment hostile to any form of planning,
+even if confined to the public sector, and Menzies and his colleagues went
+further, picking up the catch cries of the 1930s and reviving the old
+association between the word &quot;planning&quot; and totalitarianism, and doing it
+extremely effectively. The Australian economy was performing very well,
+especially as a result of the Korean war boom, America and Britain were
+progressing reasonably well without any elaborate planning mechanisms, and
+Australia, like most of the western world, spent the 1950s talking of
+industrialization, economic growth and development, exports, and even
+decentralization - all of this within the general emotion and economic
+environment of postwar reconstruction, free of the restrictions of wartime.
+  Within the arena of federal financial relations Menzies retained the
+centralized system of uniform taxation, and the 1950s saw most Premiers
+Conferences centering around often bitter pleas for the &quot;return&quot; of such
+taxing powers to the states. The Menzies government could see the benefits to 
+themselves and to the people of a system ofone government imposing and 
+collecting income tax at uniform rates across the nation, although in a fit of 
+pique he once offered the states the return of the power only to find them 
+politely declining the offer. A detailed examination of the federal 
+consequences of uniform income tax is given in chapter 4, but it should be 
+noted here that this created a profound vertical imbalance in the Australian 
+federation which, from the point of view of the states, took away the largest 
+single component of their revenue raising, and, they claimed, caused inevitable
+difficulties in forecasting and resource allocation. The distribution of
+the income tax revenue became a frequent issue.
+  Menzies made a rather uncharacteristic move in 1954. This is of considerable
+interest because it seemed to fly in the face of his opposition to both
+centralism and planning. He argued that, in relation to state public works
+for development, because the commonwealth was responsible for raising large
+sums of money, it ought to assume some responsibility for its expenditure.
+The 1954 policy speech contained this statement:
+
+  
+	<note> quote </note>
+	
+(Interestingly, many of these concepts were repeated by Whitlam in the period
+1972-75 and denounced as socialist and centralist.) As Curtis suggests,
+Menzies' notions struck at the very principle of a federal compact, and
+in particular the right of states to decide regional interests. (Commonwealth
+grants to the states for universities had commenced in 1950.) The idea of
+determining truly national priorities for public works projects was not
+new, and it had worked reasonably successfully on a more limited scale in
+relation to the Development and Migration Commission, and for a short period,
+through the wartime national Coordinator of Works. Nothing much came of
+this new proposal, and it faded into the background, but it was not long
+before the same philosophical basis found its expression in various specific
+purpose grants to the states originated by the Menzies government a few
+years later.
+  The decade of the 1960s produced in Australia quite a different situation.
+In 1961 an overheated economy produced the response of a credit squeeze from
+the national government more severe than had been known hitherto. The political
+result was an election where the Liberal-Country Party Coalition came
+perilously close to defeat, winning by only one seat, and then only on
+Communist Party preferences. The Menzies government thus became concerned
+about the severity of economic fluctuation, and was persuaded to instigate
+a &quot;Commmittee of Economic Enquiry&quot; which was appointed in February 1963.
+The Committee had broad terms of reference and comprised an eminent and
+influential team headed by James Vernon (chairman). Other members were J.G.
+Crawford (vice-chairman), P.H. Karmel, D.G. Molesworth and K.B. Myer. The
+Committee submitted their report but the Menzies government refused to make
+it public, thereby fuelling speculation about its content. When it was
+finally released it became obvious that the Vernon Committeee had been 
+extremely impressed by the various indicative planning mechanisms in Western
+Europe, as well as the role of the Economic Council of Canada. It was the
+concept of interaction and dialogue between the public and private sectors,
+which these overseas examples had accommodated, which attracted them, although
+they were obviously impressed by the economic growth rates of those countries
+as well - especially France and the EEC in general. So the Vernon report
+placed strong emphasis on the need for economic growth but not as an end
+in itself; rather as a means to achieve other economic and social aims.
+Naturally the report contained many recommendations, but for our purposes
+the most interesting was proposed machinery for a permanent Advisory Council
+on Economic Growth, which was quickly construed as a desire for attention
+to forward thinking and appropriate resource allocation. The Menzies government
+managed to ignore the report, because when it was finally released, the
+economy had picked up quite well again and the concerns expressed by the
+Vernon Committee by that stage gave the appearance of being mere academic
+debate.
+  The Vernon Committee believed that institutional changes since 1945 had
+helped to fill some of the gaps which had made a national economic policy
+difficult to carry out before the war, and they mentioned specifically
+stronger, legally-constituted, central banking, the High Court ruling of
+1957 on uniform taxation, cooperation between commonwealth and state
+governments, and machinery for government consultation with representative
+bodies of the private sector in the formulation of both general and specific
+economic measures. In providing the Vernon committee with its terms of
+reference, the Menzies government stated its economic objectives as being
+&quot;a high rate of economic and population growth with full employment, increasing
+productivity, rising standards of living, external viability, and stability
+of costs and prices&quot;. The Committee regarded economic growth as central
+to all the other objectives, but strongly emphasized that the seven objectives
+stated by the government were interrelated in a very complex way. They
+were quite critical of the government's past emphasis on the short term
+and its attendant &quot;stop-go&quot; policies. In relation to government expenditure
+the Committee made this pertinent comment:
+
+  
+	<note> quote </note>
+	
+
+But on public investment they presented a completely different picture:
+
+  
+	<note> quote </note>
+	
+
+And in respect of the concept of planning:
+
+  
+	<note> quote </note>
+	
+
+A little later the committee went on to stress the importance of government
+always taking long term trends into consideration in its decision making,
+and the experience of other countries was cited in this respect, but nowhere
+were the means of ensuring that this happened spelt out. Perhaps the nearest
+they came to this was the recommendation for an Australian Advisory Council
+somewhat similar to the Canadian Council. They did not comment on the form
+which such a council would take, but its principal functions would include:
+
+  To report as required on particular subjects.
+  To prepare an annual review of growth experience and long-term prostpects.
+  To maintain a constant review of and advise on trends in overseas investment,
+  developement problems and any other matters that might be referred to
+  it for special attention.
+  To undertake, commission and encourage research bearing on its field of
+  responsibility, and to publish research papers.
+  
+The committee saw the main advantages of such a body being that it would
+provide for a constant yet independent review of long term trends, leading
+to better public understanding of those trends, and the interdependence
+of economic factors which must otherwise lead to dissension between various
+key economic interest groups in the community. The advisory council, they
+felt, should be comprised of people chosen for their ability and not as
+representatives of groups; it should be small; have no executive powers
+or responsibilities; with a strong secretariat; and confine itself to medium
+and long term matters.
+  The Vernon Report also made a number of significant observations about
+public investment in Australia which went very much unnoticed. There were
+major problems in planning and organizing public investment in the Australian
+federation, they said. The root of the problem was that although state and
+local governments undertook eighty per cent of public investment, they were
+responsible for raising only part of this amount, because a large part of
+such funds was raised by the commonwealth under Loan Council borrowing
+programmes, as well as commonwealth money provided directly under specific
+purpose payments. They went on to make the following pertinent observation:
+
+  
+	<note> quote </note>
+	
+
+The Vernon committee thought that because specific purpose grants took place
+outside the Loan Council, and involved the commonwealth directly in the
+problems of the state, they should therefore provide a basis for joint
+commonwealth-state planning of particular projects. However, this in itself
+was dangerous from an overall point of view, because a project by project
+approach increased the tendency to ad hoc bargaining and arrangements.
+  Most of the public response to the Vernon report focused on the economic
+content, and little attention was directed to the machinery recommendations.
+Menzies labelled the suggestion for a special project commission as useless
+and an advisory council as antidemocratic but, as was pointed out by at
+least one author, the existence of these bodies would have reduced the
+government's  options and forced it to justify taking any actions against
+those recommended by such bodies.
+  Although the main attempt of the decade to propagate some thinking about
+economic planning had fizzled, there were a number of developments occurring
+quite unobtrusively at this time in the public sector. The Defence Department,
+like so many of its counterparts in other countries, had moved to five year
+forward strategies, and the determination of annual fiscal appropriations in
+the light of those five year forward projections. The post office, late in the
+decade, introduced its own form of the Planning Programming Budgeting System,
+and especially in the area of telephone installations, began quite
+sophisticated projections of population movements and associated industrial
+and domestic location patterns. Many of the intergovernmental grants and
+agreements (a lot of them established by the Menzies government itself) moved
+to either a quinquennial system (for example, roads and housing) or a
+triennial system (universities) of resource allocation. Even in other areas,
+such as education and science, annual conditional grants were prepared in the
+light of longer term frameworks. These intergovernmental arrangements are
+analysed in later chapters but their planning perspectives should be noted
+here. Meanwhile the Loan Council continued, as always, to regard annual public
+works commitments in the light of longer term lead times, although there is
+substantial evidence to show that capital expenditure grants by the national
+government were influenced more by political pork-barelling than by any thought
+of efficient national resource allocation (especially after the various lessons
+of the near-election defeat in 1961 where it became clear that there was not a
+uniform spatial distribution of support for the national government).
+  There had been some quite pronounced moves by almost all Australian states in
+the 1960s to promote industrialization, and in some cases decentralization,
+predominantly by means of carrots rather than sticks. Preferences were given by
+all state governments in their own tendering to &quot;local&quot; firms, a typical
+pattern being five per cent for firms in that state over interstate firms, and
+a further five per cent over international firms. State governments also
+fiddled with freight rates, road tax charges, and especially the provision of
+cheap land and government guaranteed finance, in an effort to move industry,
+but this met with very limited success. It seemed to take a long time for state
+governments to realize that secondary industry was not particularly mobile and
+that, in any event, tertiary industry made almost two-thirds of the labour
+force, and the largest tertiary industry of all was the public sector directly
+under their own control.  
+
+
+</sample>

@@ -1,0 +1,55 @@
+<subsample>
+	<id> C17b </id>
+	
+
+
+	<source> The Sunday Times (WA) - 10 August 1986 </source>
+	
+
+
+	<h> Expert care for inspired music </h>
+	
+
+
+	<h>`Creation' according to Haydn </h>
+	
+
+  THE performance of Haydn's greatest, most inspired sacred work, his oratorio,
+The Creation, at Winthrop Hall on Wednesday, August 20, is likely to be
+an exceptional event.
+  For one thing, the conductor is the noted Sydney choral expert, Peter
+Seymour, and for another, the University of WA Choral Society will be joined
+by the WA Symphony Orchestra.
+  The ABC's new policy on its orchestras is to allow them to be involved
+with local community groups.
+  The society's permanent conductor, John Winstanley, has engaged three
+fine soloists - Elisa Wilson, Thomas Edmonds and Gregory Yurisich.
+  Miss Wilson, who has  been appearing in Falstaff, is a permanent member
+of the WA Opera Company and recently was awarded third place in the Shell
+aria contest in Canberra, a signal honor for the young soprano.
+  Mr Edmonds is coming from Adelaide to take the tenor role and Mr Yurisich,
+who is a principal with the Australian Opera and recently sang with Dame
+Joan Sutherland, will be coming back to his home city for the bass part.
+  Mr Seymour has been musical director of the Sydney Philharmonia Society
+since 1968.
+  Its choir is, in effect, the chorus for the Sydney Symphony Orchestra
+and is of a very high standard, thanks to Mr Seymour's work.
+  He was a founder-member of the Australian Youth Orchestra and is chairman
+and musical director of the National Music Camp Association.
+  During his time as music master at Sydney Grammar, the school developed
+a fine musical tradition.
+  Mr Seymour founded the Sydney Youth Orchestra Association in 1974 to
+train young players. He also spent some years as resident conductor with
+the Australian Opera.
+  His untiring work for the benefit of music earned him an OBE.
+  Haydn wrote the Creation in 1798-99 and it reaches heights of eloquence
+rarely surpassed.
+  Of particular note is the lyrical beauty sustained in the arias as well
+as the power of the choruses. 
+
+
+	<bl>- PETER WOMBWELL </bl>
+	
+
+
+</subsample>

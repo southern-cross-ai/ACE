@@ -1,0 +1,55 @@
+<subsample>
+	<id> J08b </id>
+	
+
+
+	<source> Journal of Biological Sciences - 1986 </source>
+	
+
+
+	<h> The movement of fluids and substances in the testis </h>
+	
+
+
+	<bl> B.P. Setchell </bl>
+	
+
+
+	<h> Abstract </h>
+	
+
+Three aspects of the control of movements of fluids and substances into,
+out of and inside the testis are discussed: the tubular barrier, the
+interstitial extracellular fluid and the testicular blood vessels.  The
+functional basis for the tubular barrier is twofold; there are significant
+differences in the concentration of many substances inside and outside the
+tubules and marker substances enter or leave the tubular fluid at widely
+different rates, depending on lipid solubility and the presence of specific
+carrier systems.  The anatomical basis for this barrier appears to be the
+specialized junctions between adjacent pairs of Sertoli cells.  The barrier
+develops only at puberty, as the first cells undergo meiosis, but the
+development may not be as sudden as previously believed.  The barrier breaks
+down after efferent duct ligation when spermatogenesis is disrupted.
+Techniques for measuring the volume, the turnover rate, the composition
+and fate of the interstitial extracellular fluid are described, and the
+unsatisfactory features of the presently available techniques for collecting
+this fluid for analysis are emphasized.  There is a relationship between
+the fluid in the testis and lymph from vessels in the spermatic cord and
+lymph may be important for the transport of hormones to the general circulation
+in some circumstances and to other organs close to the testis.  The testicular
+blood vessels display certain unusual features, a very high susceptibility
+to the toxic effects of cadmium salts, a high level of alkaline phosphatase
+activity in all endothelial cells but only after puberty and a high level
+of gamma-glutamyl transpeptidase in the endothelial cells of the arterioles
+and the testicular artery.  These same cells are the site for a specific
+transport system for leucine and phenylalanine, with kinetic characteristics
+similar to the system in brain.  Flow of blood may limit hormone secretion by the aspermatogenic testis, but diffusion limitation may also be important under some circumstances. A fuller understanding of the ways in which substances move around in the testis, particularly how they cross the endothelial cell layer or penetrate into the tubules, will be important for a better appreciation of testicular function.
+
+
+	<h> Introduction </h>
+	  
+            
+In this lecture, I propose to describe some features of the movement of fluids and substances within the testes of mammals. That such a topic merits consideration is perhaps surprising, but I hope to show that the testis has many curious features which influence the free movements of substances both within the tissue, and between  the tissue and the rest of the body. As the testis is an important endocrine tissue, and hormones are important factors in the production of spermatozoa, this discussion will concentrate on hormones, although not exclusively.
+
+
+</subsample>

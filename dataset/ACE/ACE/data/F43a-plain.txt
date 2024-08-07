@@ -1,0 +1,158 @@
+Floating giants  
+
+  Icebergs originate from the calving events of floating ice at the seaward
+boundary of outlet glaciers and ice shelves. The thick ice of the Antarctic
+interior, flowing constantly outwards under its own enormous weight, converges
+into fast-moving outlet glaciers at the continental margin. As the ice
+protrudes into surrounding waters, the effect of buoyancy causes further
+spreading and thinning, forming floating ice tongues or ice shelves. Bending
+stresses, caused by waves and swell, soon extract their toll and icebergs
+are born.
+  Since the days of the earliest polar explorers, Antarctic icebergs have
+thrilled writers and photographers, terrorised mariners, fascinated civilian
+and military engineers, and tempted tourists, yet they've all but been ignored
+by scientists until relatively recent times.
+  Icebergs (huge frozen masses of fresh water) are a common feature of both
+Arctic and Antarctic oceans. However, Antartic icebergs are generally much
+larger, colder and more numerous than their Arctic equivalents. For example,
+whereas a `very large' Arctic iceberg might measure 750 x 350 x 30 metres
+in length, breadth and thickness, a `very large' Antarctic iceberg could
+measure 1,500 x 750 x 400 metres. With these dimensions, it would weigh
+up to 400 million tonnes - almost the entire annual water consumption for
+the city of Melbourne - and have a freeboard (height above water) equal to
+that of a ten story building (freeboard for tabular icebergs being typically
+15 per cent of their total thickness). Of all the icebergs in the Southern
+Ocean, those over 1,000 metres in width ('width' being the maximum horizontal
+dimension at waterline) comprise only about four per cent by count, yet 51 per
+cent by volume. Most Antartic icebergs, however, are less than 500 metres in width,
+with the largest numbers (more than a third of all sightings) being in the size 
+range of 50 to 200 metres.
+  Imagine the mixture of terror and enchantment that must have 'shivered
+the timbers' of early explorers, who, in flimsy and sometimes ill-equipped
+sailing vessels, dared to probe Antarctic waters in search of the 'southern
+continent'. One of the earliest of these explorers, to whom polar regions
+were not unfamiliar, was Captain James Cook. For Cook, the hazards of sailing
+among icebergs were not taken lightly. On his second voyage of discovery
+(1772-1775), Cook (in the HMS Resolution) circumnavigated the globe at
+an approximate latitude of 60°S, crossing the Antarctic circle on three
+occasions but without actually sighting the mysterious continent they had
+hoped to discover. He notes:
+  "...About noon came close under the above mentioned island of ice and were by
+a kind of indraught or some means or other insensibly sucked so near that
+we had scarce any probability of escaping being drove against it which
+must have been inevitable destruction and it was equally as unknown almost
+how we got off without and we scarce got a cables length from it..."
+  In the 20th century, icebergs have occasionally created news. The sinking
+in 1912 of the HMS Titanic, for example, was caused by the collision with
+a relatively small iceberg off the coast of Newfoundland, Canada. The
+staggering loss of 1,513 lives, making it one of the worst maritime disasters
+in the history of mankind, jolted maritime authorities into organising
+the first 'International Convention for Safety of Life at Sea'. This resulted
+in the introduction of safety measures (today taken for granted), such
+as a place in a lifeboat for each person embarked, lifeboat drills to be
+held during the voyage and a compulsory 24-hour radio watch.
+
+ Distribution and Dissolution  
+
+  A traditional method used to collect information on iceberg distributions
+during Australian National Antarctic Research Expeditions has been shipboard
+observations, both visual and radar, within a 12 nautical mile radius of
+the ship. Icebergs sizes are estimated and the numbers within designated
+size categories recorded in a logbook with latitude, longitude, water
+temperature, sea-ice concentration and any other relevant information. Detailed
+size measurements are gathered for tabular icebergs and the more northerly
+pinnacled icebergs. In these cases iceberg height and width are measured
+trigonometrically, using a sextant to obtain the subtended angle, in
+conjunction with a distance obtained by radar.
+  Satellite surveillance is at present not capable of monitoring iceberg
+movement and decay, except for gigantic icebergs larger than say ten kilometres
+in width. Typical problems incurred using satellites include obscuration
+by cloud, difficulty in distinguishing between sea-ice and icebergs, limited
+resolution and coverage, and difficulty recognising the same iceberg(s)
+again after breakage or rollover has occurred.
+  The mechanisms by which freely floating icebergs are reduced from large
+to small are as yet not fully understood, although they are known to be
+a combination of breakage, calving around the edges and subsurface melt.
+Melt plays a relatively minor part in the dissolution of large icebergs
+although it becomes the major mechanism in the dissolution of smaller,
+blocky icebergs. The speed of subsurface melt is easier to appreciate when
+you realise that typical Southern Ocean water temperatures are around 1°C.
+Melting of the above water portion by the Sun's direct radiation also has
+a negligible effect on iceberg dissolution. Generally, the meltwater so
+produced percolates down into snow and firn (compacted snow) layers and simply
+refreezes.
+  The effect of rollover tends to enhance all of the above dissolution processes, 
+particularly subsurface melting. Icebergs have been observed to roll over abruptly,
+although the spectacle is one that few are privileged to witness. Rollover will 
+occur when, after breakage and melting, the thickness of an iceberg becomes less 
+than or equal to the width. Sometimes icebergs may 'turn turtle' (180°), 
+although a roll of less than 90° is more common. Rollover is the primary 
+factor responsible for pinnacles - caused by thrusting edges or corners high into 
+the air. When an iceberg `rolls' it reveals a characteristic smooth and rounded 
+underwater shape. Normally a wave notch is visible, marking the position of the 
+previous waterline. Sometimes the waterline may be stained green from algae, 
+although this is uncommon. Rollover can also identify those icebergs that have 
+sediment layers embedded in the icemass. Particle matter in the ice and sediment 
+from the sea floor can give rise to the appearance of black or dark green icebergs.
+  Large tabular bergs, freshly calved from glaciers or iceshelves, may last
+for a period of years if they either run aground or remain in waters close
+to the Antarctic coast. Here the surface water is extremely cold, which
+minimises melt. More importantly, however, the presence of sea-ice dampens
+the swell and produces a flat sea, devoid of wave action. This environment
+is one in which there are minimal bending stresses or erosion forces,
+responsible for the dissolution processes of breakage and calving.
+  The deep draught (portion below water) of Antarctic icebergs causes them
+to drift in the direction of average current movement. Icebergs, unlike
+sea-ice, are not greatly affected by winds or irregular surface currents.
+Bergs will simply rip through sea-ice like tissue paper if the overall current
+is at variance to the top few metres of the watermass.
+  Large tabular icebergs are known to have travelled tens of thousands of
+kilometres in westerly moving currents of Antarctic coastal flow (that is, around
+the coast over the continental shelf). Icebergs tracked by satellite
+transponder have shown typical speeds of up to half a knot.
+  Size distributions of icebergs flowing in the easterly-moving Antarctic
+circumpolar current have been studied statistically to determine life
+expectancy. Analysis has shown that for icebergs less than 1,000 metres
+in width a 'median-life' of about 0.2 years may be expected. (The term
+median-life refers to the time taken for half of the icebergs in one particular
+size category to be reduced to half of their original numbers by breakage
+into smaller sizes.) This means that a medium iceberg of 350 metres width
+could be expected to last between six months and two years before all traces
+of the original berg are destroyed. Estimates of life expectancy are
+necessarily imprecise because of the fact that icebergs, like human beings,
+come in all manner of consistency, quality and shape.
+  Recent studies of Antarctic iceberg distributions have shown that the
+common northerly limit seems roughly linked to the average maximum extent
+of Antarctic sea-ice at about latitude 59°S. One might be forgiven, however,
+in thinking that the Antarctic convergence (or polar front), at latitude
+51°S in the Australian region, would have delineated the absolute northern
+boundary of icebergs, since this is where a sharp temperature difference
+occurs between the cooler waters of the Southern Ocean and the warmer oceans
+of mid latitudes.
+  Sightings of icebergs north of the Antarctic convergence are relatively rare, 
+however on 15 January 1982, two icebergs were sighted at 48°S,
+111°E - only about 1,800 kilometres south of Perth. These icebergs were 
+almost certainly the remnants of a gigantic iceberg and may have come from as 
+far away as the Weddell Sea, more than 13,000 kilometres to the west. Icebergs at 
+these latitudes were well known to the captains of the clipper ships who, after
+rounding the Cape of Good Hope on their way to Australia, would have had
+to weigh up the risks of steering further south to pick up the strong westerly
+trade winds versus the increased likelihood of disastrous encounters with
+icebergs.
+
+ Reflections in Ice  
+
+  Perhaps on the next occasion you find yourself lounging in a reclining
+chair and sipping a cool lemon-squash, you might like to reflect, finally,
+on why the ice blocks in your drink have so much less freeboard than that
+observed for tabular icebergs.
+  The answer to this question is twofold. First, the iceberg is floating
+in salt water and therefore has slightly more buoyancy. But second, and
+more importantly, most of the above-water portion of a tabular iceberg is
+in fact snow or firn with a density much less than that of ice. A typical
+thickness to freeboard ratio for tabular icebergs is about 6 or 7:1 although
+for irregular icebergs this ratio is more likely to be about 2 or 3:1.
+  Icebergs are a fascinating phenomenon and a surprising amount can be learned
+about them by simply watching an ice cube melt and roll over in a glass
+of water!
+

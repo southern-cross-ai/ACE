@@ -1,0 +1,222 @@
+<sample>
+	<id> J27 </id>
+	
+
+
+	<note> 2002 words </note>
+	
+
+
+	<source> Mankind - April 1986 </source>
+	
+
+
+	<h> Aboriginal Australian net hunting </h>
+	
+
+
+	<bl> By L. D. Satterthwait </bl>
+	
+
+  Game capture in nets was a common practice in many parts of Aboriginal
+  Australia. The nets used for this purpose varied considerably in size and
+  form, were employed in a variety of environmental settings and were applied
+  to the procurement of a major proportion of the terrestrial, aquatic and
+  avian prey species available on the continent. Because net hunting was so
+  prevalent among hunter-gatherers around the world, Aboriginal net hunting
+  can be regarded as an Australian manifestation of a worldwide phenomenon.
+  
+The care-free bands of birds.
+Beasts of the wild, tribes of the sea.
+In netted toils he takes.
+The Subtle One.
+      
+
+	<h> Sophocles, Antigone </h>
+	
+
+Carleton Coon (1971:98) once observed that the use of nets to capture game
+on land was `so rare among hunters' that he was able to locate only three
+examples in the available literature: the Mbuti of Zaire, the Birhor
+of India and certain Queensland Aborigines. The latter reportedly used nets
+to trap wallabies, but there were `neither details nor verification' for
+this.
+  Net hunting was, however, an exceedingly common practice in Australia,
+where many Aboriginal populations - like hunter-gatherers elsewhere - used
+nets to procure birds, terrestrial game and aquatic mammals. Although it
+has received mention in regional ethnographic reconstructions, there has
+been only one previous survey of the continent-wide extent of net hunting
+in Australia, and this in the context of a broader examination of the
+hunting techniques used in Oceania (Anell 1960). My purpose in the following
+is to bring together and update the information on Australian net hunting
+and to provide a summary account of its distribution, the materials and
+techniques employed in net manufacture and the uses to which hunting nets
+were put. Australian net hunting is also briefly considered in relation
+to net hunting among other hunting and gathering peoples. Detailed analysis
+of hunting techniques and examination of the considerable social and economic
+implications of this practice are complex subjects in their own right and
+will be the concern of separate papers (Satterthwait 1985a, b).
+  Net hunting in Australia on any large scale seems to have ceased early
+in this century, in part because it was most prevalent in those regions
+subjected to the earliest and most destructive phases of European colonization.
+Consequently, the record of Aboriginal net hunting is scattered over a
+number of sources, including the accounts of explorers and missionaries,
+the diaries and reminiscences of early colonists, local histories, popular
+accounts of life in the colonies, the reports of government officials,
+informants' reflections*relections, museum specimens, and even
+newspaper articles. Although dispersed, sometimes cursory and occasionally 
+presenting problems of interpretation, these sources nevertheless amply show 
+net hunting to have been a significant Aboriginal production activity.
+
+
+	<h> The Distribution of Net Hunting in Australia </h>
+	
+Localities where net hunts reportedly occurred are shown in Figure 1.
+The sources cited in Anell's (1960) review of hunting and fowling methods
+in Australia and Oceania provide the primary basis for this map, augmented
+by further evidence available from the following: 
+  
+	<note> List </note>
+	
+Because of the paucity of information on net hunting in the arid centre
+of the continent, it has been regarded as absent from this region (Anell
+1960:4, Lawrence 1969:232). However, the tangible evidence of three nets
+in the Museum of Victoria, one (No. 44547) provenanced to the Peterman Ranges
+and the other two (Nos 134 and 135) identified as `South Arunta' wallaby
+nets (Spencer 1901:42), suggests that net hunting was in fact pursued in
+certain parts of the Centre and this has been denoted in the figure.
+  Although the information summarized in Figure 1 is undoubtedly incomplete,
+the map does demonstrate that net hunting was a common practice over much
+of the continent. The largest region of net hunting extended from the riverine
+eastern margin of Central Australia to the eastern seaboard, and from southern
+Victoria and South Australia to the base of Cape York Peninsula (Within
+this region, however, nets were evidently not employed in the southern
+highlands of New South Wales [Flood 1980:86] and possibly other circumscribed
+areas as well.) Another major region of net use appears to have extended
+in a band across Western Australia, from the southwestern interior to the
+Pilbara coast. Unfortunately, net hunting in Western Australia is less
+extensively documented than is net hunting on the eastern side of the
+continent. In this respect, while the map clearly indicates the major regions
+of net use, it is not necessarily a reliable indicator of the relative
+frequency of such hunts. The greater number of reports for eastern Australia
+is very likely a product of the greater intensity of early European exploration
+and colonization in this area.
+  A notable feature of the distribution of net hunting is that it was not
+co-extensive with the distribution of net fishing. In at least two areas,
+Central Australia and northwestern New South Wales, hunting nets were used,
+but fishing nets were not (Reid 1886-87:178). On the other hand, fishing
+nets are used by the Aboriginal peoples of Cape York Peninsula, Arnhem Land
+and the central coast of Western Australia, but there is no indication that
+net hunting was practised in these areas. In Tasmania neither hunting nor
+fishing nets were employed, although woven basket-traps were evidently
+manufactured for the capture of birds (Robinson 1966:722).
+  Another important feature of the distribution of net hunting is its disjunct
+character, with large areas for which there are no reports of net hunting
+bracketed by or adjacent to areas in which it was prevalent. Where net hunting
+was most widespread, there appears to have been a close association with
+riverine settings or better watered coastal districts. This reflects one
+of the environmental contraints on net hunting. Because nets cannot be
+projected any great distance, they are generally stationary, or nearly so,
+when in use. Hence they are applied to the capture of either stationary
+or slowly moving prey or to moving prey which travel into the net. As a
+result, nets are most successfully used where game are plentiful, concentrated
+and, above all, predictable - conditions that more readily ensure that net
+and prey will come into contact with one another.
+  This probably accounts for the lack of reports of net hunting in most
+of the desert regions of the central and west-central interior. It also
+suggests why the evidence for net hunting in the Centre associates it with
+areas of upland terrain and the capture of wallabies. In contrast to the
+plains, desert ranges provide more reliable sources of water to which game
+are attracted, while also furnishing the habitat for such animals as euros
+and rock-wallabies, animals that tend to be more localized in distribution
+and which follow established runs among the rocks. It is not surprising
+then, that in desert regions the more involved hunting technologies tended
+to occur among populations with access to substantial areas of elevated
+terrain (Satterthwait 1980b:271-274).                   
+  Environmental constraints do not account, however, for the apparent absence
+of net hunting in the more productive and seasonally reliable habitats of
+northern Australia and the coastal southwest. Here the explanation may reside
+in the use of similar, but alternative means of game capture, such as basket
+and wickerwork traps (Roth 1901a:29, 1901b: 15, 1903:47), or in the broader
+socioeconomic concomitants of net hunting, particularly when such hunts
+were co-operative in nature. Since in many cases areas of net use bordered
+areas of non use, differential diffusion would not seem to provide an
+explanation for the pattern of distribution.
+
+
+	<h> Net Manufacture </h>
+	
+Hunting nets were constructed in a range of shapes and sizes, from sack-like
+devices less than a metre in diameter to long, planar structures several
+hundred metres in length.
+  Diversity in form was matched by an equal degree of diversity in materials.
+Materials reportedly used in net manufacture are listed in Table 1. It
+appears that the materials most widely used in nets for large game, emus
+and kangaroos, were kurrajong and hibiscus fibres, and for waterfowl, fibre
+derived from reeds. Other birds and mammals were taken in nets made from
+a range of materials, including Triodea spp., Ficus spp., Psoralea spp.,
+grass fibres and sinew. Unfortunately, many early observers only
+vaguely*vagely identified net materials or used then prevailing common
+names. Where possible, scientific names have been included in Table 1;
+otherwise the relevant entry is limited to the common name given in the
+original source.
+  
+	<note> List </note>
+	
+A notable feature of Aboriginal net making is that both plant and animal
+materials were used. The animal materials employed include sinew and string
+made from human or animal hair, although there is a doubtful reference to
+the use of kangaroo `thongs' (Puxley 1923:156). Sinews require relatively
+little preparation for use. Once removed from the tail or hind limbs of
+an animal and cleaned, the sinews were wound on a stick or section of bone,
+where they dried and would keep for some time. Their use required only that
+they be made supple again by moistening in the mouth and chewing (Roth
+1901b:8).
+  In contrast to animal sinews, the preparation of plant fibres for the
+making of cordage was a much more involved process. Depending on the plant
+species, fibre extraction involved various combinations of the following
+procedures: soaking in water; carding with the teeth or hands; drying in
+the sun; beating or rubbing with sticks, stones or clubs; and peeling,
+stripping, scraping, chewing and teasing (Bundock 1978:262, Colliver and
+Woolston 1966:27, Eyre 1845, vol. 2:311, Helms 1895:396, Kerwin and Breen
+1981:289, McPherson 1978:249, Parker 1905:107, Petrie 1975:67, Roth 1901b:8).
+An alternative to maceration as a means of separating fibre from pith was
+to bury the plant stems or stalks in the ground until the non-fibrous tissues
+had rotted away (Hale and Tindale 1925: 48). Some species were baked or steamed
+in earth ovens prior to separation of the fibre (Beveridge 1889:73, Bulmer
+n.d., Parker 1905:107). In at least one area, fibre was obtained by collecting
+the quads of fibre ejected by eaters of roasted Typha roots (Krefft 
+1862-65:361).
+  The prepared fibre was next spun into string or rope by rolling the fibres
+together over the thigh with the palm of the hand (Beveridge 1889:71-72),
+Bulmer n.d., Colliver and Woolston 1966:27, Eyre 1845, vol. 2:311, Fairholme
+1984, Parker 1905:107, Petrie 1975:67, Roth 1901b:10). In some areas the
+process was assisted by the use of a simple spindle - a hooked stick or
+stick with short cross-pieces attached near one end - which was rotated
+over the spinner's thigh while the fibres were fed onto it (Brokensha 1975:54,
+Kerwin and Breen 1981:289, Roth 1901b:7, 8). Doubling the fibre strand back
+on itself and spinning it again resulted in two-ply cord, the type used
+in hunting nets. Existing museum specimens indicate that completed net cord
+ranged in diameter from one mm (Australian QE1781, both bird nets) to nine
+mm (a dugong net, University of Queensland Anthropology museum 24362),
+depending on the intended use.
+  All hunting nets were made with the `netting stitch' or `knotted netting',
+the most widespread netting technique used in Australia (Davidson 1933:257-258,
+268-271, Nunn and West 1979:8, Roth 1901b:13-14). This technique results in a 
+series of mesh knots variously known as sheet bends, weaver's knots or reef 
+knots. When used, netting shuttles and needles took the form of sticks, 
+sections of wood or lengths*lenghts of reed (Eyre 1845, vol. 2:310, Kerwin
+and Breen 1981:290, McPherson 1978:249, Roth 1897:97). It seems that gauges
+for obtaining consistent mesh sizes were not generally employed in Australia,
+the fingers or, in the case of large-meshed nets, the feet being used in
+their place (Beveridge 1889:76), Bulmer n.d., Eyre 1845, vol. 2:310-311,
+McPherson 1978:249, Roth 1897:97). A possible exception is Petrie's (1975:67)
+comment that the Aboriginal people of the Moreton Bay region `used to measure
+to get the correct size of mesh'. Unlike fishing nets, which were often
+painted with ochre and grease or even tanned in bark solutions (Lamond
+1950:169), there seems to have been little further treatment of hunting
+nets after their completion, although some nets were smoked prior to use
+(Angas 1847a:100).
+
+
+</sample>

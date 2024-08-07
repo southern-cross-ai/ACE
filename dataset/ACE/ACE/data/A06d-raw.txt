@@ -1,0 +1,41 @@
+<subsample>
+	<id> A06d </id>
+	
+
+
+	<source> The Daily Telegraph - 27 June 1986 </source>
+	
+
+ 
+	<h> Bird racket crackdown coming </h>
+	
+
+
+	<bl> By Bill Watt </bl>
+	
+
+  NEW measures to restrict illegal trapping of wild birds are being 
+considered by the State Government. 
+  This follows a National Parks and Wildlife Service survey which
+discovered many more birds had been sold in retail outlets than had been bred
+in captivity.  
+  &quot;It is obvious many of these birds are being taken illegally from the 
+wild,&quot; a spokesman for the service said. 
+  The new measures being considered include setting up three classes of 
+licence for bird traders instead of one. 
+  The Government is also likely to introduce new penalties which
+could see dealers' licences downgraded or withdrawn if they trade in illegally
+captured birds. 
+  Mr John Whitehouse, director of the National Parks and Wildlife
+Service, also said computers would be extensively used in the battle against
+illegal trading. 
+  &quot;With all bird trading records on computer it is very 
+simple to run cross checks to make sure dealings are above board,&quot; he said. 
+  The service's officials believe popular targets for illegal trappers are 
+Major Mitchell (pink) cockatoos, superb parrots, and regent parrots. 
+  A spokesman for State Planning and Environment Minister, Mr Carr said changes 
+would not go ahead immediately so comment from within the bird trading 
+industry could be considered. 
+
+
+</subsample>

@@ -1,0 +1,25 @@
+<subsample>
+	<id> A21d </id>
+	
+
+
+	<source> The Sun News-Pictorial - 23 September 1986 </source>
+	
+
+ 
+	<h> Council pans Sunday racing </h>
+	
+
+THE Melbourne City Council last night registered its opposition to this Sunday's
+race meeting at Moonee Valley and future Sunday racing.
+  Cr Bill Gardiner, moving a motion against the meetings, said trotting
+at Moonee Valley caused Flemington and Essendon  serious traffic
+congestion, affecting residents.
+  He said Melbourne and Essendon councils had opposed the over-use of &quot;a
+particular race track in Essendon&quot;.
+  Cr Neil Cole said he opposed future consideration of Flemington race course
+for Sunday racing.
+  Council passed a motion opposing next Sunday's meeting. - Neil Wilson 
+
+
+</subsample>

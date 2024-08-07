@@ -1,0 +1,262 @@
+<sample>
+	<id> F08 </id>
+	
+
+
+	<source> Caring For An Elderly Relative: A Guide to Home Care </source>
+	
+
+
+	<note> 2020 words </note>
+	
+
+
+	<h> Intellectual failure </h>
+	
+
+Loss of competence is frequently but incorrectly attributed to getting old.
+Very often, what we think to be decline in an old person's mental powers
+is the result of emotional problems, such as depression or anxiety, or simply
+disuse; young people kept in solitary confinement need retraining to regain
+mental competence. Often we overcompensate for old people's mental decline:
+
+  A colleague working at Harvard University began to suspect that, however
+  well-meaning, the very act of helping old people may reduce their ability
+  to look after themselves. The opportunities for practising a necessary
+  skill are removed, and the message that they are becoming incapable of
+  self-care, producing a state called `learned helplessness', is subtly 
+  conveyed.
+    Three groups of old people were given jigsaw puzzles to test their
+  performance. An examiner sat in on one group, encouraging , suggesting
+  where to put pieces, and actively assisting in finding pieces to fit.
+  In another, the examiner gave only minimal assistance and encouragement.
+  In the third group there was no examiner, except for assessment before
+  and after the experiment.
+    The people who were helped performed less well than those who were only
+  encouraged, while they did less well than those who were left to themselves.
+  The `helped' group completed on the average fewer pieces, and worked more
+  slowly.
+
+This suggests that, although helpers mean well, they may be reducing the
+competence of older people in their charge. It also shows that being helped
+may make a task seem more difficult than it is and so reduce self-confidence.
+  This does not mean, of course, that the many frail, aged people who require
+assistance for their very survival should have it withdrawn! But we must
+judge carefully when to interfere. The old idea that you were always losing
+brain cells over the age of sixty seemed bad enough, but now we learn that
+the big losses are when we are younger. In fact the present theory is that
+we are born with brain cells in excess of normal requirements and are losing
+a daily quantity from birth. The greatest loss is around the age of forty
+when we begin to notice failing memory. However, from the start we have
+learned to do without the ones that become discarded. Mental skills requiring
+most flexibility are lost quite early - children and young teenagers take
+to computers and solve the Rubik cube better than anyone. But our ability
+to make judgments on the basis of information already acquired continues
+to develop throughout life.
+  We must therefore make certain whether or not an old person's mental
+failure is intellectual, and this may require testing by someone specially
+trained. We are all familiar with remarkable people who preserve their
+mental powers and personality intact into the nineties. We are also painfully
+aware that many become depressed and lose their mental acuity. For the majority
+there is a falling off in certain mental abilities, particularly those tasks
+that require a solution within a given time. There is a slowing of response
+due to delay within the central nervous system, and so patience is needed
+in communication, and instructions are best given simply and briefly to
+allow plenty of time for absorption. Old people find doing two things at
+once difficult, so you may see an old lady stop walking while she puts on
+her gloves. Then again you may notice old people moving their lips while
+reading, and this is because they need to reinforce their understanding
+by hearing the words as well as seeing them.
+  Of course it is characteristic for the elderly to become less adaptable,
+as we already discussed in Chapter 2, and this can make them difficult to live
+with. Even more important, perhaps, it may be a serious barrier to successful
+rehabilitation after an illness when new skills have to be learned. In this
+chapter we describe the different ways your relative's mental processes may
+be affected and how you may cope with these problems of the mind.
+
+
+	<h> Normal changes of aging </h>
+	
+
+
+	<h> The emotions </h>
+	
+In old people, emotions assume an increasingly dominant role
+and are liable to colour their beliefs about their lifestyle. There may
+be a blunting of feeling leading to apathy or indifference, or an accentuation
+of former characteristics so that someone, say, who used to be strict and
+have demanding standards either mellows into tolerance or hardens into
+despotism. It is well known that emotional activity in the elderly tends
+towards certain patterns of behaviour - resistance to change, lack of
+spontaneity, greater caution and distrust of the unfamiliar.
+
+
+	<h> Memory </h>
+	
+It is often said that when you are old you can remember the distant
+past, but not what has just happened. This distinction, however, is not
+by any means clear-cut. We have a short-term memory and a faculty for retaining
+information, such as shopping lists, for a short time only, and then discarding
+it when it is no longer needed. Certainly when someone's brain starts to
+fail, short-term memory is more vulnerable, but this is really because of
+an inability to register the information in the first place.
+  We all begin to notice that our memory is not so good once we have passed
+forty, and this type of forgetfulness is characterized by difficulty in
+recalling names and events. Loss of recent memory - or indeed of any period
+involving whole episodes, is a different type of failure and should be regarded
+as a symptom of disease rather than a feature of aging. This may be due
+to a number of conditions, both physical and mental (stroke or alcoholism,
+or dementia, see page 94), and including the effect of drugs. So a good medical
+opinion based on experienced assessment is needed.
+
+
+	<h> Memory aids  </h>
+	
+There are many practical ways you can suggest to help your 
+relative remember necessary facts and domestic details. These will both provide
+confidence and can act as a form of memory training:
+  
+	<misc>1. Keep a large daily diary with space to write all the day's activities,
+     hour by hour </misc>
+	
+
+	<misc>2. Use details in the environment - definite times, places, objects -
+     to act as reminders to do a particular task. For example, put the coffee
+     jar in a prominent place in the kitchen so that preparing a routine
+     mid-morning snack is remembered </misc>
+	
+
+	<misc>3. Reduce daily activities to those that are easily remembered by your
+     relative </misc>
+	
+
+	<misc>4. Encourage occupations that do not tax the memory too much, for example,
+     painting or gardening </misc>
+	
+
+	<misc>5. Praise, even reward good recall, but avoid putting your relative to
+     the test. </misc>
+	
+Quite often elderly people lose their sense of identity, and need to be
+reminded who they are, where they are and what time of day it is. Keeping
+clocks and calendars, family pictures and mementos on hand so that your
+relative can refer to them constantly helps strengthen self-confidence.
+Make sure these aids are large, clearly marked and accurate. Reminiscence
+can be used as a pleasurable form of mental stimulation. But when old people
+begin to ramble, it is a good idea to change the subject to something more
+concrete. Encourage your relative to make choices, and so retain his or
+her independence.
+  These suggestions are useful for everyone with a degree of memory failure.
+They can also be helpful in stimulating elderly people with more severe
+mental disability.
+
+
+	<h> Mental disorder </h>
+	
+
+The idea of mental failure  I want to say that whereas medical labels are
+useful to the profession, I am not speaking only of dementia here. True
+dementia is irreversible, but the brain may fail - that is, become confused
+- for many other reasons, which are reversible. We have to think of mental 
+failure rather in the same way as we do cardiac failure. This means that it 
+can be compensated for and kept going with various forms of help, such as I
+suggest above. The necessary adjustment can be made by reducing incoming
+strains and providing a simple, familiar routine. Perhaps the most important
+task for the doctor is to distinguish the elements of dementia and confusion
+from treatable depression, and this is not easy.
+
+
+	<h> Confusion </h>
+	
+
+Confusion can unfortunately give a false impression of dementia. But it
+is simply a descriptive term indicating that someone has a disordered awareness
+of his or her surroundings. Of course you can be confused more easily when
+you are dementing - but anyone submitted to too many stimuli can be made
+confused. Old people who cannot discriminate between sights and sounds
+are predisposed, so that confusion is particularly common at dusk, when
+it is difficult to pick things out from the background and stereoscopic
+(simultaneous) vision is much reduced.                                 
+  A state of confusion may be accompanied by delusions. Perhaps you have
+felt confused for a moment on waking up in a strange hotel, or when suddenly
+questioned while daydreaming? On a lazy holiday you may not be able to say
+what day or time of day it is. So remember that anyone can become confused in
+situations where too much or too little is happening, the surroundings are
+unfamiliar and emotional drives are strong.
+  In fact, if your relative is only confused, you can feel optimistic about
+the outcome. In many cases confusion can be treated by removing the cause,
+which may be one or a combination of the following:
+ 
+
+	<misc>2 A full bladder </misc>
+	
+
+	<misc>2 Constipation </misc>
+	
+
+	<misc>2 The effect of drugs </misc>
+	
+
+	<misc>2 An infection </misc>
+	
+
+	<misc>2 Heart disease </misc>
+	
+
+	<misc>2 Minor stroke. </misc>
+	
+
+Looking after a confused person requires skilful handling. It is important
+not to thwart, but to learn how to guide and soothe your relative. If, for
+instance, your old father has got up in the night with the idea of going
+to work it is better to say, `Can I come along too?' and lead him into the
+kitchen to sit down and wait for the bus, than to get into a noisy
+confrontation. After a while he may take a glass of milk or a hot drink
+and quietly return to bed, having forgotten where he was going in the first
+instance. Let me say at once that this cannot always work, but it is the
+approach most likely to succeed.
+
+
+	<h> Dementia </h>
+	
+
+Although it is so prevalent in old age - it has been estimated that about
+one person in five over the age of eighty suffers from moderate or severe
+dementia - it is not easy to detect at first. If you notice that your relative
+has serious memory lapses, as I explained on page 92, or starts to behave
+in unusual or obsessional ways, or has trouble with language, you should
+speak to your doctor about it. Any of these may be due to anxiety or drug
+effects, to confusion, or to brain damage, so skilled testing will be needed
+to decide what is at the root.
+
+
+	<h> Coping with dementia  </h>
+	
+At least eight in ten elderly people with dementia
+are cared for at home and they are also likely to be affected with other
+mental and physical illness, imposing a severe strain on the relatives caring
+for them. Depending on the degree of dementia, there will be repetition,
+restlessness, mistaking people's identity - even yours - lack of motivation,
+memory lapses, hitting out at supporters, and disturbances at night. Falls
+and incontinence are caused by lack of physical control and the sufferer's
+unawareness of his or her own body.
+  I think it is true to say that the wish to care for someone with these
+problems grows out of an established pattern of life, reinforced by bonds
+of affection and obligation. But, of course, the personality change and
+the accompanying problems mean you will feel sadness, and at times
+exasperation, more acutely. When you care for someone in this condition,
+one of the worst features is the inability to sustain a conversation. It
+seems as if the person is gradually becoming more and more remote, although
+the physical resemblance is there.
+  What should you look out for if you suspect your relative has dementia?
+The following are typical symptoms; they can be alleviated provided you
+are alert to them and take the measures suggested here and by your doctor
+or geriatrician: 
+
+
+	<note> list follows </note>
+	
+
+
+
+</sample>

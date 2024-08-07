@@ -1,0 +1,26 @@
+<subsample>
+	<id> A04i </id>
+	
+
+
+	<source> The Daily Mirror - 4 August 1986 </source>
+	
+
+ 
+	<h> NEW FREEWAY HITS THE PITS! </h>
+	
+
+
+	<h> Drivers lured back to Parramatta Rd </h>
+	
+
+
+	<bl> By GREG WALKER </bl>
+	
+
+THOUSANDS of motorists who thought the recently-completed F4 Western Freeway 
+would save them hours of travelling time each week have gone back to using 
+Parramatta Rd.
+
+
+</subsample>

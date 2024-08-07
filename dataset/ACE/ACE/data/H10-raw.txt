@@ -1,0 +1,267 @@
+<sample>
+	<id> H10 </id>
+	
+
+
+	<note> 2006 words </note>
+	
+
+
+	<source> Departmental reviews in higher education institutions </source>
+	
+
+
+	<bl> By Ernest Roe and Ingrid Moses </bl>
+	
+
+
+	<h> III        THE REVIEW PROCESS </h>
+	
+
+
+	<h> III.1      Introduction </h>
+	
+
+   One would expect departmental review procedures to exhibit similar features
+in different institutions, in much the same way as do other evaluative
+procedures such as promotion, granting of study leave and allocation of
+research grants.  It is normal for academics to be judged by their peers,
+for evidence to be submitted by those being evaluated, for referees and
+assessors to be used, for the whole exercise to be conducted through and
+validated by some kind of committee system (and perhaps passing through
+more than one such committee before a final decision is made).
+
+   Those initiating, conducting or being subjected to a departmental review
+face similar sets of problems and challenges: similar, but, with due observance
+of the proper tradition of institutional, departmental and individual autonomy
+which pervades tertiary institutions, not identical.  It can easily be
+demonstrated that most departmental reviews grapple with most if not all
+of the following:  the reasons for the review, its terms of reference, the
+composition of the review committee, the procedures for collection of evidence,
+the timing of various procedures - committee meetings, submissions, interviews,
+for example - and the total time span of the review, the provision of
+administrative back-up, the writing and subsequent treatment of a report,
+implementation of its recommendations, and other consequences of the review.
+That is not intended as a comprehensive list of all that typically happens
+in a review.  But the significant point is that, however alike the problems
+and challenges which departmental reviews encounter, the solutions vary
+to a considerable extent.
+
+   Thus, while it is relatively simple, after scrutiny of a number of reviews,
+to say &quot;These are the usual stages of a review&quot; or &quot;These are the procedural
+questions people generally have to answer&quot;, it is much more difficult to
+generalise about the &quot;correct&quot; or &quot;best&quot; answers.  Sometimes we shall have
+to report that &quot;In institution A they chose this committee membership, adopted
+this methodology, handled the report thus, whereas in Institution B they
+made very different, even opposite decisions:  and, as far as we can tell,
+the two reviews were equally efficient and effective.&quot;  Nevertheless, if
+this Report is to be a useful document, some generalisation must be attempted,
+lightly or heavily qualified, hedged around with contingencies, wherever
+the facts and our judgment seem to justify that.  In defining, however
+cautiously, what seems to us from the evidence to be good practice, we accept
+that individuals - and individual institutions - have chosen to take a
+different path and will do so in the future.
+
+   Procedures adopted in institutions are influenced by explicit or implicit
+expectations of what role departmental reviews play.  Purposes of reviews
+are discussed in section 3.  Here the more general dimensions which have
+become apparent are briefly mentioned.
+
+   
+	<h>(a)  formalised vs informal </h>
+	
+This could also be called objective versus consultative.  In some
+        reviews formal channels of communication were observed, e.g.
+        submissions were called, persons were invited for interviews and
+        could speak to their submissions or make an oral statement. There
+        were no other interactions between review committee and members
+	of staff.  Contact with both the department and the institution's
+	executive was restricted to official `business'.  In other reviews,
+	however, members of the reviewed unit, notably the head, had continuous
+	access to the review committee through consultation by phone or
+	face-to-face, and were able to influence the outcome of the review
+	considerably.
+
+This leads directly to the next dimension.
+
+   
+	<h>(b)  inspectorial/evaluative vs developmental/educative </h>
+	
+On this dimension reviewers are either evaluators or facilitators
+	of change.  Some reviews put the review committee into the position
+	of independent judges, who, after having collected and assessed
+	evidence, passed their judgment on the department.  In
+	such reviews little regard may be given to what change is feasible
+	and how change can be implemented. If the institution sees the
+	reviewers' function, and if the reviewers themselves see their
+	function, as more developmental and educative, then reviewers will
+	want to interact freely with members of the department, with the
+	institution's executive, feed their impressions and preliminary
+	judgments to them and engage in a continuing dialogue.  In this
+	case the review process itself is educative, and change may already
+	occur during the review process.
+
+   
+	<h>(c)  utopian (free from resource constraints) vs realistic (resource </h>
+	
+	bound)
+	If reviewers can assess a department and recommend for an ideal
+	situation, fundamental aspects of the department, viewed over a
+	longer time-span, can be addressed.  Realistic recommendations are
+	normally expected when the review brief specifies that developments
+	in the short run, e.g. in the next five years should be addressed,
+	and that recommendations should have no resource implications (which
+	in practice means should not require additional resources).
+
+   
+	<h>(d)  crisis review vs regular review </h>
+	
+	If prompted by a crisis or a specific occurrence like change of
+	headship, retirement of a professor, sharp decline in student numbers,
+	reviews may be initiated with the specific task of addressing this
+	situation and making suggestions on how to deal with it.  Regular
+	reviews on the other hand become a normal and planned feature of
+	the institution, and may pick up developments already under way
+	in the department. 
+
+   
+	<h>(e)  comparative within institution vs comparative across the discipline </h>
+	
+	The basis for comparison may be other schools or departments within
+	the same institution, and may determine whether a department is
+	seen as viable in size, productive, healthy and happy.  Institutional
+	and public interests and how they can be reconciled may be addressed
+	if comparisons are made Australia-wide across the discipline.
+
+   
+	<h>(f)  review of a group vs review of individuals </h>
+	
+	The reputation of departments is clearly dependent on individuals,
+	their teaching and research programs and their performance in these.
+	In some reviews individuals and their contributions (or lack of
+	them) have to be addressed, through recommendations concerning new
+	positions, redirection of efforts, private and confidential reports
+	to the Chief Executive.  In others, individual performance per se
+	is not investigated, or at least not reported on, and the focus
+	remains firmly on the department.  Generally the issue of individual
+	contribution to the department cannot be avoided, but a departmental
+	review report is not seen as the appropriate place to go into detail.
+
+   Among the reviews we scrutinised were two which had unique features,
+briefly described in this section.
+
+
+	<h> III.1.1     A descriptive review </h>
+	
+
+   In 1980 the Director of the (then) North Brisbane CAE submitted a proposal
+which was &quot;to evaluate the effiency and effectiveness of the academic structure
+and administrative practices of the Department of Liberal Studies as they
+bear on the quality of its courses and its complex service role for other
+Departments.&quot;
+
+   It was to be conducted by a team from the Centre for the Advancement
+of Learning and Teaching (CALT) at Griffith University which would &quot;work
+in consultation with the Head of the Department of Liberal Studies but ...
+have professional responsibility for the planning, conduct and management
+of the study.&quot;
+
+   That quotation is taken from an Agreement drawn up between North Brisbane
+CAE and CALT on the conduct of the review.  The Agreement begins with an
+account of what the review &quot;will attempt to describe&quot;, and Item 1 concludes
+with this statement:
+
+   &quot;While issues of effectiveness and efficiency will arise during the course
+   of the study, and directions for change may appear, it must be recognised
+   that the study is limited.  Its purpose is to describe and analyse but
+   not to prescribe.&quot;
+
+Similarly, the Introduction to the Report begins with the statement, that
+&quot;The emphasis of the review was to be on description rather than judgment.&quot;
+
+   Other Items in the Agreement state that documents will be analysed, 50-60
+people will be interviewed, including all staff of the department, that
+the College will ensure the project team's access to these people, that
+the study will be completed within six months, and that &quot;every effort will
+be made not to report interviews in such a way as to identify individual
+sources&quot; but that &quot;where an individual person is identified authorisation
+will be sought&quot;.
+
+   There are therefore two unusual features in the approach to this review:
+the drawing up of a formal agreement between the head of the institution
+in which a department was being reviewed and the external review team,
+concerning the conduct of the review; and the emphasis on description and
+analysis rather than judgment and prescription.
+
+   The review report duly presents, in considerable detail, facts and figures
+about the department.  &quot;Description&quot; permits inclusion of evaluative comments
+from others, as long as they are straight quotations.  Similarly &quot;analysis&quot;
+permits statements with a certain judgmental flavour.  Such statements are
+usually prefaced by &quot;it is said that ...&quot;, &quot;it is felt that ...&quot;, &quot;some
+staff say ...&quot; and similar phrases.
+
+   Nevertheless the emphasis remains on description throughout this very
+thorough account of the Department of Liberal Studies, an account with ten
+appendices giving still more basic information.  Consistent with this approach,
+the review team offers no recommendations.  The assumption - and the essence
+of the Agreement between institution and review team - is clearly that,
+presented with this full description, the College authorities or anyone
+else intimately concerned will be able to make their own evaluations.
+
+   Unfortunately it was impossible for us to follow up this particular review.
+When the review began, amalgamation of the North Brisbane CAE with two other
+CAEs to form the Brisbane CAE had already been proposed, and it happened
+almost immediately afterwards.  The situation was therefore radically altered
+and became a situation to which the review had lost most if not all of its
+relevance.
+
+   This does not of course mean that the methodology of the review is no
+longer relevant.  Neither of the two features noted here - the drawing-up
+of an agreement, and a review confining itself to description - has been
+adopted in other departmental reviews as far as we know, and certainly not
+in those we have been scrutinising.  But they merit the attention of those
+involved in or planning to undertake reviews.
+
+   The arguments for a formal agreement with an external review team are
+similar to those for explicit and detailed terms of reference discussed in
+section 4 below.  Both help to make intentions explicit, to clarify
+expectations, and to repudiate mystery and secrecy.  Formal agreements may
+also help to ensure that an institution gets its money's worth, though that
+does not seem to have been a problem in any of our other reviews. 
+
+   &quot;Description&quot; and &quot;judgment&quot; are more clearly contrasted in discussion
+of theory or principle than they are in practice.  Review reports vary,
+with some more descriptive, some more judgmental.  The example from North
+Brisbane CAE is an extreme example of the `descriptive' mode, making particular
+efforts to avoid judgments, and making no recommmendations.  Other reviews
+are largely descriptive, with judgments mainly at the end, in the form of
+recommendations; and those may be cautiously phrased.  Towards the other
+extreme are review reports with comparatively little description (or
+presentation of data) and evaluative comments on practically every page,
+leading finally to quite dogmatic recommendations.
+
+   It appears to be the normal expectations of those initiating departmental
+reviews that a review committee will &quot;evaluate&quot; and will make firm
+recommendations.  Even the North Brisbane CAE proposal describes its principle
+objective as &quot;to evaluate the efficiency and effectiveness ...&quot;  But this
+example indicates that a review may concentrate on provision of a detailed
+picture which others may then use as a basis for evaluation in the usual
+judgmental sense.  The onus is on the institution, and on the department
+itself, rather than on the external reviewers.
+
+   We do not wish to recommend or to discourage descriptive reviews.  We
+simply draw attention to this possibility which may, either as a matter
+of principle or because of the peculiar circumstances of a review, be regarded
+as the most desirable way to proceed.
+
+
+	<h> III.1.2     A developmental review </h>
+	
+
+   During 1983-84 CTEC supported an evaluation of &quot;Surveying and Mapping
+Education and Training in Queensland&quot; through its Evaluations and
+Investigations Program.  As the title clearly indicates, this was not a
+departmental review.  Nevertheless it is methodologically of some interest.
+ 
+
+</sample>

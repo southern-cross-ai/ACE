@@ -1,0 +1,268 @@
+CHAPTER THREE MECHANICAL SAFETY Introduction  
+
+55.      Claims have been made that the strong competition in
+the coach industry has resulted in a reduction in the
+mechanical safety of vehicles. However, the entry of new 
+operators between 1980 and 1984 has resulted in a substantial
+reduction in the age profile of the express coach fleet, which
+has served to improve the overall standard of mechanical
+safety. The major long established operators have undertaken
+major fleet upgrading with the purchase of new coaches during
+1984. Before the entry of the new operators the established
+operators were running older fleets, with the average age of
+coaches used by one operator being around 10 to 12 years. The
+average fleet age at the end of 1984 was about 2 to 3 years.
+
+56.      Design standards for buses are specified by Australian
+Design Rules (ADRs) and Consolidated Draft Regulations (CDRs),
+which are formulated by the Australian Transport Advisory
+Council (ATAC). ADRs are national mandatory standards for all
+new buses while CDRs are used by States and Territories as a
+model for their individual regulations. ADRs specify
+technically complex standards for safety features or for the
+control of motor vehicle emissions and noise. Laboratory
+procedures are required in order to test for compliance with
+ADRs.
+
+57.      It is felt that with some exceptions existing design
+standards provide a relatively high level of passenger
+protection, apart from a few deficiencies in the matters of
+seating, brakes, tyres and roll-over strength which will be
+discussed later in this chapter.
+
+58.      Some concern was raised during the Inquiry as to the
+standard of imported buses. It was claimed that some states
+will register these vehicles without a compliance plate and
+that many vehicles are falling short of current safety
+standards. All imported buses, including second hand vehicles,
+should meet current ADRs at the time of importation. It is
+essential that all imported buses are assessed for compliance
+with current ADRs before customs clearance and that compliance
+regulations be strictly enforced by the vehicle registration
+authorities. The Committee recommends that:
+
+        the Minister for Industry, Technology and Commerce 
+        ensure that all imported trucks and buses, including 
+        second hand vehicles, meet current Australian Design 
+        Rules at the time of importation.
+
+ Tyres  
+
+59.      Tyres are vital to the safe operation of all road
+vehicles. It is essential that the use of sub-standard tyres
+does not jeopardise the safety of the vehicle. Tyres can be
+sub-standard because of poor manufacture or design,
+inappropriate use or simply wear and tear.
+
+60.      Adequate standards are needed for new vehicle tyres.
+At present there is no ADR for tyres on new heavy vehicles,
+including buses. The only tyre standards for buses are those
+set down in the CDRs, which specify only very general
+requirements. The need for an ADR for commercial vehicle tyres
+is currently under review.
+
+61.      The Road Safety Committee's 1977 Report on Heavy
+Vehicle Safety recommended that a program of research be
+implemented with a view to the drafting of an ADR on heavy
+vehicle tyres. The Government accepted this recommendation in
+broad principle but indicated that the Advisory Committee on
+Safety in Vehicle Design (ACSVD) had advised that because of
+the expense of research programs an analysis of truck accident
+data was needed to identify the problem areas before a research
+program could be recommended. It would appear that this long-
+term project has not been completed.
+
+62.      While ADRs can regulate tyres on new vehicles they
+cannot be used to ensure the quality of replacement tyres.
+Controlling replacement tyres, not only for buses but for all
+vehicles, is at least as important as a mandatory standard for
+original tyres.
+
+63.      The Federal Office of Road Safety supports the
+introduction of an ADR for tyres on heavy vehicles and a
+control mechanism for replacement tyres. Although the Committee
+is not aware of any deficiencies in new tyres for these
+vehicles it feels that to ensure performance characteristics
+of tyres an ADR is warranted. The Committee therefore reaffirms
+the conclusions from the Heavy Vehicle Report and recommends
+that:
+
+    (a) the Minister for Transport seek the cooperation of the
+        States and Territories through the Australian Transport
+        Advisory Council to prepare standards in the form of an
+        Australian Design Rule for heavy vehicle tyres.
+
+    (b) the Minister for Transport and the Attorney-General ensure
+        that all tyre standards in Australian Design Rules be
+        incorporated in a Product Safety Standard under the Trade
+        Practices Act.
+
+This latter recommendation would include car tyres as well as
+heavy vehicle tyres.
+
+64.      Ensuring the quality of new tyres through mandatory
+standards is administratively easier than the next step, which
+is ensuring that tyres are replaced when they become
+unserviceable through wear and tear. Heavy vehicle tyres should
+be safe when operated within their recommended service
+limitations. It has been suggested that the most effective way
+to avoid accidents due to tyre failure would be for regulatory
+authorities to ensure that vehicle users maintain and operate
+tyres according to the manufacturers' recommendations,
+particularly those standards recommended by the Australian Tyre
+and Rim Association.
+
+65.      One TWU witness claimed that replacing new tyres on
+vehicles with older, worn tyres is a common practice within the
+industry. He claimed that a "baldy back dual-wheel tyre would
+be put on the inside where it could not be seen". However,
+these claims were contradicted by several other drivers. One
+driver who had been employed by one company for 6.5 years and
+who drove about 9,000 kms a week, told the Committee that he
+had experienced only one blowout during this time. Other
+drivers said that the number of skids, flat tyres or blowouts
+that they had encountered during their driving careers had been
+minimal. One operator advised that only new tyres were fitted
+as replacement tyres as these were more economic than retreads.
+Although the Committee was provided with no evidence to support
+the views expressed by the TWU it is nevertheless concerned
+that replacement tyres are not regulated.
+
+66.      The Road Safety Committee's 1980 Report on Tyre Safety
+concluded that tyres are a causative factor in only a
+relatively small proportion of accidents in Australia, while
+at the same time commenting on the inadequacy of the available
+data. It was suggested that tyres may play a more important
+role in accidents than existing data generally suggest.
+
+67.      To ensure that sub-standard tyres are not being used
+on vehicles, and thereby reducing safety, it is important that
+there are mechanisms available to monitor the standards of
+tyres in use.
+
+This is only possible through inspection procedures. Random
+inspections are the most effective way of detecting the use of
+worn or otherwise substandard tyres. Tyres can become
+unserviceable between registration inspections. It is also
+possible that inspections at the time of vehicle registration
+may not detect such tyres as operators would have the
+opportunity of removing these tyres and replacing them with
+newer ones. Some witnesses claimed that such practices do in
+fact take place. If there is any truth to these allegations,
+a strong system of random inspections would detect those
+operators using unroadworthy tyres on vehicles. This is
+particularly necessary for commercial vehicles, such as
+coaches, travelling large distances between registration
+inspections.
+
+ Brakes  
+
+68.      Since July 1980 the braking of buses has been
+specified by ADR 35A, which is based largely on USA
+regulations. Buses first registered before 1980 may not comply
+with ADR 35A. However, a major review of heavy vehicle braking
+is currently being undertaken by VSAC, which is assessing the
+suitability of the latest Economic Commission for Europe (ECE)
+braking regulations for their adoption as the ADR for braking.
+
+69.      There have been significant developments in heavy
+vehicle braking systems in recent years. More sophisticated
+systems such as the anti-lock braking system (ABS) developed
+by Mercedes Benz have been shown to significantly improve the
+performance of heavy vehicles when braking. Road tests have
+shown that the ABS greatly increases vehicle control in all
+driving conditions and reduces stopping distances and skidding.
+The ABS and other developments in braking should be looked at
+closely in formulating a new ADR.
+
+70.      The Heavy Vehicle Safety Report in 1977 recommended
+that consideration should be given to making auxiliary braking
+a requirement on all buses which may be used on long distance
+touring. Although auxiliary braking for coaches has not been
+made mandatory, most coaches have some form of auxiliary
+braking fitted, such as an exhaust brake. The Committee
+was told that there would not be many vehicles operating
+without such braking systems.
+
+71.      The NRFII similarly concluded that immediate attention
+be given to the fitting of auxiliary braking systems, further
+reinforcing the conclusion reached by the Heavy Vehicle Report
+in 1977. Requiring all buses to be fitted with auxiliary will not be a burden to the industry. Making auxiliary mandatory will require that they be kept in working
+order.
+
+72.      The Committee recommends that:
+
+        the Minister for Transport seek the cooperation of the
+        Australian Transport Advisory Council to give immediate
+        consideration to making auxiliary braking systems mandatory 
+        for all heavy vehicles.
+
+ Structural strength  
+
+73.      In Australia there are no statutory requirements for
+the structural strength of the body and chassises of buses. The
+main reason for this appears to be the high cost which would
+be involved in determining a standard, which of course involves
+crash testing of vehicles. The roll-over strength of buses is
+receiving considerable attention in Europe, but as yet there
+is no clear definition of appropriate standards. Most witnesses
+agreed that Australia should await the conclusion of overseas
+research and the resulting requirements because of the very
+high cost which is involved in this research.
+
+74.      At present structural strength is determined basically
+by calculation and by a certain amount of rig testing. Although
+there is no crash testing, sections of vehicles are destroyed
+to enable the estimation of the general strength of a body as
+a complete body.
+
+75.      The Committee was told that Australian coaches are
+more strongly constructed than those in Europe because of the
+more damaging effects of many Australian roads on buses. It was
+stated that there is "no doubt that the roll-over strength of
+Australian buses would be better than those constructed in
+Europe".
+
+76.      Although the Committee does not question this
+statement, it is concerned that there are no standards or codes
+of practice in Australia to ensure that the roll-over strength
+of buses is adequate. While there is a need for a standard to
+be determined, the Committee realises that there would be
+problems in having a standard which was incompatible with those
+in other relevant countries or which requires impact testing
+for compliance. While any delay in the implementation of a
+suitable standard should be avoided, the Committee recognises
+the advantages of waiting for the European standard. However,
+it is also important that the standards developed overseas will
+be suited to the different conditions experienced by vehicles
+in Australia. The Committee recommends that:
+
+        the Minister for Transport in cooperation with the
+        Australian Transport Advisory Council:
+
+        (a) monitor European developments on standards for 
+            bus roll-over strength to assess their suitability 
+            for adoption in Australia.
+
+        (b) develop and implement as soon as possible an Australian
+            Design Rule setting standards for bus roll-over strength.
+
+ Seating  
+
+77.      The importance of strong seat anchorages and seat
+structures in buses is self-evident, however, design
+deficiencies in this area have been noted by several witnesses.
+
+78.      The 1977 Heavy Vehicle Safety Report drew attention
+to the practice by which some bus seats are secured to the
+plywood floor with bolts which would pull out at a load of
+about 100kg. In a minor front-end accident it was alleged that
+all the seats in the bus would pull out from the floor. As well
+as not restraining passengers, the seat anchorage fittings
+would then be in a position to cause injury to
+passengers.
+
+79.      A study on seating requirements revealed relatively
+low levels of energy absorption in the tests conducted on seats
+being fitted to Australian buses at that time. 
+

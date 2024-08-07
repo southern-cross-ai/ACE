@@ -1,0 +1,36 @@
+<subsample>
+	<id> A36b </id>
+	
+
+
+	<source> The Sun Herald - 14 September 1986 </source>
+	
+
+ 
+	<h> From the floor </h>
+	
+
+
+	<bl> Susan Hely </bl>
+	
+
+AUSTRALIAN share markets finished the week on a firm note, unmoved by the
+record one-day falls on the Tokyo and New York share markets and negative
+news of Moody's credit re-rating.
+  The All Ordinaries index closed only marginally weaker - down 2.6 points
+at 1235.9 after a bout of profit-taking in gold and industrial shares.
+  Analysts pointed to overseas buying of blue chip miners, which appear
+attractive in light of a low Australian dollar, and firm gold stocks as
+the main impetus for the markets resilience.
+  Of note was the strength of Woolworths' share price following a 90 per
+cent fall in profit for the first half.  Takeover speculation halted a share
+price slide as the New Zealand group, Chase Corporation, is believed to
+have added a further 2 per cent to its 3 per cent holding on Thursday when
+it bought a line of 4.38 million Woolworths shares.
+  Ron Brierley's Industrial Equity Ltd appeared to acquire some 724,480
+Adelaide Advertiser shares on Friday, a trade representing 1.4 per cent
+of the company.  This acquisition is particularly interesting given IEL's
+recent purchase of a 5 per cent holding in Herald and Weekly Times.
+
+
+</subsample>

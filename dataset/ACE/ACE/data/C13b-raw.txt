@@ -1,0 +1,33 @@
+<subsample>
+	<id> C13b </id>
+	
+
+
+	<source> The News - 7 July 1986 </source>
+	
+
+
+	<h> What's on SBS </h>
+	
+
+  THE WEDDING AT SQUIRE MAENG'S (Thursday, 8.30 pm SBS)
+  -A comedy set in Korea.
+  Squire Maeng has an inflated opinion of his position in the community
+and arranges his daughter's marriage with the son of a wealthy family in
+a neighboring township.
+  The Squire's devious plan backfires when he discovers his prospective
+son-in-law is a cripple.
+  A light-hearted look at an interesting culture. Stars Chu Song-Ung and Yo-Sub.
+(Korean, English subtitles).
+
+  SATISFIED OR NOT? (Monday, 9.30, SBS). - It is a political comedy depicting
+a waiter unhappy with his job.
+  Yang Yu-Sheng believes he has more to offer the work-force than as a
+waiter. He is rude and treats his customers poorly.
+  Frustrated by his predicament he leaves for greener pastures.
+  While searching for work he lands up in hospital and falls in love with
+his nurse, who provides some interesting philosophies on life.
+  Stars Yang Tianxiao and Ding Yun (Mandarin, English subtitles).
+
+
+</subsample>

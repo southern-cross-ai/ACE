@@ -1,0 +1,309 @@
+<sample>
+	<id> H16 </id>
+	
+
+
+	<note> 2006 words </note>
+	
+
+
+	<source> Draft coastal management plan  Shire of Coorow </source>
+	
+
+
+	<bl> By L. A. Lobry de Bruyn </bl>
+	
+
+
+	<h>2.5	2.5	COASTAL PROCESSES</h>
+	
+
+
+	<h>2.5.1	Introduction </h>
+	
+
+	For any firm conclusions to be made on coastal processes one would need
+	quantitative data on wind, wave and tide regimes, beach near-shore
+	morphology, and the sediment budget for each bay. However, the above
+	data are not available for the project area. The following techniques
+	were the only ones available which could be used to deduct
+	coastal processes. The techniques are aerial photographical
+	interpretation, qualitative observation, extension of studies completed
+	in adjacent areas and the educated opinion of resident coastal
+	geomorphologists.
+
+
+	<h>2.5.2	Winds </h>
+	
+
+	Summer winds are generally easterlies in the morning and become
+	south-south westerlies in the afternoon. The dominant winds are south
+	westerlies which blow mostly between 11 kph and 30 kph. It is believed
+	that wind speeds greater than 10 kph are responsible for sand movement
+	(Wood and Grieve, 1978). In winter, wind direction may vary from the
+	north west through to the south. The Bureau of Meteorology wind records
+	indicate the main direction and speed of the winds at Jurien Bay (the
+	closest meteorological station to the project area).
+
+	During the passage of a tropical cyclone the wind direction may vary but
+	usually they are north to north westerlies.
+
+
+	<h>2.5.3	Waves </h>
+	
+
+	The coastline is dominated by two major wave forms - swell and wind
+	waves. Swell waves are generally propagated from the south-west but
+	their direction may be altered, as they approach the coast, by offshore
+	features such as reefs and islands or due to extensions of the shoreline
+	by using structures such as jetties. The swell waves are diffracted and
+	reflected and break on the beach parallel to the shoreline. Waves
+	refract and bend towards the headlands because of the offshore shoal
+	area associated with the headland. The wave energy is therefore
+	concentrated on the headland, and the wave heights there may be several
+	times as large as in the adjacent embayments.
+
+
+	<h>2.5.4	Tides </h>
+	
+
+	The project area on a world scale consists of a mixed tidal regime that
+	is predominantly either diurnal or semi-diurnal (Davies, 1980). In the
+	mixed tidal regime there are two highs and two lows per day which are
+	not of the same magnitude. The tidal range is low and at the spring
+	tides the tidal range is approximately less than 2 m. Since the tidal
+	range is low in the project area the influence of tide-induced currents
+	is limited to constrictions between islands and around headlands.
+
+
+	<h>2.5.5	Sediment Budget </h>
+	
+
+	There are various inputs and outputs in the sediment budget. The inputs
+	consist of littoral drift in, onshore transport, and cliff erosion,
+	while the outputs are littoral drift out, offshore transport and dune
+	migration. Each of the above components will briefly be discussed
+	(FIGURE 2).
+
+        
+	<note> FIGURE </note>
+	
+
+	The term &quot;sink&quot; is used to cover all those processes whereby sediment is
+	lost to the coastal system. The first sink is represented by the
+	migration of dunes inland where they can no longer be acted on by waves
+	at times of storm activity and the second by transport offshore onto the
+	seafloor.
+
+	Parabolic dunes seem to develop when the dune is no longer receiving new
+	sand and begins to wander inland. As the dune travels, the sand body at
+	the head is progressively exhausted and the two trailing edges develop
+	into long slightly converging ridges. The development of such a sequence
+	requires not only time but the frequent occurrence of high velocity
+	winds from one major direction. In the project area the wind transport
+	is mainly from the south-south west so that the parabolic dunes are
+	orientated in a north-south direction. The natural development of dunes
+	depends on a fortuitous sequence of events and circumstances.
+
+	Transport of sediment occurs in conjunction with nearshore cell
+	circulation and littoral drift. The nearshore cell circulation consists
+	of rip currents and feeding longshore currents and is normally generated
+	by variations in the wave breaker height along the length of the beach.
+	The longshore variations in wave height may be produced either by wave
+	refraction causing divergence and convergence of the wave rays or by
+	edge waves trapped in the nearshore interacting with normal swell waves.
+	Alternative explanations for nearshore circulation have been developed
+	by Hino (1975) and Sonu (1972). Longshore currents may also be produced
+	by waves breaking at an angle to the shoreline. Exactly what processes
+	cause longshore currents in the project area can not be ascertained.
+
+	However, longshore movement of sediment at any beach is the sum of
+	transport under all the individual wave trains arriving at the shore
+	from numerous wave generation areas. The beaches in the project area
+	have north-south orientations and during summer sand may move northward
+	for a time due to waves arriving from the south to south-west and then
+	later move to the south in winter under waves coming from the north.
+
+	The result of north and south longshore drift is a net dominance of the
+	northward transport system. Thus a small amount of sediment is
+	continually being moved to the north. This phenomenon is responsible for
+	the asymmetric growth of beach ridge plains and erosion on their
+	southern flanks.
+
+
+	<h>2.5.6	Shoreline Stabiity and Coastal Erosion </h>
+	
+
+	The recession hazard can be categorised into two main types which pose
+	significantly different problems to the coastal planner - the beach sand
+	cycle and secular recession.
+
+	
+	<h> Beach Sand Cycle </h>
+	
+
+	The commonly perceived definition of the beach is the interface between
+	the ocean and the land at a particular instant. In reality, this zone is
+	not static but varies within a definable zone depending on the existing
+	weather conditions. During storm events the back beach escarpment will
+	move landward as sand is moved offshore to form storm bars which
+	dissipate the wave energy. In contrast, during periods of calm weather
+	the sand gradually moves back onshore from the bar, rebuilding the beach
+	and an incipient foredune. The term used to describe the area which
+	encompasses the accreted and storm profile is the dynamic swept prism
+	(Chapman and Smith, 1980). This situation does not involve any nett loss
+	of sediment from the beach system. However, if development is allowed
+	within this dynamic swept prism it may be threatened or lost during a
+	severe event (FIGURE 3).
+
+	
+	<h> Secular Recession </h>
+	
+
+	Secular recession is an ongoing landward movement of the erosion
+	escarpment associated with an average sediment loss from the coastal
+	compartment. Therefore to assess or predict shoreline stability various
+	techniques could be used (May et al., 1983). However, sediment budgets
+	are generally used to assess the medium term stability of the shoreline.
+	No such investigations have been completed for the area. From
+	preliminary investigation (29-31 May) of the project area the northern
+	ends of the crescentic, sandy bays appear to have wider beach widths and
+	are backed by a series of beach ridges. Thus, one could assume that the
+	northern ends of the bays are prograding or at least have been
+	prograding in the past. However, these areas also have consolidated
+	parabolic dunes indicating periods of high sand influx and instability.
+	Hence, shoreline instability results from an inbalance between sediment
+	removal and sediment supply to the coast. The natural beach exhibits
+	short-term fluctuations which are in dynamic equilibrium while over a
+	greater period of time it may be prograding or receding.
+
+	
+	<h> Beach Erosion </h>
+	
+
+	Woods (1984) placed the project area into Region 5 (Kalbarri to Cape
+	Naturaliste). This section of coastline is characterised by long, sandy
+	beaches and rocky limestone headlands, reefs and islands. The sandy
+	bays are crescent-shaped and are orientated towards the north.
+
+	The modal form of the beaches in the project area is extremely low
+	energy due to the presence of offshore islands and reefs. However, the
+	area does experience high energy conditions with the passage of
+	extra-tropical cyclones across the coastline. During the field trip
+	(29-31 May) minor erosion was observed. For example scarping or
+	cliffing along the foredune South of Leeman, erosional cusping along
+	the summer berm at South Bay and vast accumulations of seaweed. Erosion
+	was more prominent along the southern and central portions of the sandy
+	bays. The beaches at South Bay, Squatter Settlement 1, south of and
+	including Dynamite Bay, north of Leeman and Green Head jetty are
+	showing evidence of erosion. Old dunes are progressively being cut
+	back, bench marks have been exposed and there is scarping as well as
+	erosional cusping along the sandy bays. At Squatter Settlement 1
+	(closest to Green Head) and north of Green Head jetty the erosional
+	events are not as recent as vegetation has recolonised the dune system
+	and there is a layer of humus underlaying the vegetation. In contrast,
+	where the foredunes are low or non existent the beaches are more stable
+	and are probably prograding. Most of the erosional activity is
+	asssociated with activities such as tracking, off road vehicles, and
+	squatter settlement.
+
+
+	<h>2.6	GEOMORPHOLOGY </h>
+	
+
+	Hesp and Gozzard (1983) have included the project area within a
+	description and land use capability study of coastal lands from Dongara
+	to Green Head. They identified seven geomorphic units within the area.
+	The units are Pleistocene Barrier complex, Deflation basins, Parabolic
+	dunes, Active parabolic dunes and blowouts, foredunes and beach. These
+	geomorphic units are the result of a complex interaction between
+	geology, climate, vegetation, soils and coastal processes.
+
+	The geomorphology of the area was mapped by aerial photographic
+	interpretation at 1:25 000 scale using 1978 aerial photographs. To
+	check the reliability of the aerial photographic interpretation a field
+	reconnaissance of the area was conducted by Hesp and Gozzard (1983).
+	The main characteristic of each geomorphic unit is outlined below
+	(FIGURE 4).
+
+	
+	<h> Pleistocene Barrier Complex </h>
+	
+
+	This geomorphic unit is equivalent to Tamala limestone which outcrops
+	extensively to form rocky headlands and pools as well as submarine
+	shelf chains and islands. The barrier complex consists of cemented
+	aeolian calcarenite (limestone) and is often covered by a veneer of
+	Safety Bay Sand.
+
+	
+	<h> Parabolic Dunes </h>
+	
+	
+	The geological equivalent of the parabolic dunes is the Quindalup dune
+	system. The parabolic dune system represents more recent (Holocene)
+	activity which has camouflaged the Pleistocene dune ridge complex. They
+	are orientated in a north-south direction (parallel to the coast) which
+	is the dominant wind direction. Active Parabolic Dune lobes and
+	blowouts are at South Bay and north of Green Head. They are usually
+	formed during periods of high sand influx and are later cutoff by
+	vegetation recolonisation when the sand supply decreases. The active
+	parabolic dune lobes continue to advance (approximately 1-9 m/yr) in a
+	northern direction.
+
+	
+	<h> Deflation Basins </h>
+	
+
+	These areas are the flat and gently undulating erosion plains which are
+	bounded by the active and inactive parabolic dunes.
+
+	
+	<h> Foredune </h>
+	
+
+	This unit may be made up of active and relic beach ridges. The ridges
+	are asymmetric and can be vegetated or semi-vegetated. The geological
+	equivalent is Safety Bay Sand and in some sections Quindalup Sand.
+
+	
+	<h> Beach </h>
+	
+
+	The beach is the active surf/swash zone and is a highly dynamic process
+	area.
+
+
+	<h>2.7	TERRESTRIAL FAUNA </h>
+	
+
+
+	<h>2.7.1	Mammals and Birds </h>
+	
+
+	Chapman et al. (1977) completed a case study of the Cockleshell Gully
+	Reserve which is included in the project*theproject area. Chapman and
+	Kitchener (1977) found thirteen native mammals and six exotic mammals.
+        An annotated list of mammals is included in APPENDIX 1. With the 
+        exception of Sminthopsis granulipes all mammal species recorded in this
+        survey were previously known to inhabit the west coastal sand heaths 
+        between Moore and Murchison Rivers.
+
+	In contrast to the mammalian community the birdlife of the area is rich
+	and diverse. There have been a total of 146 species of birds recorded
+	from the area.
+
+	The Cockleshell Gully area is relatively undisturbed by clearing or
+	mining and therefore it is of considerable importance in maintaining
+	large breeding populations of birds. Thus, the area is viewed as &quot;the
+	most important portion of the southwest for conserving coastal passerine
+	birds&quot; (Dell and Johnstone, 1977).
+
+	The area is very rich in heath-dwelling species. The genus Malurus is
+	represented by four species, and the genera Stipiturus, Sericornis,
+	Calamanthus and Acanthiza are present. Similarly, the islands of the
+	area, especially the Fishermen Islands, are important breeding grounds
+	for nine species of sea birds and waders.
+
+
+</sample>

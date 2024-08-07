@@ -1,0 +1,354 @@
+<sample>
+	<id> H12 </id>
+	
+
+
+	<note> 2032 words </note>
+	
+
+
+	<source> Australia card: planning report on the establishment and administration
+of a national identification system </source>
+	
+
+
+	<h> CHAPTER 2 </h>
+	
+
+
+	<h> PROPOSED OPERATIONAL STRATEGY </h>
+	
+
+
+	<h>2.1      Objectives, functions and uses of the Australia Card Program </h>
+	
+
+2.1.1     Within the context of the Government's desire to
+provide fairer and more equitable taxation and welfare systems,
+it is the Commission's understanding that the principal
+objective of the Australia Card Program is to establish a
+mechanism for the unique identification of persons within
+Australia, and by this process to:
+
+(a) reduce the incidence of -
+
+    2 tax evasion
+
+    2 incorrect payment of health and welfare benefits and
+      other government moneys
+
+    2 other abuses of government programs; and
+
+(b) generally assist government agencies to carry out their
+    functions more effectively.
+
+2.1.2     The functions of the Australia Card Program are to
+provide a framework of identification within Australia which
+will aid in the positive identification of:
+
+(a) participants in specified financial transactions (for
+    taxation purposes);
+
+(b) persons lawfully entitled to undertake work in Australia;
+
+(c) persons entitled to Commonwealth Government pensions,
+    income support payments and assistance under other government
+    programs;
+
+(d) persons entitled to Medicare benefits;
+
+(e) persons entitled to an Australian passport; and
+
+(f) persons seeking to register for employment with the
+    Commonwealth Employment Service.
+
+2.1.3     Whilst the Program clearly will not be a panacea for
+all the ills of tax evasion (particularly in relation to the
+cash economy and organised crime), it can successfully achieve
+the stated objectives and perform the functions listed above.
+
+2.1.4     Appendix D outlines the uses of the Australia Card
+and register which are intended by the Government and are
+detailed in the Government's submission to the Joint Select
+Committee.
+
+2.1.5     The operational objectives outlined in Section 2.3
+below have been developed after careful consideration of these
+objectives, functions and uses and the system requirements that
+they imply.
+
+
+	<h>2.2       Companion system for entities </h>
+	
+
+2.2.1     The most significant revenue gains expected from the
+Australia Card Program are those arising from the taxation
+uses. To prevent the transfer or leakage of these revenue gains
+to entities, the Government has accepted the need for a
+companion system for such entities. In this context, &quot;entity&quot;
+means any organisation or association (whether incorporated or
+unincorporated) and includes persons engaging in transactions
+in joint names.
+
+2.2.2     The companion system for entities proposed by the
+Australian Taxation Office is outlined in Appendix E. It does
+not involve the allocation of a separate unique number to each
+entity but relies instead on a requirement that, where an
+entity engages in a prescribed transaction, the Australia Card
+of an appropriate responsible individual associated with the
+entity is required to validate the transaction.
+
+2.2.3     The companion entity system will be administered by
+the Australian Taxation Office (ATO). Whilst it should have
+little effect on the administration of the Australia Card
+Program by the Commission, it is recognised that:
+
+(a) the establishment and maintenance of the highest
+    practicable level of integrity for the Australia Card Program
+    will be critical not only to the success of that Program but
+    also to the effective operation of the companion entity system;
+    and
+
+(b) continuing liaison with the ATO will be necessary to
+    identify promptly areas of mutual concern or issues on which
+    the policies or practices of one organisation may have
+    implications for the other organisation.
+
+
+	<h>2.3       Operational objectives </h>
+	
+
+2.3.1     The broad operational requirements for the
+administration of the Australia Card Program by the Commission
+are that the system should be able to:
+
+(a) register, with a very high level of integrity, every
+    eligible person and allocate an Australia Card number to every
+    registered person;
+
+(b) issue Australia Cards in respect of all registered persons;
+
+(c) receive data from government agencies to establish records
+    and verify identity and eligibility;
+
+(d) provide information to government agencies necessary for
+    approved uses of the Program.
+
+2.3.2     The Commission regards integrity as the cornerstone of the
+Australia Card Program. It is a central issue that is critical
+to the success of the Program in terms of both the achievement
+of its objectives and its acceptance by the general community. It
+is for this reason that integrity has been made the first
+operational objective below; it is addressed in more
+comprehensive terms in Section 2.6 below.
+
+2.3.3     The principal operational objectives for the
+establishment and administration of the Program are taken to
+be:
+
+(a) to achieve the highest practicable level of integrity for
+     the data on the Australia Card register;
+
+(b) to ensure that the optimum safeguards and controls are in
+    place to protect the integrity of the system and the privacy
+    of individuals and personal information relating to them;
+
+(c) to register and issue Australia Cards to at least 96% of
+    eligible persons over the two year implementation period and
+    subsequently to the entire eligible population;
+
+(d) in the ongoing phase, to reissue cards as required and to
+    register the newborn and new arrivals from other countries in
+    a timely manner;
+
+(e) to pay particular attention to the needs of (and, where
+    necessary, to make specific arrangements for) special groups
+    such as people in remote locations, people from Aboriginal
+    and ethnic communities, institutionalised persons and
+    Australians overseas;
+
+(f) to develop, implement and administer the Program so as to
+    minimise public inconvenience;
+
+(g) to provide ready access for cardholders to their own data
+    on the Australia Card register;
+
+(h) to provide (in a manner consistent with (b) above) on-line
+    and other appropriate enquiry facilities to enable
+    authorised government agencies to access the Australia Card
+    register and to provide update information to those user
+    agencies in a timely manner to assist in the effective
+    operation of their programs; and
+
+(i) to operate with the lowest possible administrative costs
+    consistent with these objectives.
+
+2.3.4     The operational strategy outlined in this chapter is
+designed to achieve these objectives and has been used in the
+preparation of the estimated work volumes, resource
+requirements, costs and timescales provided in this report.
+
+2.3.5     It should be appreciated, however, that some aspects
+of this operational strategy may be revised following the
+further planning and evaluation referred to in Section 5.4.
+
+
+	<h>2.4       Overview of operational strategy </h>
+	
+
+2.4.1     For the general community, the principal impact of
+the Australia Card Program during the two year implementation
+phase will be the arrangements for registration of eligible
+persons and the issue of Australia Cards. Invitations to apply
+for registration, based on matching of the Medicare database
+against other government databases, will be posted
+progressively over the first 20 months of the implementation
+period. The invitations will request completion and return of
+an application for registration.
+
+2.4.2     After further checking of the information supplied
+by the applicant, he will be asked to phone a toll-free central
+enquiry number for the relevant State and make an appointment
+for a registration interview at a convenient branch office. At
+that interview, the applicant will provide proof of identity
+and eligibility and a signature for inclusion on his Australia
+Card.
+
+2.4.3     Special publicity arrangements during the last four
+months of the two year implementation phase will encourage
+those who have not received invitations to apply for
+registration.
+
+2.4.4     The registration arrangements outlined in the three
+preceding paragraphs are described in more detail in Section
+2.11 and its supporting Appendix M.
+
+2.4.5     Australia Cards will be produced at a secure central
+site using automated techniques and will be distributed under
+security conditions. They will be made available for collection
+at Commission branch offices 2 - 3 weeks after the registration
+interview.
+
+2.4.6     It is recognised that special arrangements will be
+essential for various groups in the community who will not be
+able to visit a branch office or who will require special
+attention in other ways -- these arrangements are discussed in
+Section 2.14 below.
+
+2.4.7     Other essential elements of the Commission's proposed
+operational strategy are that:
+
+(a) the Commission will continue to operate as one organisation
+    with its several functions -- Medicare, Medibank Private and
+    Australia Card -- all carried out within the existing
+    integrated structure;
+
+(b) a three stage computer matching process (using the Medicare
+    enrolment file as the base) will be used during the
+    registration process to establish and validate identity and
+    eligibility;
+
+(c) the Australia Card register will contain data on each
+    registered person including basic personal information 
+    (name, address, sex, date of birth etc.), personal information
+    required to establish identity and eligibility (e.g. birth
+    certificate or immigration details), card issue details, audit
+    trail information, and, depending on the views of the Joint
+    Select Committee and the wishes of the community, optional
+    emergency information,
+
+(d) the Australia Card will contain name, number, sex, date of
+    birth, period of validity, citizen/resident/visitor status,
+    signature (on adult cards), name and number of responsible
+    adult (on children's cards), eligibility for Medicare and
+    authority to work (visitors' cards), and appropriate security
+    features;
+
+(e) the promotional plan to explain the program and to
+    encourage registration will include brochure distribution
+    through government agencies, a national letterbox drop and
+    reinforcement advertising through press, radio and TV;
+
+(f) cardholders will have access to their record on the
+    register (subject to some limitations mentioned later);
+
+(g) authorised government agencies will have access (by on-line
+    computer terminal or other appropriate means) to the
+    register for approved purposes;
+
+(h) the data on the register will be maintained using
+    information supplied by cardholders (and relevant government
+    agencies) and updated information will be available immediately
+    to authorised users;
+
+(i) Australia Cards will replace Medicare cards entirely during
+    the 2 year implementation phase; and
+
+(j) the Commission will install and operate a computer system
+    for State registries of births, deaths and marriages.
+
+
+	<h>2.5       Privacy, rights of access and appeal mechanisms </h>
+	
+
+2.5.1     As indicated in Appendix B the Australia Card
+proposal has received strong public support as a general system
+of identification and as a means of reducing tax evasion and
+welfare fraud. However, it has been criticised by civil
+liberties groups and others who fear that the Program may lead
+to an erosion of personal privacy and individual liberty
+through the possible creation of dossiers on individuals or
+uses of the system beyond those intended.
+
+2.5.2     It is clear that if human rights and personal privacy
+are to be protected, adequate legislative safeguards and
+administrative controls will be essential. At the same time,
+comprehensive information program explaining Australia Card
+and these safeguards and controls should alleviate the concerns
+that have been expressed.
+
+2.5.3    Chapter 14 of the Government's submission to the Joint
+Select Committee discusses privacy and human rights issues and
+describes the legislative controls and safeguards proposed by
+the Government. In particular, it outlines the role of the
+proposed Data Protection Agency which would, inter alia,
+provide an external appeals mechanism for the review of
+decisions made by the Commission or other government agencies
+in relation to data held on or obtained from the Australia Card
+register. Chapter 16 of the Government's submission details the
+proposed internal review mechanisms and rights of appeal
+concerning disputes and complaints arising from Australia Card
+data and procedures.
+
+2.5.4     Appendix F of this report summarises these issues and
+describes how the legislative requirements would be reflected
+in the Commission's administration of the Program. That
+appendix also explains the arrangements for access to the
+register:
+
+(a) by each cardholder enabling him to check the accuracy of
+    the personal information held on the register which relates to
+    him; and
+
+(b) by approved user agencies to personal information on the
+    register enabling them to carry out the functions for which
+    approval has been granted.
+
+
+	<h>2.6       Integrity of the Program </h>
+	
+
+2.6.1     A major determinant of the integrity and success of
+the Program will be the effectiveness of the validation of
+identity and eligibility prior to the allocation of an
+Australia Card number and issue of the Card. However, the only
+way in which integrity -- in this context -- could be
+guaranteed would be to make the checks on identity and
+eligibility absolutely exhaustive.
+
+2.6.2     To apply exhaustive checks for each person would not
+be acceptable to the general community and would be seen as an
+unnecessary intrusion into personal privacy.  It must be understood, however, that any system with checks that are less than exhaustive -- including the system proposed in this report, despite the range of safeguards that is being contemplated -- will inevitably have some potential for exploitation by those who are really determined.
+
+
+</sample>

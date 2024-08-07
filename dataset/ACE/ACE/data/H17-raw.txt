@@ -1,0 +1,265 @@
+<sample>
+	<id> H17 </id>
+	
+
+
+	<note> 2014 </note>
+	
+
+
+	<source> Journal of Agriculture Western Australia </source>
+	
+
+
+	<h> More lambs from feed and chemical treatments </h>
+	
+
+
+	<bl> By K. P. Croker, Research Officer, Sheep and Wool Branch </bl>
+	
+
+The ovulation rate, or the number of eggs shed per ovulating ewe, represents the
+upper limit of the capacity of a flock of ewes to produce lambs. Several methods
+can be used to increase ovulation rates and lambing percentages of ewes,
+including selection for better breeding, feeding and the use of chemicals.
+
+The potential for improving the reproductive performance of Western Australia's
+ewe flocks by the use of different approaches to breeding was discussed by L.G.
+Butler and R.P. Lewer in the Journal of Agriculture in 1983.
+
+This article mainly discusses the research conducted by the Department of
+Agriculture's Sheep and Wool Branch on the supplementary feeding of ewes with
+sweet narrow-leafed lupin seed (Lupinus angustifolius) and the more recent
+investigations of the technique of immunisation to change the levels of some of
+the sex hormones in ewes. Both methods can increase ovulation rates and
+subsequent lambing percentages.
+
+
+	<h> Improved nutrition </h>
+	
+Farmers can give ewes more nutritious feed before and at joining to increase
+ovulation rates.
+
+
+	<h> Flushing </h>
+	
+Ewes can be flushed to improve their lambing performances by placing them on a
+high plane of nutrition before the start of joining. This practice has long been
+used by farmers.
+
+Many experiments on flushing ewes in this way in Western Australia and elsewhere
+have shown that both increasing ewe liveweight, as well as the liveweight at
+mating, influence ovulation rate and lambing performance.
+
+Research at Beverley, Western Australia, as early as 1941 showed that more twin
+lambs were born to Merino x Border Leicester crossbred ewes grazing a paddock
+with oaten stubble and unharvested field peas for seven weeks, starting two weeks
+before the entire rams were joined with them in mid December (Table 1).
+
+Although it appears that flushing flocks produces only small gains when the ewes
+are in good body condition, there does not seem to be any valid reason for
+reducing the liveweight amd condition of ewes before starting to feed them up
+again.
+
+The body condition of ewes at joining, which is an assessment of fatness as
+distinct from liveweight, also influences lambing performances. Ewes gaining in
+body condition have higher ovulation rates. Therefore, ewes should be managed so
+that they are in good body condition at the start of joining. Farmers can do this
+by adjusting stocking rates to increase the amount of paddock feed available to
+ewes.
+
+In Western Australia's major sheep-grazing areas the quantity as well as quality
+of paddock feed gradually deteriorates after pastures dry off. Because of these
+changes to paddock feed, larger increases in lambing percentages would be
+expected from ewes flushed in January and February. By then, ewes often have lost
+weight and condition.
+
+However, there are no experimental results indicating that this is a better time
+to flush ewes rather than in November and December.
+
+
+	<h> Feeding sweet lupin seed </h>
+	
+In the early 1970s research at the University of Western Australia and the
+Department of Agriculture showed that feeding ewes sweet narrow-leafed lupin
+seed at joining could increase ovulation rates and lambing performances. It was
+suggested that feeding lupin seed, which contains about 30 per cent crude 
+protein, overcame the low levels of protein in dry pastures thought to be 
+responsible for the poor lambing percentages that are common in the 
+agricultural area. Apart from containing high levels of protein and energy, 
+sweet lupins are a safe supplement to feed to ewes who readily eat the seeds 
+once they are familiar with them.
+
+The degree of response in ovulation rate was related to the amount of lupin seed
+eaten. More consistent results were obtained with daily supplements of 250 grams
+per head or more (Table 2).
+
+These early experiments in the 1970s showed that there was a positive
+relationship between ovulation rate and the number of ewes which lambed when
+lupins were fed to them during joining. By increasing ovulation rate, more ewes
+lambed and more twins were born.
+
+Ewes seem to respond to lupin supplements soon after feeding starts. In an
+experiment at Merredin ovulation rate increased eight days after feeding lupins
+(Table 3). Independent research at the University of Western Australia showed
+that ovulation could be increased after only six days of feeding. Therefore, it
+would appear that ovulation rate can be increased without measurable changes in
+liveweight because these feeding periods are too short for significant changes in
+weight.
+
+The results from the initial experiments also indicated that 2.5-year-old ewes
+were not as responsive to lupin supplements as were older ewes. It was
+subsequently shown that ovulation in 1.5-year-old ewes was not increased after
+feeding either 250 or 500 g of lupins per head per day. Ovulation rates of
+2.5-year-old ewes increased only when 500 g of lupins per head per day were fed,
+whereas older ewes showed increases in ovulation at both feeding rates (Table
+4).
+
+Other research by the University of Western Australia at Northam during the
+spring, summer and autumn of 1975-76 showed that when ewes were fed 750 g of
+lupins per head per day ovulation rates increased in October, January and
+February, but not in December. In contrast, observations by the Department at
+Beverley on ewes which received 250 or 500 g of lupins per head per day over
+similar periods in 1975-76 and 1976-77 showed no consistent effect of season on
+ovulation rates, although there were slight, but not statistically significant,
+increases in the ewes fed the bigger amount. These ewes produced more twins.
+Perhaps more lupin seed is necessary to obtain consistently large ovulation
+responses at the various times of joining.
+
+Results from the Department's experiments between 1972 to 1977 were examined.
+They indicated that ovulation rates and lambing performances of ewes 3.5 years
+and older could be economically increased by feeding the equivalent of 250 g of
+lupins per head per day to `teased' ewes for 14 days before the entire rams were
+joined with them and until day 17 of joining.
+
+
+	<h> On-farm trials </h>
+	
+The potential application of this method was examined on 50 farms and with 22
+800 mature ewes in the agricultural area between 1977 and 1982. Three series of
+trials compared the lambing performances of unsupplemented flocks with those fed
+lupins.
+
+In the first series, the supplemented ewes received 250 g of lupins per head per
+day. Because these trials showed a large variation in responses to lupin
+supplements, a second series was conducted in which nearly all trials had an
+additional group which received a daily supplement of 500 g of lupins per head.
+In the last series of trials, ewes on properties which had marked 60 per cent or
+fewer lambs during the preceding five years were fed lupins at 250 g per head per
+day to determine whether worthwhile increases in lambing percentages were
+obtained.
+
+The overall results from these on-farms studies did not show any significant
+increase in the lambing performances of the supplemented ewes. As was found at
+Beverley, there was no difference in response between the various times of
+joining. However, there was a large variation between farms in the differences
+between the unsupplemented and supplemented ewes in the percentage of lambs
+born, ranging from 14 per cent fewer lambs born to the supplemented ewes in one
+trial to 21 per cent more lambs born to these ewes. Increasing the supplementary
+feeding rate to 500 g per head per day did not overcome the variability in the
+lambing response.
+
+In the third series of trials where the properties were selected on the basis of
+previous poor lambing performances, the unsupplemented ewes had good lambing
+figures (93 per cent lambs born). Perhaps, as a result, this is the reason that
+supplementation did not significantly increase the percentage of lambs born.
+
+The results from the on-farm trials may be associated with a potential clover
+disease problem. In series 1 and 2 trials, the best results were obtained from
+the Bunbury area where it had been previously shown that sub-clinical clover
+disease depressed lambing performances of ewes. The results obtained from this
+area and, for comparison, those from Merredin, a non-clover pasture area, are
+shown in Table 5.
+
+On the properties in the Bunbury area less than 80 per cent of ewes lambed
+whereas in the Merredin area between 88 and 94 per cent of ewes lambed. However,
+the apparent association of large responses to lupin supplements where
+subterranean clover pastures may depress lambing percentages has not been
+examined experimentally, so that confirmation is still required.
+
+
+	<h> A place for lupins? </h>
+	
+Although the Department of Agriculture has conducted many experiments between
+1972 and 1982 on feeding sweet lupin seed to ewes to increase ovulation rates
+and lambing percentages, it is still not possible to recommend that lupins be
+used to improve lambing performances on all farms. The major problem is
+determining which ewe flocks can be supplemented successfully and what causes
+the tremendous variability in the lambing performances of flocks after
+supplementation. This is the basis of our search for the components of lupins
+which affect ovulation rates, as discussed in `Ovulation rate of ewes - role of
+energy and protein' on page 36.
+
+
+	<h> Chemicals </h>
+	
+A range of pharmaceutical products is available which can influence the
+reproductive efficiency of sheep. Of relevance here are those which can increase
+ovulation rates and so provide an opportunity to improve the lambing percentages
+of flocks.
+
+
+	<h> PMSG </h>
+	
+Pregnant mare serum gonadotrophin (PMSG) can be used to stimulate an ewe's
+ovaries directly. According to the dosage given, it can produce moderate or very
+high ovulation rates.
+
+There are several problems with the use of PMSG. It must be used either in
+conjunction with techniques which synchronise oestrous or with the careful
+monitoring of natural oestrous. It must be injected on the 12th to 14th day of
+the oestrous cycle. The hormone is expensive and adds considerably to the cost
+of production. Also the response to it are highly variable, both within and
+between ewes.
+
+PMSG can only be obtained on a veterinarian's prescription.
+
+
+	<h> Immunisation against ovarian hormones </h>
+	
+After the discovery in the early 1970s that ovulation rates of ewes were
+increased when they were immunised against the sex hormones oestrone (a female
+hormone) and androstenedione (a male hormone), CSIRO developed a new method of
+producing more twins from ewes. The ewes are injected with a hormone-protein
+compound that will stimulate antibody production. The antibodies neutralise some
+of the naturally circulating sex hormones, which results in the release of two
+eggs instead of one in some ewes.
+
+An important part of the development of this technique has been to find what
+level of antibody production is needed to stimulate above-normal lambing
+performances without the harmful side-effect of having triplets or quadruplets.
+
+The first experiments with the immunising compounds were conducted by CSIRO at
+Armidale, New South Wales, in 1977-78 and led to significant increases in
+ovulation.
+
+Evaluation of the compounds started in Western Australia in 1980 because the
+strain of Merino and the field environment here differ from those examined by
+CSIRO.
+
+The initial experiments were conducted on the Department's Wongan Hills Research
+Station with Merino ewes which were 2.5-years-old when first immunised. The
+results are shown in the figures. During these investigations, CSIRO's
+scientists were `tailoring' the compounds (immunogens) and procedures to give
+the right biological response. Hence, there were slight differences between
+experiments. However, in this State injections of the immunogens increased
+ovulation rates and resulted in more lambs being born.
+
+In late 1983 an anti-androstenedione compound which had been developed under an
+agreement between CSIRO and Glaxo Australia Pty Ltd was released commercially as
+Fecundin ®. Subsequently, the Department began to evaluate the responses to
+immunisation with Fecundin ® of Merino and crossbred ewes on commercial
+properties.
+
+
+	<h> On-farm trials </h>
+	
+In 1984 crossbred ewes on properties at Moora and Rosa Glen and Merino ewes on
+properties at Darkan, Jingalup and Chowerup were treated.
+
+At Moora the ovulation rate of the untreated ewes was 1.31 whereas it was
+increased to 1.77 in the immunised ewes, but only 9 per cent more lambs were
+marked in the immunised ewes.
+
+
+</sample>

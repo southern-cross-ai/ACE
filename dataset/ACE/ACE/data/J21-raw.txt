@@ -1,0 +1,786 @@
+<sample>
+	<id> J21 </id>
+	
+
+
+	<note> 2018 words </note>
+	
+
+
+	<source> Journal of Australian Mathematical Society </source>
+	
+
+
+	<h> Existence and regularity results for Maxwell's equations in the quasi-static
+limit </h>
+	
+
+
+	<bl> By A.L. Carey and D.M. O'Brien </bl>
+	
+
+     
+	<h> Abstract </h>
+	
+
+We prove the existence of solutions of Maxwell's equations for a conducting
+medium whose constitutive parameters are piecewise constant on 
+	<note>?,</note>
+	 and then
+examine the convergence of these solutions in the quasi-static limit in
+which displacement currents are neglected. Secondly, we examine the regularity
+of the limiting solution and the sense in which the classical boundary
+conditions hold, namely, continuity of the tangential electric field and
+the normal current density.
+
+     
+	<h>1. Introduction </h>
+	
+
+The work described in this paper arose from a study of the electromagnetic
+prospecting technique used by geophysicists. The aim of the technique is
+to determine the extent and electrical properties of a conducting ore body,
+buried in a layered conducting ground, from transient electromagnetic
+observations at the surface. In the usual experimental arrangement, a
+horizontal transmitting loop is laid upon the ground and is driven by a
+current pulse or current ramp. The fields induced in the buried ore body
+then generate secondary currents in a receiving loop, and these are recorded
+for subsequent analysis. In order to model this technique, one must be able
+to solve Maxwell's equations in a structured medium. When the structure
+is simple, such as in a layered medium without ore body, or a spherical
+or cylindrical ore body in a non-conducting earth, then the techniques of
+classical analysis yield solutions in series of special functions which
+are easily computable and fairly reliable. In more complex structures, one
+is forced to use a finite element or finite difference representation of
+the electromagnetic fields. In addition, it is sometimes necessary to couple
+the finite element representation to an integral representation in order
+to adequately acount for boundary conditions at infinity. The successful
+application of finite elements and subsequent analysis of the errors presumes
+knowledge of the regularity of the electromagnetic fields near the interfaces.
+According to classical electromagnetism the tangential component of both
+the electric and magnetic field intensities must be continuous across any
+interface between media with different constitutive parameters. However,
+greater precision is needed in order to tackle the numerical analysis of
+Maxwell's equations. In particular, in what sense must the tangential
+components be continuous, and how discontinuous are the normal components?
+We were unable to find definitive answers in the literature for Maxwell's
+equations in a complex medium. Nor could we find results immediately applicable
+in the quasi-static limit, used in the electromagnetic prospecting problem
+in which Maxwell's equations degenerate into a parabolic system. This paper
+is an attempt to answer these questions. As such it is a first step in
+extending the approach of [3] (for a layered earth) to more complicated
+geometries.
+  In this paper we are concerned with existence and regularity results for
+Maxwell's equations in a conducting medium,
+
+                 
+	<note>
+		?                           
+		<misc> (1) </misc>
+	</note>
+	
+
+in the quasi-static limit as 
+	<note>?</note>
+	. The notation used here is standard:
+  (1) E and H are the electric and magnetic field intensities;
+  (2) 
+	<note>ρ</note>
+	 is the density of electric charge;
+  (3) J is the total current density, σE is the conduction current
+density, and K is a known current density maintained by an external energy
+source;
+  (4) 
+	<note>μ</note>
+	 is the permeability, 
+	<note>ε</note>
+	 the permittivity and σ
+the conductivity.
+We shall require that 
+	<note>μ</note>
+	 be constant on 
+	<note>?,</note>
+	 but allow 
+	<note>ε</note>
+	 and
+
+	<note>σ</note>
+	 to be piecewise constant functions. More precisely, we suppose
+that 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 ..., 
+	<note>?</note>
+	 are disjoint open regions whose closures cover 
+	<note>?</note>
+	 and whose boundaries are smooth and that 
+
+                 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?</note>
+	.
+
+In addition, we shall suppose that the source K is switched on at time zero,
+and that E, H and ρ are all zero prior to time zero. Consequently, ρ will
+vanish for all time in the interior of regions where ε/
+	<note>σ</note>
+	 is constant,
+except possibly at points where 
+	<note>?</note>
+	. K is non-zero, as the charge density
+will be a distribution concentrated on the interfaces between regions with
+different values of ?/
+	<note>σ</note>
+	.
+  In physical terms, the quasi-static limit is equivalent to the neglect
+of displacement currents. This is usually a good approximation in the
+propagation of low-frequency waves through conducting media, and also in
+the transient electromagnetic (TEM) response of a conducting medium when
+observations are made long after the passage of the wave fronts. One practical
+application, already mentioned, is to TEM prospecting, in which geophysicists
+measure the response of the conducting earth to a controlled current source
+in the search for buried ore bodies and oil deposits. This application has
+an extensive literature, which can be traced from the text by Wait [4].
+  Duvaut and Lions [1] have given an elegant existence proof for the case
+in which 
+	<note>ε</note>
+	 is non-zero, but their technique fails in the quasi-static
+limit. Our approach is to deal directly with the equation for E, namely
+
+	<note>
+		? 
+		<misc> (2) </misc>
+	</note>
+	
+which holds under our assumptions that 
+	<note>μ</note>
+	 is constant. We apply the
+Laplace transform to equation (2) and solve the resulting elliptic problem,
+
+	<note>
+		? 
+		<misc> (3) </misc>
+	</note>
+	
+where the lower-case e and k denote the Laplace transforms of E and K, and
+s is the Laplace transform variable. The solution of (3) satisfies a bound
+                
+	<note>?,</note>
+	
+where 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 denote the minima of 
+	<note>ε</note>
+	 and 
+	<note>σ</note>
+	.
+This bound is well behaved as 
+	<note>?,</note>
+	 and so enables us to pass to the
+quasi-static limit.
+  An open and interesting question is what happens to the results if 
+	<note>?</note>
+	
+is zero (with 
+	<note>σ</note>
+	 not identically zero)? Explicit calculations for
+the special case of a half space (ie. 
+	<note>?</note>
+	; 
+	<note>?)</note>
+	 show that the solution
+is not 
+	<note>?,</note>
+	 so that one expects solutions in weighted Sobolev spaces in general.
+  The classical boundary conditions are that the tangential components of e and
+the normal component of σe should be continuous across any section, Γ, of
+the interface between two regions, 
+	<note>?</note>
+	 and 
+	<note>?,</note>
+	 with different 
+constitutive parameters. We use elliptic regularity to establish 
+differentiability of e away from an interface and then in order to analyse the 
+boundary conditions, we resolve e into its transverse component 
+	<note>?</note>
+	 and 
+longitudinal component 
+	<note>?</note>
+	
+                 
+	<note>?</note>
+	.
+
+We then show that 
+	<note>?</note>
+	 lies in the Sobolev space 
+	<note>?,</note>
+	 which implies that all
+components of 
+	<note>?</note>
+	 are continuous. Next we show that 
+	<note>?,</note>
+	 where n is the 
+normal to 
+	<note>Γ,</note>
+	 is continuous in the sense that the traces of 
+	<note>?</note>
+	 on 
+	<note>Γ</note>
+	 from
+
+	<note>Ω</note>
+	 and 
+	<note>Ω</note>
+	 are equal as distributions in 
+	<note>?</note>
+	. Together, these
+results establish the (weak) continuity of n x e across 
+	<note>Γ</note>
+	. Lastly, we show
+that 
+	<note>?</note>
+	 is continuous across 
+	<note>Γ</note>
+	 in a similar sense.
+  Whether stronger continuity results are possible we leave as an open
+question.
+  We do not distinguish notationally between scalar and vector fields on
+
+	<note>?,</note>
+	 nor between spaces of such fields. Thus, 
+	<note>?</note>
+	 will denote the usual Sobolev
+space of r times weakly differentiable functions on 
+	<note>?</note>
+	 with the inner product
+
+                  
+	<note>?</note>
+	
+
+and corresponding norm
+
+                  
+	<note>?,</note>
+	
+
+as well as the similar space of vector functions on 
+	<note>?</note>
+	 with inner product
+
+                  
+	<note>?</note>
+	
+
+and corresponding norm
+
+                  
+	<note>?</note>
+	.
+
+When r = 0, we will omit the subscript from both the norm and inner product.
+All other notation is standard and follows, for example, that in reference
+[1].
+
+     
+	<h>2.  Existence </h>
+	
+
+  Our proof of the existence theorem follows the traditional approach in
+which the initial-value problem for Maxwell's equations is converted into
+an elliptic equation, after Laplace transformation of the time coordinate.
+In order to be able to guarantee that the Laplace transform can be inverted,
+we have placed fairly strong smoothness conditions on the source of the
+electromagnetic fields. In fact, these conditions are too strong for the
+most commonly used model of the source current, namely, a square current
+pulse. However, the conditions can be weakened but only at the expense of
+introducing distributional Laplace transforms, with attendant notational
+complications, which we felt unwarranted for this paper. A second feature
+of the proof is the division of the fields into longitudinal and transverse
+components. The significance of this procedure is that the longitudinal
+and transverse components have different regularity properties.
+  We begin with the classical result of Helmholtz, which asserts that any
+vector field can be decomposed uniquely into longitudinal and transverse
+fields. Let 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 denote the projections on 
+	<note>?</note>
+	 defined by:
+
+                  
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	
+
+where  
+	<note>?</note>
+	  denotes the Fourier transform. Then in fact PL is an orthogonal
+projection on 
+	<note>?</note>
+	 for any 
+	<note>?</note>
+	. To see this, note that
+
+                  
+	<note>?</note>
+	
+
+and so if u is in 
+	<note>?,</note>
+	 then the right-hand side is finite, which
+establishes that 
+	<note>?</note>
+	 also lies in 
+	<note>?</note>
+	. For any 
+	<note>?,</note>
+	 we let
+
+                  
+	<note>?,</note>
+	
+
+and call 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 the transverse and longitudinal components
+of u. It is easy to check that these components satisfy
+
+                  
+	<note>?</note>
+	 and 
+	<note>?</note>
+	.
+
+In order to formulate the existence and regularity results we need some
+technicalities. The first of these we record as
+
+  LEMMA 1. 
+	<note>?</note>
+	 if and only if 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 and &amp; Formula;.
+
+  To prove this, use the identity
+
+                  
+	<note>?</note>
+	
+
+to give
+              
+         
+	<note>?</note>
+	.
+
+  Consequently, 
+	<note>?</note>
+	 if and only if all terms on the right are finite,
+that is 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	.
+
+  We now turn to the Laplace-transformed version of the operator in equation
+(2), namely,
+                  
+	<note>?,</note>
+	
+
+where
+
+                  
+	<note>?,</note>
+	 
+
+and A is the operator defined as follows. Let
+
+                  
+	<note>?,</note>
+	
+
+and let A denote the operator on 
+	<note>?</note>
+	 with domain D(A) and action
+
+                  
+	<note>?,</note>
+	 
+	<note>?</note>
+	.
+
+Note that Lemma 1 shows that D(A) has an alternative characterisation:
+
+                  
+	<note>?</note>
+	.
+
+We shall show that the equation
+ 
+                          
+	<note>?</note>
+	
+
+has a unique solution u in D(A) for any f in 
+	<note>?</note>
+	. From this solution
+we shall construct the solution of Maxwell's equations by inverse Laplace
+transformation. To do this we need a second technical result, namely that
+A is non-negative and self-adjoint. The former is easy, since for any 
+	<note>?,</note>
+	
+
+                  
+	<note>?,</note>
+	 
+
+so A is non-negative.
+  We prove next that A is closed. Suppose that 
+	<note>?</note>
+	 is a sequence in
+D(A) which converges to u in 
+	<note>?</note>
+	 and that 
+	<note>?</note>
+	 converges to υ in
+
+	<note>?</note>
+	. Because 
+	<note>?,</note>
+	 and because 
+	<note>?,</note>
+	 we see that 
+	<note>?</note>
+	.
+Consequently, 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	. Hence A is closed.
+  Now let 
+	<note>?</note>
+	. Then the form 
+	<note>?</note>
+	 is certainly continuous for
+all ?. For such u,
+
+                 
+	<note>?</note>
+	.
+
+Thus, 
+	<note>?</note>
+	 from which it follows that 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	. Since
+A is symmetric, this establishes that 
+	<note>?,</note>
+	 and hence that A is
+self-adjoint.
+  We may now state the main result of this section.
+
+THEOREM. Let
+                 
+	<note>?</note>
+	.
+
+and require that 
+	<note>?</note>
+	. The equation
+
+                 
+	<note>
+		?, 
+		<misc> (4) </misc>
+	</note>
+	
+
+has a unique solution for any f in 
+	<note>?</note>
+	. If 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 denote the
+minima of 
+	<note>ε</note>
+	 and 
+	<note>σ,</note>
+	 then
+
+                 
+	<note>?</note>
+	.
+	<note>
+		<misc> (5) </misc>
+	</note>
+	
+
+Lastly, if f is holomorphic in s in the region 
+	<note>?,</note>
+	 then so too is u.
+
+
+  Proof. The proof uses a Galerkin approximation and relies on the positivity
+of A, 
+	<note>ε</note>
+	 and 
+	<note>σ</note>
+	. Let 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 be a basis for D(A) and suppose
+that
+                 
+	<note>?,</note>
+	
+
+where 
+	<note>?,</note>
+	 
+	<note>?,</note>
+	 
+	<note>?</note>
+	 are chosen so that
+
+                 
+	<note>?</note>
+	. 
+	<note>
+		<misc> (6) </misc>
+	</note>
+	
+
+Note, firstly that 
+	<note>?</note>
+	. Indeed, if this were not so, there would exist
+
+	<note>?</note>
+	 such that
+
+                 
+	<note>?,</note>
+	 
+and hence that
+                 
+	<note>?</note>
+	. 
+	<note>
+		<misc> (7) </misc>
+	</note>
+	
+
+Since A is positive, equation (7) implies that
+
+                 
+	<note>
+		? 
+		<misc> (8) </misc>
+	</note>
+	
+ and
+                 
+	<note>?</note>
+	.
+	<note>
+		<misc> (9) </misc>
+	</note>
+	
+
+The only possible solution of (9) is 
+	<note>?,</note>
+	 since 
+	<note>?</note>
+	 and 
+	<note>?,</note>
+	 which is
+inconsistent with (8). Returning to equation (6), we find that
+
+                 
+	<note>?</note>
+	
+so
+                 
+	<note>?</note>
+	.
+	<note>
+		<misc> (10) </misc>
+	</note>
+	
+
+Since 
+	<note>?,</note>
+	 we obtain
+                 
+
+	<note>
+		? 
+		<misc> (11) </misc>
+	</note>
+	
+and
+                 
+	<note>?</note>
+	.
+	<note>
+		<misc> (12) </misc>
+	</note>
+	
+
+Because 
+	<note>ε,</note>
+	 
+	<note>σ</note>
+	 and 
+	<note>α</note>
+	 are all positive, 
+	<note>β</note>
+	 and imag(u,f) must have the same sign.
+Multiply (11) by 
+	<note>α,</note>
+	 (12) by 
+	<note>β</note>
+	 and add to obtain
+
+                 
+	<note>?</note>
+	.
+Hence,
+                 
+	<note>?</note>
+	.
+
+It now follows that
+            
+                 
+	<note>?,</note>
+	
+ 
+from which we obtain
+
+                 
+	<note>?</note>
+	.
+
+  For each m we may construct in this way a solution of (6), which we now
+denote by 
+	<note>?</note>
+	. The sequence 
+	<note>?</note>
+	 is bounded, so we can select a
+subsequence 
+	<note>?</note>
+	 such that 
+	<note>?</note>
+	 weakly as 
+	<note>?</note>
+	. Consider the
+equation
+                 
+	<note>?</note>
+	.
+Then
+                 
+	<note>?</note>
+	.
+
+In the limit as 
+	<note>?,</note>
+	
+ 
+                 
+	<note>?</note>
+	.
+
+Since this holds for all j, we have
+
+                 
+	<note>?,</note>
+	
+
+so the form
+
+                 
+	<note>?</note>
+	
+
+is continuous on D(A) in the 
+	<note>?</note>
+	 topology. Thus 
+	<note>?,</note>
+	 and
+
+                 
+	<note>?</note>
+	.
+
+This shows that u is a solution of 
+
+                 
+	<note>?</note>
+	.
+
+Clearly,
+                 
+	<note>?</note>
+	.
+
+  Since (q  A) is an entire function of s, 
+	<note>?</note>
+	 will be holomorphic
+wherever it exists: in particular, 
+	<note>?</note>
+	 will be holomorphic for 
+	<note>?</note>
+	.
+ Thus, if f is holomorphic for 
+	<note>?,</note>
+	 so too will be u.
+
+  A corollary of this theorem is the existence of a unique solution of (2),
+provided that the source current density K is sufficiently well behaved
+to permit the inversion of the Laplace transform.
+
+  COROLLARY. Suppose that the 
+	<note>?</note>
+	 valued function K has the following properties
+  (1) K has support 
+	<note>?</note>
+	;
+  (2) K is infinitely differentiable with respect to t;
+  (3) K is Laplace transformable for real s &gt; 0.
+Then the equation
+
+           
+	<note>?</note>
+	
+
+has a unique solution with the  same properties.
+
+ 
+	<h> REMARK.</h>
+	  At the cost of quite considerable notational complexity, one could use  the same argument to prove  existence and uniqueness for sources K which are distributions in the variable, provided one also invokes results on distributional Laplace transforms.
+
+
+</sample>

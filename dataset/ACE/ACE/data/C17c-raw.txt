@@ -1,0 +1,28 @@
+<subsample>
+	<id> C17c </id>
+	
+
+
+	<source> The Sunday Times - 10 August 1986 </source>
+	
+
+ 
+	<h> G and S at HM </h>
+	
+
+  THE Gilbert and Sullivan Society of WA has chosen Iolanthe as its
+presentation this year.
+  The brilliant satire of Gilbert's libretto and Sullivan's lively and tuneful
+music, will open at His Majesty's Theatre on Thursday, August 21. It should
+provide a bright entertainment.
+  It was the first of the pair's operas to be presented at the Savoy Theatre,
+built especially by Richard D'Oyly Carte to stage their works when they
+were growing in popularity.
+  Pamela Turner will be in the title role. The Lord Chancellor will be Ross
+Bryant; the Earl of Ararat, John Harrison; Earl Tolloller, Frank Lazzari;
+Constable Willis, Owen McClements; Strethon the shepherd, John Kessey; Queen
+of the Fairies, Lorraine Kirwan-Doesburg; and Phyllis the shepherdess, Allison
+Fyfe.
+                                 
+
+</subsample>

@@ -1,0 +1,286 @@
+<sample>
+	<id> J77 </id>
+	
+
+
+	<note> 2028 words </note>
+	
+
+
+	<source> An Air Pollution Emissions Control Strategy to Avoid Violations of Both Short and long Term Health Standards for Particulate Levels </source>
+	
+
+
+	<bl> By R.W. Simpson, G. Miles, J.A. Taylor, K.A. Verrall &amp; J.P. Woodland </bl>
+	
+
+
+	<h>5.  The application of the hybrid model </h>
+	
+
+	The CRES model is referred to as a hybrid model as it
+combines a deterministic model with a statistical model (eg see
+Jakeman, Simpson and Taylor, 1986). It is clear from the
+previous section that the appropriate statistical distribution
+to be assumed for Brisbane TSP concentrations in step (a) of
+the hybrid modelling methodology outlined in Section 3 is the
+2-parameter lognormal distribution. Step (b) of the method
+requires the use of a deterministic model. The work of Simpson
+and Jakeman (1984) and Jakeman and Taylor (1985) in Newcastle
+(New South Wales, Australia) indicates that a simple empirical
+relationship exists between the wind speed percentiles and the
+air pollution concentration percentiles of the form
+
+
+	<note>?</note>
+	
+
+where 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 are the wind speed (lOO-p) - and pollution
+concentration p - percentiles, respectively, and K is a
+constant for the range of percentiles considered. Equation (6)
+leads to an expression for K of the form
+
+
+	<note>?</note>
+	
+
+	This empirical model can be validated by examining the
+behaviour of K given in equation (7). If the derived values of
+K for most percentiles are constant then the model is
+applicable. An example of such a test is shown in Fig 2 for the
+Hamilton monitoring site where clearly K is constant for most
+percentiles. The use of this model considerably simplifies the
+problem of predicting the pollution distributions.
+
+	This simplification follows from the use of equation (5) to
+calculate 
+	<note>?</note>
+	 or maximum likelihood methods, and then
+substituting for the pollution percentiles using equation (6).
+For example, with the fractile method this leads to an
+expression for 
+	<note>?</note>
+	 of
+
+
+	<note>?</note>
+	
+
+That is, the calculation of 
+	<note>?</note>
+	 may be derived simply from the
+wind speed data. Given 
+	<note>?,</note>
+	 the estimate of the maximum follows
+directly from equation (4) provided the geometric mean can be
+calculated. If we assume it is a relatively straightforward
+matter to construct an air pollution model to predict the
+annual arithmetic mean then the geometric mean may be
+calculated from such a prediction using the ?-value derived
+from wind speed data (eg from equation (8)) in equation (2).
+Therefore the emission scenario in the air pollution model used
+to predict the annual arithmetic mean TSP level may be linked
+to estimates of both the annual geometric mean and maximum TSP
+levels, and these in turn may be compared to the health
+standards. In this way an annual average emissions scenario for
+Brisbane may be tested for violations of both short and long
+term health standards.
+
+	The central problem with this method is devising a
+technique*technqiue for estimating B using wind speed data. The
+simple fractile method may be used as set out in equation (8).
+In this case the problem is deciding upon a suitable range of
+percentiles. However the work of Jakeman, Taylor and Simpson
+(1986) suggest that maximum likelihood methods may be the most
+appropriate, so equation (6) must be used to estimate a range
+of pollution percentiles. Once again the problem is to choose
+an appropriate range of percentiles to which to apply the model
+in equation (6), a percentile range which in turn defines K.
+
+	In the Newcastle study, Simpson and Jakeman (1984) used the
+fractile method and Jakeman and Taylor (1985) used maximum
+likelihood methods. The Bureau data set used in that study was
+of the same standard form as the airport data set in Brisbane,
+and these data sets are only accurate for estimates of high to
+medium wind speeds given that their primary purpose is to
+measure high airport winds. Therefore we use the 50- to 90-
+percentile range when using these data, as well as for the DAPC
+wind data (although using the middle range, the 30- to 70-
+percentile range, for the DAPC data yielded similar results).
+These ranges were chosen after examination of the variation of 
+K with percentile values. Taylor (1985) has shown that, if 
+	<note>?</note>
+	 is 
+the angle of the straight line fit to data such as that shown in 
+Fig 2, when the absolute magnitude of 
+	<note>?</note>
+	 is greater than 0.0005 
+radians the errors in using the model in equation (6) became 
+significant. With such a stringent requirement on the constancy 
+of K, the percentile range must be chosen with care. Clearly the
+variation in K over the 10- to 90-percentile range shown in
+Fig. 2 would lead to 
+	<note>θ</note>
+	 values above 0.0005 radians so 
+much of the error in the method is due to the assumption in 
+equation (6). The results for the Hamilton site shown in Table 
+7 still show an agreement to within a factor of 2 with the 
+expected values.
+
+	A measure of the accuracy of using the fractile formula in
+equation (8) can be seen by examining Table 6 where estimates
+of 
+	<note>β</note>
+	 derived from this equation are compared with the values derived
+from the raw TSP data. The results using the maximum likelihood
+estimation (MLE) method are also shown. The use of the MLE
+method requires the specification of K which, following Simpson
+and Jakeman (1984) and Jakeman and Taylor (1985), was
+calculated using the 50-percentile values in equation (7). The
+K-values differ significantly from site to site but the
+B-values derived from the MLE method were the same, a result
+that could be expected from the form of equation (8).
+
+	The results of Table 6 indicate that the empirical model in
+equation (6) yields reasonable estimates of the mean ?-value
+for TSP sites in Brisbane when Bureau wind speed data are used.
+Jakeman and Taylor (1985) likewise found that the model yielded
+good results using Bureau wind speed data in Newcastle similar
+to that in Brisbane. However the ?-value is consistently
+consistently underpredicts this value when DAPC wind speed data
+are used. There may be a number of reasons for this result. The
+Bureau data gathering network is designed to estimate the high
+wind speeds and are in airport sites relatively free of
+building effects so a higher geometric standard deviation could
+be expected in these results than at the DAPC sites. On the
+other hand the geometric standard deviations of the raw TSP
+data would include variations in both emissions and meteorology
+throughout the year while the estimates using equation (6) only
+include the variability of wind speed data. It is notable that
+the ?-values for the TSP data at the industrial sites are the
+highest. However the nephelometer results also shown in Table
+4 are consistently high and comparable at two light
+industry/commercial sites. It is also notable that the Bureau
+?-values are usually higher than 1.51 while the DAPC results
+are always lower than 1.51, so the Bureau results
+predict possible violations of the maximum standard without
+violations of the geometric mean standard whereas the DAPC
+results predict the reverse. Another possible explanation for
+the differences between the DAPC and Bureau data sets is the
+method of measurement. There is no information available for
+a comparison of the accuracy of the manual recording methods
+used for the collection of the Bureau data with the continuous
+dataloging at the DAPC sites but it is possible to test the
+errors in collecting measurements every 3 hours. Consequently
+estimates of 
+	<note>?</note>
+	 were carried out using DAPC data corresponding
+to the 8 collection periods per day used by the Bureau of
+Meteorology and we found negligible differences between these
+estimates and those derived from the full data sets. All the
+calculations shown here (eg in Table 6) using the DAPC wind
+speed data derive from these shortened data sets.
+
+	The results derived using equation (6) to predict maximum
+concentrations from equation (3) are shown in Table 7. The
+observed values of the geometric mean are used in equation
+(3) and B is estimated by the MLE method. Given that the TSP
+data are collected at best every six days, we include the
+estimate of the maximum value, 
+	<note>?,</note>
+	 derived by assuming a
+lognormal distribution for the TSP data and using maximum
+likelihood estimates of 
+	<note>?</note>
+	 and 
+	<note>?</note>
+	 computed from the raw TSP data.
+The model estimates, 
+	<note>?,</note>
+	 should be compared with these values.
+The 95% confidence intervals are included for the predictions. The
+agreement between the model predictions and the expected
+maximum levels is usually to within a factor of 2, an example
+of which is shown in Fig 3 for the Rocklea results. The airport
+Bureau model predictions are usually higher than those derived
+from the DAPC wind data, as expected from Table 6, but the
+differences are often not large. The worst results are the
+nephelometer predictions which usually are significantly lower
+than those expected.
+
+	In Table 7 both the estimates of the maximum derived from the
+raw particulate data and those predicted from the hybrid model assume 
+lognormality for the statistical distribution of the particulate 
+concentrations, an assumption which is usually correct, given the 
+results shown in Table 5, but not always. A measure of the inaccuracy 
+introduced by this assumption can be gauged from Table 8 which compares
+observations Of the 98-percentile particulate concentration
+value with those estimates derived by assuming lognormality for
+the raw data. It is clear from these results that the
+assumption of lognormality yields good agreement with the
+observed data.
+
+	The differences between model predictions and raw data
+estimates shown in Table 7 arise in the calculation of 
+	<note>?,</note>
+	 as
+the geometric mean is assumed to be given in the methods used
+to estimate K and the maximum concentration; that is, the
+differences arise in the factor, 
+	<note>?,</note>
+	 on the right hand side
+of equation (4). The results indicate that using only wind
+speed data to estimate this factor accounts for much of the
+concentration fluctuations and leads to estimates of the
+relative magnitude of the maximum particulate value to the
+geometric mean which are accurate to a factor of 2, an error
+quite acceptable in air pollution modelling (eg see Hanna,
+1982; Simpson and Hanna, 1981). Since fluctuations in
+emissions are necessarily ignored (such information is rarely
+available) the model used generally underpredicts the maximum
+so the methodology outlined here yields a lower limit to the
+expected outcome and therefore the subsequent predictions of
+the controls on emissions can be regarded as conservative.
+
+
+	<h>6.        Worst case scenario air quality management </h>
+	
+
+	In the previous section we established that a hybrid model
+could be used to estimate the ratio of the maximum particulate
+concentration to the geometric mean. We tested the model on the
+six years of particulate concentration and meteorological data
+available for the period 1979 to 1984. In principle therefore
+we can construct a standard air pollution model to estimate the
+annual arithmetic mean using meteorological data and annual
+average emissions data, use wind speed data to estimate the
+geometric mean (using equation (2)), and then estimate the
+maximum particulate level using equation (3). An air pollution
+control strategy based on average annual emissions can then be
+devised to avoid violations of both geometric mean and maximum
+TSP health standards. From the previous section it is clear
+that it would not be uncommon for such a strategy to require
+that the geometric mean TSP level be substantially below the
+health standard so that the maximum TSP standard not be
+violated. Given this situation, the question then arises as to
+what is the lowest level for the geometric mean TSP concentration 
+which ensures the maximum TSP standard is never violated. Clearly
+this new `standard' depends on the value of B in equation (4)
+which is a measure of the fluctuations in TSP levels throughout
+the year. Such fluctuations in turn depend on fluctuations in
+particulate emissions and meteorology. It is improbable that
+emission fluctuations can be adequately predicted so of
+necessity we have only discussed controls on annual average
+emissions. However the effect of changes in meteorological
+fluctuations year to year can be estimated from the annual wind
+speed data sets given the success of the hybrid model outlined
+in the previous section.  The underlying assumption is that the distributional form representing TSP data does not change as meteorological conditions change.
+
+In Brisbane there are Bureau airport annual wind speed data sets of the type used for the predictions in Tables 6 and 7 available for the 35-year period from 1950 to 1984.
+
+
+</sample>

@@ -1,0 +1,29 @@
+<subsample>
+	<id> A21e </id>
+	
+
+
+	<source> The Sun News-Pictorial - 23 September 1986 </source>
+	
+
+ 
+	<h> Mansell ahead </h>
+	
+
+
+	<misc> LISBON: </misc>
+	
+
+ Briton Nigel Mansell romped to a convincing victory in the Portuguese
+Grand Prix at Estoril yesterday and put himself within one race of the
+world drivers' championship.
+  Title leader Mansell led unchallenged throughout in his Williams and was
+rewarded with a 10 point buffer at the head of the standings.
+  World champion Alain Prost of France took advantage of a late spin by
+Piquet and a seemingly empty fuel tank suffered by Brazilian Ayrton Senna
+on the last lap, and squeezed home second in his McLaren.  Piquet (Williams)
+and Senna (Lotus) finished third and fourth.
+ Australian Alan Jones (Haas Lola) spun out of the race early on.
+
+
+</subsample>

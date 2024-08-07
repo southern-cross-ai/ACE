@@ -1,0 +1,41 @@
+BLASTHOLE DENSITY LOGGING AS AN AID TO BLAST PATTERN DESIGN By PETER G BELLAIRS, IAN SHEPPARD AND JOHN BULTERS ABSTRACT  
+
+  Two blasthole density logging programmes have been conducted on the Mt
+Whaleback iron ore mine to evaluate the use of this type of logging as an
+aid to blast pattern design. The first programme also involved the setting
+up of a Density Test facility with which to calibrate the density probe.
+The programmes indicated that about 22-23 blastholes can be consistently
+logged per day at a cost of $1.30 per metre. Even though this is only half
+the rate required to log the average number of blastholes drilled daily
+on Mt Whaleback, testwork indicated that no significant loss of accuracy
+results if only half the holes in a pattern are logged. The major results
+of the programmes were:-
+
+  
+
+  These density results have been used to implement savings in drilling
+and blasting via pattern expansion and charge optimisation of blastholes.
+Eight ore patterns have been successfully fired and dug using 2 m less Ammonium
+Nitrate Fuel Oil explosive (ANFO) in the blast damaged front row blastholes
+instead of the standard 1 m drop in charge from the main body blastholes.
+
+  The low densities recorded in shales and BIF have led to pattern expansions
+of up to 50%. Further experimentation is being undertaken to justify further
+pattern expansion for all waste on Mt Whaleback. Pattern expansion
+experimentation is also being undertaken in the softer ores. Currently,
+an 11 m equilateral triangle pattern is used to blast these rock types although
+a 16 m by 10 m pattern has successfully fired some soft high grade ore.
+
+  The geophysical logging of blastholes, provides a low cost method of providing
+density data with which to base and monitor blast pattern design
+experimentation, alter powder factors and accurately locate charges within
+blastholes.
+
+      INTRODUCTION  
+
+  This paper details the methods used and the overall results obtained from
+two blasthole geophysical logging programmes conducted by Century Geophysical
+Logging Australia on Mt Whaleback. The first programme was carried out over
+27 January to 31 March 1985 and was part time in nature being combined with
+the geophysical logging of both percussion and diamond holes. 
+

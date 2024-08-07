@@ -1,0 +1,247 @@
+17.  Aboriginal customary laws and the criminal justice system  
+
+  It is, no doubt, a question of high legislative policy whether
+  tribal aboriginals, who are unable to understand the concepts
+  of the ordinary law, ought to be tried under that law.
+   Ngatayi v R (1980) 30 ALR 27, 34 (Gibbs, Mason, Wilson JJ)  
+
+  The existence of two systems of law side by side, the
+  prevailing one and aboriginal customary law, with their very
+  different attitudes to guilt and responsibility, creates
+  serious problems and the question of how far our laws should
+  apply to aboriginals and how far their law should be allowed
+  to apply to them is controversial.
+   id, 36-7 (Murphy J)  
+
+393. The Commission's Terms of Reference. The Terms of
+Reference refer to the `difficulties that have at times
+emerged in the application of the existing criminal justice
+system to members of the Aboriginal race', and require the
+Commission to investigate, among other things:
+
+  a) whether, and in what manner, existing courts dealing with
+  criminal charges against Aborigines should be empowered to
+  apply Aboriginal customary law and practices in the trial and
+  punishment of Aborigines; and
+  (b) to what extent Aboriginal communities should have the power
+  to apply their customary law and practices in the punishment
+  and rehabilitation of Aborigines.
+
+Although the Reference is not restricted to the recognition of
+Aboriginal customary laws in the criminal law, a particular
+concern of the Reference is the difficulties often experienced
+by Aborigines dealt with by the Australian criminal justice
+system (and, equally, by the criminal justice system in dealing
+with those Aborigines). These questions are considered in this
+part of the Report. In this chapter it is proposed to set out
+the basic factual and comparative background, and to outline
+the various issues which arise in considering the recognition
+of Aboriginal customary laws in the trial and sentencing of
+Aborigines. Chapter 18 will consider the problems arising with
+the substantive criminal law in its application to Aboriginal
+defendants, including the question whether a new defence should
+be recognised based on Aboriginal customary laws. Chapter 19
+discusses the converse question, whether Aboriginal customary
+laws should themselves be imported into the general legal
+system in some way, so as to be a basis for criminal liability
+and punishment under the general law. Chapter 20 discusses
+procedural as distinct from substantive forms of recognition
+of Aboriginal customary laws in this area. Finally, Chapter 21
+discusses in more detail questions of the sentencing of
+Aborigines convicted of offences, and in particular the
+application of `customary law and practices' in their
+punishment and rehabilitation.
+
+ The Statistical Background  
+
+394. The Disproportionate Impact of the Criminal Justice
+System. That Aborigines are subject to the general criminal law
+has long been established. Great difficulties have sometimes
+been experienced in the trial of traditional Aborigines, whose
+comprehension not only of the forms and procedures of their
+trial but also of the substance of the charge is often slight
+or even non-existent. But, despite difficulties in particular
+cases, the criminal law has been applied to Aborigines in all
+its aspects. The results of its application are now so well
+known as to be notorious. Aborigines are grossly over-
+represented in Australian criminal statistics, both in terms
+of conviction rates and rates of imprisonment. In her
+`pioneering study', Dr Eggleston pointed out that in Western
+Australia in 1965, Aborigines, who constituted 2.5% of the
+State's population, were convicted of 11% of offences and made
+up 24% of the prison population. In South Australia in the same
+year, Aborigines (0.7% of the population) accounted for 14%
+of the admissions to prison. This over-representation, she
+found, was not only the result of different patterns of
+criminality, but of differences in arrest, prosecution and
+sentencing practices. Although the distribution of offences has
+changed since the 1960s, the overall situation remains similar.
+National Prison Census figures for 1984 indicate that
+Aborigines, while less than 2% of the Australian population,
+comprise approximately 10.5% of the prison population. The rate
+of imprisonment of Aborigines is over 16 times that of non-
+Aborigines. On a State by State basis the rates are as follows:
+
+  
+
+Indeed, it is possible that these figures understate the real
+situation, at least with respect to some classes of offence.
+In a study of violent crime on Queensland Aboriginal reserves,
+Dr Paul Wilson found an annual homicide rate (for the 17
+communities studied) of 39.6 per 100 000, compared with a rate
+for Queensland of 3.28 and for all Australia of 4.0. The rate
+of serious assault on these reserves was also far greater than
+the Queensland rate.
+
+  Assault is far more likely than murder to be ignored by white
+  police, to go unreported, or to be dealt with informally by
+  Aboriginal police on reserves. But even with assault we find
+  the same bleak picture emerging from the statistics. The rate
+  for serious assault charges on reserves is 226.05 per 100 000
+  compared with a Queensland figure of 43.85. So, although the
+  reported Aboriginal rate is five times greater than for that
+  State as a whole, the enormous `hidden' assault rate - crimes
+  not reported - is probably 10 to 15 times the State or
+  national figure.
+
+395. The Position with Minor Offences. The exorbitant crime and
+imprisonment rates recorded in these studies are not confined
+to serious or violent crimes. At least in recent times, a high
+proportion of Aboriginal offences has been of a minor,
+repetitive, sometimes even trivial character. The New South
+Wales Anti-Discrimination Board in a study of street offences
+by Aborigines found that:
+
+  in 10 NSW towns with high Aboriginal populations, Aborigines
+  charged with minor offences in public places greatly outnumber
+  non-Aborigines. The behaviour resulting in the charges was in
+  the main of a trivial nature, the majority of offences
+  involving the use of unseemly words. Penalties, too, have a
+  more severe impact on Aboriginal people. An appreciable number
+  of those convicted and fined in the 10 towns in this study went
+  to jail rather than pay the fine, even though jail is not a
+  punishment option available under the Offences in Public Places
+  Act.
+
+In South Australia between 1 January 1983 - 30 June 1983, 34%
+of all persons convicted of `drunkenness', `minor street
+offences' and `offences against order' were Aboriginal. In
+country areas a similar pattern emerges to that in NSW:
+
+  A study of court records ... show that courts servicing
+  communities with a substantial Aboriginal population ... have
+  markedly higher rates of imprisonment for vagrancy offences
+  and fines and imprisonment for public drunkenness offenders
+  than other courts. An Aboriginal defendant charged with
+  offensive behaviour before the country courts in this State
+  is five times more likely to receive a prison sentence and six
+  times more likely to be refused bail than non-Aboriginals.
+
+The National Prison Census of 1984 indicates that 14.3% of all
+persons in prison for `offensive behaviour' offences are
+Aboriginal or Torres Strait Islander. Aborigines and Torres
+Strait Islanders are similarly
+disproportionately represented for other
+`good order' offences (26.5% of all prisoners) and for justice
+procedure offences eg breach of bond (17.3%). Changes in the
+law aimed at remedying this situation - such as the
+decriminalisation of intoxication or reform of the law relating
+to street offences - have often not produced the desired
+result. Such changes do not necessarily lead to a reduction
+in the level of contact by Aborigines with the criminal justice
+system, and especially with the police.
+
+396. Aboriginal Juvenile Offenders. The statistics for juvenile
+offenders present a similar picture. For example, in the
+Northern Territory in 1983-4, 400 of the 894 appearances
+(44.7%) by juvenile defendants in criminal cases were made by
+Aborigines; in Western Australia in the same year the figure
+was 1173 of 8266, (14.2%)." As the Director of the Office of
+Crime Statistics in South Australia has pointed out, such
+figures:
+
+  consistently ... show that young Aboriginal people suspected
+  of offending are:
+  2 more likely to be arrested than summonsed;
+  2 more likely to be referred to courts rather than to aid
+  panels (during the first half of 1982, 64% of young Aboriginal
+  defendants went to court, compared to only 36% of other
+  defendants - penalties imposed by aid panels generally are
+  far less severe than courts);
+  2 more likely to have been remanded in custody.
+
+397. What do the Statistics Mean? Commenting on earlier but
+similar Aboriginal imprisonment rates the then Director of the
+Australian Institute of Criminology said:
+
+  These are dramatic rates of imprisonment by any standards and
+  for any community. Just to quote them is to question their
+  justification. You have to believe either that Aboriginals are
+  the most criminal of minorities in the world or that there is
+  something inherently wrong with a system which uses
+  imprisonment so liberally.
+
+The problems reflected by these statistics cannot be attributed
+to any one cause, whether this is actual offending rates, the
+problematic definition of offences in some cases, or
+discriminatory policing. The situation - or rather, the range
+of situations - which underly the statistics is undoubtedly
+the product of a variety of factors. But understanding of these
+remains limited, and the need for careful assessment of the
+present position, as well as for appropriate action, is
+obvious. Where the situation described in these studies and
+reports results from discriminatory policing, steps should be
+taken to prevent such discrimination in future. To the extent
+that it results from insensitive application of the law, the
+law or its administration should be appropriately reformed. To
+the extent that it results from poverty, social and educational
+deprivation and poor standards of health (engendering
+attitudes of apathy, boredom or despair) these should be
+confronted and if possible remedied. To the extent that it
+results from alcohol or petrol sniffing, the provision of
+appropriate rehabilitation and support services should be
+encouraged. All this is well enough known and ought to be
+generally accepted. In many areas some steps have been or are
+being taken, by or in collaboration with Aboriginal agencies
+and organisations, in the directions suggested above. But the
+question remains: what is the relevance of these statistics for
+this Reference? To what extent are they the product of non-
+recognition of Aboriginal customary laws? Do they reflect
+problems experienced by all Aborigines, or only certain groups?
+Are the problems a product of conflict between the general law
+and Aboriginal customary laws, and if so, to what extent can
+they be resolved through their recognition?
+ 
+398. Large Heterogeneous Communities. Many Aborigines, including
+many traditionally oriented Aborigines, now live in much larger
+groups than was usual in pre-contact times. Many of these
+groups comprise people from different language groups and
+localities, with consequent dislocation and disharmony. The
+survey of Queensland reserves conducted by Wilson:
+
+  found two distinct clusters of reserves. One cluster had a very
+  high rate of violence and the other was relatively low,
+  although the latter rate was high by white standards. Examples
+  of communities where violence rates were high included Palm
+  Island, Weipa South and Yarrabah, where the average rate of
+  violence was 7.07 per 1000 people. Those in the low-violence
+  group (with a violence rating of 2.31 per 1000) include
+  Lockhart, Doomadgee and Aurukun. High violence reserves were
+  marked by a number of characteristics: alcohol was legally
+  available; they had only low to medium levels of traditional
+  culture; they had relatively high populations; most
+  importantly, they were reserves that had received displaced
+  Aborigines from other areas. Palm Island was originally
+  established as a penal settlement. Weipa South had taken in
+  people forcibly removed by police from their tribal lands at
+  Mapoon, as well as others from Aurukun and Edward River.
+  Yarrabah has people from a number of tribes. Reserves with a
+  lower rating had nearly the reverse pattern: they were
+  communities in which alcohol was not legally available; where
+  relatively high levels of traditional culture survived; they
+  had low populations; they were generally isolated from white
+  influence; they were not receivers of people forced from their
+  traditional areas. These trends in violence and destruction on
+  Aboriginal reserves point to explanations which are familiar
+  to observers of other societies. 
+

@@ -1,0 +1,27 @@
+<subsample>
+	<id> A28k </id>
+	
+
+
+	<source> The News - 12 August 1986 </source>
+	
+
+ 
+	<h> Piggott pays to prevent charges </h>
+	
+
+
+	<misc> LONDON: </misc>
+	
+
+  Former champion jockey Lester Piggott will pay the Customs and
+Excise Department a six-figure sum to prevent possible criminal charges,
+according to a London newspaper.
+  The Daily Express said Piggott, who retired from race riding last year,
+would pay as much as $977,480 in value added tax in a deal arranged as a
+result of an 18-month investigation.
+  And the man renowned as the meanest - as well as the greatest - jockey
+of his time could face another mammoth Government bill.
+
+
+</subsample>

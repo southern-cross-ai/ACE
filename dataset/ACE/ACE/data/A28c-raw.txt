@@ -1,0 +1,29 @@
+<subsample>
+	<id> A28c </id>
+	
+
+
+	<source> The News - 12 August 1986 </source>
+	
+
+ 
+	<h> Alerts at art galleries </h>
+	
+
+ ART galleries in Victoria are on full alert following the Picasso thieves'
+warning that they intend to carry out their second terrorist act.
+  A burnt match, which accompanied the Australian Cultural Terrorists' third
+ransom letter, has indicated that other valuable paintings in the State
+are at risk from the group still holding Picasso's Weeping Woman, taken
+from the National Gallery nine days ago.
+  Security measures have been tightened by order of Police and Arts Minister,
+Mr Mathews, who fears the theft and ransom campaign will be stepped up.
+  Gallery directors, the State Public Service Association attendants and
+police are reviewing all security procedures to stop any further art treasures
+disappearing.
+  The Australian Cultural Terrorists have not been out of the headlines
+since stealing the $2 million masterpiece in a bid to get the State Government
+to inject more funds into art.
+
+
+</subsample>

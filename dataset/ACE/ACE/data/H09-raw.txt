@@ -1,0 +1,289 @@
+<sample>
+	<id> H09 </id>
+	
+
+
+	<note> 2000 words </note>
+	
+
+
+	<source> Indigenous resource rights and mining companies in North America and Australia </source>
+	
+
+
+	<bl> By Stuart McGill and G J Crough </bl>
+	
+
+
+	<h> CHAPTER 4 THE NORTHERN AMERICAN LINKS OF THE AUSTRALIAN MINING
+INDUSTRY COUNCIL MEMBERS </h>
+	
+
+
+	<h> Choice of the North American Contrast </h>
+	
+
+The basic object of the research summarised in this Chapter is
+to ascertain which of those corporate groups that are members
+of the Australian Mining Industry Council (AMIC) have dealings
+with indigenous people in both North America and Australia. The
+comparison between indigenous people in North America and
+Australia has been drawn because the historical and
+contemporary situation of the indigenous minorities in North
+America closely resembles that of Aboriginal Australians.
+
+It should be noted however that there are many other locations
+where transnational mining companies have extensive experience
+in dealing with indigenous people, either as indigenous
+minorities or as Third World governments. Some of these
+locations, and the agreements, are mentioned in the corporate
+profiles that follow, but they are not the main focus of this
+Report.
+
+In the past, mining companies in Australia have argued that the
+Australian case is unique and that overseas precedents are not
+relevant. The advantage of addressing only the North American
+case is that it is far more difficult to distinguish
+differences from the Australian situation. It is therefore more
+difficult for mining companies to justify why their attitudes
+and behaviour should be different on the other side of the
+Pacific Ocean.
+
+Such research raises several other issues. Obviously the most
+important result flowing from such research is the
+identification of those corporate groups which have experience
+in dealing with indigenous minorities. However, it also raises
+issues in relation to the motivations behind the behaviour of
+various corporate groups and organisations in Australia in
+recent years. These and other matters will be addressed in this
+Chapter.
+
+
+	<h> Major Corporate Groups in AMIC </h>
+	
+
+In order to facilitate this study it is necessary to condense
+the list of 135 organisations that are members of AMIC into a
+list of major corporate groups. Two member organisations can
+immediately be excluded: one is a professional organisation
+(Association of Consulting Surveyors Inc) and one is a
+partnership (W.T. Partnership).
+
+A corporate group consists of a parent company, subsidiaries
+and associated companies. For the purpose of this study,
+subsidiaries are companies in which the parent company has a
+controlling interest, while an associated company is one in
+which the parent has an interest sufficient to exert a
+significant degree of influence. The corporate group is
+generally characterised by centralised and coordinated
+management control over the operations of the various companies
+within the group, particularly in relation to the financial and
+investment decisions of the companies. As a result, the parent
+company requires complete knowledge of the activities being
+undertaken by its group members.
+
+The companies within the group may operate in only one country,
+or as is usually the case with large companies, in a number of
+countries. Corporate groups with operations in a number of
+countries are referred to as transnational or multinational
+corporations.
+
+By applying these criteria, the list of AMIC members can be
+condensed into approximately 50 corporate groups. These groups
+include as few as one or two AMIC companies, or as many as the
+19 CRA Ltd companies that are members of AMIC. It should be
+noted that such corporate groups also include many companies
+that are not members of AMIC. For instance, such non-member
+companies may be involved in non-mining activities, or in other
+countries, or a corporate group may have simply decided that
+it is unnecessary for some of the mining companies in the group
+to be members of AMIC.
+
+With regard to a corporate group's membership of AMIC, it is
+relevant to note that only one member of a corporate group pays
+membership dues. For example, although several companies of the
+BHP group are members of AMIC, only The Broken Hill Proprietary
+Company Ltd pays membership fees. Nevertheless the other
+members of the BHP group listed as members of AMIC are treated
+as full members of the Council. AMIC advises that this does not
+create administrative problems, such as the issue of which
+corporations are entitled to vote, because all decisions are
+taken by consensus. In the meantime, it is clear that such
+arrangements confer the advantage that the membership of AMIC
+appears to be larger than the actual number of corporate groups
+represented.
+
+In other words, AMIC appears to represent approximately 133
+companies, rather than the 50 corporate groups to which it can
+be reduced. This reduction in size of AMIC's membership is
+supported by the very manner in which AMIC collects its
+membership dues. Nevertheless, for the purposes of this Report,
+the number of corporate groups has been reduced further by the
+inclusion of associated companies in the corporate groups. For
+example, a study of the shareholders and directors of the
+Newmont Mining Corporation in the United States shows that the
+company is closely associated with the Anglo American
+Corporation group of South Africa. The Australian subsidiary
+Newmont Holdings Pty Ltd is here included as part of the Anglo
+American group, whereas AMIC probably considers the company to
+be an independent member.
+
+
+	<note> TABLE </note>
+	
+
+If the companies that are not significant, for the purpose of
+this Report, are eliminated from the 50 corporate groups which
+are members of AMIC, then the number of significant corporate
+groups that comprise AMIC can be reduced to 23. These are
+listed in Table 9. Corporate groups are considered to be not
+significant for current purposes if no member or members of the
+group are carrying out substantial mining or exploration
+activities in Australia, or if so, those activities have no
+known impact on Aboriginal land or interests. The groups in
+this category are listed in Table 10. It should be noted that
+the full list of AMIC members and their parent companies or
+substantial shareholders is shown in Appendix 3 (as at August
+1985).
+
+There are some comments which arise from a consideration of the
+companies listed in Table 10. All but two of the 26 groups
+listed have only one subsidiary or associate as a member of
+AMIC. Kalgoorlie Mining Associates has one other company in the
+group which is also a member of AMIC, and Gencor (Australia)
+Pty Ltd has two subsidiaries which are members. In addition,
+it should also be noted that Queensland Alumina Ltd and Worsley
+Alumina Pty Ltd are alumina refining companies which are owned
+by consortia of major companies (some of which are members of
+AMIC in their own right). As such they are hardly corporate
+groups, and are listed here mainly for convenience.
+Accordingly, whereas these 25 groups represent 28 members of
+AMIC, the 23 corporate groups which are considered significant
+for this study represent the remainder of the 133 companies
+which are members of AMIC.
+
+The validity of an approach which focusses on the major
+corporate groups is supported by the various industry
+concentration statistics published in recent years. For
+example, of the 338 taxable companies in the mining industry
+in 1982-83 the largest 36 accounted for over 96% of the taxable
+income (Commissioner of Taxation 1985). Statistics published
+by the Australian Bureau of Statistics show that the largest
+4 enterprise groups accounted for 43% of total mining industry
+value added in 1982-83. The largest 12 groups accounted for 65%
+of industry value added, and the largest 20 for 77% (out of a
+total of 914 enterprise groups). Quite clearly it is these
+large companies which dominate the industry in terms of
+production, investment, exports and revenue.
+
+
+	<note> TABLE </note>
+	
+
+A further feature of the membership of AMIC is the large number
+of foreign controlled companies. As Appendix 3 shows, 55 of the
+member companies can be classified as Australian controlled,
+72 are foreign controlled, and 6 (the MIM group) are associated
+companies of a US corporation. These figures are consistent
+with the statistics published by the Australian Bureau of
+Statistics on foreign ownership and control of the mining
+industry.
+
+The level of foreign ownership, measured in terms of value
+added was 50.4% in 1982-83, while the level of foreign control
+was 56.6%. Companies from the United States and United Kingdom
+have been the most important foreign investors in the industry,
+with US ownership of 24% and UK of 16% in 1982-83.
+
+On the basis of controlling shareholdings, only 7 of the
+significant corporate groups are Australian controlled: BHP,
+CSR, North Broken Hill, Peko-Wallsend, Pancontinental Mining,
+Pioneer Concrete Services, and Western Mining Corporation. As
+noted previously, the MIM group is an associated company of the
+US corporation Asarco Inc. It is interesting to note that the
+AMIC Aboriginal Affairs Committee includes representatives of
+all of these Australian controlled corporate groups with the
+exception of Pancontinental Mining Ltd, as well as MIM, CRA
+(two members), Shell Company, and the Chamber of Mines of
+Western Australia. A full list of the members of the Committee
+is included in Appendix 4.
+
+
+	<h> Corporate Groups With North American Experience in Dealing with
+Indigenous People </h>
+	
+
+The thrust of this section of the Report is not directed at the
+issue of foreign ownership and control. It arises only because
+the foreign ownership issue overlaps with the question of the
+extent of international dealings with indigenous people. This
+is largely due to the fact that Australia has few of its own
+transnational corporations. Although definitions of a
+transnational corporation vary, BHP is probably the only major
+Australian-owned company that is a member of AMIC that can be
+classified as a transnational corporation with respect to the
+mining industry. Such overseas interests that Australian
+companies do have are summarised in Appendix 5.
+
+The impact of this fact is that of the significant corporate
+groups identified in AMIC, it is principally the foreign-
+controlled transnational groups that have had experience on
+indigenous land in North America. Table 11 lists the companies
+that have, or have had, dealings with Aboriginals in Australia
+and Indians in North America. It should be noted that a number
+of these companies are members of the Non-Producers' Group of
+AMIC, but have extensive exploration programmes throughout
+Australia.
+
+
+	<note> TABLE </note>
+	
+
+Although the corporate profiles later in this section contain
+greater details, there are a few comments about the above list
+which it is appropriate to make at this stage. First, the
+numbers in brackets in the left hand column are the number of
+companies that are members of AMIC who are also in the same
+corporate group. These companies form a total of 46 of the 133
+companies that make up the membership of AMIC. More
+importantly, these 12 groups are more than half of the
+significant mining groups that are represented by AMIC, and
+three of these groups are members of the AMIC committee on
+Aboriginal land rights (BHP, MIM, Shell).
+
+Second, except for BHP and MIM, all the groups of companies in
+the list have obtained their experience of indigenous resource
+rights by virtue of the fact that they are subsidiaries of
+parent organizations which have operations in North America.
+Within this category, Aberfoyle is a slightly different case
+because it was an Australian company which was acquired by the
+Canadian mining conglomerate Cominco Ltd. MIM is a separate
+case because it is now an associated company of Asarco Inc as
+each of the two companies have substantial holdings in each
+other. To return to the point about Australian transnationals,
+it is only BHP which has had dealings with indigenous people
+in other countries by virtue of its acquisition of an overseas
+subsidiary.
+
+
+	<h> Corporate Groups With No Apparent Experience in Dealing with
+Indigenous People in North America </h>
+	
+
+By way of contrast, the other significant corporate groups in
+AMIC consist of predominantly Australian-owned companies. The
+feature which distinguishes these companies is their apparent
+lack of experience of dealing with indigenous people in North
+America. These companies are listed in Table 12.
+
+
+	<note> TABLE </note>
+	
+
+The salient features of Table 12 may be reviewed as follows.
+First, these eleven corporate groups are made up of a total of
+59 member companies of AMIC. However, if CRA is excluded from
+this list, then only 40 member companies are represented. 
+                                                          
+
+</sample>

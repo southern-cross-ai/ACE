@@ -1,0 +1,24 @@
+<subsample>
+	<id> E24b </id>
+	
+
+
+	<source> Qantas Airways - May/June 1986 </source>
+	
+
+
+	<h> QUEENSLAND'S WAITING FOR YOU </h>
+	
+
+Queensland calls itself the Sunshine State and boasts about being Australia's
+leading holiday destination. Here we show you how much Queenslanders have going
+for them.
+
+From the north-east corner of Australia, the finger pointing northwards is
+Queensland. It sprawls for more than 1.7 million square kilometres, most of it
+in the tropics, covering a land five times as large as Japan, one-fifth the size
+of the United States of America, and equal to Great Britain, Denmark, the
+Netherlands, France, West Germany, Italy, and Spain, combined.
+
+
+</subsample>

@@ -1,0 +1,218 @@
+<sample>
+	<id> F38 </id>
+	
+
+
+	<source> Ecos - Winter 1986 </source>
+	
+
+
+	<note> 2023 words </note>
+	
+      
+
+	<h> Genetic engineering: the state of the art </h>
+	
+
+It is only 43 years since Dr Oswald Avery and his colleagues at Rockefeller
+University in New York showed that DNA had some role in bacterial genetics
+and heredity.
+
+At the time it seemed a fairly unremarkable discovery, but in the intervening
+years our knowledge about the pivotal role of DNA (deoxyribonucleic acid) in the 
+development of all organisms has accelerated relentlessly.
+  To achieve the current understanding, scientists had to develop techniques
+for manipulating DNA. In 1958 the first enzyme capable of the test-tube
+synthesis of DNA was isolated, and in 1967 the enzyme DNA-ligase, capable
+of joining two DNA chains, was discovered. These 'tools' were soon complemented
+as scientists isolated the first of the 'restriction' enzymes that cut
+the DNA chain at specific points.
+  With this battery of enzymes it was only a matter of time before a bit
+of cutting and stitching and tampering with the genetic code occurred and,
+in 1973, Dr Herbert Boyer, Dr Stanley Cohen, and collaborators at Stanford
+University and the University of California reported that they had been
+able to isolate, and artificially recombine, DNA from one strain of that
+workhorse of modern molecular biology Escherichia coli and then transfer it
+into another strain.
+  This opened up the possibility of breaching the species barrier and
+constructing completely new organisms that would never have existed without
+the intervention of man and his test-tubes. And soon it came about, with
+E. coli being the recipient of a range of plant, animal, and viral genes.
+The science of genetic engineering had been born.
+  Announcing the birth, the world's media trumpeted to a bewildered public
+all the possibilities inherent in the miraculous new technology: super-plants,
+super-cows, a cure for cancer, vast riches. Very little was left to the
+imagination.
+  So far the miracle hasn't eventuated. While some animal products have
+entered the market-place, only one genetically engineered product with a
+significant impact on human welfare has come onto the market: human insulin,
+which has an unusual amino acid composition that makes it easy to produce
+(see the box). Other proteins - and proteins are the major concern of genetic
+engineers - have more complex structures that are not so amenable to
+manipulation. 
+  The molecular biology of DNA and the way the proteins it codes for are
+synthesised and packaged within organisms have proved more complicated than
+those early cuts and stitches in the genetic code suggested. Proteins often
+need a lot of follow-up work after the DNA specifies their production. They
+may need to be trimmed to the right size, or their internal structure tightened
+up by the addition of, for example, a sugar molecule; in some cases they
+then have to be correctly packaged and presented to the outside world.
+  Scientists within CSIRO have been actively exploring the potential of
+genetic engineering, and some of their experiences provide insights into
+the sorts of problems that have to date stymied the full development of
+the new technology. The problems they have encountered emphasise the complexity
+of genetic expression and reveal how a better understanding and very clever
+manipulation of the system will be necessary if molecular biology is ever
+to reach its full commercial potential in, for example, vaccine production.
+
+
+	<h> Developing a vaccine </h>
+	
+
+Many bacterial and viral pathogens have a protein that they use to attach
+themselves to the cell of the organism they infect. This protein meshes
+with a receptor on the host cell and, after attachment, the pathogen brings
+into operation a fresh battery of proteins - enzymes - that complete the
+penetration of the cell and produce the full-blown disease.
+  Attachment is of fundamental importance to the pathogen's colonisation
+of the host and continuing survival, but in the never-ending battle between
+host and pathogen this is often thwarted by the activities of the host's
+immune system.
+  Circulating white blood cells focus on molecules on the surface of the
+pathogen, including the attachment protein (immunologists call these molecules
+antigens), and this leads to the host synthesising a matching protein (or
+antibody) that, just like the receptor on a vulnerable cell, binds to the
+invading protein, effectively immobilising the pathogen. Soon after, the
+invader is devoured by the scavenging cells that form another part of the
+immune system's armoury.
+  Vaccination is a way of accelerating the host-pathogen interplay. Killed or
+attenuated pathogens, incapable of causing a full-blown infection, are introduced 
+into the potential host. The host's immune system responds as if it has been 
+assaulted by the fully infectious pathogen and produces antibodies, which 
+continue circulating in the body, protecting the host from any fresh challenge by 
+the pathogen.
+  The production of vaccines is a sophisticated process with high standards
+that need to be maintained: major public health problems have arisen when
+people were dosed with `killed' pathogens that still retained their
+pathogenicity. In addition, the process is often difficult and/or expensive.
+For example, production of the influenza vaccine involves growing the virus
+in fertilised hen's eggs. Many of these problems could quickly be overcome
+if the pathogen DNA (or the related ribonucleicacid, RNA) coding for the attachment
+protein, or other relevant antigens, could be isolated and then synthesised
+in a friendly bacterium.
+  A new generation of vaccines is being developed for a wide range of human
+and animal diseases, and one that has reached a fairly advanced stage of
+development is for footrot - a crippling, debilitating disease of sheep
+caused by the bacterium bacteroides nodosus. A conventional vaccine against 
+footrot is available, but its production and quality are beset by the sorts of 
+problems mentioned above, and its high cost - about 80 cents a dose, with two 
+doses being necessary - deters graziers from using it.
+
+
+	<h> Fighting footrot </h>
+	
+
+Dr David Stewart of the CSIRO Division of Animal Health, Dr John Mattick,
+Dr Brian Dalrymple, and Ms Margaret Bills, of the CSIRO Division of Molecular
+Biology, and Dr Tom Elleman, Dr Neil McKern, and Mr Peter Hoyne, of the
+CSIRO Division of Protein Chemistry, along with Ms Beau Anderson and Professor
+John Egerton, of the Faculty of Veterinary Science at the University of
+Sydney, have made considerable progress in developing a new footrot vaccine
+through the use of recombinant-DNA technology.
+  Dr Stewart and his colleagues at the Division of Animal Health showed
+that the important footrot protein occurs in the fine hair-like filaments
+covering the surface of the B. nodosus cell. Although the exact function
+of these `hairs', termed fimbriae, in the footrot organism is uncertain,
+it seems likely that they are involved in attachment to, or colonisation
+of, the tissues of the hoof by the bacterium. Once attached, the invader
+then produces an array of enzymes that break down the protein in hoof tissues
+and produce the footrot syndrome.
+  The fimbrial proteins are built up from protein sub-units, and their
+production through genetic engineering could simplify vaccine production.
+The first step in the construction of such a vaccine is the isolation of
+the genes responsible for the fimbrial protein and its assembly.
+  The scientists achieved this by breaking up the B. nodosus DNA with a
+restriction enzyme and then placing individual fragments into a plasmid
+- a short piece of bacterial DNA - that also contained a gene coding for
+antibiotic resistance. After these `recombinant' DNA molecules were transferred
+into E. coli, they cultured the bacteria on a medium amended with antibiotic.
+  A combination of genetic tricks enabled the scientists to determine which
+bacterial colonies (or clones) contained the B. nodosus DNA; and to find
+out which ones contained the fimbrial sub-unit gene, the team challenged
+the bacteria with antibodies against the fimbrial protein. Out of the two
+thousand clones prepared, eight were found to be producing the sub-unit.
+  But it's not so simple as that: while these genetically engineered E.
+coli could be induced to produce copious quantities of the fimbrial protein
+sub-unit, no mature fimbriae were formed. A closer look at individual bacteria
+revealed why: the sub-unit protein was embedded in the cell membrane and
+had gone no further. The group then tried the same trick with a strain
+of E. coli that possesses fimbriae but, again, mature fimbriae refused to
+form.
+  From other studies on the fimbriated E. coli, the Australian group knew
+that a cluster of five or six genes is involved in the construction of
+fimbriae. One codes for the fimbrial sub-unit, another for a larger protein
+that anchors the fimbriae to the cell wall, and the remainder are apparently
+involved in the assembly of the mature fimbriae.
+  A similar assembly system probably operates in B. nodosus; presumably
+the other genes involved were not transferred to E. coli along with the
+sub-unit protein gene and this may explain their failure to produce typical
+fimbriae. However, attempts to transfer a larger party of the B. nodosus
+genome, or to use E. coli's fimbrial assembly genes, have thus far provided
+no solution.
+  Evidently there is a basic incompatibility between the fimbrial systems
+of these two bacteria. However, when Dr McKern sequenced the B. nodosus
+protein sub-unit it became clear that this had a great many similarities
+with those occurring in the fimbriae of Neisseria gonorrhoeae (one of the
+venereal disease organisms), Moraxella bovis (the cause of pink eye in
+cattle), and Pseudomonas aeruginosa (a common saprophyte.)
+  P. aeruginosa, in particular, is easy to grow and its genetics are well
+understood. More importantly its fimbrial assembly machinery is compatible
+with that of B. nodosus because, when the scientists transferred the footrot
+bacterium's protein sub-unit genes into it, the new host produced bulk
+quantities of intact mature B. nodosus fimbriae. A patent application has
+been lodged for this process and preliminary tests on the fimbriae suggest
+that they are at least as good as the conventionally produced vaccine. And,
+because P. aeruginosa is easier to grow than the footrot bacterium, the
+protein yield is much higher, suggesting that production may be much simpler.
+  At present the footrot vaccine is being put through further trials involving
+the various CSIRO Divisions and the University of Sydney, and an agreement
+between CSIRO and two animal health companies for its commercial production
+is being negotiated. There are still some technical problems to be overcome
+- one, a rather common complaint in genetic engineering, is that the
+recombinant bacteria tend to be unstable in culture - but if all goes well
+Australian graziers should be able to make use of one of the first genetically
+engineered vaccines in the near future.
+
+
+	<h> Engineering plants and animals </h>
+	
+
+Bacteria have made such an enormous contribution to the science of molecular
+biology because of their simplicity. As members of the group of organisms
+known as prokaryotes, they lack a membrane-bound nucleus where the DNA is
+found. The great bulk of the bacterial DNA occurs in a single long chromosome
+floating around the cell's interior; as such, it is easily accessible compared
+with the DNA found in the eukaryotic organisms - plants and animals - that
+have a nucleus.
+  The eukaryotic cells of plants and animals contain much more DNA, packaged
+away in the nucleus. Any introduced foreign DNA has to traverse the cell
+membrane (and with plants a substantial cellulose cell wall before the
+membrane) and then the nuclear membrane, before it can possibly be integrated
+into the host genome. Such a tortuous path presents problems to biologists
+attempting to manipulate the genetics of plants and animals.
+  Large numbers of bacteria can easily be grown from a single cell using
+only relatively simple media containing carbon and nitrogen sources, some
+minerals, and possibly some growth factors such as the B-group vitamins;
+but plant and animal cells are much more demanding and this creates further
+complications.
+  Individual eukaryotic cells are difficult to manipulate and they demand
+extra growth factors, such as those found in blood serum or an array of
+hormones, if they are ever to grow in culture. Even then they are still very
+refractory.
+  For example, members of the cereal family - including the rice, maize,
+and wheat that provide the bulk of the world's calories - refuse to form
+complete plantlets, capable of growing on in the wider world after removal
+from their test-tube residence.
+
+
+</sample>

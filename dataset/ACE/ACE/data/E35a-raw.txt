@@ -1,0 +1,53 @@
+<subsample>
+	<id> E35a </id>
+	
+
+
+	<source> Architecture Australia - September 1986 </source>
+	
+
+
+	<h> Roleystone District High School </h>
+	
+
+
+	<h> The Building Management Authority of WA </h>
+	
+
+The site chosen for the school is typical of the hills suburb of Roleystone.
+It is steeply sloping, heavily wooded, and composed entirely of lateritic
+rock. The planning of the school is based on the idea of a small town or
+village, with the main street being curved to follow the site contour. This
+enables better access to each building, with a minimum of stairways and
+ramping. At this early stage there are gaps in the street frontage, but
+as the school is developed, buildings will appear on the `vacant lots'.
+  The focal point of the planning is the library forecourt and this space
+serves also as the stage for the amphitheatre which has been formed in the
+slope of the hillside, to the north of the library. The roof of the
+amphitheatre (it is also the lunch shed) is formed of structural steel,
+covered in corrugated zincalume with patent glazing skylights, the whole
+forming a sort of half buried gazebo.
+  All buildings are structural steel framed, with brick and glass cladding,
+the roofing also being steel framed except for verandah rafters. Eaves and
+barge details for the steel framed sections were designed using commercially
+available zed purlins and cold formed channels. The system enabled rapid
+erection and finishing off, the building contract being completed two weeks
+ahead of schedule.
+  Limited water supply and the rocky terrain precluded the provision of
+the traditional suburban school landscaping. Also, the nature of the terrain
+meant that the existing vegetation would be slow to regenerate once disturbed.
+Because of these factors, maximum effort was made to preserve the natural
+landscape. This part of the design philosophy was actively supported by
+the builder who took great care in minimising damage to the environment
+by construction equipment and vehicles.
+  In line with government policy on energy conservation in Western Australia,
+all classrooms are designed to take maximum advantage of natural lighting
+and ventilation.
+  The total cost of the project was $3,372,385 (1983). Included in this
+was the cost of excavating four and a half metres into the ironstone hillside
+to create a football oval. After adjustment for location and difficult site
+conditions, the cost per square metre of building compared favourably with
+the national average for schools of its type.
+
+
+</subsample>

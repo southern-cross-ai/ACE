@@ -1,0 +1,34 @@
+<subsample>
+	<id> B05a</id>
+	
+
+
+	<source>The Sun - 27 June 1986</source>
+	
+
+
+	<h> FAIR PLAY
+The Sun SAYS</h>
+	
+
+THE Arbitration Commission may yet change itself into a force for national
+economic sanity.
+
+  The super scheme decision continued the commission's shift from industrial
+peace-keeper - at any price - to economic umpire.
+  And the commission promises to pay more attention to the economic
+consequences of future wage decisions. National benefit has, at last, become
+a measure of trade-union demands.
+  This new forum effectively challenges Mr Hawke to argue a case for economic
+action where previously he has publicly given only a wink, a nod or a hint
+of what he wants. 
+  Instead of halfbacking a review of holiday penalty rates and passing
+the buck to employers, the Prime Minister can now appeal to an umpire
+who will pay him more attention.
+  The commission's latest decisions are a setback for unions. The strain
+on the Accord will increase, with political complications for the Government.
+  But having a national umpire with two good eyes on the economic play should
+inspire widespread confidence.
+
+
+</subsample>

@@ -1,0 +1,252 @@
+<sample>
+	<id> W14 </id>
+	
+
+
+	<note> 2013 words </note>
+	
+
+
+	<source> Island - Winter 1986 </source>
+	
+
+
+	<h> Fugue on forty </h>
+	
+
+
+	<bl> By Sara Dowse </bl>
+	
+
+
+	<misc>1</misc>
+	The man I am leaving has pale hair but interesting eyes. The kind that turn
+green with yellows, browns or greens, and stay fixed a dazzling blue with
+blue, like the sea on a bright spring day. They seem small, close together
+when he's tired, as though he hasn't the strength to hold them in place.
+Away from me, they are wide-spaced and large. Happy, innocent eyes. (I have
+seen them at parties.)
+  We fight, unhealthily. Crazy maelstroms that suck us in and blow us about
+and leave the waters clotted with hatred and suspicion.
+  I rarely sleep.
+
+
+	<misc>2</misc>
+	  The man of my dreams has a pleasant, handsome face. Smooth in the centre,
+hard at the edge. Warm brown eyes - no ambivalence there. Ruddy beige of
+face. Curly black hair. A welcoming smile.
+  He says he remembers me.
+  I wonder.
+
+
+	<misc>1</misc>
+	  Astigmatic, he sometimes shields his eyes with glasses. Heavy black rims on
+his wide, long face. They accentuate a rabbit look in him. He suffers from
+hay fever, wriggles his nose to keep them in place. When he wears them he
+looks cold, professional. Yet one is conscious of a disguise.
+
+
+	<misc>2</misc>
+	  He says he will ring me. I admire his clothes. Caramel-coloured, to go
+with his face. He is an artist as I am. A musician. Baroque. We have friends
+in common. He will be coming to Canberra and will look me up. Pink and
+plump. A picture of health. He might fit well in Canberra.
+
+
+	<misc>1</misc>
+	  Our connections are crossed with brambles. His naked eye is a thistle. When
+we fight it's often because I wish it to end, or for there to be a sudden
+awakening, a realisation of love, a discovery, like the bright infant,
+floating pure and innocent through the bulrushes.
+  We fornicate, through this. Often quickly, but if he is angry, long and
+hard. I want love. He needs release.
+  I lie underneath.
+
+
+	<misc>2</misc>
+	  Waiting for his arrival. It is a secret, his presence, all that's
+inviolable in me. He is zabaglione, sweet with civilisation. I want the
+pleasure to last, of knowing he'll be here. In the same city. Accessible.
+
+
+	<misc>1</misc>
+	  His arms are leaden weights around me. He tries to comfort though it pains
+him. We are at truce, he brings me cups of tea. In the evening, by the
+window flushed with cascading autumn foliage, he takes sullen sips of wine.
+I cry from wounds the steaming tannin scours.
+
+
+	<misc>2</misc>
+	  His viola is often with me. Light, insouciantly decadent, it trickles
+through me, pouring out in a smile. In the sleepless hours, the suburban
+hum of fridge and motor car smooth as nocturnal surf in my ear, I open the
+case. Black leather frayed near the catch. Inside, the worn red felt. I play
+a ponderous cello.
+
+
+	<misc>1</misc>
+	  I am suspicious. He must loathe me. And I loathe his pale fire, a dry ice
+that burns at a touch. I withdraw, determined to find a meaning outside
+him. So, he has found another! I will too.
+
+
+	<misc>2</misc>
+	  The tan bark outside Llewellyn Hall is slick and sharp underfoot. Tiny
+native plants bend with the driving rain; the giant concrete walls are
+streaked and steaming. The lights within glow as from a royal cave. I
+imagine him by my side, discoursing on Telemann, Monteverdi, opera buffa.
+  I breathe in the warmth from a damp wool coat. Giddy, I climb to the top
+of the gallery, where seats are cheap and sound is best.
+
+
+	<misc>1</misc>
+	  He wants to split, he says. We stand at the window, bleak of foliage; winter
+lights and winter stars dazzling shards on a void. I nod, realising it is
+so. The tears dry on my cheek, salt sharp. Suddenly he looks so beautiful
+and sad to me.
+
+
+	<misc>2</misc>
+	  I say to myself, why wait? Life if short should be sweet. I think of
+brandy and pheasant as I reach for the phone, marvel at my luck when he
+answers it. Then flounder, with nothing to say. He apologises for not
+ringing. He has been sick, he says. He, sick? Embarrassed, I wish he hadn't
+bothered to make excuses. I tell him I've rung to ask when he's going to
+play. A pause. He clears his throat. &quot;I may not be able. This sickness. Last
+year I had hepatitis ... I think it's a relapse.&quot;
+  &quot;Oh, I'm sorry,&quot; I say, suppressing my anger with him for lying.
+
+
+	<misc>1/3</misc>
+	 The kilos shed off me. My life, it seems, has shrunken to this room
+with its looming wardrobe and cereal stickers on the back of the door. And
+cut-outs of Gonza and Alfred E Neuman. The room of a son of a friend. I
+keep the transistor low so as not to wake her through the gyprock wall. I
+try yoga, meditation, masturbation, valerian tea. At last, when dawn comes
+the outline of a pagoda tree stark against an opal sky, I find a kind of
+peace: the locked case propped against the wardrobe and me lying stunned on
+the bed.
+
+
+	<misc>2</misc>
+	  We make arrangements for dinner. &quot;I'm almost recovered,' he says.
+
+
+	<misc>1</misc>
+	  I pursue life, what it is to be human, mature, without ties or
+responsibilities other than those I choose. I am determined. I am free now,
+my friends tell me. So does he, when he condescends to meet. We are friends
+now, he tells me. &quot;Now we can fuck, without the hassles.&quot; He has a point,
+and I give in. I go to films, meetings, dinner parties, pubs, concerts,
+art shows. Alone. The nights are filled with sharp adult voices, warm wine
+and frost. I must be determined, to brave the frost. By ten o'clock in the
+evening, before the movie ends or the last cup of coffee is drunk, car
+windows front and back coat with a thick crust of ice. On saying goodbye
+the host hands you a bucket or saucepan of hot water. If you go to the
+movies, you cover the windscreen with newspaper.
+
+
+	<misc>2</misc>
+	  I rehearse our conversation. I am teaching more than playing, that is
+true, but I still have ideas about the instrument and have begun to rough
+out some compositions. The students practise on them. The students like
+them, and I feel guilty, because I am jealous of their playing. I would like
+to be playing instead of teaching. He has no need to teach, or if he does,
+only occasionally. His music, lilting, almost pastoral in effect, begins to
+sound shallow. I wonder if he is fussy about his socks. 
+
+
+	<misc>1</misc>
+	  Midnight, maybe after, I leave the fire and the company and wind on my
+scarf and tug on my gloves and march into the darkness with a potful of
+boiling water. The frost melts in widening circles like portholes on the
+glass, then slides in great drops on and under the bonnet. I jump in and
+start the car, bless the heat from the engine. A quick goodnight from my
+hosts and they rush inside with the empty saucepan and out of the cold.
+Within blocks the water on the windscreen has frozen. A sheet of opaque ice,
+pearled as the dawn. I stop the car, leave the engine running, leap out to
+crack the ice with my fists. It splinters, that's all. I climb behind the
+wheel and drive with my head out the window.
+  Dangerous driving this way. I turn a corner and find I'm in his street.
+Moving on, thinking I am crazy, and hateful, for spying on him like this.
+But, mercifully, no unfamiliar cars stand in front. And now I am here, it
+would be spying if I didn't enter. My house, not long ago.
+  The side door is open, not even latched. As though in the kernel of the
+cold dark night he is waiting. The glass panels sweat. A light burns in the
+kitchen. Something propels me now, a sudden swelling of obsession takes
+over from the first frosty steps, whether anger or desire or both. The bare
+bulb in the kitchen kindles beads of light on the frozen glass, gilds the
+wrinkled leaves of the African violet he has neglected to water. And on the
+table, two crystal glasses, a gift from me. And next to one, a woman's bag,
+the colour of wine.
+
+
+	<misc>2</misc>
+	  The melody is fading.
+
+
+	<misc>3</misc>
+	  She takes me in her bed, a foam rubber mattress shoved against the
+cupboard. I cry: she holds me in her arms. &quot;He isn't worth it,&quot; she says,
+crooning it to me. &quot;Am I brilliant?&quot; I ask, stripped utterly bare, thinking
+of the crumbling black leather, worn red lining, voluptuous cello standing
+patient in the room next door. &quot;No,&quot; she answers, with piercing clarity,
+&quot;not brilliant.&quot;
+  She pauses to reflect. &quot;Creative.&quot;
+  She falls asleep, spreadwing over the mattress. I climb over her legs,
+holding onto the cupboard, careful not to disturb her. In the room vacated
+by her son I watch the parched bones of the pagoda tree darken against the
+morning sky.
+  At breakfast she expounds. Already, so young, her face is hardened about
+the jaw, and then I remember she isn't young, I'm not young, though we have
+started life anew, and that line of resolve round her chin would be scarcely
+noticeable in a face whose flesh was firm. She butters toast. &quot;It's their
+fucking negativity. That's what nearly finished me off,&quot; she confides. &quot;I
+would say to him, every fucking week when you think of it (she laughs)
+`look, do you love me, should we go on like this?' And the bugger would
+never tell me, one way or another.&quot; She lays her knife on the side of the
+plate after cutting the toast in four neat squares. &quot;They want us to make
+all the decisions for them.&quot;
+
+
+	<misc>2</misc>
+	  I ring to postpone the dinner. &quot;No, I'm not well,&quot; I say. &quot;Nasty winter
+flu,&quot; I tell him. He laughs. &quot;When you're better we'll have a nice quiet time.
+Two convalescents together&quot;.
+
+
+	<misc>1</misc>
+	  &quot;You don't have to talk to him,&quot; she says.
+  He stands flooded in winter sunlight at the door. I see him as though from
+the end of a telescope, as though contemplating a star. His hair, yellower
+than I remember, floats from his skull like the ruffled hair of a waking
+child, the prototype of haloes.
+  &quot;I'm sorry,&quot; he says, but doesn't move.
+  I feel myself hurtle down the hallway, head down, arms flapping at my side,
+some burrowing animal groping towards the sun. I cry and he soothes me with
+caresses and I wonder whether it will be right again but I cannot take his
+caresses and I want it to stop.
+
+
+	<misc>3</misc>
+	  &quot;You have to find a centre,&quot; she says. &quot;Something inside yourself.&quot; I
+agree, weaving her words in the concrete cubicle through the student's
+rasping chords. The sound quivers and finally disappears, rising high to the
+acoustical ceiling to hover in the air. The student flattens her back
+against the chair, the bow loose in her hand, leaning on the cello. &quot;You
+okay, Maria?&quot; The student loves me, mistakenly. I smile, heedless of tears.
+Gingerly she raises the bow and plays on.
+  &quot;You know what happened to me.&quot; My friend states this, but it is a question.
+She expects me to know yet wants to repeat it. Her sharp voice is quavering,
+reminding me of the chin. She drinks milk coffee. &quot;Let me tell you.&quot; How she
+had left him, finally, because he wouldn't tell her to. And suddenly
+everything was light and empty: &quot;I had this peculiar sensation, like I was
+skiing, so fucking fast I wouldn't be able to stop. And the wind was cutting
+right through me.&quot; She drank a lot, sobered herself up with Panadols and
+fucked a lot, with anyone willing. She smiles. &quot;It helped.&quot; But then she
+found a protector, a friend. He drank with her, the days ran into nights and
+into days again and she knew it was morning only when it was time to take
+another Panadol.
+
+
+</sample>

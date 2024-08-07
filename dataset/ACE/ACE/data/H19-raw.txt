@@ -1,0 +1,346 @@
+<sample>
+	<id> H19 </id>
+	
+
+
+	<note> 2023 words </note>
+	
+
+
+	<source> The Law Reform Commission Report No 30 - Domestic Violence </source>
+	
+
+
+	<h> AUSTRALIAN CAPITAL TERRITORY </h>
+	
+
+
+	<h> Crimes (Domestic Violence) Ordinance 1986 </h>
+	
+
+
+	<h> An Ordinance relating to domestic violence </h>
+	
+
+
+	<h> PART I - PRELIMINARY </h>
+	
+
+  1. This Ordinance may be cited as the Crimes (Domestic
+Violence) Ordinance 1986.
+
+
+	<h> Commencement </h>
+	
+2. This Ordinance shall come into operation on a day to be
+fixed by the Minister by notice published in the Gazette.
+
+
+	<h> Interpretation </h>
+	
+3. In this Ordinance, unless the contrary intention appears -
+&quot;child&quot;, in relation to a person, includes -
+
+  (a) an adopted child of the person;
+  (b) a step-child of the person;
+  (c) an ex-nuptial child of the person; and
+  (d) a child of the person or of the spouse or de facto spouse
+      of the person, being a child who is or was, at the relevant
+      time, ordinarily a member of the household of the person and
+      the spouse or de facto spouse of the person and treated by them
+      as a child of their family;
+
+&quot;the Court&quot; means the Court of Petty Sessions;
+
+&quot;de facto spouse&quot;, in relation to a person, means a person of
+  the opposite sex to the first-mentioned person who is living
+  with the first-mentioned person as that person's husband or
+  wife although not legally married to the first-mentioned
+  person;
+
+&quot;member of the family&quot;, in relation to a person, means a
+  spouse, de facto spouse, child or parent of the person;
+
+&quot;parent&quot;, in relation to a person who is -
+  (a) an adopted child - means the adoptive parent of the child;
+  (b) a step-child - includes the step-parent of the person;
+  (c) an ex-nuptial child - includes the natural father of the
+      person;
+  (d) a child as mentioned in paragraph (d) of the definition of
+      &quot;child&quot; - includes the person, and the spouse of the de facto
+      spouse of the person, mentioned in that paragraph;
+&quot;police officer&quot; means a member of Australian Federal Police;
+&quot;protection order&quot; means an order made under Part II.
+
+
+	<h> Prescribed offences </h>
+	
+4. A reference in this Ordinance to a prescribed offence is a
+reference to the following offences -
+
+  (a) murder;
+  (b) manslaughter;
+  (c) an offence, whether committed in the Territory or
+      elsewhere, of a kind to which section 27, 28, 29, 30, 31, 33, 
+      33A, 35, 37, 38, 39, 41, 46, 47, 54, 58, 59, 83, 90A, 92A to 92D
+      (inclusive), 92F, 92H, 92J, 92M, 493, 494 or 546A of the Crimes
+      Act, 1900 of the State of New South Wales in its application
+      in the Territory applies or of a like kind;
+  (d) an attempt to commit an offence of a kind referred to in
+      paragraphs (a) to (c) (inclusive),
+being an offence committed or attempted to be committed by a
+person against the spouse or a former spouse, or the de facto
+spouse or a former de facto spouse, of the person.
+
+
+	<h> PART II - PROTECTION ORDERS </h>
+	
+
+
+	<h> Protection orders </h>
+	
+5. (1) The Court, if it is satisfied on the balance of
+probabilities that a person has engaged in conduct (whether in
+the Territory or not) that -
+
+  (a) constitutes a prescribed offence committed against the
+      person's spouse or de facto spouse; or
+  (b) may reasonably be regarded as harassment of the person's
+      spouse or de facto spouse, 
+and is likely to engage again in such conduct, may make an order 
+restraining the person from engaging in that conduct or in similar 
+conduct.
+
+  (2) The Court, if it is satisfied on the balance of
+probabilities that a person has engaged in conduct (whether in
+the Territory or not) that -
+  (a) constitutes a prescribed offence committed against a former
+      spouse, or a former de facto spouse, of the person; or
+  (b) may reasonably be regarded as harassment of a former
+      spouse, or a former de facto spouse, of the person,
+and is likely to engage again in such conduct, may make an
+order restraining the person from engaging in that conduct or
+in similar conduct.
+  (3) On an application for a protection order, the Court may,
+if it considers that it is desirable to do so, before
+considering the application, make an interim protection order.
+  (4) The Court may, on application by the applicant or the
+respondent, vary or revoke the protection order.
+
+
+	<h> Applications for protection order </h>
+	
+
+  6. (1) An application for a protection order under sub-section
+5(1) may be made by the spouse or the de facto spouse of the
+person against whom the order is sought.
+
+  (2) An application for a protection order under sub-section
+5(2) may be made by the former spouse, or the former de facto
+spouse, concerned.
+
+  (3) A police officer may apply for a protection order.
+
+  (4) With the leave of the Court, a person other than a person
+mentioned in sub-section (1), (2) or (3) may apply for a
+protection order as agent for the applicant.
+
+  (5) In relation to proceedings on an application made as
+mentioned in sub-section (3) or (4), a reference in this Part
+to the applicant is a reference to the person against whom the
+offence concerned was committed, or who was harassed.
+
+  (6) The person against whom the order is sought shall be the
+respondent to the application.
+
+  (7) Where an application for a protection order has been served
+on a person, section 199 of the Court of Petty Sessions
+Ordinance 1930 applies in relation to the person as it applies
+in relation to a defendant as mentioned in that section.
+
+
+	<h> Affidavit evidence </h>
+	
+7. (1) Evidence on an application for a protection order may
+be given on affidavit.
+  (2) It is not necessary to call a person who made such an
+affidavit to give evidence unless a party to the proceeding,
+or the Court, so requires.
+
+
+	<h> Form of orders </h>
+	
+8. (1) Subject to this Ordinance, a protection order may
+include provisions restraining a person -
+
+  (a) from being in premises in which the applicant for the
+      protection order resides;
+  (b) from being in premises that are the place of work of the
+      applicant for the protection order;
+  (c) from being in a specified locality, being a locality in
+      which premises as mentioned in paragraph (a) or (b) are
+      situated;
+  (d) from approaching within a specified distance of the
+      applicant for the protection order; and
+  (e) if the person continues to reside with the applicant for
+      the protection order - from entering or remaining in the place
+      of residence while intoxicated.
+
+  (2) A protection order that includes provision as mentioned in
+paragraph (1)(a) may also include provision -
+
+  (a) restraining the respondent from taking possession of
+      personal property of either the applicant or the respondent,
+      being property that is reasonably needed by a member of the
+      respondent's family; or
+  (b) directing the respondent to give possession of such of that
+      property as is specified in the order to a specified member
+      of the respondent's family.
+
+
+	<h> Matters to be taken into account </h>
+	
+9. (1) In determining an application for a protection order,
+the matters that the Court shall take into account include -
+
+  (a) the need to ensure that persons are protected from violence
+      and harassment;
+  (b) if the members of the respondent's family include a child
+      who has not attained the age of 18 years - the welfare of the
+      child;
+  (c) the accommodation needs of the members of that family; and
+  (d) the hardship that will be caused to the respondent or to
+      any other person if the order is made.
+
+  (2) In determining whether to make an order that includes
+provision of the kind mentioned in sub-section 8(2), the Court
+shall also take into account the property, income and financial
+resources, and the financial obligations, of the applicant and
+the respondent.
+
+
+	<h> Orders on applications by police, &amp;c. </h>
+	
+10. A protection order shall not be made on an application made
+as mentioned in sub-section 6(3) or (4) unless the applicant
+consents to the making of the order.
+
+
+	<h> Notice to respondents </h>
+	
+11. A protection order shall not be made unless -
+
+  (a) the respondent has had actual notice of the application for
+      that order; or
+  (b) by reason of circumstances of seriousness or urgency, it
+      is proper to make the order without notice to the respondent.
+
+
+	<h> Ouster orders </h>
+	
+12. (1) Where an agreement (including a mortgage or a lease of
+premises) provides that, if the respondent ceases to reside in
+his or her place of residence, a person may do a particular
+thing prejudicial to the interests of the respondent or a
+member of the respondent's family, the person is not entitled
+to do that thing if the respondent ceases to reside in the
+place of residence, in compliance with a protection order.
+
+  (2) Where the respondent is the lessee, or a lessee, of his or
+her place of residence, the Court may, on making a protection
+order that, or that includes provision that, would have the
+effect of restraining the respondent from entering or
+remaining in the place of residence, make an order -
+
+  (a) varying the lease by substituting for the lessee or lessees
+      a member of the respondent's family; and
+  (b) directing that any payments made under the lease be treated
+      as having been made by that member.
+
+  (3) Subject to sub-section(4), such an order has effect
+according to its tenor.
+
+  (4) Where the lease has been registered under the Real Property
+Ordinance 1925, such an order does not have effect until a
+memorial of the variation of the lease is registered under that
+Ordinance.
+
+  (5) Sub-section (2) does not apply in relation to a Crown lease
+within the meaning of the Real Property Ordinance 1925.
+  (6) This section applies notwithstanding section 10 of the
+Court of Petty Sessions (Civil Jurisdiction) Ordinance 1982.
+
+
+	<h> Operation of protection orders </h>
+	
+13. (1) A provision of a protection order is not applicable in
+relation to a person unless the person has actual notice of the
+provision.
+
+  (2) The notice may have been given orally, but in the case of
+a provision that would have the effect of restraining the
+respondent from entering or remaining in his or her place of
+residence, that shall have been given in writing.
+
+
+	<h> Breach of protection order </h>
+	
+14. (1) A person shall not contravene or fail to comply with
+a provision of a protection order that is applicable to the
+person. 
+Penalty:
+
+  (2) A person may, in accordance with law, arrest a person for
+an offence against sub-section (1).
+
+  (3) Where a prosecution for an offence against sub-section (I)
+is instituted by summons, the summons shall require the person
+to appear to answer the information at a time not later than
+72 hours after the time at which the summons is issued.
+
+  (4) Service of the summons shall be effected at least 24 hours
+before the time appointed in the summons for the hearing of the
+information.
+
+  (5) Sub-sections (3) and (4) have effect notwithstanding
+sections 38 and 41 of the Court of Petty Sessions Ordinance
+1930.
+
+
+	<h> Restriction on publication of court proceedings </h>
+	
+15. (1) A person shall not publish in a newspaper or periodical
+publication or by radio broadcast or television, or otherwise
+disseminate to the public or to a section of the public or to
+a section of the public by any means, the identity of a party
+to proceedings in connection with a protection order, or
+information from which the identity of such a party may readily
+be ascertained.
+Penalty:
+
+  (2) Sub-section (1) does not prevent a publication in
+circumstances that, or is of a kind that, were the proceedings
+proceedings under the Family Law Act 1975 would not constitute
+a contravention of section 12 of that Act.
+
+  (3) Proceedings for an offence against this section shall not
+be commenced except by, or with the consent in writing of, the
+Attorney-General or the Director of Public Prosecutions, or a
+person authorised by either of those persons in that behalf.
+
+
+	<h> PART III - MISCELLANEOUS </h>
+	
+
+
+	<h> Bail </h>
+	
+16. (1) Where a person or body has, under a law of the
+Territory, power to grant bail to a person (in this section
+called the &quot;accused&quot;) in respect of a prescribed offence, the
+matters that the person or body shall take into account in
+determining whether to grant bail to the accused and the
+conditions on which bail is to be granted include -
+
+
+</sample>

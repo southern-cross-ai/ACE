@@ -1,0 +1,207 @@
+<sample>
+	<id> D01 </id>
+	
+
+
+	<note> 2032 words </note>
+	
+
+
+	<source> Jesus today. Christology in an Australian context. </source>
+	
+
+
+	<bl> By Gerald O'Collins </bl>
+	
+
+
+	<h> 4  THE RESURRECTION OF JESUS </h>
+	
+
+In Chapter 3 I argued that Christology should centre on Jesus' dying and
+rising. Back in Chapter 1 I pointed out the need to validate Christological
+faith in its historical origins and development. That entails establishing
+what we can about Jesus' life, death and resurrection. In this chapter I
+plan to put together and run through some problems that could confront a
+Christology centred around the paschal mystery. It is simply not possible
+to raise all the issues. Let me select and concentrate on certain challenges
+in the fields of history, faith and theology.
+
+
+	<h>1. History</h>
+	
+
+When faced with death, Jesus continued to maintain the validity of his message
+and his certainty of being saved (Mark 14:25). He interpreted his self-giving
+as a new covenant, which would be beneficial `for many' (1 Corinthians 12:23-5;
+Mark 14:22-4). His male disciples fled when he was arrested (Mark 14:27-8,
+50; John 16:32), and an outsider took care of his burial (Mark 15:43). Jesus'
+crucifixion challenged the interpretation of his coming death and certainty
+about being saved that he had expressed at the last supper. According to
+the contemporary interpretation of Deuteronomy 21:23 (see the Qumran Temple
+Roll 64:6-13 and Galatians 3:13), someone crucified for breaking the law
+was understood to be cursed by God. But then the disciples began proclaiming
+that God had raised Jesus from the dead (for example, 1 Thessalonians 1:10;
+Acts 2:32; Romans 10:9). This proclamation was initiated by appearances
+of the living Jesus (for example, 1 Corinthians 15:5-8) and, secondarily,
+by the discovery that his tomb was empty (Mark 16:1-8 and parallels).
+  Apropos of the Easter appearances and the empty tomb, there are many problems.
+No doubt it will stay that way till the end of time. Here I want to raise
+and briefly respond to some questions, so as to illustrate what a
+resurrection-centred Christology might have to tackle today.
+
+
+	<h>(a) The Appearances </h>
+	
+
+In discussing the appearances, it may be as well to start with the ingenious
+`swoon theory', which H.E.G. Paulus floated in the last century and which
+has enjoyed a number of variants in recent decades. Essentially the hypothesis
+comes to this. Jesus did not die on the cross, but was taken down alive from
+the cross, revived in the tomb, somehow got out and `appeared' to his
+followers. In his novella The Man Who Died, D.H. Lawrence has Jesus coming
+back in this way to his followers and then slipping off to Egypt to enjoy
+conjugal relations with a priestess of Isis. Other versions of this `happy
+ending' have Jesus going away to live with Mary Magdalene, as in The Holy
+Blood and the Holy Grail by Baigent, Leigh and Lincoln. Some Moslems claim
+that, after escaping from the tomb, Jesus even reached India; at Srinagar
+in Kashmir tourists can see a shrine that is alleged to be the place where
+he was finally buried after really dying in old age.
+  In The Anastasis (Shipston-on-Stour, 1982), Duncan Derrett suggests that
+Jesus `entered into a self-induced trance' on the cross (p.45). Those who
+buried him took him to be dead, but this `clinical death' was briefly reversed
+before irreversible brain-death finally occurred. But he had made significant
+use of his short-lived recovery. For after he revived in the cold tomb
+and had been helped out (apparently by some people watching at the tomb
+and the `young man' of Mark 16:5-7), he was able to commission his disciples.
+Shortly thereafter, as a result of his sufferings and crucifixion, he underwent
+final brain-death. He had authorised his disciples to dispose of his corpse
+by cremation, and they burnt it outside the walls of Jerusalem. The ascension,
+as recounted by Luke, was a `euphemism' for that cremation (pp.83,90).
+  Out here in Australia, Barbara Thiering has also advanced the theory that
+Jesus did not die on the cross. Her account runs as follows. The vinegar (Mark
+15:36) that Jesus was given contained some poison that would eventually have
+killed him. However, he was placed alive in the tomb with the the  two
+criminals crucified with him. One of these two men (whom Thiering identifies
+as Simon Magus and Judas Iscariot) administered aloes to Jesus which caused him
+to bring up the poison. His supporters smuggled Jesus out of the tomb. After
+spending some years with the early Christian community, he then really died.
+Finally, Thiering adds her own startling twist to the `swoon theory'. Jesus'
+crucifixion, burial and escape from the tomb did not take place in Jerusalem
+but in or around Qumran. 
+  Against these different versions of the `swoon theory', it must be said
+that their major `source', the New Testament itself, contains not a shred
+of hard evidence in their favour. The Gospels, St Paul and the primitive
+Christian kerygma (which gets quoted in 1 Corinthians 15:3b-5, the early
+speeches in Acts and elsewhere in the New Testament) agree that Jesus genuinely
+died by crucifixion and was buried as a dead man (for instance, 1 Corinthians
+15:4; Mark 15:37, 42-7). Other ancient sources corroborate this. The Jewish
+historian, Flavius Josephus (AD 37-c.100), in his Antiquities 18:63-4 reports
+that Jesus was crucified on the orders of Pilate. It seems that some Christian
+or Christians revised this passage in Josephus by adding material in praise
+of Jesus, but at least the information about his execution seems to go back
+to Josephus himself. In his Annals 15:44 (written in AD 112-113), the Roman
+historian Tacitus explains that the name `Christians' came from the founder
+of their sect, Christ, who was executed by the `procurator' Pontius Pilate
+during the reign of the Emperor Tiberius. In an obscure passage, the Babylonian
+Talmud (Sanhedrin 43a) writes of Yeshu, who led some Israelites astray by
+his magic, but was then `hanged on the eve of Passover'. These extra-biblical,
+Roman and Jewish sources show little historical knowledge, but they indicate
+no doubt whatsoever that Jesus genuinely died by execution. Like the passion
+narratives in the Gospels, these other documents contain not the slightest
+hint that Jesus was or could have been still alive when the executioners
+had finished with him.
+  In the nineteenth century, David Friedrich Strauss (1808-74) cast many
+doubts on the gospel story, but even so had no truck with the swoon theory.
+He put his finger on another knockdown difficulty against any hypothesis
+of a half-dead Jesus reviving in the tomb and then returning to his followers:
+ 
+It is impossible that a being who had stolen half dead out of the sepulchre,
+who crept about weak and ill, wanting medical treatment, who required
+bandaging, strengthening and  indulgence...could have given the disciples
+the impression that he was a Conqueror over death and the grave, the Prince
+of Life, an impression which lay at the bottom of their future ministry.
+Such a resuscitation...could by no possibility have changed their sorrow
+into enthusiasm, have elevated their reverence into worship.
+
+Add too, the fact that neither the New Testament nor any other source provides
+evidence for the post-crucifixion existence and activity of a Jesus who
+was revived from apparent death. Derrett admits as much when he writes of
+`the loud silence of the gospels and epistles' about Jesus' brief life after
+his revival from clinical death (Anastasis,p.71).
+  Before dismissing the whole `swoon theory' as bogus nonsense, we might
+reflect briefly on the thinking behind it. Besides expressing a refusal
+to accept that Jesus truly rose from the dead to a new, transformed life,
+this theory serves to bring out the nature of historical certainties and
+a persistent desire that goes right back to the time of the apocryphal gospels.
+  It is always open to anyone to deny facts that professional scholars
+and the general public agree on and correctly take for granted. An imagination
+that does not bother to produce hard evidence for bold assertions can then
+advance sensational claims and propose ingenious counter-stories. One could,
+for example, make up a story about Julius Caesar not having been assassinated
+in 44 BC. Someone else was killed in his place; he escaped to the Tiber
+and took a trireme to Britain, where he cultivated vineyards and helped
+to prepare the way for the eventual settlement of the Romans. Absolutely
+speaking, this counter-story cannot be ruled out as impossible. But the
+lack of evidence in its favour and the convergent proofs for the normally
+accepted version of Caesar's untimely end make an escape-to-Britain hypothesis
+so utterly implausible that it is not worth bothering about. Practically
+every historian and biblical scholar would say the same thing about the
+`swoon theory'.
+  This theory, I suspect, is fed by a tendency that set in fairly early
+among some Christians, and which a Californian friend of mine summed up
+as follows: `When they ran out of things they knew about Jesus, they started
+making up and writing down things they really didn't know.' Thus the canonical
+Gospels knew of no witnesses to the very event of Jesus' resurrection itself.
+The second-century Gospel of Peter 9:35 ff invents such witnesses. There
+are so many limits and gaps in what we know about Jesus' life, death and
+resurrection, that it is tempting to conjecture, fabricate and fill in details
+that the real evidence does not support. In their variant of the `swoon
+theory', R. Graves and J. Podro, for example, generously supply information
+about `the extreme sultriness of the weather' (which, together with the
+spikenard ointment smeared on the shroud, helped to keep Jesus alive in
+the tomb), and about the way he escaped:
+
+The Roman soldiers, hired to stand guard, rolled back the stone at night
+while their sergeant was asleep and tried to steal the ointment - which
+was worth several years' army pay and could easily be sold in the brothels
+of Caesarea. They found Jesus still alive, and the sergeant, when acquainted
+with the surprising news, let him go; being subsequently bribed by Bunni
+[= the name Graves and Podro give to Nicodemus] to say that the disciples
+had removed the body. (Jesus in Rome, London, 1957,pp.12-13).
+
+All of this suggests a novelist's anxiety to reconstruct a well-rounded
+story, although one must be grateful that Graves and Podro do not indulge
+a taste for cherchez la femme and arrange for Jesus to rendezvous with Mary
+Magdalene or a priestess of Isis.
+  At the end of the day, the `swoon theory' reduces the origin of Christianity
+to a banal story about a bungled execution. In place of the mystery of Jesus'
+true resurrection from the dead, we are told that he had an incredibly
+lucky revival from apparent death - a revival that his disciples later
+misrepresented when they claimed that he had been `raised from the dead,
+never again to revert to corruption' (Acts 13:34). The `swoon theory', by
+granting Jesus only a temporary respite from death after an extraordinary
+unpleasant brush with crucifixion, makes the New Testament's language about
+his glorious, new, incorruptible existence (for instance, 1 Corinthians
+15:20 ff; Luke 24:26) simply incomprehensible or else a bold lie.
+  To keep this section on the risen Lord's appearances down to manageable
+proportions, let me next glance quickly at some other current
+counter-explanations. The hypothesis that the disciples somehow hallucinated
+the risen Jesus' appearances has been tried and found wanting. Ian Wilson,
+however, has recently returned to this hypothesis, arguing that
+
+...it is possible that he [Jesus] prepared his disciples for his resurrection
+using the technique that modern hypnotists call post-hypnotic suggestion.
+By this means he would have effectively conditioned them to hallucinate
+his appearances in response to certain pre-arranged cues (the breaking of
+bread?), for a predetermined period after his death. (Jesus the Evidence,
+London, 1984,p.141.)
+
+Wilson supports his theory by gratuitously attributing such powers of hypnosis
+to Jesus and throwing in an experiment in post-hypnotic suggestion on one
+volunteer who `was known to be a good hypnotic subject' (ibid. pp. 141
+f). How on earth do we know that the disciples were all such good hypnotic
+subjects?  What of Paul, who saw the risen Christ, but had enjoyed no contact with Jesus during the ministry and hence could not have been conditioned to hallucinate an Easter appearance in response to some pre-arranged cues?
+
+
+</sample>

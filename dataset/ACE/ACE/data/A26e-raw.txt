@@ -1,0 +1,27 @@
+<subsample>
+	<id> A26e </id>
+	
+
+
+	<source> The Adelaide Advertiser - 14 November 1986 </source>
+	
+
+ 
+	<h> Deposits set for beverage bottles </h>
+	
+
+ Amendments to the State Government's Beverage Containers Act were approved
+by Executive Council yesterday ending plans to lift deposits for non-refillable
+beverage bottles from 5c to 15c.
+  Non-returnable containers will now attract a deposit of 6c, compared with
+the 4c deposit on returnable containers.
+  The amendments were introduced when the Government found it could not
+justify the planned 15c deposit after being challenged by the Bond Brewing
+Company in court.
+  A spokesman for the Minister of Environment and Planning, Dr Hopgood,
+said yesterday it had become apparent the Government could not justify
+such a large differential between returnable and one-way containers under
+Section 92 of the Constitution which related to free trade between States.
+
+
+</subsample>

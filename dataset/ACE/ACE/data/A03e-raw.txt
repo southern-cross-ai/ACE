@@ -1,0 +1,31 @@
+<subsample>
+	<id> A03e </id>
+	
+
+
+	<source> The Daily Mirror - 27 June 1986 </source>
+	
+
+ 
+	<h> CHIPP TO QUIT ON SUNDAY </h>
+	
+
+
+	<bl> From PETER GIBSON in Canberra </bl>
+	
+
+DEMOCRATS leader Don Chipp is set to quit politics this weekend.
+  Mr Chipp plans to announce his retirement, which has been expected for
+some months, on Sunday.
+  A bitter struggle between deputy leader Senator Janine Haines and Victorian
+Senator John Siddons is expected.
+  Senator Haines is expected to win the fight which will split the party.
+  The victory will make her the first woman leader of a parliamentary party
+in Australia.
+  Senator Chipp has been in Parliament for 25 years, spending the last nine
+as leader of the Democrats.
+  He quit the Liberal party after being passed over for a place in the
+first Fraser Ministry.
+
+
+</subsample>

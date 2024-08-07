@@ -1,0 +1,28 @@
+<subsample>
+	<id> A31g </id>
+	
+
+
+	<source> The Daily News - 26 June 1986 </source>
+	
+
+ 
+	<h> INQUEST TOLD UNSAFE LOAD CRUSHED DRIVER </h>
+	
+
+  A truck driver neglected safe loading and unloading procedures and his
+load crushed him to death.
+  Two experts said this today at an inquest into the death of Michael St
+John Kennedy, of Floreat.
+  A Factory and Shops inspector, Mr Graeme Hearn, said that failure of the
+firm, James Hardie and Co, to ensure safe loading had also contributed to
+the accident on March 13.
+  A Department of Occupational Health inspector, Mr Francis Keough, said
+he thought Mr Kennedy's 10-year familiarity with handling cement pipes for
+the company may have been a contributing factor.
+  Unloading ramps had not been pulled out according to James Hardie procedure.  
+  Mr Hearn said Mr Kennedy was a contract driver responsible for his own
+loading.
+
+
+</subsample>

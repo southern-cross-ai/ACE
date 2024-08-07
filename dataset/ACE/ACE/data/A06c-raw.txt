@@ -1,0 +1,30 @@
+<subsample>
+	<id> A06c </id>
+	
+
+
+	<source> The Daily Telegraph - 27 June 1986 </source>
+	
+
+ 
+	<h> Casino pledge by Unsworth </h>
+	
+
+  ORGANISED crime will not be allowed to infiltrate Sydney's legal casino, 
+the incoming Premier, Mr Unsworth, pledged yesterday. 
+  Mr Unsworth said it was imperative the Government take steps to
+ensure there was no scope for criminal elements to intrude into its operations.
+  He said his Government would take every step needed. 
+  Only a few years ago, Mr Unsworth was quoted as saying he didn't like 
+casinos because they were a cover up for organised crime. 
+  He said at the time he thought casinos would provide a
+method of tax avoidance and lead to the corruption of casino officials and
+operators. 
+  But Mr Unsworth said yesterday circumstances had changed since he
+made those statements. 
+  He said he now believed a legal casino at Darling Harbour would help 
+eliminate the illegal activity that sprang up during the term of the 
+Askin Government. 
+
+
+</subsample>

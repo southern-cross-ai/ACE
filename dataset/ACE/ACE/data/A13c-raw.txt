@@ -1,0 +1,42 @@
+<subsample>
+	<id> A13c </id>
+	
+
+
+	<source> The Age - 18 November 1986 </source>
+	
+
+ 
+	<h> Manila's protest strike fizzles out </h>
+	
+
+
+	<misc> Manila, 17 Nov  </misc>
+	
+
+- A general strike called to paralyse Manila in protest at
+the killing of a trade union leader flopped today while officials first
+announced, then retracted news that a man had been arrested in connection
+with the murder.
+  The Justice Minister, Neptali Gonzales, who had claimed there was an arrest
+in the case, said later that informers had given police the names of two
+men who stalked Rolando Olalia in the days before his death.
+  Police were now seeking the men to put them in an identification parade,
+he said.
+  Mr Gonzales said that a car seen in Mr Olalia's neighbourhood shortly before
+the kidnap had a licence plate that could have been issued to a Government
+agency.
+  A general strike called by Mr Olalia's 500,000-member May First Movement
+interfered with bus services and led to walkouts by 30,000 workers at 120
+factories - far from the numbers strike leaders had predicted.
+  Manila officials suspended all classes for the city's schoolchildren
+and a police spokesman said the city was calm and orderly.
+  While many bus drivers appeared to be obeying the strike call, 300 of
+the city's 500 buses were in operation.  Many of these were driven by soldiers
+with police protection, officals said.
+  The auditor's office of the Pasay City government in southern Manila
+caught fire after a bomb was hurled through a window from a car.
+  Police said the bombers must have wanted to destroy important documents.
+
+
+</subsample>

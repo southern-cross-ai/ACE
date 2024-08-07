@@ -1,0 +1,217 @@
+Fine particles and their effect on segregation in bins By D.F. Bagster and C. Killalea  
+
+SUMMARY   Recent studies of particle segregation involving binary mixtures
+with a coarse and very fine component (finer than 100 microns) have produced
+a decrease rather than the usual excess of coarse particles at the bin wall
+(inverse segregation).
+
+It was aimed to clarify this inverse segregation effect by feeding binary
+mixtures with a coarse and very fine component (fly ash or alumina) to a
+thin, long sloped container simulating loading into a storage bin. Segregation
+profiles (plots of dimensionless coarse particle concentration against
+dimensionless distance from the feed point) confirmed the inverse segregation
+effect for very fine powder mixes.
+
+It is likely that the conditions needed for inverse segregation are a very
+fine particle component (less than 100 microns) and a large coarse to fines
+size ratio. There is a dependence on coarse particle concentration. It seems
+that inverse segregation will occur at higher coarse feed concentrations
+and the overall amount of segregation is reduced if the fine component is
+reduced in size.
+
+ 1   INTRODUCTION  
+
+Segregation is an unmixing process on solids, producing separation or
+classification of solids. It refers to the separation of coarse from fine
+material during the flow of a powder or the vibration of a bed of powder.
+As an example, gravel, coal or sand tend to form a cone shaped pile when
+poured on the ground. When this pile contains many different sizes, the
+smallest ones remain at the apex of the cone, and the large particles tend
+to come to rest at the bottom edge. The phenomenon affects industries with
+solids handling and storage systems.
+
+For instance, the quality of finished glass is affected by segregation.
+Also the uneven distribution of size in a coal feed of a preparation plant
+results in inefficient operation. Another occurrence is the reaction of
+a bed of powder with a gas which often depends on the size of the particles
+and the pattern of gas flow with the result that a non-uniform distribution
+of sizes can adversely affect the speed or conversion of reaction. Uneven
+loading on bunker walls could conceivably lead to failure of the structure.
+
+One of the aspects of particle segregation that has confused its understanding
+is the behaviour of very fine material (100 microns and much less) when
+in a mixture with coarser particles. Initially, when this was first addressed
+in the literature, for instance Van Denburg and Bauer (1964) and Williams
+(1965), it was considered that fine particles would give negligible
+segregation. Lawrence and Beddow (1969) noticed inverse segregation (less
+coarse particles in outer layers) in mixes containing greater than 60 per
+cent fines, with large coarse particles. This appears to be the first published
+work reporting this phenomenon. Williams (1976) reported that one problem
+of segregation not studied is the extent to which segregation occurs for
+particles of mean size less than 100 microns. Drahun and Bridgewater (1983)
+could not clearly find the reasons for Lawrence and Beddow's phenomenon.
+Bagster (1983) reported reverse segregation patterns for low coarse
+concentration, fine sand mixtures (the coarse concentration falls as the
+distance from the feed point increases). He ascribed this to cohesion effects.
+Bagster (1985) again reported these reverse segregation patterns, and such
+influences as settling velocities, bouncing fine particles, "quasi-particle"
+formation, cohesion, and matrix of fines effects were considered. The
+literature review contains more details.
+
+Indeed the literature is scarce which considered the problem of segregation
+involving very fine material, both from reporting of results and in
+interpretation of results. The object of this paper is to investigate the
+segregation patterns obtained from binary mixtures of particles involving
+very fine powers. As discussed below, size of particles is considered by
+authors and researchers to be more influential on segregation than density,
+and was the basis of this study.
+
+ 2   LITERATURE REVIEW  
+
+Fischer (1960) looked at the problem of blending coarse and fine particles,
+and came up with some suggested segregation mechanisms. These included that
+larger particles gained their mobility by rolling and flowing over one another
+and smaller particles achieve their mobility more by aerated suspension,
+with fine material being like dust in air. Another factor that can come
+into play is a tendency of small particles to coat the large ones, upsetting
+the random distribution mechanism. Electrostatic charges on the surface
+of particles constitute another most powerful force. The relatively small
+electrostatic charges that can exist on solid particles can produce
+segregation.
+
+Williams (1963) suggested that particle size is the most important of the
+properties causing segregation. The author said that size segregation occurs
+when a powder is poured into a heap, whereby the larger particles run more
+easily down the slope of the heap, and also when a mixture is subjected
+to vibration. This vibratory effect he refers to as "percolation", whereby
+larger particles tend to rise to the top, and demonstrated this effect by
+immersing a large steel ball into sand and observing that on vibration the
+steel ball tended to rise.
+
+Van Denburg and Bauer (1964) reported the caracteristics of solids that
+they consider to affect solid-solid mixing. These were: grain size
+distribution, nominal grain size, particle shape, effective particle density,
+surface characteristics, surface conductivity, bulk density, flowability,
+angle of repose, and resistance to agglomeration. This list is similar to
+Brown's factors (1939) contributing to segregation, and like Williams (1963),
+the authors consider that for free-flowing solids, size and distribution
+of size are the most influential.
+
+They said that electrostatic effects produce an unmixing effect by creating
+agglomeration when particles are extremely fine and of high surface area.
+But also, they claim that segregation within a storage container is
+predominantly caused by the freedom of particle movement that exists when
+granular, free flowing materials tumble over each other.
+
+The conclusion stated is that finely sized materials, say finer than 200
+mesh (74 microns), will offer few problems in segregation. This is because
+here the variables associated with high surface area per unit weight tend
+to control and free flowing properties are often lost.
+
+Williams (1965), following up his earlier work, again added that size was
+the most important property influencing segregation. He explained the
+segregation effect with a "screening" model.
+
+The inclined surface contains holes of the same order of size as the diameter
+of the bigger particles. Particles when falling down a slope are kept in
+a state of agitation near the surface, and act as a screen, which allows
+fine particles to fall through with high probability. Coarse particles can
+not pass through and roll to the lower part of the inclined slope. This
+differs from Brown's collision theory (1939) in explaining segregation where
+it is postulated that smaller particles are brought to rest on collision
+much more readily than large ones which therefore can travel further.
+
+Williams also states that very fine particles are usually cohesive, and
+that segregation is very much less serious for such powders. He said that
+it is quite certain that the tendency to segregate falls away with reduced
+particle size, and is negligible for particles less than about 20 microns.
+No numerical data supported this claim, which is similar to Van Denburg
+and Bauer's view.
+
+Lawrence and Beddow (1969) studied powder segregation during die filling
+with two component mixes of lead particles. Their main conclusions were:
+
+2.1  Segregation occurs by fines filtering down through the moving powder
+mass, and an excess of coarse particles flows to the outer layers of the
+powder in the die. They termed this occurrence normal segregation.
+
+2.2  As fines are reduced in size, beyond a critical value, the filtering
+process becomes progressively more difficult, and segregation may even
+decrease. In large sized coarse particle systems, inverse segregation occurs.
+Also, particle shape and density had little effect upon powder segregation.
+
+Hence Lawrence and Beddow observed that with large coarse particles and
+a high percentage of fines in the system, the outer layers would have a
+lower coarse particle percentage than in the original mixture. They attribute
+this inverse segregation, as they called it, to the fact that when burial
+occurs during die filling, the relatively few coarse particles are hindered
+by drag from reaching the vicinity of the die wall. They said this occurred
+in mixes containing more than 60% fines. With less fines they observed normal
+segregation occurring. Harris and Hildon (1970) noted that few quantitative
+measurements of the segregation process had been made, and that size was
+reported to be the biggest influence. They stated that segregation was induced
+by two main methods. These were segregation by vibration, whereby fine 
+particles percolate through the interstices in the bed of coarse particles, 
+and segregation induced by pouring into a heap as demonstrated by Williams 
+(1965). 
+
+Shinohara et al (1972) theoretically analysed the mechanisms of size
+segregation of particles in filling a hopper based on the screening or
+percolation model. According to their model when mixed particles of different
+size flow down on a solids heaped surface, the fines pass through interspaces
+of larger particles, and are packed in interspaces of stationary large
+particles of the heaped surfaces. With this, and in the derivations of their
+equations, voidage in the bed of particles is considered a factor contributing
+to the segregation process.
+
+Williams and Khan (1973) summarized the main mechanisms of size segregation.
+The first considered was trajectory segregation, due to the fact that for
+particles projected horizontally, the distance they will travel is proportional
+to the square of the particle diameter. Percolation, which is when
+rearrangement of particles takes place due to the probability that a particle
+will find a void in which to fall, which depends on particle size, and
+vibration, in which large particles vibrated tend to rise to the surface,
+are other mechanisms stated.
+
+Their experiments examined the effects of particle size and shape on
+segregation. Shape was considered not to be a significant contributor to
+segregation but particle size, as with others, was the main factor.
+
+Another finding was that segregation was reduced when the mean diameter
+of components was decreased below 500 microns. Also in glassbead mixtures,
+by increasing the diameter ratio past a critical point, segregation was
+reduced. This was attributed to the presence of static electricity in finer
+materials, causing cohesion between particles, and reducing percolation.
+
+Williams (1976) presented a review of the segregation of particulate
+materials. In this paper, it is recognised that a problem not studied is
+the extent to which segregation occurs for particles of mean size less than
+100 microns, and the particle size for which segregation can be assumed
+to be negligible.
+
+In 1983 Bagster confirmed Drahun and Bridgewater's finding (1983) that
+concentration profiles for various slope lengths could be correlated using
+a fractional (dimensionless) slope length. Also, at low feed concentrations
+of coarse particles, the  profiles could be correlated using a
+concentration ratio. This ratio relates the coarse concentration at a
+particular slope length to the average feed coarse concentration.
+
+For coarse sand and cohesionless fines mixtures, the characteristic increase
+of concentration of coarse material towards the wall was reported by Bagster.
+He observed an apparent universality of concentration profile at low coarse
+concentrations. This is consistent with there being no interference between
+coarse particles. However, with higher feed coarse concentrations, there
+is a probable concentration dependence.
+
+Also presented were profiles for low coarse concentrations and very fine
+sand particles, finer than before, with the fines being somewhat cohesive.
+The reversal of previously found profiles was observed, with a pronounced
+reduction in coarse particle concentration near the wall of the bin. That
+is, the coarse portion of the feed has seemingly been retarded as it travelled
+down the slope. As the coarse concentration was increased to 25 per cent
+the coarse concentration profile showed less extremities of concentration
+variation at the bin walls. At 50 per cent concentration the reverse profile
+did not really show up at all, and there was on the whole a flattened profile,
+indicating little segregation. Thus the author stated that the reverse profile
+is modified by the simple mass of additional coarse material.
+

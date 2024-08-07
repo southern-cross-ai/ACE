@@ -1,0 +1,194 @@
+Premature adult mortality and short-stay hospitalization in Western
+Australia attributable to the smoking of tobacco, 1979-1983 By C. D'Arcy J. Holman and Ruth E. Shean  
+
+ABSTRACT  The proportions of total deaths and premature adult mortality
+in 1979-1983, and of short-stay hospital admissions and bed-days in 1983,
+that were attributable to the smoking of tobacco were estimated in Western
+Australia by the use of aetiological fractions that had been derived from
+the published literature. Premature adult mortality was measured by the
+person-years of life that were lost from ages 15 to 69 years
+(PYLL6915). In men it was estimated that 25% of all deaths and
+14% of PYLL6915 were attributable to smoking. In women the
+corresponding proportions were 15% of deaths and 8% of PYLL6915.
+The proportions of short-stay hospital bed-days that were attributable to
+smoking were estimated at 7% in men and 3% in women; for hospital admissions
+the estimates were 4% and 1% in men and women, respectively. In all,
+tobacco-related disease and injury accounted for around 1700 deaths and
+7500 short-stay hospitalizations each year in a population of 1.4 million
+persons.
+   (Med J Aust 1986; 145: 7-11)  
+
+  In April 1985, the Commonwealth Department of Health produced a document
+for the Special Premiers' Conference on Drug Abuse in Australia that was
+entitled, "Statistics on drug abuse in Australia". In that paper it was
+estimated that 16 620 deaths occurred in Australia in 1983 as a result of
+the smoking of tobacco. When the same methods were applied to Western
+Australian mortality data, the number of tobacco-related deaths was estimated
+at 1204 a year.
+  There are three reasons why we consider that the above figures underestimate
+substantially the true number of deaths in our population that are
+attributable to tobacco.
+  First, the Commonwealth Department of Health estimate was based on
+aetiological fractions that were derived by Drew. Drew generated these
+fractions for the purpose of the estimation of tobacco-related deaths in
+Australia from 1969 to 1980. Drew's calculations were based on sound methods,
+and the utility and application of his report in this country have been
+considerable. However, the aetiological fractions that were contained in
+Drew's report were derived from the prevalence of smokers and recent ex-smokers
+(that is, those who had given up smoking in the last five years) among
+Australian men and women in February 1977.
+  These exposed proportions of the population, 51.9% of men and 33.7% of
+women, were combined with rate ratios for smoking-related diseases in which
+the exposure contrasts were formed in terms of ever-smokers compared with
+never-smokers. Thus, the appropriate prevalence of "exposure" to use with
+these rate ratios was the proportion of persons who had ever smoked regularly,
+which was estimated in February 1977 to be 63.7% and 39.0% of Australian
+men and women, respectively. The effect of the exclusion of long-standing
+ex-smokers from the prevalence estimates that were used in the calculations
+was that the aetiological fractions were underestimated by an absolute
+error of 2% to 4% (the relative error ranged from 4% for lung cancer in
+men to 20% for cerebrovascular accidents in men).
+  A second problem occurred because, although the prevalence of current
+smoking in Australia from 1974 to 1983 remained constant in women and declined
+slightly in men, the prevalence of those who had ever smoked regularly
+increased, especially in women. In 1983, 68% of Australian men and 49% of
+women had smoked at some time, compared with around 64% of men and 39% of
+women in 1977. This trend towards a greater prevalence of persons who have
+ever been regular smokers must be taken into account in applying Drew's
+methods to deaths that have occurred in more recent time periods. This is
+because the published estimates of rate ratios for tobacco-related diseases
+apply to exposure status within six years of death, and, for this reason,
+it is appropriate to combine them with the current prevalence of ever having
+smoked. Failure to recognize this fact results in further underestimation
+of tobacco-related deaths, particularly in women. Respiratory cancer mortality
+rates in Western Australian women increased by 28% from 1973-1978 to 1979-1982.
+It is likely that most of this increase reflected a greater prevalence of
+women who had ever smoked regularly, for whom the latent period between
+the onset of smoking and the occurrence of chronic smoking-related diseases
+had elapsed.
+  Thirdly, and most important, both Drew's estimates of tobacco-induced
+deaths and those of the Commonwealth Department of Health excluded several
+causes of death which are known, or very likely, to be smoking-related. These
+are cancers of the pancreas, stomach, uterine cervix, bladder and kidney;
+diseases of the pulmonary circulation, heart failure and complications
+of heart disease; peripheral vascular disease; low birth weight; and injury
+caused by fire.
+  In this report we estimate the proportions and absolute numbers of all
+deaths, premature adult mortality, short-stay hospital admissions and
+short-stay hospital bed-days that were attributable to the use of tobacco
+in Western Australia. To the extent that it was possible, we have incorporated
+into our analysis the revised procedures that are necesssary to avoid 
+overconservative estimates.
+
+ Methods Mortality Data  
+The total numbers of deaths that occurred in Western Australia in 1979-1982,
+and the number of deaths in which the underlying cause of death was a
+tobacco-related condition, were read from data tapes that were provided
+by the Office of the Registrar General. For the purposes of analysis, deaths
+were tabulated by underlying cause, sex and age at death in five-year groups.
+ Hospital morbidity data  
+The total numbers of short-stay hospital discharges and bed-days in 1983,
+and those in which the principal condition that was treated during the hospital
+stay was tobacco-related, were based on the Hospital Morbidity Data System
+and were provided by the Planning and Research Branch of the Health Department
+of Western Australia. Discharges and bed-days were tabulated by patient
+sex and principal condition (except for injuries that were caused by fire
+and flames, where use was made of external cause coding).
+ Prevalence of smoking  
+The derivation of most aetiological fractions required estimates of the
+prevalence of persons who had ever smoked regularly in Western Australia
+in 1979-1983. For this purpose we used the results that were reported by
+Armstrong and Butler from the 1980 National Heart Foundation Risk Factor
+Prevalence Survey which was conducted in Perth. It was estimated that 61.5%
+of men and 43.6% of women had ever smoked cigarettes regularly. The 95%
+confidence intervals for these estimates were 56.9%-66.1% in men and
+41.3%-45.9% in women. No woman had smoked a pipe or cigars exclusively,
+whereas 4.2% of men had done so. However, exclusive pipe and cigar smokers
+were not included in the prevalence estimate for men.
+ Aetiological fractions  
+Revised aetiological fractions for tobacco-related diseases and injury were
+derived by the use of the following methods.
+  Cancers of the lip (ICD-9 140); mouth (141,143-145); salivary glands
+(142); pharynx (146-149); oesophagus (150); stomach(151); pancreas (157);
+nasal cavities and accessory sinuses (160, which includes the middle ear);
+larynx (161); trachea, bronchus and lung (162); uterine cervix (180); bladder
+(188); kidney and other urinary organs (189); as well as carcinoma-in-situ
+of the respiratory system (231) are known or suspected to be smoking-related.
+With the exceptions of cancers of the salivary glands and of the nasal cavities
+and accessory sinuses, we accepted that the strength of the evidence of
+the association of these cancer sites with smoking was sufficient to warrant
+their inclusion in our calculation of tobacco-related hospitalization and
+mortality. Raw figures that pertained to the two excluded sites are present
+but were not used in the analysis.
+  Aetiological fractions (F) were derived from the formula 
+
+    
+where RR, the rate ratio in those who had ever smoked regularly compared
+with non-smokers, was taken from the American Cancer Society (ACS) results
+which are in Appendix Tables A and B of the 1982 US Surgeon General's report
+on the health consequences of smoking. The prevalence of ever having smoked
+regularly, P, was estimated from the results of Armstrong and Butler.
+  Thus, for lung cancer in women, RR = 3.58 and P = 0.436. Therefore:
+
+    .
+For men, separate ACS rate ratio estimates were available for ages 45-64
+and 65-79 years. As such we calculated separate aetiological fractions for
+these two age groupings, and in the final analysis used a weighted average
+in which the weights were the numbers of cancer site-specific deaths at
+ages of less than 65 years and ages of 65 years or more.
+  No rate ratio was available for renal cancer in women and an aetiological
+fraction of one-half that estimated in men was assigned on the basis of
+the relative position of men and women with respect to fractions that applied
+to other cancer sites. The generalization of ACS rate ratios to Western
+Australia was considered valid for all the cancer sites that were studied
+with the exception of lip cancer. For cancer of the lip it was considered
+necesary to make adjustment for sunlight-induced cases, which probably account
+for a higher proportion of lip cancers in Western Australia than in the United
+States as a whole. An arbitrary multiplicative adjustment factor of 0.5
+was applied. In any case the numbers of deaths from and hospital admissions
+for lip cancer were small (see Tables 1 and 2).
+  Aetiological fractions of ischaemic heart disease (410-414), and
+cerebrovascular disease other than subarachnoid haemorrhage (431-438) were
+calculated by means of the rate ratios of Garfinkel.
+  For diseases of the pulmonary circulation (415-417) we assigned aetiological
+fractions that were identical to those that were calculated for chronic
+bronchitis and emphysema based on the view that the latter are the underlying
+cause in most cases of acute and chronic pulmonary circulatory problems.
+  Heart failure and ill-defined descriptions and complications of heart
+disease (428-429) were coded as the underlying cause of death or the principal
+condition that was treated during the hospital stay in substantial numbers
+of instances (see Tables 1 and 2). In our view, a very high likelihood exists
+that most of these deaths and hospital admissions, which were often ascribed
+to "congestive cardiac failure" and other similar non-specific diagnosis,
+were due to ischaemic heart disease. As such we have applied the aetiological
+fractions of 0.31 in men and 0.22 in women as were derived for ischaemic
+heart disease.
+  Aetiological fractions for peripheral vascular disease were derived by
+means of rate ratios from a case-control study of intermittent claudication
+that was reported by Hughson et al.
+  As with heart disease, for chronic bronchitis and emphysema (490-492,496)
+the aetiological fractions were calculated by means of the rate ratios of
+Garfinkel. Although it was considered likely that smoking was a contributory
+cause in a proportion of respiratory diseases that were diagnosed as
+pneumoconioses (for example, silicosis, asbestosis), because of insufficient
+information we did not attempt to derive aetiological fractions of
+pneumoconioses due to smoking.
+  The aetiological fraction of low birth weight due to smoking was taken
+as the average of five estimates from the different studies that were
+summarized in Table 1 of Meyer. The average estimate was 0.32.
+  The proportion of fire deaths due to smoking was estimated by a review
+of the records of these deaths that were kept by the Coroner's Office.
+Forty-two of a total of 55 fire deaths were investigated by the Coroner,
+and of these smoking was determined to be the underlying cause without doubt
+in three. A further eight fire deaths were classified as possibly being
+due to smoking (for example, a "respiratory cripple" on oxygen who caught
+fire in bed; a person with a high postmortem alcohol level who was burnt
+while asleep in a hotel). In calculating our estimate of the aetiological
+fraction we assumed that one-half of the eight "possible" deaths were truly
+caused by cigarette smoking. Thus, our estimate was 7/42 = 0.17.
+Method of analysis
+The person-years of life lost (PYLL) were calculated by the method of
+Hakulinen and Teppo, which was based on Chiang's approach to the problem
+of estimation of death rates after the removal of some, but not all, causes
+of death.
+              

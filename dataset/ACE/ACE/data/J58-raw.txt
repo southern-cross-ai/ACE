@@ -1,0 +1,193 @@
+<sample>
+	<id> J58 </id>
+	
+
+
+	<note> 2018 words </note>
+	
+
+
+	<source> Classicum </source>
+	
+
+
+	<h> Some questions on the economic and regional history of Sicily in the fourth
+century B.C. </h>
+	
+
+  The historian of Sicily in any period of antiquity is confronted by the
+paucity of the surviving evidence. The written evidence tends to concentrate
+on the most distinguished individuals of the time. Even Diodoros, who sought
+to include a continuous account of the history of his native island within
+his universal history, with mention, when possible, of his hometown Agyrion,
+concentrates on these men. Since the leading figures of the fourth century
+were active in Syracuse - this is true of both the tyrants, the two Dionysii
+and Agathokles and of the liberators, Dion and Timoleon - we have a history
+of Syacuse rather than of Sicily. Archaeological evidence can go some way
+to remedy this problem since a great deal of excavation has been done in
+Sicily in recent years. But even here we are faced with the problem of
+incomplete evidence. For example, the excavations conducted at Akragas
+have so far produced no material from the fifth century or the first half
+of the fourth. But literary evidence shows that Akragas was inhabited and
+prosperous, down to the Carthaginian sack in 406 B.C.
+  The nature of the surviving evidence creates problems if one wishes to
+write the history of Sicily from any viewpoint other than that of the leading
+figures at Syracuse. Nevertheless, there is evidence, both literary and
+archaelogical, which throws some light on other aspects of Sicilian history.
+It is possible to draw some conclusions on the economic history of Sicily
+in the fourth century and on the way in which different regions of Sicily
+developed.
+  Serious controversies exist, however, on a number of key issues which
+are central to the interpretation of this period of Sicilian history. The
+views of the excavators, Orlandini and Adamesteanu, on the dating of
+archaeological evidence from the region of Gela have generally been accepted.
+However Navarra has made a wide-ranging critique of their conclusions and
+also casts doubt on other generally accepted views. He would see the site
+of ancient Gela at Licata rather than modern Gela (medieval Terranova) and
+identifies the ancient Halykos with the modern Salso rather than the Platani.
+  But Navarra is forced to make several unlikely assumptions. He concludes
+that Terranova was the site of the necropolis of Lindioi, even thought its
+citizens lived at Licata and that the Spartan prince Dorieus' colony of
+Herakleia was located at Terranova, and not, as is generally believed, near
+Eryx at the western extremity of the island. But in that case it is hard
+to see why the Segestans and the Phonicians should have attacked Dorieus'
+colony, or why the survivors should have fled to Minoa, closer to the
+Phoenician zone than Terranova.
+  For our purposes Navarra's most significant argument is that the fourth
+century remains from Gela-Terranova, especially the coins, are of Agathoklean
+or later date and that evidence for habitation of the town in the Timoleontic
+period is lacking. However Syracusan coins from the period of Timoleon have
+been found at Terranova.
+
+The coin evidence shows that the site at Terranova was inhabitated from
+the time of Timoleon into the early third century, when we know the Geloans
+were moved to the new city of Phintias. The evidence does support the dating
+and identification of the excavators.
+  Pietrina Anello has challenged the accepted view that the widespread
+circulation of Corinthian pegasi in Sicily sarted with the Timoleontic revival
+of the second half of the century. She points out that the acceptance of
+foreign coins in general usage was more likely to have happened in the first
+half of the century, when only two Sicilian cities were still minting, rather
+than later in the century, when minting had been resumed by many cities.
+  This is not in total conflict with the accepted view. For example, Talbert
+explains the widespread use of pegasi in Sicily, by their having entered
+a &quot;coinage vacuum&quot; where there was little coin in circulation. The important
+fact is the relative scarcity of pegasi in the hoards of the first half
+of the fourth century in Sicily. But it seems likely that the penetration
+of pegasi into Sicily on a large scale may have started before the Sicilian
+cities recommenced coining themselves on a large scale, which would cast
+doubt on Talbert's conclusion that the process commenced only after the
+battle of the Crimisus. So we must take care in using the influx of Pegasi
+into Sicily as evidence on Sicilian history.
+  A third issue on which there is modern controversy is the development
+of large agricultural holdings. Most writers have assumed that in Sicily,
+as in most parts of the Greek world in the fourth to the first century B.C.,
+property became increasingly concentrated in few hands. This view has been
+most strongly argued for Sicily by Lukas de Blois, who sees an increasing
+concentration of wealth into a few hands, temporarily broken up by the
+Timoleontic colonisation and the process resuming again thereafter.
+  But an important part of the evidence for this view is Diodoros' account
+of the slave rebellion in Sicily, which shows the island as dominated by
+Latifundia. But Verbrugge has shown Diodoros' account, in which the island
+is dominated by pastoral production is incompatible with our other evidence,
+which shows cereal production to be the island's major industry.
+  Verbrugge sees the story of the servile insurrection as cover for a
+provincial uprising. Some participation in the revolt by free Sicilians
+seems likely, though it is not clear why the Romans would have been willing
+to downgrade the nature of their victory from one over free provincials
+to one over rebellious slaves, as Verbrugge assumes. But for our purposes,
+what is important is not the nature of the late second century rebels, but
+the concentration of wealth for which Diodoros' latifundia are cited as
+evidence. In view of the doubts raised over Diodoros' evidence, it is hardly
+safe to use that evidence to draw conclusions on the Sicilian economy in
+the second century, let alone in the fourth.
+  Verbrugge argues from Cicero's Verrines that even in the first century
+B.C. Sicilian agriculture was still dominated by small family farms. But
+II Verrines 3.27, which he cites as evidence shows us that at Agyrion farming
+was in the hands of local citizens - it does not tell us the size of their
+farms.
+  Even without the unreliable evidence of Diodoros, a good case can be made
+for the concentration of farming land in a relatively few hands in Sicily
+after Timoleon's time. As early as Agathokles' time, we once again find
+an impoverished demos as a key factor in the politics of Syracuse. The
+concentration of population in Syracuse and Akragas at the expense of the
+smaller centres whose recovery Timoleon had promoted also suggests the
+re-emergence of a large class of absentee landlords, since family farmers
+need to live close to their livelihood. The fact that in Cicero's time land
+in the ager Leontinus was owned by only one family from Leontinoi and by
+numerous citizens of the free city of Centuripa suggests concentration of
+land ownership and absentee landholding on a large scale.
+  We can see from the scattered evidence that there was no single pattern
+of change in land ownership through all Sicily, and we cannot tell precisely
+what happened in any given place. But it does seem clear that there was
+a tendency towards concentration of land ownership in Sicily after Timoleon's
+time, affecting different communities in different ways, but, contrary
+to Diodoros' account, not involving large scale Roman involvement under
+the Republic.
+  Another general trend which can be seen in our evidence is the devastation
+of most of Sicily at the end of the fifth century and a renewal of prosperity
+in the second half at the time of Timoleon's settlement. Once again, there
+are local variations visible in the way these developments affected various
+communities, and we can rarely perceive the locally influential factors.
+  The literary evidence is quite clear. The Carthaginians destroyed Selinous
+and Himera in 409 B.C. In 406 B.C. they sacked Akragas, while Dionysios
+forced the abandonment of Gela and Kamarina to save their populations.
+In 396 B.C. the Carthaginian attack fell on the straits of Messina, to cut
+off Syuracuse from possible help from other Greek communities in Italy or
+the homeland, and Messana was also destroyed.
+  Dionysios waged war with equal savagery, ravaging the Carthaginian province
+in 397 B.C. and sacking Motya. In south Italy he destroyed Kaulonia, Hipponium
+and Rhegion, while as late as 368 B.C. he was once again devastating the
+territory of Selinous and of Entella.
+  This destruction was not total, as we find in the 405/4 treaty between
+Dionysios and Carthage that Himera, Selinous and Akragas were to be under
+Carthaginian rule while Gela and Kamarina were to be unwalled and pay tribute
+to Carthage. We find citizens of these places joining Dionysios in 397 and
+384, Akragas revolting from him in 393 and those from the east of Minoa
+joining Dion on his march on Syracuse in 357 B.C. But these references do
+not necessarily show anything more than that a disorganised remnant of the
+original population was still to be found there.
+  The ancient sources definitely depict the cities of south-central Sicily
+as deserted when Timoleon restored them and even Syracuse as suffering from
+a shortage of population. The literary evidence indicates a serious
+depopulation of Sicily for all the first half of the fourth century B.C.,
+with Central Sicily as the worst affected area, although even there the
+depopulation was not total.
+  But our literary evidence undoubtedly depends on the writings of Timaios,
+whom, we may recall, Polybios accused of exaggerating the deeds of his hero
+to make him appear unduly distinguished. Fortunately, we have archaeological
+evidence which confirms the general outline derived from Timaios.
+  The information on Gela is the most detailed in the period between 405
+B.C. and 338 B.C.; there are only the most limited signs of habitation,
+most notably two shrines of the goddess Athena, which would seem to have
+lain outside the original walls of the city and were in continuous use from
+the sixth century to the time of Timoleon.
+  Built in Timoleon's time the hill of Gela was covered with newly built
+houses, extending to its western end. This area had not been inhabited in
+the fifth century, and the new town spread over an old fifth century cemetery.
+At the same time a massive circuit of walls was built to defend the city.
+These are securely dated by both pottery and coins associated with them
+to the Timoleontic era.
+  After Agathokles' conquest of Gela in 311/10 B.C., the eastern section
+of the city was abandoned while the western part remained inhabited until
+the Mamertine destruction of 282 B.C. and the relocation of the Geloans
+by Phintias, tyrant of Akragas. Orlandini believes that the site was then
+abandoned until Fredrick II's foundataion of Terranova in 1233 A.D. while
+Adamesteanu draws attention to a byzantine cemetery at the foot of the hill
+and suggests that some form of habitation existed on the site in this period.
+  The evidence on Akragas is less extensive, as we saw above, but it is
+clear that there was extensive new building in the city in Timoleon's time
+and, as in Gela, this took place in areas not inhabitated even in the fifth
+century. Unfortunately, as even less of Akragas, than of Gela, has been
+excavated, we cannot tell whether this represents an enlargement of the
+inhabited area of the city or merely a relocation of that area. It has been
+estimated that the total inhabited area of Akragas would have held a population
+of 16,000 to 18,000 people. This represents a considerable concentration
+of population, but we cannot be certain that the figure applies to the
+Timoleontic (or any other) period.
+  Similar patterns of devastation and resettlement can be seen elsewhere
+in Central Sicily. At Kamarina, for example, the fifth century walls were
+destroyed in large part and not replaced until the Timoleontic era.
+
+
+</sample>

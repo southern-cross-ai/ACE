@@ -1,0 +1,200 @@
+The genus Pyxine (Physciaceae, lichenized ascomycetes) in Australia By R.W. Rogers Abstract  
+
+Following morphological, anatomical and chemical studies, 15 species of
+Pyxine (Physciaceae, lichenized ascomycetes) are recorded for Australia.
+Their classification, distribution and habitats are discussed.  The following
+taxa are reduced to synonymy: Pyxine cocoes var. endoxantha Mull. Arg. and
+P. meissneri var. rinodinoides Vainio with P. berteriana (Fee) Imshaug;
+P. brachyloba Mull. Arg., P. nitidula Mull. Arg. and P. microspora Vainio with
+P. minuta Vainio; P. meissneri var. convexula Malme, P. albida Magnusson and P.
+pringlei Imshaug with P. petricola; P. meissneri var. subobscurascens Malme 
+with P. pungens Zahlbr.; P. retirugella var. laevior Vainio, P. retirugella 
+var. capitata zahibr., P. copelandii Vainio, P. asiatica Vainio, and P. 
+patellaris Kurok. with P. retirugella Nyl.; and P. prominula Stirton
+with P. cocoes (Sw.) Nyl. The new species P. isidiolenta R.W. Rogers is
+described and the new name P. linearis R.W. Rogers is proposed for P. 
+retirugella var. endoxantha forma sorediosa Mull. Arg.
+
+ Introduction  
+
+  The genus Pyxine was established by Elias Fries in 1825 with Lecidea
+sorediata Ach. as its type species.  He placed Pyxine in the tribe Pyxinae
+along with Umbilicaria, the common character being a naked proper exciple.
+By 1885 Nylander had recognized four species in the genus, with essentially
+the same delimitation as now: a small foliose lichen with black apothecia
+usually without algae in the margin; spores thick-walled, brown and two-celled.
+  Pyxine is one of a number of genera similar in thallus size and morphology
+(Pyxine, Physcia, Dirinaria and Physconia) in the Physciaceae.  Fertile material
+of Pyxine can be distinguished from the others easily, for in sections of
+the apothecium the epithecium reacts K faint purple-violet. Both Dirinaria
+and Pyxine have a dark hypothecium which is not present in the other genera
+and Pyxine, unlike Physcia, Dirinaria or Physconia, often has apothecia
+with a margin devoid of algae.  The apothecial margin in Pyxine is not
+lecideine as reported in some earlier papers, but is a modified lecanorine
+structure (Swinscow and Krog 1975a).
+  Sterile material is more difficult to determine but Pyxine does have a
+number of attributes that help to identify specimens.  First, many species
+contain lichexanthone in the upper cortex, and therefore react UV gold;
+no other foliose Physciaceae show this.  Species of Dirinaria tend to have
+lobes which fuse laterally, which no Pyxine does.  Many Pyxine species develop
+pseudocyphellae which show as white lines on the margins of the thallus
+or on the upper cortex, where they may form a reticulate pattern: such
+pseudocyphellae are not found in the other genera.  The chemistry of Pyxine
+is also characteristic, all Pyxine species (except Pyxine nubila) producing
+a range of triterpenes, but in association with norstictic acid. Dirinaria also
+produces triterpines, but in association withdivaricatic or sekikaic acids.
+  It is clear that Dirinaria is the genus closest to Pyxine in terms of
+both apothecial structure and chemistry.  Both Dirinaria and Pyxine are
+genera of the tropics and subtropics, and have at times been combined (e.g.
+Stirton 1898).  Examination of collections from the Brisbane area showed
+that the genus Pyxine in Australia was in need of careful study, although
+a great deal of ground work had already been done by Stirton (1898), Imshaug
+(1957), Swinscow and Krog (1975a, 1975c) and Kashiwadani (1977a-1977c).
+
+ Materials and Methods  
+
+  In this study taxa have been delimited by examination of a large number
+of Australian collections of Pyxine.  Having established the number of species
+in Australia, and what are the limits of their variation, type materials
+from Australia and elsewhere were examined in order to find appropriate
+names for the species.  The result is a relatively broad species concept,
+with the type sometimes representing an extreme variant of the taxon as
+in the case of Pyxine retirugella.  The species description given here are,
+therefore, not descriptions of the type but a description which circumscribes
+the taxa as they appear in the Australian environment.
+  Most of the material examined was collected by the author or by Nell Stevens.
+Collections were borrowed from other Australian herberia, CANB, NSW, MEL,
+BRI, PERTH, and the herbarium of Dr J.A. Elix in the Chemistry Department
+of Australian National University, abbreviated CANUC.  The Australian material
+in BM was examined and that in G borrowed for study.  If no location is
+indicated specimens are housed in BRIU.
+  Full synonymies are not given: those names reported for Australia are
+disposed of, and synonyms discovered during the study indicated.  Many
+additional synonyms based on modern species concepts are reported by Swinscow
+and Krog (1975a).
+  Type specimens were kindly made available for this study by BM, G, FH,
+UPS, O, W, H, S, GLAM, TNS, TUR and C.
+  All specimens were examined under u.v. light and where material permitted,
+thin-layer chromatography (TLC) and microchemical spot tests were performed
+on the thallus.
+
+ Thallus Morphology   
+
+  The thallus is normally composed of neatly radiating subdichotomous to
+linear lobes, although irregular substrates and age disturb this pattern.
+The lobes are often noticeably crenate or complicate along the margins.
+They are commonly more or less flat, although P. convexior and P. pungens
+are characterized by convex lobes.  The colour of the lobes is fairly uniform
+white to pearl grey or dull yellow.  (Colour terminology is after Kornerup
+and Wanscher 1967.)  The lower surface is black, except in P. nubila, usually
+with plentiful, well developed black rhizines.
+  Soredia, pustules and isidia occur in a continuum in this genus.  The
+intermediate forms have been noted by Kashiwadani (1977a) and by Swinscow and 
+Krog (1975a).  Some species show well developed soralia, which may be orbicular 
+and laminal as in some P. retirugella collections (Fig. 4) or orbicular
+and pedicillate as in others.  The closely related P. consocians shows pustules,
+often with proliferating tissue on the margins.  P. subcinerea shows marginal
+soralia that appear to develop from the marginal pseudocyphellae, often
+spreading continuously along lobe margins (Fig. 9) but in other cases remaining
+discrete.  P. cocoes produces laminal and marginal erose soralia (Fig. 5)
+which may form extensive sorediate patches.  In P. sorediata the soredia
+are marginal and very coarse, although sometimes they are restricted to
+the tips of marginal lobules and may look rather like insidia (Figs 6 and
+7).  The soredia of P. coccifera have their origin in the pseudocyphellae
+and are brilliant red (Fig. 8).
+  Soralia are sometimes restricted to older parts of the thallus, with
+extensive non-sorediate areas near the perimeter.  Great care must therefore
+be taken when looking for soralia, and very small thalli ought to be matched
+to both sorediate and non-sorediate descriptions.
+  In the Australian material only P. isidiolenta shows true isidia.  In this
+species the isidia are thin somewhat branched cylindrical structures (Fig. 10).
+Isidium-like pustules are developed in P. consocians (Fig. 11).
+  Pseudocyphellae are common in a number of species but the degree of
+development is very variable.  Species should not be separated on differing
+degrees of pseudocyphellation as the character varies greatly from lobe
+to lobe on the same thallus.  Marginal pseudocyphellae, which appear as
+a white line along the margin of the lobe, are especially common.  They
+often carry over onto the upper surface as short white lines (Fig. 12) which
+may link up irregularly or more or less reticulately (Fig. 13).  In some
+cases the pseudocyphellae develop as cracks or splits between ridges.  This
+is particularly marked in the P. retirugella complex, in which the type of
+P. retirugella shows an extreme development of reticulate pseudocyphellae.
+P. coccifera commonly shows deeply split pseudocyphellae (Fig. 8).
+  Colour of the medulla is fairly constant within a species.  Three colours
+can usually be distinguished: white, yellow and buff.  In P. coccifera, the
+medulla is white except immediately under the pseudocyphellae where it is
+red.
+  Pruina is present in most species, the amount varying from specimen to
+specimen and lobe to lobe.  It may be present in continuous sheets, e.g. in 
+P. cocoes (Fig. 14), or only in a sparse scatter of crystals as in P. linearis
+(Fig. 15).
+  
+ Apothecium Morphology  
+
+  Variation in apothecium morphology has been well discussed by Swinscow
+and Krog (1975a) and there is little to add.  It is clear that the nature
+of the margin of the apothecium is variable, sometimes with an apparently
+thalloid margin and sometimes without one.  The margin is in all cases
+lecanorine but often without algae and carbonized, thus appearing lecideine.
+In the past many species have been created on the grounds of a margin coloured
+like the thallus or not; such separations are spurious, a single thallus
+often having apothecia of both forms.  The presence of an `internal stipe'
+(Imshaug 1957) has been found to be a useful taxonomic attribute.
+
+ Chemistry  
+
+  Cortical chemistry is an important taxonomic character in Pyxine, the
+presence or absence of atranorin or lichexanthone being a useful character
+for identifying species.
+  Medullary chemistry is variable within and between species.  The medulla
+may contain norstictic acid, testacein, triterpenes and pigments.  Testacein
+is the unknown UV substance reported by Swinscow and Krog (1975a), first
+isolated from Parmelia testacea (J.A. Elix, personal communication).
+Triterpenes are present in all species except P. nubila, but in variable
+quantities.  They appear to be constant or present as only a limited number
+of variants in a species.
+  Medullary chemistry is regarded here as a confirmatory character only.
+Neither the presence or absence of norstictic acid or testacein nor a different
+pattern of triterpenes was considered sufficient in itself to separate species.
+In this respect the treatment of chemistry in this study is akin to that
+of Swinscow and Krog (1975b) in their treatment of Usnea rather than their
+account of Pyxine in East Africa (Swinscow and Krog 1975a).  Permitting
+chemical variation within species has had particular significance in the
+P. retirugella and P. minuta complexes, in which fewer species are recognized
+than would be if the criteria used in some other studies (e.g. Swinscow and
+Krog 1975a; Kashiwadani 1977a) were applied.
+  The chemistry of the species discussed in this paper is presented in Fig. 1.
+
+ Distribution patterns  
+
+  Virtually all of the collections of Pyxine made in Australia are from
+a narrow band near the coast.  They were gathered mostly along the east
+coast except for a small number of collections from the north and north-west,
+two from the extreme south-west and one from Tasmania (Fig. 2).
+  If the coastal strip is divided into segments representing climatic regions
+and the total number of species of Pyxine present in each is accumulated
+(Fig. 2), it is apparent that the genus shows its greatest development in
+the tropics and subtropics, which have a more or less year-round rainfall.
+A number of species is also known from the `Wet-Dry' tropics, a region with
+an extreme winter drought and a relatively short wet summer season.
+  Only one species occurs in the cool-temperate region, Pyxine nubila, known
+only from a single site in Tasmania.  One species, P. subcinerea, has a disjunct
+distribution from southern New South Wales to the far south-west of Western
+Australia.
+  On the maps of individual species it is likely that any disjunctions apparent
+along the eastern and southern coasts where collections of lichens are numerous
+represent real distribution gaps.  However, gaps along the northern coast
+(e.g. in the Gulf of Carpentaria) may represent gaps in collection rather
+than distribution.
+  The distribution of Pyxine in Australia (Fig. 3) can be explained in climatic
+terms.  The genus occurs only in those areas which are at least seasonally
+humid and wet and warm simultaneously.  This explains the absence of Pyxine
+from the inland, from the south-central coast and the western coast, which
+have a cool wet winter and a dry summer or are uniformly dry all year round.
+Exceptions to this are Tasmania, where a single collection of P. nubila (Fig. 3F)
+is known from a region which is uniformly cool and moist, and the extreme
+south-west of Western Australia where P. subcinerea occurs (arrowed in Fig. 3J).
+  In the north the seasons are strongly differentiated with a warm, very
+dry winter and a hot wet summer.  This climate supports a number of species,
+one of which (P. coccifera, Fig. 3B) is restricted to the region.  
+

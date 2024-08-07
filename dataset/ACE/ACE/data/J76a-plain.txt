@@ -1,0 +1,207 @@
+Ed J R Davidson AN EMPIRICAL METHOD OF ASSESSING ROCK MASS BLASTABILITY By PETER A LILLY ABSTRACT  
+
+  A method of assessing the blastability of a rock mass is presented which
+makes use of five, readily available, simple parameters. These are the Rock
+Mass Description, Joint Place Spacing, Joint Plane Orientation, Specific
+Gravity Influence and Hardness. For a particular rock mass a value is assigned
+to each parameter and the Blastability Index is calculated from these values.
+Application of the Index in blast planning and computer modelling is discussed.
+
+     INTRODUCTION  
+
+  Achieving the optimum blast design for a particular rock mass type, be
+it in mining or quarrying, can be an expensive and time-consuming procedure.
+In particular obtaining a good first-estimate or starting point for the
+quantity of explosive required to break the ground (ie. powder factor) can
+be problematical. Estimates are usually based on the operator's experience
+and/or the experience of a hired consultant.
+
+  The method presented here provides the practical blasting engineer with
+a good estimate of a rock masses' blastability based on observing a few
+easily obtained geotechnical parameters. The method has been used by the
+author in blast planning for operations of all sizes and scales and it has
+proved invaluable on more than one occasion.
+
+      GEOTECHNICAL FACTORS AFFECTING BLAST PERFORMANCE  
+
+  Practically every parameter used to describe a rock mass will, theoretically,
+have some effect on that rock mass' response to an explosive charge placed
+with it. A significant amount of literature and research has been devoted
+to this subject and some of these parameters include the static and dynamic
+Young's modulus, Poisson's Ratio, density, compressional wave velocity,
+tensile strength, compressive strength, Hugoniot elastic limit, stress wave
+attenuation characteristics and porosity, as well as the frequency of
+occurrence of bedding planes and the number, frequency and characteristics
+of geological joints and faults (eg. Ash, 1973; Harries, 1978, 1981; Hagan,
+1979, 1980; Cohen, 1980; Mercer 1980). From the viewpoint of a theoretician
+wishing to model accurately the fragmentation and heave process, most of
+the parameters must be considered.
+
+  From the practical engineering viewpoint, however, it is comforting to
+know that the rock mass parameters which contribute SIGNIFICANTLY to blasting
+performance are relatively few. In the writer's experience these are as
+follows.
+  
+  1. the structural nature of the rock mass, eg. blocky or massive or powdery,
+
+  2. the spacing and orientation of planes of weakness such as joints, faults,
+     bedding planes, schistocity and foliation,
+
+  3. the specific gravity of the material,
+
+  4. the hardness of the material.
+  
+  The meaning and significance of each of these will be discussed in turn.
+
+ STRUCTURAL NATURE OF THE ROCK MASS  
+
+  When an experienced blaster observes a rock mass with a view to fragmenting
+it with explosives, the first thing he will note is "how it looks". If the
+rock is blocky, that is made up of a multitude of joint-bounded blocks,
+then he knows that the fragmentation will be controlled by these joints
+more so than by the explosive- generated strain wave. If the rock is massive
+or almost devoid of planes of weakness, then the fragment size distribution
+will be almost entirely dependent on the generation and intersection of
+blast-induced fractures. This initial, qualitative assessment of the rock
+mass is extremely important. 
+
+ JOINT PLANE SPACING  
+
+  For the purposes of this discussion, joint planes will refer to all planes
+of weakness in the rock, be they bedding planes, planes of foliation or
+schistocity, fault planes or, indeed, geological or mining-induced joints
+themselves.
+
+  In jointed rock masses, where fragment size and shape is dependent largely
+on the joints themselves, the spacing of existing planes of weakness will
+give the engineer a good idea of the size and shape of the fragments which
+he will find in the muck pile after a blast. Rock masses containing closely
+spaced joint sets will (all other things being equal) require far lower
+energy factors than those where joint spacing is measured in metres.
+
+ JOINT PLANE ORIENTATION  
+
+  The orientation of the predominant planes of weakness relative to the
+free face is of critical importance, not only as regards fragment size
+distribution but also muck pile diggability, bench floor profile and "toe"
+(eg. Singh and Sarma, 1983). Clearly horizontal planes of weakness in a
+horizontal bench operation are a far easier proposition to blast than, say,
+planes which are dipping in the direction of throw. Not only can the latter
+relationship produce slabby muck, it can also yield a saw-toothed bench
+floor profile. Once again this parameter can be quickly and easily assessed
+by the engineer.
+
+ SPECIFIC GRAVITY AND HARDNESS  
+
+  Although still influential, these two parameters are much less important
+than the preceding three. The mass of rock per unit volume is significant
+since, in general, heavier rock masses require more explosive energy to
+break and move than do lighter rocks. Likewise, harder rocks can be more
+difficult to breaK than softer rocks, although explosive properties do have
+a major influence on this.
+
+      THE BLASTABILITY INDEX (BI)  
+
+  In some problems in rock engineering, the interaction between the many
+rock-mass-related variables is so complex that analytical solutions are
+not possible. In such situations it is common to use empirical rock mass
+classifications, such as those developed at the South African CSIR (Bieniawski,
+1973, 1976) and the Norwegian Geotechnical Institute (Barton, et al, 1974).
+The rock quality indices obtained from these classifications allow the engineer
+to make semi-quantitative estimates of stand-up time, span and support
+requirements for underground openings, and slope angle for open pits.
+
+  This concept has been extended to include rock mass blastability. The
+parameters described in the foregoing sections have been combined in such
+a way that, by ascribing certain guidelines, a total value can be obtained.
+This total is then a measure of the overall blastability of the rock mass
+or the ease with which it can be fragmented with explosive energy.
+
+  The parameters with their weighting factors are shown in Table 1. It will
+be noted that the index is heavily weighted towards the nature and orientation
+of planes of weakness in the rock mass. The Blastability Index (BI) is obtained
+by summing the five values described and dividing by two, ie.,
+
+  .
+ Table 1 APPLICATION OF THE INDEX USE IN SPECIFIC CHARGE DETERMINATIONS  
+
+  The index was initially developed to cover all the rock mass types present
+in the iron ore mines of north west Western Australia. As it is defined
+for these mines, therefore, the index has a maximum value of 100. This
+value refers to the extremely hard, iron-rich cap rock, massive in nature
+and having a specific gravity of about 4 tonnes per cubic metre. At the
+bottom end of the scale in these mines are soft friable shales which have
+indices around 20.
+
+  Historical blast data were used to construct the graph shown in Figure
+1, which shows powder factor plotted against blastability index. It is
+important to note that this diagram is valid for large-scale, rope shovel
+operations having sizeable crushers and using ANFO as the primary explosive.
+Figure 1 also shows energy factor (rather than powder factor) as the
+alternative dependent variable so that explosives other than ANFO can be
+compared.
+
+  
+
+ Figure 1: Blastability Index Versus powder/energy factor  
+In smaller scale operations in which front-end loader equipment is being
+used, powder/energy factors other than those shown will be required to achieve
+the appropriate fragmentation and muck pile shape. Higher powder factors will
+not be necessary, however, if RMD <20, BPS<15 and joint planes are favourably
+oriented. Whatever the case, the BI can very quickly be used to construct
+curves similar to that shown in Figure 1 specific to a particular scale of
+operation.
+
+ EXAMPLES  
+
+  1.  Consider a highly laminated, soft, ferriginous shale which has horizontal
+      to sub-horizontal bedding
+        .
+
+  2.  Consider a well-jointed, blocky quartzite in which the bedding planes
+      strike roughly normal to the bench face
+        .
+
+ USE IN FRAGMENTATION MODELLING  
+
+  Cunningham (1983) has developed a simple but extremely useful fragmentation
+model based on the Kuznetsov equation and the Rosin-Ramler distribution.
+Input for this model includes charge length, charge density, charge diameter,
+burden, spacing, bench height and explosive relative weight strength. The
+effect of rock type is included as a "rock factor". Experience with this
+model in a wide variety of situations in Australia has shown that the rock
+factor can be obtained from the BI by simply multiplying the BI by 0.12.
+
+  Other models requiring similar rock type input can be calibrated to the
+BI in a similar way.
+
+      CONCLUSIONS  
+
+  The Blastability Index incorporates easily recognisable and recordable
+rock mass parameters which are significant in affecting blast performance
+and muck pile diggability. Since the information required can be obtained
+from exploration drilling or from existing bench faces, it can be used in
+both the planning and production phases of projects requiring rock blasting.
+
+  If an engineer knows the limitations of the loading and crushing equipment
+he has at his disposal, he can readily obtain a graphical relationship between
+energy/powder factor and the blastability index and thereby quantify blast
+design input more effectively.
+
+  When coupled with computerised fragmentation models, the blastability
+index can provide an excellent means to experiment on the VDU screen with
+a variety of blast designs, thereby avoiding expensive mistakes or
+miscalculations in the field.
+
+  The Index, as with all geomechanics classifications, has its weaknesses,
+however. Because the Index is a simplification, situations will exist where
+the BI does not in fact give a good estimate of blastability. This is
+particularly true in extreme rock masses where one parameter may be dominant.
+The BI does not differentiate between fragmentation and heave either and,
+if anything, is biased toward fragmentation assessment.
+
+  Future work on the index aims at incorporating the concept into the blast
+simulation package being developed at the Julius Kruttschnitt Mineral Research
+Centre (JKMRC). It is also planned to take explosives properties into account
+since these strongly affect blast performance.
+

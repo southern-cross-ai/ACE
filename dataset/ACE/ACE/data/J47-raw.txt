@@ -1,0 +1,229 @@
+<sample>
+	<id> J47 </id>
+	
+
+
+	<note> 2010 words </note>
+	
+
+
+	<source> Educology '86 - 10-12 July 1986 </source>
+	
+
+
+	<h> But who will sweep the streets?  Seeking the real emerging curriculum issues </h>
+	
+
+
+	<bl> By Kevin Harris </bl>
+	
+
+  The dominant body of theory which presently underpins research into
+educational issues, teaching training, schooling practices, and which supplies
+the rationale for the provision of universal compulsory schooling in the
+first place is idealist theory which mystifies and misrepresents the role
+of schooling within social relations and which creates tensions within
+schooling by positing noble and worthwhile goals which are in fact
+unrealisable. An analysis of the role of schooling in terms of production
+relations rather than idealist theory reveals that the achievement of universal
+liberal education within advanced corporate capitalist social relations
+is mythical, and that the most likely tendency for the future will be to
+offer less liberal education to fewer and fewer people. If societies are
+to survive in which universal liberal education is truly possible (and in
+which free educated citizens willingly carry out the necessary menial and
+instrumental tasks) then a fundamental change in the economic base must
+first be brought about.
+
+
+	<h> Introduction </h>
+	
+
+  In a recent paper Jim Christensen argued for a curriculum for freedom
+as an appropriate alternative to school curricula designed to enhance pupils'
+job prospects, insisting that we must come up with a viable alternative
+to the latter, and that finding a suitable alternative is a serious
+contemporary challenge for professional teachers. I agree with him in
+principle. My immediate problem is that I would wish to take very strong
+issue with just about everything else in his paper, which I see as being
+misguided and misdirected mainly because of its basis in one naive
+social-economic hope and a series of misunderstandings of the place of
+schooling within social relations. One possible response, then, would be
+to mount a direct criticism of Christensen here; but I have never liked
+duelling in public, and so I shall choose a different response. Rather than
+make negative points I shall put forward a positive case concerning many
+of the same issues which Christensen has addressed: our analyses will not
+touch at many points but they will meet on a central issue, and taken together
+they may then form the basis for future constructive discussion rather than
+the public blood-letting which too many academics are much too fond of.
+But given the constraints of time and space I can at best outline my case
+and give small supportive argument here: full discussion must be sought
+elsewhere.
+
+  My case is simply that educational practice, which includes curriculum
+issues - not to mention our youth - has been very badly served for a long
+time by an outmoded and inappropriate body of educational theory, and also
+through failure to take necessary heed of a particularly valuable explanatory
+account of the labour market, labour relations and production relations
+- an account which demonstrates that universal liberating education cannot
+be achieved without a fundamental change right at the very economic base
+of social relations.
+
+
+	<h> The Inappropriate Body: Idealist Liberal Educational Theory </h>
+	
+
+  Educational practice - in its formal legal manifestation, schooling -
+is underpinned by theory: educational theory. Teachers consume large doses
+of it in their training period, they espouse it as practitioners and confront
+it in guides to their work such as curriculum preambles; government departments
+formulate their policy in terms of it; and all who have to do with education
+in general are accountable to it. And the vast bulk, if not the whole of
+this educational theory which researchers presently generate, and academics
+presently teach, and teachers presently learn, and government departments
+presently attempt to implement in schooling practice is what I shall call
+idealist liberal educational theory. It is theory firmly rooted in Plato,
+which has come down to us in a continuous line from him; and the roots are
+most manifestly obvious in the works of those who held the first chairs
+and lectureships when the monopoly on legitimate educational theory shifted
+to universities and advanced colleges about a century ago, and who so set
+the tone for modern contemporary studies.    
+
+  But just as Renaissance scholars had to reconcile Platonism with
+Christianity, so the Victorian Platonist dons had their particular
+reconciliation to do too. Plato's social and educational theory was unashamedly
+elitist. However, more recently transmitted from the past were theories
+(rooted in changing material practices) of equality, egalitarianism,
+liberalism, and the `Romantic' belief in the worth of every individual person,
+which those such as Voltaire, the French Revolutionaries, Rousseau, von
+Humbolt and Mill had given expression to. Alongside this, industrial capitalism
+had brought about the great migration to the industrial and commercial cities,
+as well as the need, of which more will be said later, to school everybody.
+Thus the major problem confronting educational theory, as practised by its
+first academic professionals, was that of reconciling Platonic idealist
+elitism with liberal egalitarianism; and the legitimate educational theory
+which has since emerged as dominant is that which, while attending to the
+empirical data generated by the social sciences as well as such key concepts
+as `equality', `autonomy', `individual development', `enlightened citizenship'
+and `democracy' along the way, has unsuccessfully continued to address itself
+to this task. Sad though it might be, (and this does relate to the
+street-sweeper problem) we have been riding a loser for a long time now.
+Why it is a loser will become evident as this paper progresses; here let
+me spell out first why I categorise the theory in question as `idealist'.
+
+  Basically, dominant educational theory is idealist in that it denies,
+ignores, misconceptualises, and renders unproblematic certain important
+factors about the real world of daily experience and practice. More
+specifically: 
+
+  a) it assumes, either explicitly or implicitly, an atomistic stance to
+social relations, and thus adopts a theoretic context which regards teachers
+as free, autonomous, individual agents and consequently describes teacher
+practice within the terms of such a context. An emphasis falls on what the
+(independent, autonomous) individual teacher can or might do for individual
+pupils, and then through dubious extrapolation closely resembling the
+committing of a category error, on the gains and transformations which are
+hoped for from the accumulative effect of large numbers of (independent,
+autonomous) individual teachers interacting with larger numbers of less
+independent and less autonomous but similarly individual pupils. The theory
+thus appeals to the aspirations and capabilities of teachers as individuals,
+and teachers are, of course, individuals in one sense (a sting in the tail
+is that it also attributes blame for failure to teachers as individuals),
+but it fails to account adequately, if at all, for the non-atomised social
+constraints which stand between the teacher-as-individual (and the pupil-as-
+individual) and the fulfilment of the prescribed ideals
+
+  b) it conflates schooling with `education'. That is, a public concrete
+institution is confused and conflated with an abstracted ideal in much the
+same way, as Illich has noted, that hospitals and `health' and the police
+force and `law and order' have similarly become conflated. Now this is not
+to deny that schooling has something to do with `education', but the nexus
+is a tenuous one and anything but the essentialist association which the
+once revered philosopher, R.S. Peters (in a direct line from Matthew Arnold)
+so commonly proclaims. Schooling, as we shall see, has much more to do with
+things other than `education'; and the nexus which has been consistently
+woven between the two thus falsely represents schooling to its agents (the
+teachers), its charges (the pupilis), and to its providers and beneficiaries.
+Theory which declares that the main business of schooling is `education',
+or simply blurs the distinction between the two, mystifies the function
+of schooling within social relations, and at the day-to-day level presents
+teachers with fine ideals, noble hopes, admirable aspirations, and large-scale
+failure when it comes to the attempted realisation of these things in practice
+(which does not mean that no teacher ever assists in the `education' of
+some pupils).   
+
+  c) it concentrates quite centrally on notions such as `democracy',
+`equality', and `personal autonomy', suggesting also in unproblematic fashion
+that the social formations in, to and for which the theory is meant to apply
+are democratic and egalitarian (or at the least are moving strongly in those
+directions), and that they are seriously desirous of promoting the type
+of personal autonomy spoken of among all. Now administrators, academics
+and teachers might believe in promoting democracy, equality, and personal
+autonomy, and strive as hard as they can towards these ends; but if in reality
+they are working within social relations which are quite undemocratic, based
+firmly on inequality, and threatened by too much personal autonomy, then
+clearly these people, and especially the teachers, must continually encounter
+restraints between what they are striving for and what they are able to
+achieve, or experience conflict between the theory which guides their practice
+and the actual outcomes of their practice - and conflict which, in the long
+run, is not adequately accounted for by the theory itself.      
+
+  d) it exhorts moral and intellectual prescriptions which, although possibly
+applicable to the best of all possible worlds, tend to emerge as somewhat
+empty rhetoric in the present historical conjuncture. It would be very
+nice if schooling helped all pupils `achieve the highest degree of individual
+development of which they are capable', led pupils as deep as philosophy
+and as high as art, or, to be a little less grandiose-sounding, developed
+the spirit of fraternity among all, encouraged cooperation, and promoted
+equality and justice. Concerns and ideals such as these, flowing freely
+from dominant*dominent educational theory, are a common basis of general
+teacher-endeavour which is surely directed towards `stemming the common
+tide in a wealthy and industrial community'. They are, however, very difficult
+concerns and ideals to fulfil in non-cooperative, unfraternal, unequal,
+unjust wealthy and industrial communities which in reality cannot afford
+(both literally and figuratively) to stem the common tide, and in which
+someone has to sweep those infernal streets. 
+
+  e)  it accounts for failure to achieve its own ends, predictably, in idealist
+terms; most commonly falling back on human nature (people are naturally
+lazy, greedy, evil etc.), and/or a naive a-historical account of `the way
+things are' and how they got to be that way which distorts and misrepresents
+causal relations, takes existing conditions as `given' rather than brought
+about, and most importantly fails to recognise that `existing conditions'
+are actively maintained, reproduced and recreated in the present. In this
+way actual existing dynamic problems are confused with causal factors, and
+can thus be identified, and dismissed, as causes which have brought about
+the problems that we now face rather than as the problems themselves. An
+interesting example of such argumentation, combined with a retreat to human
+nature, is provided by the afore-mentioned R.S. Peters:  
+
+     In all social movements, whether they be religious, political or cultural
+     [does this include, and if not can we add, `educational'?], there is
+     always the problem of the majority who do not care... The explanation
+     of this familiar phenomenon, as well as the inefficacy of advocacy
+     [and `education' or schooling?], is not far to seek. The majority of
+     men are geared to consumption and see the value of anything in terms
+     of immediate pleasures or as related instrumentally to the satisfaction
+     of their wants as consumers. 
+
+And therein lies all the consolation necessary for anyone seriously
+endeavouring to put idealist educational theory into practice but somehow
+just not getting the results.
+
+  f) finally, although not exhaustively, it either denies or is largely
+oblivious to the matter of production relations and the effects of production
+relations on all aspects of material practice; including, of course, schooling.
+And having noted this it would be wise, therefore, if we ourselves now gave
+ample consideration to production relations before returning eventually
+to the general problem of producing adequate educational theory and the
+specific worry as to who will sweep the streets.
+
+
+	<h> Production Relations and Education: Reality and Possibility  </h>
+	
+
+  It was noted in the previous section that one of the legacies or effects
+of idealist liberal education theory is that the assumed connection between
+schooling and `education' is almost universally taken for granted.
+
+
+</sample>

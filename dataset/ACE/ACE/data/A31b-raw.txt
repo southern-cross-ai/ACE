@@ -1,0 +1,34 @@
+<subsample>
+	<id> A31b </id>
+	
+
+
+	<source> The Daily News - 26 June 1986 </source>
+	
+
+ 
+	<h> Hospitals `allow patients to die' </h>
+	
+
+
+	<misc> MELBOURNE: </misc>
+	
+
+  Some doctors in Melbourne hospitals are allowing terminally
+ill patients to die by withdrawing treatment from them in certain
+circumstances, says one medical director.
+  The practice was going on even though it was illegal, said Dr Syd Allen,
+medical director of the Queen Victoria Hospital.
+  Dr Allen said changes to the law were necessary to protect medical staff
+before the situation was tested in court.
+ Doctors feared a court case could result in &quot;an assault&quot; on the medical
+system, he said. 
+  Dr Allen said he was confident that the courts would support such a practice
+in certain circumstances, but acknowledged that doctors could be charged
+with manslaughter if life-preserving treatment was withdrawn from a terminally
+ill patient.                                     
+  Dr Allen was speaking after addressing a public hearing organised by a
+government committee inquiring into &quot;options for dying with dignity&quot;. 
+
+
+</subsample>

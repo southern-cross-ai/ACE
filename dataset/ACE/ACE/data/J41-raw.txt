@@ -1,0 +1,229 @@
+<sample>
+	<id> J41 </id>
+	
+
+
+	<note> 2032 words </note>
+	
+
+
+	<source> The National Economic Review - June 1986 </source>
+	
+
+
+	<h> Prospects for the Australian economy 1986-87</h>
+	
+
+
+	<bl> By Dr Barry Gray </bl>
+	
+
+
+	<h> Overview </h>
+	
+
+A mixed picture of economic performance is expected to unfold in the coming
+financial year. Assuming no further sharp depreciation of the Australian
+dollar, inflation should continue to decelerate throughout the course of
+the year, under the influence of lower petrol prices and weaker growth in
+import prices, to reach a level of 6.5 per cent in the first half of 1987.
+Aggregate economic activity, which is estimated to have contracted in the
+first half of 1986 and is expected to grow only slowly in the second half
+of the year, should resume a more rapid growth rate in early 1987; in
+year-average terms, nevertheless, non-farm GDP growth is forecast to fall
+to half that expected to be achieved in the current year. Seasonally adjusted
+unemployment rates are also expected to rise in coming months to levels
+of about 8.7 per cent of the workforce but should then decline to 8.3 per
+cent in early 1987. Finally, on the side of optimism, is the likelihood
+of some further falls in the level of interest rates in coming months,
+resulting from the recent declines in international rates brought about
+by downward revisions to inflationary expectations in the wake of the collapse
+of crude oil prices.
+
+What, then, of the pessimistic side of the picture? Inflation, though
+improving, will remain at rates double those of the major OECD countries,
+leading to a substantial erosion of the earlier depreciation-induced
+improvement in competitiveness. Further, the underlying rate of inflation
+- exclusive of health care charges and the depreciation impact - is likely
+to exhibit little variation from 1984-85 to 1986-87. Moreover, accelerating
+labour cost growth during 1986-87 might limit the extent of any further
+improvement in inflation beyond the end of the coming financial year. And,
+unemployment remains at unacceptably high levels. But overriding all else
+is the prospect of only a limited improvement in the balance of payments
+in the coming year with the current account deficit remaining about $12
+billion, equivalent to more than 4.5 per cent of nominal GDP. In order to
+attract the required capital inflow and to avoid the impact of another strong
+depreciation of the $A on inflation and debt repayments, the present downward
+trend in interest rates is likely to be reversed later in 1986. This prospect,
+together with the possibility of continued contractionary fiscal policies,
+is thus likely to limit the extent of the anticipated recovery of early
+1987, throwing the growth prospects of 1987-88 into considerable doubt.
+
+The strong growth in employment and production of recent years has been
+achieved at the cost of increased overseas debt and a continued rise in
+external debt as a means of supporting increased employment cannot be
+sustained. The constraints on domestic economic activity imposed by our current
+balance of payment situation suggests a substantial deceleration of growth
+rates is in prospect in the short term. To avoid a prolonged period of
+substantially lower growth than that to which we have recently become
+accustomed will require a significant strengthening in the competitiveness
+of our manufacturing sector in both domestic and international markets,
+combined with a favourable internal market situation for investment in
+increased productive capacity.
+
+This does not imply the desirability, in isolation, of a further sharp
+depreciation of the $A; such a move has adverse inflationary consequences
+and would aggravate our debt repayment problem. In the present circumstances
+continued wage moderation is essential and, in the absence of accepted
+practical alternatives, will be best achieved by amendment and refinement
+of the principles embraced by the Accord. A repeat of the 1981-82 situation
+- in which a substantial wage round was conducted in the face of an impending
+slow-down in activity, thus aggravating the situation and being an important
+element in deepening the subsequent recession - is the last thing required.
+An indication of the success of the Accord to date is evident in that growth
+in wages and total unit labour costs since mid 1983 have been lower than
+the levels experienced in any of the comparable recovery periods of the
+1970s and early 1980s.
+
+The key factor in achieving balance of payments adjustment and maintaining
+economic growth will be the performance of the Australian manufacturing
+sector in increasing its share of both domestic and international markets.
+Consideration of policies impacting on the entire range of factors affecting
+international competitiveness is thus required. Industry policies have an
+important role to play in achieving structural change in the Australian
+economy, in complementing macroeconomic policies, and in reducing the pressure
+to sacrifice growth as a means of accomplishing balance of payments adjustment.
+These policies are aimed at improving the productivity and competitiveness
+of Australian industries and embrace not just import competition, exports,
+investment, technology and innovation, but also labour market and education
+policies. Many of the individual components of a total industry strategy
+are already operating. What is required is a coordination of these measures
+with a view to making explicit the key objective of improving the international
+competitiveness of Australian industry. However, it will take time to achieve
+these adjustments. In the meantime, it appears inevitable that the constraints
+imposed by our present balance of payments difficulties will lead to a markedly
+slower growth outcome in the coming year. And the very grave danger exists
+that this situation could be prolonged throughout the remainder of this
+decade.
+
+
+	<h> A summary of the forecasts </h>
+	
+
+The factors impacting on this outlook are briefly summarised in this overview,
+and discussed in some greater detail in the accompanying sections. The forecast
+numbers are summarised in Table 1.1. The
+
+	<note> Table 1.1 </note>
+	
+contribution of various components to GDP growth is presented in Table 1.2,
+and the contribution of the major expenditure components to growth in domestic
+demand is shown in Table 1.3.
+
+Growth in real GDP, both in aggregate and in the non-farm sector, is forecast
+to slow appreciably in 1986-87; the forecast year-average growth for non-farm
+product, at 2.5 per cent, is half that achieved in 1984-85 and anticipated
+for the current year. Contractionary influences on economic growth in 1986
+include the fiscal policy stance adopted in the August 1985 Budget and the
+further restriction on growth in real budgetary outlays anticipated in the
+coming budget, as well as the lagged impact of the interest rate increases
+of 1985. The main expansionary influence during 1986 will be the
+depreciation-induced improvement in international competitiveness, though
+this is expected to be substantially eroded during the course of the forecast
+period and its impact on import volumes will thus be more limited in the
+first half of 1987. At that time, reactions to the recent declines in interest
+rates and the net effect of the foreshadowed tax changes of September 1986
+will be key influences in strengthening private sector demand.
+
+The contribution of various components to GDP growth is evident in Table
+1.2. Domestic demand growth continued to provide the main source of overall
+growth in the current financial year, though itself decelerating as a result
+of weaker growth in public sector expenditures and of the impact of high
+interest rates upon availability of finance for housing and such
+interest-sensitive areas as expenditure on consumer durables and private
+equipment investment. A turnaround to a modest positive influence is evident
+in movements in net export volumes, with growth in import volumes slowing
+markedly in response to weaker domestic demand growth and earlier improvements
+in competitiveness. However, movements in stocks continued to exert a small
+negative influence on growth, as farm stocks were depleted to support export
+sales and as weakening growth in sales and the impact of high interest rates
+limited the accumulation of non-farm stocks.
+
+Similar trends are anticipated in the coming financial year. Domestic demand,
+though still easing in growth, will again provide the main stimulus. Net
+export volumes will again exert a modest influence on growth, with weaker
+growth in exports being matched by a small decline in import volumes. Stock
+changes are also expected to detract from growth, with farm stocks again
+being depleted and non-farm stocks being accumulated at a lower rate.
+
+
+	<note> Table 1.2 </note>
+	
+
+A feature of the forecasts is the continued weaker role to be played by
+public sector expenditures. Growth in real government final consumption
+expenditure is forecast to ease to 2.5 per cent, after rising by 6.5 per
+cent in 1985-86 and by 7.5 per cent in 1984-85. Public sector capital
+expenditures are expected to fall in real terms by 0.5 per cent, after rising
+by 1.3 per cent in 1985-86 and in direct contrast to the strong growth of
+12.8 per cent achieved in 1984-85.
+
+The major influence on this impending slow-down in the public sector is
+the more restrictive stance with respect to budgetary expenditure assumed
+to be implemented by the Commonwealth government. Growth in total budget
+outlays of 8.7 per cent has been assumed, resulting in a Commonwealth budget
+deficit for 1986-87 of $5245 million, similar to the anticipated outcome
+for this year. This deceleration will be achieved by restricting growth
+in the Commonwealth's own net current expenditure on goods and services
+and by the continuation of weak growth in transfer payments to the States,
+Northern Territory and local government authorities. In particular, it appears
+unlikely that the earlier agreement for a 2 per cent real increase in 1986-87
+financial assistance grants will be fulfilled.
+
+These restrictions will impact directly upon real Commonwealth consumption
+expenditure on a payments basis and, on the deliveries basis of the national
+accounts, should be supplemented by a much weaker contribution from the
+overseas adjustment for defence item, arising from a variation in the timing
+of delivery of defence equipment relative to prepayments. Slower growth
+in consumption expenditure of state and local government is also in prospect,
+as growth in their current account income is slowed by the restricted growth
+in real current purpose grants from the Commonwealth and by the impact upon
+indirect tax collections of weaker wages and salaries growth and of weaker
+economic activity in general. Capital expenditure by Commonwealth public
+enterprises should decline, as the completion of the aircraft re-equipment
+programme of Qantas is replaced by a lower level of spending by TAA.
+Expenditures by state and local government authorities will continue to
+be constrained by a further decline in real terms in Commonwealth grants
+from capital purposes and by a limit on borrowings.
+
+Reflecting the improvement in the Commonwealth budget deficit, the overall
+level of public sector borrowings has probably fallen by close to $2 billion
+this year to a level equivalent to 4.5 per cent of nominal GDP. However,
+little improvement in nominal terms is anticipated in the coming year, with
+a similar deficit outcome in prospect for the Commonwealth budget and with
+no change likely in the global limit on borrowings of public authorities.
+As a ratio to nominal GDP, however, a decline to 4.1 is inferred.
+
+In aggregate, the growth in private sector demand components will continue
+to weaken as compared to the experience of the previous year. However, some
+compositional shift is in prospect, with private business investment being
+one component expected to accelerate in growth.
+
+Growth in real private consumer expenditure is expected to ease to 2.5 per
+cent in 1986-87, compared to an anticipated outcome this year of 3.5 per cent.
+Household receipts are likely to grow more slowly, as weaker employment growth
+offsets some strengthening of average earnings growth and as the current
+trend of falling interest rates and an easing of the rental market reduces the
+growth of non-wage incomes. However, the introduction of changes in personal
+income tax scales in September 1986 will be sufficient to enable an unchanged
+rate of growth in nominal household disposable incomes and, since inflation is
+expected to improve, an increase in real disposable income growth. However,
+a considerable portion of this improvement can be attributed to the
+commencement of the superannuation round which is likely to be reflected
+in the form of forced savings. Also, the non-farm saving ratio is likely
+to be stimulated, particularly in the second half of the financial year,
+by the resumption of rising interest rates and by lags in the reaction of
+consumption to increases in disposable incomes arising from the tax changes.
+
+
+</sample>

@@ -1,0 +1,30 @@
+<subsample>
+	<id> A13d </id>
+	
+
+
+	<source> The Age - 18 November 1986 </source>
+	
+
+ 
+	<h> Cricket protest </h>
+	
+
+
+	<misc> CAPE TOWN. </misc>
+	
+
+ - In the fifth such attack in less than a month, anti-apartheid
+activists have wrecked a cricket club pitch in protest at the rebel Australian
+cricket tour which has just begun.
+  In the latest attack, a group calling itself the &quot;Night Prowlers&quot; dug
+up and poured oil on a pitch in the elite white suburb of Constantia, home
+of the Western Province B team.
+  An attempt was also made to burn down the clubhouse but this was thwarted
+by a nightwatchman.
+  Previously the Western Province A ground at Newlands was attacked, the
+homes of two cricketing officials damaged and the hotel in which the rebel
+team was staying had stones thrown through some of its windows.
+
+
+</subsample>

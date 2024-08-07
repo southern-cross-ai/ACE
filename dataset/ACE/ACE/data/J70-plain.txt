@@ -1,0 +1,226 @@
+Antenna design principles for satellite communications By T.S. Bird, G.L. James, G.T. Poulton and B. Mac.A. Thomas  
+
+SUMMARY   The antenna configurations used for both earth stations and
+satellites are considered in some detail following an introduction outlining
+relevant basic antenna principles. The specifications applicable to antennas
+used for satellite communications and their effects on the design of the
+antennas are considered. Examples of both earth-station and satellite antennas
+and their characteristics are illustrated by reference to the INTELSAT and
+AUSSAT networks. Future trends in earth-station and satellite antenna design
+are also considered.
+
+ 1   INTRODUCTION  
+
+Antenna systems used in satellite communications are the vital link in the
+transfer of information between the ground station and the satellite and
+also between satellites. The increasing sophistication of each successive
+generation of satellites has meant that their antenna requirements have
+become more demanding. Further, with the reduction in the angular spacing
+between satellites in the geostationary orbit, tighter specifications are
+being placed on the earth-station antenna performance. In this paper we
+consider current and projected antenna systems developed to meet these
+demands, with emphasis on the Australian context. This will be illustrated
+by referring to the INTELSAT network within Australia (Figure 1) and also
+the AUSSAT domestic satellite communication system (Figure 2).
+
+  
+
+Antenna design requirements for ground stations differ from those for
+satellites. In both cases however some type of feed-reflector configuration
+is commmonly used. We begin therefore with a general description of
+feed-reflector antenna principles. This is followed by separate sections
+dealing with earth-station and satellite antennas in turn.
+
+ 2   REFLECTOR ANTENNA FUNDAMENTALS  
+
+The basic operation of a reflector antenna is to concentrate into a desired
+region signals emanating from a feed antenna. Figure 3 shows in cross-section
+various feed-reflector configurations found in satellite communication
+antennas. For earth stations, and for some satellite applications, these
+configurations are designed to maximize the signal in one direction - i.e.
+for the examples given in Figure 3, parallel to the ray paths leaving the
+aperture. Since a great deal of the terminology derives from such focused
+or "pencil-beam" antennas, we begin by describing their main characteristics.
+
+  
+
+It is not possible to design an antenna which confines all of the energy
+within a narrow beam (pencil beam). A number of effects contribute to
+unavoidable radiation into unwanted directions to produce sidelobes. The
+spatial distribution of these sidelobes, together with the main beam, taken
+over a spherical surface surrounding the reflector is known as the antenna
+radiation pattern. Figure 4 illustrates the basic principles.
+  
+The electric field radiated by an antenna is a vector quantity and can be
+resolved into two orthogonal (i.e. independent) components. This field
+polarization can be either linear, where the two independent signals are
+vertically and horizontally polarized as depicted in Figure 4, or circular,
+where the independent signals rotate in a left-hand and right-hand sense
+of polarization. By radiating different signals in the two polarizations
+the capacity of the antenna may be doubled: this is one form of "frequency
+re-use". The spatial distribution of the desired signal is the "co-polar"
+radiation pattern, seen in Figure 4b, while the "cross-polar" pattern (Figure
+4c) gives the energy in the unwanted polarization. A low level of
+cross-polarization around the direction of the main beam (boresight) is
+essential to reduce unwanted interference to the other polarization when
+frequency re-use is required.
+  
+For a pencil-beam reflector antenna most of the energy is concentrated within
+the co-polar main beam - typically 90% - while the remainder is expended
+in the surrounding sidelobes and the cross-polar component. The width of
+the main beam is usually specified by the angle between the half-power points.
+As the diameter of the main reflector increases the beamwidth decreases,
+with a subsequently enhanced field intensity within the beam. This is expressed
+as antenna gain G, which is the ratio of the power density radiated in the
+direction of the main beam to the power density due to an antenna radiating
+the same input power uniformly in all direction. If D is the main reflector
+diameter and    is the signal wavelength, then   . The factor
+   is the aperture efficiency and related to the field distribution across
+the main reflector aperture. For maximum gain this distribution should
+be uniform. 
+
+In the case of the satellite antenna it may be desirable to design it for
+approximately constant gain across a chosen extended angular region. This
+is often achieved by "shaping" the main reflector profile or using an array
+of horns as the feed. In the latter each horn may be considered to radiate
+a pencil beam to form a composite beam that is the superposition of the
+multiple beams. For example, Figure 5 shows the formation of an almost uniform
+beam from several pencil beams. By adjusting the amplitude and phase
+relationship between pencil beams new, quite complicated, beam shapes can
+be devised (see Section 4).
+
+The unwanted random signals that an antenna receives from the sky and the
+earth degrade the overall performance. This noise contribution is expressed
+as an equivalent antenna noise temperature    (in kelvins). The ratio of
+gain to overall temperature,
+  
+denoted by G/T (expressed as dB    is a commonly used figure of merit
+for receiving antennas. Here    where    is the temperature
+contribution due to feed losses and receiver noise. In earth-station antenna
+design in particular it is essential to maximize G/T, and for this reason
+the dual-reflector Cassegrain-type configuration of Figure 3b is preferred
+to the simple front-fed paraboloid reflector shown in Figure 3a. The
+additional reflector gives an extra degree of freedom in the design: the
+two reflector profiles can be defined to enhance the gain by providing almost
+uniform aperture illumination, while at the same time keeping the temperature
+T low by minimizing "spillover" effects at the edges of the reflectors.
+Spillover is especially important past the main reflector edge, since this
+allows energy to be received directly from the "hot" earth.
+
+A disadvantage of any axisymmetric reflector antenna is the blockage created
+by the feed or subreflector and associated strut supports. These obstructions
+have a deleterious effect on the antenna gain and, more important, on sidelobe
+levels, particularly for small antennas   . Blockage can be avoided
+by using the offset-fed reflector configurations of Figures 3c and 3d.
+Although the lack of symmetry creates a number of design problems these
+antennas are capable of performance which is superior to that of their
+axisymmetrical counterparts. They are at present expensive to build, and
+the largest constructed to date has an aperture diameter of around 12 m.
+However, because of the better performance offered by offset antennas,
+they are used extensively for on-board satellite antennas.
+
+More detailed information on the design of reflector antennas can be obtained
+in references 1 and 2. 
+
+ 3    EARTH-STATION ANTENNAS  
+
+Antennas for earth stations encompass a wide range of sizes depending on
+the type of service. In Australia the largest size is the 32-m-diameter
+axisymmetrical antennas operated by OTC for international communications
+via INTELSAT satellites. However, there is now a trend towards greater use
+of 18-m-diameter antennas, and these are gradually being installed in some
+capital cities. The major bands used by INTELSAT are the 6/4 GHz bands,
+where the 6 GHz band is for the uplink (transmitting) and 4 GHz for the
+downlink (receiving). The bandwidth in each direction is 580 MHz, and both
+senses of circular polarization are used to double the communication capacity.
+One of the smallest earth-station antennas is the 1.2-m front-fed paraboloids
+for the HACBSS (homestead) receive-only service used with the
+dual-linearly-polarized AUSSAT satellite system operating in the 14/12
+GHz bands. For transmission the minimum size is about 2 m. Where transmission
+is involved a number of specifications have to be met. These usually include:
+
+(1) The G/T on receive, and on transmit the effective isotropic radiated
+    power level (EIRP) in the direction of the satellite. The values specified
+    depend on the type of service.
+
+(2) The isolation in decibels (dB) between orthogonal polarizations. For
+    a dual-polarized system a value of approximately 30 dB is usually specified
+    for angles within 1 dB of the main beam.
+
+(3) The peak level of the radiation pattern sidelobes for all angles greater
+    than 1 from boresight. This is specified as a function    given in
+    decibels relative to an isotropic source (dBi). Most telecommunications
+    administrations use the CCIR recommendations, which are
+
+        
+
+The latter recommendation recognizes the fact that it is more difficult to
+achieve low sidelobe levels with small antennas.
+
+With the widespread use of axisymmetric dual-reflector Cassegrain antennas,
+particularly for earth-station antennas having diameters 18 m or less, it
+is of interest to consider some of the design concepts and performance
+characteristics of this type of antenna. Figure 6 (foreground) shows a typical
+Cassegrain antenna (Moree 1), where the feed-horn, polarizer-diplexer unit
+(feed-system), and low-noise receiver (LNA) are situated in the cone housing
+at the vertex.
+
+  
+
+Some new design concepts were initiated and applied during a recent upgrading
+of the Moree 1 Cassegrain antenna carried out by CSIRO Division of Radiophysics
+in collaboration with OTC. This upgrading was necessary to ensure that the
+revised INTELSAT specifications on earth-station antennas could be met
+to permit access to the new INTELSAT V satellites. A feature developed to
+meet the specifications was a corrugated horn with specially shaped
+"ring-loaded" slots - see Figure 7. The use of ring-loaded slots and the 
+design of the geometry of the horn in the throat region are critical factors 
+in achieving a good match, constant beamwidth and low cross-polarization over 
+an octave bandwidth or greater. The aperture section of the replacement horn 
+for Moree 1 is shown in Figure 8. In optimizing the optics of the antenna the 
+usual uniform illumination was replaced by that shown in Figure 9. The taper 
+of 15 dB reduces spillover of energy past the edge of the main reflector and 
+of energy scattered by diffraction at the reflector rim. Furthermore, the 
+reduction of energy in the central blocked region also minimizes the energy 
+scattered by the secondary reflector. With this as the basis for the aperture 
+illumination, and by specifying tight tolerances on the machining of the new 
+subreflector and setting of the surface panels, it was possible to achieve the 
+low sidelobes for the antenna shown
+  
+in Figure 10. The mean level is 8 dB below the specification set for new
+antennas. (The details of the upgrading and performance of the Moree 1 antenna
+are given in reference 3.)
+  
+
+ Future developments  
+
+Looking to the future, we see that the major effects on earth-station antenna
+design will arise from the use of increased bandwidth, the use of a number
+of pairs of frequency bands, and the need to reduce the interference to
+neighbouring satellites as the spacing is reduced to accommodate more of
+them. Already the CCIR recommendation for antennas installed after 1987 is
+for a 3-dB-tighter sidelobe specification where   .   . Although the
+future recommendation for smaller antennas    is still under
+discussion there is a possibility that the same criterion could eventually
+become mandatory for all reflector diameters. This could well force the
+use of offset reflectors for all small to medium-size earth-station antennas.
+As a consequence of the increased number of satellites in the geostationary
+orbit there is now a demand for communication between one earth station
+and two or more neighbouring satellites. This, coupled with the wider bandwidth
+requirements, will have considerable effect on feed and reflector design.
+
+ 4    ON-BOARD SATELLITE ANTENNAS  
+
+Antennas on board a satellite operate in a very different environment and
+have objectives which sometimes differ significantly from those of
+earth-station antennas. The communication antennas produce one or more beams,
+each beam defining a coverage region, or "footprint" on the earth's surface.
+Signals are either transmitted to or received from these footprints. The
+type of beams generated may be a single pencil, or spot, beam over a major
+city (e.g. Sydney or Melbourne), or a contoured beam designed to follow
+the boundary of a State or country, as illustrated in Figure 2. An extreme
+case of this is a circular beam of angular width 17.4° giving full earth
+coverage from the geostationary orbit.
+
+Apart from making the best use of the available satellite transmitter power, a contoured-beam antenna reduces interference to adjacent coverage regions and makes possible a more uniform coverage in the desired region.
+

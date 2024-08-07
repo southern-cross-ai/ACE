@@ -1,0 +1,32 @@
+<subsample>
+	<id> A28j </id>
+	
+
+
+	<source> The News - 12 August 1986 </source>
+	
+
+ 
+	<h> Shuttle given new rockets </h>
+	
+
+
+	<misc> HOUSTON: </misc>
+	
+
+ Engineers have developed a new solid rocket engine design to prevent
+a failure like the one that caused the explosion on the Space Shuttle
+Challenger.  A U.S. Space Agency official said a team at the Marshall Space
+Flight Centre in Alabama had settled on the new design in a major step towards
+returning the Shuttle to flight.
+  Challenger exploded on January 28 killing all seven crew members, after
+a joint in its solid rocket booster failed.
+  The Shuttle fleet was grounded until the rocket design flaw could be
+corrected.  
+  The Rogers Commission, which investigated the accident, said
+two O-rings in the rocket engine joint had failed to seal, allowing superheated
+gases to burn through the wall of a propellent tank.
+  Fuel and oxidiser from the tank ignited, causing the explosion.
+
+
+</subsample>

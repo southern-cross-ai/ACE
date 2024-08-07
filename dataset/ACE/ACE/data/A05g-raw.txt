@@ -1,0 +1,37 @@
+<subsample>
+	<id> A05g </id>
+	
+
+
+	<source> The Daily Mirror - 29 September 1986 </source>
+	
+
+
+	<h> WALL ST TRADING AT ONE-MONTH LOW </h>
+	
+
+WALL Street suffered its slowest trading day in a month on Friday, although 
+the index managed to end the session in the plus column.
+  By the close of trade the Dow Jones industrial average, which fell 34.73 
+points on Thursday, was up 1.13 points at 1769.69.
+  Big Board volume amounted to 115.27 million shares compared with 134.29 
+million on Thursday.
+  It is the lowest level since August 25 when 104.35 million shares changed 
+hands.  Traders said the stockmarket suffered from early weakness in the 
+bond market but was able to bounce back.  Takeover activity continues to 
+draw much of the spotlight, they said.
+  Janney Montogomery Scott, vice-president in equity trading of Sidney Dorr 
+said trading was &quot;fairly sloppy&quot; as money managers &quot;window dressed&quot; their 
+portfolios before the end of the third quarter.
+  Oppenheimer and Co market analyst Charles Comer said the market remained 
+trendless and polarised.
+  Standard and Poor's 500-stock index edged up 0.02 points to 232.23; the New 
+York Stock Exchange composite index rose 0.45 points to 133.94.
+  Prices ended narrowly higher in moderate trading on the American Stock 
+Exchange.  The index rose 2.86 points to 261.98.
+London
+  SHARE prices closed on the bottom on Friday with sentiment at its lowest 
+ebb.
+
+
+</subsample>

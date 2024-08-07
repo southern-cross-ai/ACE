@@ -1,0 +1,25 @@
+<subsample>
+	<id> A08i </id>
+	
+
+
+	<source> The Sun - 8 September 1986 </source>
+	
+
+ 
+	<h> WHAT POLLIES REALLY THINK </h>
+	
+
+POLITICIANS and bureaucrats beware.
+  Psychologists can now read behind the rhetorical statement.
+  The political rhetoric of world leaders is providing American psychologist
+Dr Philip Tetlock with an accurate indicator of what politicians really
+think about important issues.
+  For example, the soft-line literary use of language currently shown by
+the Soviet leader, Mr Gorbachev, tells him that Mr Gorbachev would be
+prepared to reach a major agreement with the US.
+  But Dr Tetlock has found the current US administration more sceptical
+in outlook than any administration in the last 12 years.
+
+
+</subsample>

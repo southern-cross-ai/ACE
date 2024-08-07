@@ -1,0 +1,18 @@
+<subsample>
+	<id> B10j</id>
+	
+
+
+	<source>The Sun News-Pictorial - 23 June 1986</source>
+	
+
+DEAR Fed-Up Mother: In the 1930s Depression we didn't have dole cheques.
+Our parents kept us while we tried to find jobs. They expected to do that for
+the children they had brought into the world. 
+
+
+	<bl>  J.Anderson (Elsternwick). </bl>
+	
+
+
+</subsample>

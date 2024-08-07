@@ -1,0 +1,190 @@
+<subsample>
+	<id> E36a </id>
+	
+
+
+	<source> Rural Research - Autumn 1986 </source>
+	
+
+
+	<h> Thistle control by grazing management </h>
+	
+
+
+	<bl> By Steve Davidson </bl>
+	
+
+Spear thistle seems to flourish particularly well in grazed pastures where
+soil fertility is high. To find out why, scientists compared its population
+dynamics in grazed and ungrazed pastures - and they have come up with some
+strategies for control.
+Introduced from Europe more than a century ago, spear thistle (Cirsium vulgare)
+is now widespread in Australia. Despite its attractive purple-flowering
+heads, the species has won few admirers, being declared a noxious weed in
+New South Wales, Tasmania, Victoria, and Western Australia. A prickly customer
+also known as bull or black thistle, it is particularly common in pastures
+of high-rainfall areas. 
+  Spear thistle is usually biennial; it flowers in its second year then
+dies. The seeds, shed in late summer or autumn, typically germinate after
+the first substantial drop of rain and by spring the plants take the form
+of small rosettes. In late spring of their second year the rosettes undergo
+a radical change - they `bolt', sending up tall stems that, by mid summer,
+bear 10-200 globular flowering heads.
+  In pastures, dense stands of spear thistle can prove impenetrable to
+livestock and man alike. Even after their full 2-year term, the dead spiny
+plants often remain standing for a further 1-2 years - obstructing stock
+and lowering wool quality.
+  A New Zealand researcher recently reported that in the first year (of
+a 2-year study) every extra thistle per square metre of pasture reduced
+the liveweight gain of young sheep by 1.68 kg between November and March.
+However, in the next year - when the sheep were 1 year older, thistles less
+abundant, and more feed was available - he found no significant correlation.
+  Application of a herbicide to control thistles - one that also reduced
+the clover content of the pasture - was counterproductive. In the first
+year, it actually reduced sheep liveweight gains to the same extent as a
+thistle density of 1.67 per sq. metre because the clover content of the
+pasture was temporarily reduced. A more specific herbicide did control
+the weed without depressing liveweight gains, but chemical treatment is
+both costly and time-consuming.
+  The expense of herbicide treatment and the fact that spear thistle
+infestations are mostly a nuisance in pasture land has prompted interest
+in controlling them by grazing. The trouble is, thistles seem to be worse
+in grazed pastures of high fertility than in ungrazed ones. They can even
+be used as above-ground indicators of soil fertility. So what hope do we
+have of stamping out the weed by grazing management?
+  Dr Frank Forcella of the CSRIO Division of Plant Industry and Dr Helen Wood
+of the Riverina-Murray Institute of Higher Education recently addressed
+this question with a 3-year study into the effects of sheep on spear thistle
+populations. They were particularly interested in how grazing affects the
+various stages in the life cycle of the plant and its competitive ability
+in the pasture community. Why do thistle prosper in grazed paddocks? The
+scientists also investigated how the timing of herbicide applications
+influences thistle numbers and assessed the use of grazing pressure, or
+withholding of it, as a control measure.
+
+
+	<h> Demography: vital statistics </h>
+	
+
+For their field work, the researchers chose a heavily infested annual pasture
+of red brome, annual ryegrass, sub clover, and fescues at the Ginninderra
+Experiment Station, near Canberra. To examine the effects of grazing, in
+1981 they divided the pasture into two plots: one was left ungrazed for
+the next 3 years, the other was stocked with sheep whenever forage was
+available.
+  By mapping the location of seedlings and rosettes in prescribed areas of
+the plots, by tagging rosettes, and by recording the progress of these
+individual plants at monthly intervals, the researchers determined the usual
+fate of thistles, both with and without grazing. They also recorded peak
+thistle densities each year, and counted the seeds trapped in sticky traps
+placed in each plot, the number of flowering heads on mature plants, and
+later the number of viable seeds in the fruiting heads - adding up the
+thistledown. At senescence, the plants were weighed.
+  To see whether herbicide is best applied when thistle populations are
+suffering high natural mortality or in seasons when their probability of
+death is low, the researchers ran an additional experiment in the grazed
+plot. They sprayed small replicated plots with dicamba herbicide on 31 March
+1983, 30 June '83, 30 September '83, or 3 January '84, leaving one set of
+plots untreated to act as a control. Densities of any seedling, rosette,
+and adult thistles were determined before spraying and again in all plots
+in February 1984. As fruiting heads matured, the scientists counted the
+seeds produced.
+
+
+	<h> Seedling competition </h>
+	
+
+They also set up a series of seedling competition experiments in a
+glasshouse, sowing two thistle seeds and two annual ryegrass seeds in the
+same pots, and thistles together with sub clover in a second group of pots.
+Thistles were also sown (four per pot) in the absence of a second species.
+Various clipping treatments were imposed on the competing plants (not the
+thistles) in the two-species pots to imitate grazing by stock, and half
+the pots in each group received additional nitrogen. After 10 weeks, the
+scientists dried and weighed the shoots and roots of the plants.
+  Results of the study indicate that undisturbed pasture plants make life
+extremely difficult for thistles. Sheep complicate matters by their selective
+grazing and by inadvertently trampling on pasture plants and early life-stages
+of the thistle.
+  Initial (1980/81) densities of seedlings, rosettes, and adult thistles
+as well as adult plant size were comparable in the two paddocks. But within
+a year thistles in the sheep-stocked pasture, in which the more palatable
+species has been grazed, were larger, bore more flowering heads, and produced
+more seeds per head than those in the ungrazed pasture where competition
+was presumably stronger. However, effects of sheep on thistle population
+densities as a whole only became apparent after a few years. By 1983/84, all
+life stages of the thistle from seed to adult were more abundant in the grazed
+than in the ungrazed pasture (see the table at the foot of page 17).
+
+
+	<h> Grazing favours thistles - usually </h>
+	
+
+Looking at population survival, we see that thistles suffer a sort of mid-life
+crisis, with the transition from seedling to rosette proving much more
+hazardous than transitions from seed to seedling and rosette to adult. Whereas
+10% of thistle seeds germinate successfully in ungrazed pasture to produce
+seedlings, and 49% of rosettes successfully graduate to adulthood, only
+0.2% of seedlings survive to form rosettes. In each case sheep aggravate
+the situation, but particularly in the transition from seedling to rosette
+where the success rate in grazed pasture (1%) exceeds that in ungrazed pasture
+by a factor of 5 (see the table of transitions on this page).
+  It seems that grazing of the non-thistle component of pastures promotes
+survival of young thistles, and this is probably due mainly to lessened
+competition from nearby plants after grazing - an indirect effect of sheep.
+This view is strengthened by the findings of the glasshouse competition
+experiments. Thistles sharing pots with sub clover or annual ryegrass weighed
+less than those growing only with their comrades. Clipping of sub clover
+invariably promoted growth of the associated thistles, while in the
+ryegrass-thistle pots clipping had more complicated effects (see the table
+opposite).
+  The effect of competition from pasture plants is also reflected in the
+observation that thistles in the ungrazed pasture suffered high mortality
+during periods optimal for growth - autumn and spring - and by earlier research
+conducted on the Northern Tablelands of New South Wales by Mr John George
+and his colleagues, of the then CSIRO Division of Animal Physiology. They
+found that fewer spear thistles invaded perennial pastures if there was
+a lot of plant cover, and they attributed this to competition from grasses.
+Thistles tend to falter when the going gets tough.
+  During severe drought in 1982 and early 1983, sheep also had a direct
+effect on the thistle population. Thistles were the only green plants
+available to sheep and the rosettes were heavily grazed and trampled from
+early winter until the sheep were removed in October. As a result, adult
+thistles in the unstocked pasture significantly outnumbered those in the
+grazed pasture that year.
+
+
+	<h> Thistle Management </h>
+	
+
+Do the combined results help formulate strategies for the control of spear
+thistle in the Mediterranean-like grass-clover pastures of southern Australia?
+Dr Forcella and Dr Wood suggest that since seedling mortality is naturally
+very high after autumn rain - when competition from pasture plants is strong
+- this is probably the best time to hit the weed with herbicide. Temporarily
+removing stock from thistle-infested paddocks in autumn should further reduce
+the number of seedlings surviving to the rosette stage.
+  The study also showed that in a Mediterranean climate, at least, herbicides
+like dicamba are best applied in autumn for control of seedlings and rosettes
+and to depress summer seed production. This is when thistles are making
+rapid growth conducive to herbicide action, and in winter and summer large
+rosettes and mature plants can screen seedlings from the spray.
+  In Tasmania, research by the Department of Agriculture indicated that
+slender thistle (Carduus pyconocephalus and C. tenuiflorus), both usually
+annuals, can also be controlled by deferral of autumn grazing. In this case,
+thistles competing for light in tall (ungrazed) autumn pasture become
+elongated, lush, and less prickly and so tend to be eaten by sheep in winter
+and spring.
+  Findings of the competition experiments also suggest that promoting the
+growth of annual ryegrass rather than sub clover will depress spear thistle
+under grazing. This can be achieved by using a herbicide toxic to both the
+thistle and to clover (such as dicamba), although a New Zealand scientist
+found that under the conditions of his experiment this depreseed lamb growth
+rates. If possible, ploughing the pasture to a depth of 5-10 cm in May or
+June will tend to have a similar effect on pasture composition.
+  So to grasp the nettle: avoid grazing thistle-infested paddocks in autumn...
+and, with luck, watch those seedlings disappear. If you intend to use
+herbicides, autumn looks the best time to spray.
+
+
+</subsample>

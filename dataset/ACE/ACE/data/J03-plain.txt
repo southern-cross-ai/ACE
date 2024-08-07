@@ -1,0 +1,235 @@
+Benzotriazoles as energetic materials 1.   INTRODUCTION  
+
+  Polynitrodiphenylamines are sought as new dense energetic materials, and
+for structure/property correlations, as part of an explosives synthesis
+programme.  Derivatives substituted with not more than three nitro groups
+in one aromatic ring are readily prepared by direct nitration and/or coupling
+reactions.  However, more highly nitrated compounds are not accessible by
+these routes, due to the deactivating effect of nitro substituents and the
+lability of nitro groups flanked by two adjacent nitro groups.
+
+  The strategem which has been used to synthesise highly nitrated aromatics
+involves mixed acid nitration of a suitable nitroaniline, often prepared
+by selective reduction of a polynitroaromatic, cleavage of the nitramine
+using sulphuric acid in anisole to produce a polynitroaniline which is finally
+oxidised using peroxydisulphuric acid (scheme 1).  Compounds prepared by
+this route include hexanitrobenzene (HNE) (1) [1], pentanitrotoluene (PNT)
+(2) [2] and decanitrobiphenyl (DNBP) (3) [3].  This method was extended
+to the synthesis of other highly nitrated polynitroaromatics, and to
+investigate similar reactions using diphenylamines.  However, attempts at
+nitration of these diphenylamines led unexpectedly to benzotriazoles.  This
+report describes the synthesis of several of these compounds and a preliminary
+examination of their explosive properties.
+
+  
+
+                        2.  RESULTS AND DISCUSSION 2.1  Synthesis of Materials  
+
+  2,4,6-Trinitrotoluene (TNT) (4) can be selectively reduced with hydrogen
+sulphide in dioxan to give 4-amino-2, 6-dinitrotoluene (5) [4] or by using
+iron powder in acetic acid to give 2-amino-4, 6-dinitrotoluene (6) [2].
+Hydrogen sulphide reduction of 2,4,6-trinitrodiphenylamine (7), chosen as
+a model compound to develop the procedure and prepared conveniently by the
+reaction of aniline with picryl chloride [5], failed to yield a recoverable
+product but reduction using iron powder in acetic acid [6] gave 2-amino-4,
+6-dinitrodiphenylamine (8) in good yield.
+  Mixed acid nitration of (8) gave only highly coloured solutions from which
+no product could be isolated.  However dissolution of (8) in acetic acid
+followed by treatment with 100% nitric acid gave a yellow solid, which was
+shown spectroscopically not to possess any amino groups.  The 1H n.m.r.
+spectrum in d6-DMSO displayed only two meta coupled doublets, each
+one proton, at     9.51 and 9.07 (J ~ 2Hz) and a five proton singlet at
+   7.61.  The same material was also obtained on treatment of an acetic
+acid solution of (8) with sodium nitrite, and the compound was identified
+as 1-phenyl-5, 7- dinitrobenzotriazole (9).
+
+                            
+
+  The formation of (9) by treatment of (8) with sodium nitrite is readily
+understood in terms of dehydration of an intermediate nitrosamine (10),
+or cyclisation of the diazonium cation (11) followed by deprotonation. 
+Formation of (9) by action of nitric acid on (8) might result from reaction
+of oxides of nitrogen present in the nitric acid, or by deoxygenation of
+the 2-N-oxide (13) formed conceptually by dehydration of the nitramine (12).
+It should be noted that while benzotriazole-1-oxides [7] have been described
+benzotriazole-2-oxides appear to be unknown.
+
+                   
+
+            
+
+
+  Treatment of (8) with hot nitric acid gave a 1:2 mixture of (9) and
+1-(4'-nitrophenyl)-5, 7-dinitrobenzotriazole (14).  A mixture of the same
+products was also obtained on treatment of (8) with nitronium tetraflouroborate
+in sulpholane, either at ambient temperature or at 110deg;C.  These latter
+conditions are less likely to favour the presence of oxides of nitrogen,
+perhaps giving greater support to the intermediacy of such species as (12)
+and (13).
+
+                                    
+
+  Dissolution of (9) in 54% nitric acid and heating under reflux failed
+to give the expected nitration to (14), and the starting material was reclaimed
+in quantitative yield.  This suggests that the formation of (14) on nitration
+of (8) resulted from competitive nitration of the phenyl ring in (8) followed
+by cyclisation.  However more vigorous reaction conditions led to smooth
+and selective nitration of (9) in excellent yield.  Nitration in 70% nitric
+acid under reflux gave (14), nitration using 100% nitric acid gave 
+1-(2',4'-dinitrophenyl)-5, 7-dinitrobenzotriazole (15), while mixed acid
+nitration gave 1-(2',4',6',-trinitrophenyl)-5, 7-dinitrobenzotriazole
+(16).  In each case the structure was assigned on the basis of i.r. (no
+NH absorption) and 1H n.m.r. spectra (presented in Table 1).  While
+different nitrating mechanisms are suggested (by product characterisation)
+for 100% HNO3 in AcOH and hot 54% HNO3, investigations as to the
+nitrating species present were beyond the scope of this study.
+
+                                   
+
+  Coburn prepared (16) [8] (which he named BTX and proposed as a thermally
+stable explosive suitable for use in exploding bridgewire detonators [9])
+by mixed acid nitration of the benzotriazole (17).  We obtained the same
+product on mixed acid nitration of the amine (18).  Among other compounds,
+Coburn also prepared the isomers (22) and (25) from 3,5- and
+4,5-dinitro-o-phenylenediamine (19) and (23) respectively [8].  We have
+now prepared (22) via the amine (21), and (25) by the action of sodium nitrite 
+on an acetic acid suspension of (26).  The structures of (22) and (25) followed
+from l.r. and 1H n.m.r. spectra (given in Table 1).
+
+                                                 
+
+ 2.2  Assessment of Explosive Performance 2.2.1  Density  
+
+  The densities of the benzotriazoles (9), (14), (15), (16), (17), (22)
+and (25) were measured using a gas comparison pychnometer and are presented
+in Table 2 together with the values estimated using Stine's procedure [10].
+The latter is a simple empirical group additivity method which does not
+differentiate between isomers, nor does it take into consideration molecular
+shapes and steric interactions.  Thus while the density measured for (9)
+is in excellent agreement with the calculated value, the more highly nitrated
+marerials (15) and (16) are somewhat less dense than predicted.  These lower
+densities presumably result from reduced coplanarity of the phenyl and
+benzotriazole ring systems arising from steric interaction between the
+proximate nitro substituents at the 2' - and 6' - and 7-positions respectively.
+There are no such interactions in (17) and (22) and the observed densities
+are very close to the predicted values.  Additionally interaction between
+the adjacent nitro groups of (25) force them out of the plane of the
+benzotriazole ring, and the density is lower than expected.
+
+  2.2.2  Thermal Properties  
+
+  The benzotriazoles (9), (14), (15), (16), (17) and (25) all melted sharply,
+with no sign of decomposition, at temperatures between 150° and 
+260°. The benzotriazole (22) did not melt below 260°.
+  
+  The thermal analysis results obtained by DSC are shown in Table 3.  Except
+in the case of (22), the first event observed was melting, with no sign
+of decomposition, with the fusion endotherm in the range 6-10 kcal 
+mole-1.  Although the phenyl compound (9) showed no sign of exothermic
+reaction, compounds (14), (15) and (16) exhibited an exotherm following
+the fusion endotherm.  The magnitude of the exotherm increased, as might
+be expected, with the degree of nitration.  These results suggest that while
+certainly (16) and probably (15) may be sufficiently energetic to be useful
+as explosives, compounds (9) and possibly (14) are unlikely to be satisfactory.
+The isomeric (25) also showed a melting endotherm and a large exotherm,
+while (22) showed no sign of melting and a slightly smaller exotherm.
+Interestingly, 1-picryl benzotriazole (17) showed a much larger exotherm
+than either (14) or (15), suggesting that the picryl group contributes more
+energy to the molecule than does the dinitrobenzotriazole moiety.   
+
+  The benzotriazoles were also examined using the ERDE temperature of ignition
+test, in which 50 mg unconfined samples are heated at 5°C min-1 in
+a test tube.  The temperature of ignition is that at which the sample ignites
+or (more usually) explodes [11].  While the picryl derivatives (16), (17),
+(22) and (25) ignited to explosion during this test, the others simply sublimed
+and charred.
+
+   2.2.3  Explosive Properties  
+
+    The velocity of detonation and detonation pressure for each of the
+benzotriazoles (Table 4) were estimated using the empirical method of Rothstein
+and Peterson [12].  This simple method has the advantage that the detonation
+parameters are derived solely from molecular formulae and structures, and
+requires no knowledge of physical, chemical or thermochemical properties.
+It is consequently unable to distinguish between isomers.
+
+    The impact sensitivity of the benzotriazoles (9), (14), (15) and (16)
+was measured using the Rotter Impact Test, which monitors the response of
+30 milligrams of explosive placed in a metal cup to the impact of a 5 kg
+weight dropped onto it.  A Figure of Insensitiveness (F of I) is obtained
+by comparison of the 50% "explosion" height for the material with that for
+a standard grade of RDX to which is assigned an F of I of 80 [11].  The
+impact sensitivity of (22) was also measured, and although insufficient
+of (17) and (25) was available for complete testing, "screening" tests were
+carried out on these materials.  Results are presented in Table 4.
+
+    The expected increase in the explosive output of the benzotriazoles
+with the degree of nitration is again reflected in the calculated velocity
+of detonation and detonation pressure.  The values in Table 4 would once
+more suggest that while the picryl derivatives (16), (22) and (25) and probably
+the 2,4-dinitrophenyl compound (15) are sufficiently energetic to be useful
+explosives the less nitrated (9), and possibly (14) and (17), are not.
+
+    The increase in predicted explosive output with the degree of nitration
+is parallelled by an increase in the sensitivity to impact of the
+benzotriazoles (9), (14), (15) and (16).  Thus 1-phenyl-5,
+7-dinitrobenzotriazole (9) is virtually insensitive to impact, (14) and
+(15) are progressively more sensitive, whereas 1-picryl-5,
+7-dinitrobenzotriazole (16) shows impact sensitivity typical of intermediate
+or primary explosives.  The 4,6-dinitro isomer (22) shows similar sensitivity,
+and limited screening tests indicate that the 5,6-dinitro isomer (25) and
+1-picrylbenzotriazole (17) do also.  It is apparent that the picryl group
+contributes more to impact sensitivity than does nitration in the benzotriazole
+ring, and it is probable that the "trigger linkage" [13] for impact initiation
+is associated with the picryl group.  The relatively minor variation in
+sensitivity between the isomeric compounds (16), (22) and (25) may be accounted
+for in terms of steric interaction between the 7-nitro group and the picryl
+function in (16) and between the adjacent 5-and 6-nitro groups in (25).
+
+  There is also an increase in the electrostatic sensitivity of the
+benzotriazoles (9), (14), (15) and (16) with the degree of nitration, but
+none of these compounds would be regarded as particularly sensitive to this
+stimulus.
+                              
+                             3.  CONCLUSION  
+
+   Variously nitrated 1-phenylbenzotriazoles have been examined as potential
+energetic materials, with reference to their densities, thermal properties,
+sensitiveness characteristics and explosive properties.  Densities and
+calculated explosive properties (velocity of detonation and detonation
+pressure) increase with the degree of nitration, as does the energy released
+on thermal decomposition and sensitiveness to impact.  In the case of the
+latter two properties, however, it is also clear that nitration of the phenyl
+substituent to produce a picryl derivative has more effect than does nitration
+in the benzotriazole ring, and it appears that the picryl group provides
+the "trigger linkage" for impact initiation.
+
+                             4.  EXPERIMENTAL  
+
+    Warning!  Many of the polynitro compounds described herein are potentially
+powerful and sensitive explosives, and should be handled appropriately.
+  
+    1H n.m.r. spectra were recorded using a Varian EM360L nmr spectrometer
+on solutions in d6-dimethylsulphoxide containing tetramethylsilane
+as internal standard; data for most compounds is listed in Table 1.  Infrared
+spectra were obtained using a Perkin Elmer 683 spectrophotometer using
+potassium bromide discs.  Melting points were measured using a Reichert
+Heizbank hot strip and are corrected.
+
+    Densities were measured using a gas comparison pychometer (Systems Science
+and Software Type G 102-28).  Each compound was subjected to thermal analysis
+using a Perkin Elmer DSC-2 Differential Scanning Calorimeter fitted with
+a Scanning Auto-Zero accessory and a Thermal Analysis Data Station.  All
+samples (0.40 - 1.00 mg) were weighed accurately on a Mettler ME30 analytical
+balance directly into aluminium sample pans, and lids were placed (not crimped)
+over the samples.  The sample and reference compartments of the calorimeter
+were purged continuously with nitrogen gas at 20-25 mL min-1 throughout
+the DSC scans, which were carried out at a heating rate of 20 K min-1
+over a temperature range 330 - 800 K.  The output was calibrated using samples
+of indium (m.p. 429.8 K), tin (m.p. 505.1 K), lead (m.p. 600.7 K) and zinc
+(m.p. 692.7 K). 
+
+2,4,6-Trinitrodiphenylamine (7).
+
+This compound was prepared as an orange solid (72%) m.p. 180° (lit. m.p. 179-80°) by the method of Davis and Ashdown [5].
+

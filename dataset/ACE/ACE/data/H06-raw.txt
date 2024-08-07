@@ -1,0 +1,338 @@
+<sample>
+	<id> H06 </id>
+	
+
+
+	<note> 2017 words </note>
+	
+
+
+	<source> Gone with the winds: inquiry into meteorological services report from the
+House of Representatives standing committee on expenditure  </source>
+	
+
+
+	<h> CHAPTER TWO </h>
+	
+
+	<h> BACKGROUND </h>
+	
+
+2.1       It is necessary both to understand the respective
+roles played by the Department of Aviation (DofA) and the
+Bureau of Meteorology (BofM) in the provision of meteorological
+services to the aviation industry and to obtain an historical
+perspective on developments leading to the need for this
+inquiry.
+
+
+	<h> Department of Aviation and the Bureau of Meteorology Working
+Arrangements </h>
+	
+
+2.2       The Secretary to the DofA has the legal
+responsibility under the Air Navigation Regulations Section 98
+(1), to determine the meteorological services which are
+necessary `to ensure the safe, economic and regular operation
+of aircraft' in Australia.
+
+2.3       The Meteorology Act 1955 paragraph 6(2)(b), states
+that `The Bureau shall perform its functions under the Act in
+the public interest generally and in particular - for the
+purposes... of civil aviation'. In addition, paragraph 8 of
+the Act provides that `the Director of the Bureau may, subject
+to any directions of the Minister, make charges for forecasts,
+information, advice ... supplied in pursuance of the Act.'
+
+2.4       In practice the DofA specifies the requirements for
+meteorological services and the BofM provides the major part
+of these services and subsequently charges the Department.
+`These costs are, in turn, incorporated by the Department in
+air navigation charges which are levied on the aviation
+industry'. Meteorological charges are formalised in an
+agreement between the Bureau and the Department entitled
+`Working Arrangements for the Provision of Meteorological
+Services and Facilities for Civil Aviation'.
+
+2.5       The Bureau has been providing meteorological services
+for civil aviation for the past 40 years. During this period
+both the funding arrangements and the charging philosophy have
+been altered.   In the years 1952 to 1979 the Department of
+Aviation (or its predecessors - the Department of Transport and
+the Department of Civil Aviation) contributed fixed percentages
+of total Bureau expenditure on both salaries and also general
+expenses.
+
+2.6       The 1976 Report of the Committee of Inquiry into the
+Bureau of Meteorology, the Howson Report, recommended that:
+
+	`The provision of any additional service e.g. to civil aviation
+	and the armed forces, should be subject to a charge aimed at
+	recovering the marginal cost of providing the extra service and
+	associated overheads....'.
+
+2.7       Section 7 of the 1979 Working Arrangements sets out the
+agreed charging principles and a charging formula. The charging
+principles are summarised in Appendix VI. It should be noted
+that whilst the Howson Report refers to marginal costs the
+Working Arrangements use the slightly different terminology,
+directly attributable costs `...officers directly involved in
+the provision of the service'.
+
+
+	<h> Cost Recovery in the Department of Aviation </h>
+	
+
+2.8       Successive Australian Governments have endeavoured
+to recover from the aviation industry the cost of the services
+provided directly in support of civil aviation. The amounts
+involved are considerable, for example, of the Department of
+Aviation's budget for 1984-85, $471.5M was assessed as being
+attributable (recoverable) costs. Revenue for the same period
+was $282.9M comprising air navigation charges of $134.7M,
+aviation fuel tax of $81.4M, and rents, concessions etc. of
+$66.8M.
+
+2.9       Overall this represents a cost recovery rate of some 
+60 per cent. The balance of $188.6M was paid from consolidated
+revenue.
+
+In an attempt to increase departmental efficiency, the
+Secretary to the Department of Aviation, in November 1983,
+announced a target of an average 2 per cent per annum reduction
+in real costs for the three years commencing July 1984.
+
+
+	<h> The Bosch Report and Meteorological Services </h>
+	
+
+2.10      The Bosch Committee was appointed by the Minister for
+Aviation early in 1984 to inquire into all matters relating to
+aviation cost recovery. It reported to the Minister in November
+1984. Among the Inquiry's recommendations dealing with
+opportunities for reducing costs was Recommendation (R59) which
+states:
+
+	`The Department should include (in its planning) as a specific
+	objective the increase of at least 9 per cent in productivity
+	over a ten year period. This would be in addition to the 2 per
+	cent per annum reduction in real attributable costs over three
+	years to which the Department is already committed'.
+
+2.11      On 14 August 1985, following wide consultation, the
+Minister for Aviation, the Hon Peter Morris, M.P., announced
+that the Government had agreed to the adoption of the Bosch
+Strategy.
+
+2.12      The Bosch Report made six recommendations concerning
+meteorological services as follows:
+
+   2    Meteorological costs should continue to be attributed to the
+	industry.(R19)
+
+   2    Formal consultative arrangements should be established between
+	the Department of Aviation, operators and the Bureau of
+	Meteorology to ensure that the meteorology services supplied
+	to the industry are provided at the required standard, that
+	costs are kept within reasonable bounds, and that the
+	development of the Bureau's investment program takes into
+	account the concerns of the aviation industry.(R20)
+
+   2    The basis for charges levied against the aviation industry for
+	meteorological services should continue to be the incremental
+	cost associated with providing the services.(R21)
+
+   2    The Bureau of Meteorology should complete as soon as possible
+	the study into development of a comprehensive costing system
+	which would enable the identification of incremental
+	costs.(R22)
+
+   2    The Bureau of Meteorology should identify each of the services
+	provided and the fees charged for them in its accounts to the
+	Department of Aviation.(R23)
+
+   2    The Bureau of Meteorology should negotiate with operators
+	supplying meteorological data to agree on the costs involved
+	and whether they warrant development of a system for paying for
+	the data.(R24)
+
+2.13      In addition the Report also briefly addressed the
+current provisions for charging for meteorological services and
+stated:
+
+	`The intention of the charging principles is to charge the
+	increment cost of providing aviation meteorological services.
+	Not all the principles are strictly in accord with this
+	intent'.
+
+
+	<h> Cost Reductions - the Basis of the Decision to Close Weather
+Service Offices </h>
+	
+
+2.14      As noted above the Secretary to the Department of
+Aviation had taken the initiative to anticipate the Bosch
+findings through measures designed to improve the cost
+effectiveness of his Department. This decision has been
+subsumed by the subsequent decision of the Government to accept
+the Bosch Report strategy and to proceed with its
+implementation.
+
+2.15 As part of the Department's effort to implement the
+Secretary's decision, DofA decided to extend the containment
+of costs to include the provision of meteorological services
+to aviation.
+
+2.16      Because of the nature of the Working Arrangements,
+it proved difficult for the Bureau to determine how a general
+`across the board' expenditure cut could be implemented.
+Following protracted DofA and Bureau discussions, the Bureau
+issued a Staff Notice on the 23 July 1985 foreshadowing the
+possible closure of ten (originally nine) Weather Service
+Offices (WSOs) over a three year period.
+
+2.17      The proposed closures resulted in public protest from
+a range of community interests including the general public,
+farmers, fishermen, industry, port authorities and the media
+as well as the aviation industry and in particular, general
+aviation. Most of the communities affected were remote from the
+major capital cities.
+
+2.18      It is important to note that the existing Working
+Arrangements provide under Principle 3 for the
+
+	`Cost of shared services or facilities to be allocated 
+	on a proportional basis, taking account of the relative 
+	usage of the services or facilities.'
+
+Under these arrangements therefore, it is little wonder that
+the Department of Aviation is seeking a review of the charges.
+There is ample evidence to support the claim that there is a
+significant component of non-aviation weather services provided
+by the provincial WSOs which are currently totally billed to
+the Department of Aviation.
+
+2.19      The Bureau has stated that the DofA did not formally
+advise the Bureau that it did not wish to meet the full costs
+of aviation meteorological services in 1984/85 until January
+1985. Accordingly a shortfall of approximately $1M in the
+Bureau's 1985/86 estimated revenue from charges for aviation
+services exists.
+
+2.20      The Bureau issued a Staff Notice concerning the
+proposed WSO closures on 23 July 1985. Since this Staff Notice
+a number of DofA and Bureau meetings have been held, some of
+which have included staff associations and aviation industry
+representatives. As the proposed closures had a significant
+impact on the provision of non-aviation services, on 28
+November 1985, the Ministers for Science and Aviation jointly
+referred the issue to this Committee.
+
+
+	<h> CHAPTER 3 </h>
+	
+
+	<h> EFFECTS OF THE PROPOSALS </h>
+	
+
+
+	<h> The Direct Effect on Weather Service Offices </h>
+	
+
+3.1       The Bureau currently operates 28 Weather Service
+Offices Australia wide. The direct effect of the proposals is
+the closure of ten of these Offices. Details of current status
+and proposed changes are included in Tables 3.1 and 3.2.
+Timetables for the implementation of the closures are presented
+in Appendix VIII.
+
+3.2       The locations are Alice Springs, Cairns, Canberra,
+Hobart, Launceston, Mt Isa, Port Hedland, Rockhampton, Tamworth
+and also Essendon where services are provided from the
+Melbourne Airport WSO on a shift rotation basis.
+
+3.3       Weather Service Offices form part of the three-tiered
+operational organisation of the Bureau. The three tiers
+comprise:
+
+   2    the National Meteorological Centre (NMC) in Melbourne and the
+	Regional Meteorological Centre (RMC) in Darwin providing
+	broadscale forecast and guidance material for the whole
+	Australian area of responsibility:
+
+   2    the eight Regional Forecasting Centres (RFCs), one of which is
+	located in each State or Territory Regional Office with
+	responsibility for weather services in their individual areas
+	of responsibility. In addition Townsville is an RFC for
+	aviation purposes. The RFCs act as warning centres with
+	official Tropical Cyclone Warning Centres being located in
+	Perth, Brisbane and Darwin. In addition they are `parent
+	offices' for the WSOs and Observing Offices in their regions;
+	and
+
+   2    Field Offices including 28 major Weather Service Offices and
+	50 official Observing Offices. The WSOs are located at Civil
+	(17), Defence (8) and Joint User (3) airports.
+
+3.4      The Observing Offices form part of the Bureau's basic
+surface and upper air observing network. As part of their
+duties, most provide routine (hourly) and special (half-hourly)
+Aerodrome Weather Reports (AWRs), or observations, specifically
+for aviation and many are collocated*colocated with WSOs. The
+offices are staffed by Bureau trained observers who are
+represented by the Professional Radio and Electronics Institute
+of Australasia (PREIA).
+
+3.5       The Weather Service Offices are staffed by Technical
+Officers (Meteorology), in general recruited from the observer
+ranks, who are members of the Association of Draughting,
+Supervisory and Technical Employees (ADSTE).
+
+3.6       The Bureau of Meteorology states that the WSOs were
+originally established to provide services for aviation. Their
+functions, as defined by the Bureau, can be formally summarised
+as follows:
+
+   2    maintaining meteorological watch for the locality of the office
+	and providing input and feedback to RFC terminal forecasts and
+	amendments for the local airport;
+
+   2    preparing trend type forecasts for the local airport (where
+	applicable);
+
+   2    deriving forecasts for particular air routes from area
+	forecasts received from the National Meteorological Centre or
+	a parent RFC;
+
+   2    compiling and presenting flight documentation to aircrew;
+
+   2    distribution and interpretation of relevant public weather
+	forecasts and warnings originated by the parent RFC; and
+
+   2    acting as a point of liaison for local organisations.
+
+3.7      From the DofA viewpoint, the major function of the WSOs
+as defined in the Working Arrangements, is the provision of
+face to face and/or telephone briefing to aircrew and
+Departmental operations personnel to enable clarification and
+elaboration of forecasts, warnings and the current
+meteorological situation. Other functions include the
+distribution of flight documentation, the provision of trend
+type forecasts and a terminal area thunderstorm service where
+appropriate. In addition there is a stated requirement for the
+provision of Aerodrome Weather Reports.
+
+3.8       It is obvious that one of the underlying reasons for
+this inquiry has been the different interpretation of the
+functions of the ten WSOs concerned. On the one hand the
+Department has seen the offices as primarily providing a
+briefing service; the Bureau on the other hand has, in
+practice, implemented a far broader definition extending to the
+distribution and interpretation of public weather forecasts and
+a much wider weather watch function.
+
+3.9       In the course of this inquiry the Committee visited
+all ten WSOs proposed for closure.  At three locations - Hobart, Canberra Civil and Essendon the volume of public weather services provided was obviously low and the functions were primarily for aviation. 
+
+
+</sample>

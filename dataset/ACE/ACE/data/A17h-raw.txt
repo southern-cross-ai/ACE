@@ -1,0 +1,29 @@
+<subsample>
+	<id> A17h </id>
+	
+
+
+	<source> The Sun News-Pictorial - 1 December 1986 </source>
+	
+
+ 
+	<h> Liberal HQ is hit by vandals </h>
+	
+
+
+	<misc> SYDNEY </misc>
+	
+
+- Vandals have hit Liberal Party property for the third time.
+  MPs have moved into Heathcote, south of Sydney, for the by-election to
+replace the former sitting member, Mr Rex Jackson.
+  The Opposition Leader, Mr Greiner, said yesterday the three attacks on
+Liberal Party offices and a promotional balloon*balloom at Heathcote, were due
+to insufficient*unsufficient policing.
+  In the latest incident this weekend, damage worth $1000 was caused when
+bricks were thrown through plate-glass windows.
+  Heathcote faces a by-election in January after the resignation of Mr Jackson,
+a former corrective services minister.
+
+
+</subsample>

@@ -1,0 +1,205 @@
+By Stewart Clegg Introduction  
+The world of scholarship constitutes many facts which are "inconvenient"
+for deeply held values as Max Weber (1948,p.147) remarked in "Science as
+a vocation". Some disciplines may well imagine they manage this tension
+by ignoring it, opting for either the empiricism of facts or the canonical
+role of Tradition. Some practitioners of sociology clearly share one or
+other of these phantasies (which, in fact, always reduce to the latter).
+I should say at the outset that I cannot imagine the luxury of such views,
+any more than could Weber.
+
+  As is well known, Weber never anticipated that, whatever the probability
+of its achievement, the value of "socialism" could ever be an antithesis
+to the fact of bureaucracy. Despite his opinion and through his legacy,
+in recent years a number of scholars in the field of sociology have been
+involved in the development of what have come to be called "critical"
+perspectives on organizations. The critical challenge has been to empiricist
+and conservative conceptions of the field. Instead of simply reporting evident
+"facts", these critical scholars have increasingly turned to a study of
+the structures and processes taken to underly the existence and non-existence
+of certain possible facts, in enquiry whose method is somewhat similar to
+Umberto Eco's (1983) puzzle-solving method of "abduction". Sometimes, however,
+puzzles may be solved too readily, evidence found too close at hand or
+"inconvenient" facts avoided.
+
+ Critical sociology, socialism and organizations  
+Critical sociology of organizations has been critical of the practice
+of orthodox organization theory in its central concerns. These have been
+with the design and rational structuring of organizations (Donaldson 1985;
+Benson 1983). Characteristically, drawing on marxist perspectives, "rational
+structuring" in organization has been critiqued as an effect of capitalist
+domination. Autonomy, posed as a laudable goal, has been seen as emancipation
+from that which dominates. It has frequently been argued that, in practical
+terms, this requires somehow overthrowing "capitalism"; theoretically it
+requires overcoming the limits to an imagination held captive by a knowledge
+whose constitutive interest is in the "control" of objects (Habermas 1971).
+This argument is not unproblematic. In rejecting the concern with "rational
+structuring" as itself a delusion of "capitalist theoretical hegemony",
+little space is left in which critics might rationally re-construct
+organizations in practice.
+  Critical organization theory, then, in spite of its real achievements,
+has not yet contributed to a generalizable alternative practice of
+organizations. Some justification exists for this negativity. An essential
+objective of the critical exercise is to alert us to the unexamined and
+implicit assumptions of existing frameworks. It was in this way that a certain
+eminent victorian left-hegelian, for whom "critique" was rarely absent from
+the title page, developed his own analyses. However, Karl Marx, in a famous
+thesis, advises us against merely negative dialectics; indeed, a warning
+against analysis without transformative application is engraved upon his
+tombstone. This should alert us to a second meaning of "critical", as being
+decisive with respect to outcomes, in which some positive alternative does
+require proposal.
+  A major reason for the shortcomings of marxist critical theory in
+organization analysis is that its critique is far too narrow. Its deficiency
+in this respect has two aspects, both relating to Marx's lineage from utopian
+socialist thought. On the one hand, classical marxism and its derivations
+have been subjected to a critique both by utopianism and for utopianism,
+as Anderson (1983,p.97) has noted. With respect to contemporary marxism,
+utopian critics most frequently focused on its narrow and utilitarian
+development in Eastern Europe after 1917 (although in a modified form the
+same change surfaces in accusations against the reformism of social democracy),
+while Western Marxism, since Lenin, with its characteristic concern with
+aesthetic and cultural products rather than the social relations of more
+material and mundane production, may similarly be characterized by default
+as "utopian". The cleft stick of marxism's development is, of course,
+explicable. Classical marxism, as it developed around the twin vectors
+emerging out of the revisionism debates in the Second International, lost
+the practical utopianism associated with the thrust of Luxemburg's,
+Pannekoek's and Gorter's commitment to "council communism" (see Bricaner
+1978; Smart 1978; Carchedi 1985). Only in Gramsci's involvement with the
+Turin workers council movement of 1921 did it retain a momentary flicker,
+one which, in his Prison Notebooks, remained unquelled even while imprisoned
+by Fascism (Gramsci 1971). On the one hand, so it seemed, social democracy,
+Bernstein's heir, developed a narrow, utilitarian form of political calculation
+premised on an accommodation and management of capitalism. On the other
+hand, Bolshevikism simply incorporated the crudest aspects of capitalist
+organizational practice in Lenin's enthusiasm for Taylorism and its subsequent
+degradation into Stakhonovitism.
+
+  Faced with this situation, some of the generation who were learning their
+sociology and their politics in `68, not surprisingly, attempted to return
+to Marx to find some way out of the conjuncture of a stallled de-stalinization
+in the East and an aborting "long boom" in the West. However, Marx was of
+little help. In the few remarks in his work on the organization of a socialist
+society the residues of an impractical utopianism were all too apparent
+traces. Themes chacteristic of French utopian socialists such as St Simon
+or Fourier, which imagined overthrow of complexity and divisions of
+labour, were reproduced therein. As Perry Anderson (1983,p98) has remarked "The
+conviction of an inherent simplification of administration and production,
+economy and polity alike, found its most passionate expression in the pages
+of (Lenin's) State and Revolution where any cook could run the state". And
+despite a renewal of interest in "self management" and "workers control"
+as solutions to the increasing failure of capitalist enterprises such as
+the Lip watch factory in France and the Triumph motor works in England,
+Gramsci's (1971) cryptic notes on "workers councils" remained primarily
+an academic concern.
+
+  In the East, "socialist construction" under Bolshevik tutelage, where
+it addressed questions of organization at all, proffered solutions learnt
+from the most ruthless of capitalists such as Henry Ford but applied them
+with an even more effective regime of terror than Ford's Pinkerton Agents.
+In the West, more orthodox marxists could ignore organizational questions
+as they waited for capitalism to collapse. It was only Bernstein, and the
+real heirs of the German SDP, the Swedish Social Democrats, who linked
+"socialist construction" and organizational issues in any effective way.
+
+  It is worth recalling here why Bernstein in particular took upon himself
+the odium of challenging "orthodox marxism" in the international marxist
+movement, for we would argue that present-day marxist theorists may be
+caught in the same intellectual bind and political limbo as the old orthodoxy
+(even if they have done more than their forbears to raise their predicament
+to the level of an art form!). Working from deterministic theses about
+inevitable class polarization and crisis under capitalism, the orthodoxy
+announced three "guarantees" of history - capitalism's self-destruction,
+the working classes coming demographic dominance, and, given continued
+agitation and propaganda, socialist political dominance on that demographic
+basis (Salvadori 1979). For the orthodox, be it noted, it was capitalism's
+macro economic irrationality that would precipitate the terminal "crisis"
+of mature capitalism: at the point of production the bourgeoisie ran a tight
+ship whose presumed technical sophistication and organizational efficiency
+would fall like ripe fruit into socialist laps.
+
+  In hindsight, this last point was an astonishing and self-defeating
+concession, one that denied the necessity to mount a practical challenge
+to capitalist organization of the enterprise and thus develop "the material
+conditions" for the resolution of the contradiction between forces and
+relations of production. For western labour movements this concession has
+left the bitter and enduring legacy of defencelessness against
+economic-liberal policy, with which it shares the implicit assumption that
+capitalist organization spells effective enterprise (Higgins 1985a; 1985b).
+Secure in the belief that the final, cataclysmic crisis of capitalism was
+only just around the corner, "orthodox marxism" went even further to argue
+against any form of intervention in aid of progressive public policy or
+of political alliances to support it. In each of these spheres its fatalistic
+vision led inexorably to the politics of abstention.
+
+  Bernstein demolished the "guarantees of history" to make way for a new
+interventionist socialist politics. His classic Evolutionary Socialism,
+though concerned mainly with an argument about social democracy's wider
+political role, contains suggestive obiter dicta on organizational questions.
+Having defined socialism as a movement towards - or the state of - an order
+of society based on the principle of association (Bernstein 1961, p.96;
+my emphasis), he has this principle depend on democratic organizational
+forms: "Trade unions are the democratic element in industry. Their tendency
+is to break down the absolutism of capitalism, and to procure for the worker
+a direct influence in the management of industry" (pp. 139, 163).
+
+  But Bernstein stopped halfway. His attack on determinism did not extend
+to upsetting the orthodox assumption that capitalism had still to mature
+- that is, still had a progressive future - before it would be meaningful
+to propose transformative (as opposed to ameliorative) policies. Pending
+this mystical maturation reformist interventions such as social policy
+or industrial democracy rested on a merely ethical-liberal basis. In other
+words, Bernstein stopped short of a critique of capitalism's organizational
+effectiveness and, thus, could not forge the link between democratization
+and economic renewal.
+
+  This is precisely the link that Ernst Wigforss, Swedish social democracy's
+formative theoretician, latched onto in the 1920s. Armed with Marx's
+conceptualisation of capitalism's "irrationality", Wigforss imbibed the
+lessons of the then ongoing "rationalisation movement" which uncovered -
+albeit sympathetically - the organizational roots of industrial dislocation
+and inefficiency in the capitalist enterprise. Two of the themes which the
+movement articulated drew Wigforss' attention. First, forms of financial
+calculation in the enterprise conflicted with the technical and organizational
+preconditions of an efficient manufacturing process. Second, typical authority
+relations and reward systems tended to produce inefficient work practices.
+Wigforss concluded that these disorders were systemically induced, flowing
+inescapably from two aspects of private ownership of industry - the profit 
+principle and the necessarily authoritarian forms in which the outside owners'
+interests and prerogatives were imposed on a working collectivity. Here, then,
+was a whole new dimension of "critique" in addition to the critique of 
+capitalism's macro-economic irrationality.
+
+  Where Bernstein had talked about "organized capitalism", Wigforss (later
+joined by a close colleague, Gunnar Myrdal) repeatedly took up the cudgels
+against capitalist "disorganization" (especially Myrdal 1934). For Wigforss,
+these considerations completely reversed social democracy's programmatic
+presuppositions. Capitalism had no progressive future and socialists had
+no business tinkering with ameliorative reforms while awaiting the great
+day of maturation (or "crisis") and leaving capital in control of the
+enterprise and resource allocation. The former had now to be democratized
+and the latter brought under social control. Socialism, in his celebrated
+phrase, had to be brought forward as "the working hypothesis" of day to
+day policy-making. Transformational reforms had to go on the immediate
+agenda.
+
+  In arguing for industrial democracy (and later, economic democracy through
+collectivized ownership of capital), Wigforss thus brought together the
+issues of organizational effectiveness and control. Moreover, he broke with
+the merely reproductive reformism of social democratic revisionism. "It
+is a curious blindness" he wrote, "not to see that the organization of
+economic life is at the same time a question of forms of control" (Wigforss
+1981, Vol. IX,p.63). In a parallel development in the twenties, leading
+elements of the Swedish union movement, who also had one foot in the
+rationalization movement, began to develop a union "production policy" (de
+Geer 1978; Hadenius 1976). They saw union participation in industrial
+organization as necessary to overcome elements of capitalist disorganization
+in industry if the latter was to meet union aspirations for employment and
+wage levels. Both these developments came down to this: capitalism constituted
+a deteriorating basis for the organization of the modern industry it itself
+had created. The labour movement presented itself not simply as a challenger
+to capital's control of the economy and enterprise, but more particularly
+as the bearer of sounder organizational principles and social priorities
+upon which to place a more advanced economy and enterprise.
+

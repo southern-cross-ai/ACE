@@ -1,0 +1,182 @@
+<sample>
+	<id> J43 </id>
+	
+
+
+	<note> 2014 words </note>
+	
+
+
+	<source> Civil litigation: a practice guide for advocates. </source>
+	
+
+
+	<bl> By Peter W Young LLB </bl>
+	
+
+
+	<h> Chapter 13 </h>
+	
+
+	<h> Preparation for a Personal Injury Case </h>
+	
+
+On 26 March, Butterworth received two briefs to settle statement of claim
+in respect of the accident in which David Daniels died, one for Carol Carson
+and one for Elaine. It was accompanied by a statement from each of the
+plaintiffs, reports from the doctor who treated them, discharge summaries
+in respect of each from the hospital and the depositions from the inquest
+and particulars of expenses.
+  He realised that there was no such thing as a standard statement of claim
+to be used in all cases, knowing that each case was different and had to
+be prepared individually, so he mastered the facts and thought deeply as
+to what should be done. There were a variety of claims that could be made.
+Elaine, for instance, not only had her own claim for personal injuries,
+but also may have one under the Compensation to Relatives Act provided
+that it could be shown that someone other than David Daniels was at least
+partly responsible for his death. All that need be shown was a very small
+degree of negligence by someone else because in a Compensation to Relatives
+action, contributory negligence by the deceased is completely irrelevant.
+(See s 10(4) of the Law Reform (Miscellaneous Provisions) Act 1965 and Versic
+v Conners [1968] 3 NSWR 770; 88 WN(NSW)(Pt 1) 332.)
+  But Butterworth knew that there were some problems in sheeting home liability
+to someone else, the only &quot;someone else&quot; there could be would be the driver
+of this unidentified motor vehicle. He noticed that the solicitor had done
+all the right things in respect of a claim against the Nominal Defendant
+who, under the Motor Vehicles (Third Party Insurance) Act, 1942, could be
+sued for all damage caused by unidentified motor vehicles. The solicitor
+had put advertisements in the paper and in newsagents' windows, all appealing
+for anyone who saw the accident and who had not given his name already to
+the police or to the plaintiff's solicitors, to do so.
+  Butterworth looked at the medical evidence with respect to Elaine. She
+was then only nine years of age. He knew that it is always extremely difficult
+to know just what damage a child suffers in a motor car accident. With an
+adult who has commenced on his career, one can say, for example, that the
+man is a schoolteacher and that, normally speaking, he would have remained
+one until he was 65 years of age and his wage is $X per week; the wage for
+a car park attendant, which is all that the plaintiff can do now, is $X
+minus $Y per week; accordingly one merely takes $Y per week for the appropriate
+period and, after applying the appropriate discount rate, one has a fair
+idea of future economic loss. However, with a child it is difficult to know
+whether that child will qualify for a professional or semi-professional
+career, or whether he or she will be employed at all.
+  However, there was no real purpose in speculating about these matters
+in Elaine's case, because these were problems in every case of an injured
+child. All that could be done was to bear them in mind and to concentrate
+on the hard facts of the present case. The main problem was trying to settle
+it because it was so difficult to put a figure on what a court would award
+such a young child. There was some protection here, though, because all infant
+settlements had to be approved by the court under the Damages (Infants and
+Persons of Unsound Mind) Act, 1929.
+  Butterworth turned to the reports that were in his brief. It appeared
+from what was said by Carol Carson that Elaine formerly had been almost
+top of her class, but now was finding great difficulty in concentration.
+That matter made him see a red light and to make a note that Elaine should
+be assessed by a psychologist to see if there would be educational problems
+as a result of her accident. In most motor car accident cases, not only
+are the treating doctors called, but also consultant doctors who are used
+to giving evidence. Most lawyers have a list of these people in their various
+specialities who constantly give evidence for a plaintiff or for a defendant.
+He thought that this was a case where Elaine should be seen by a consultant
+and made a note of that as well.
+  An important question was whom to sue. There was no problem at the present
+stage because the rule of practice in personal injury cases is to sue anybody
+who could possibly be liable as defendant. Accordingly, Butterworth made
+a note that Carol Carson, the registered owner and the Nominal Defendant
+should be the defendants. However, he had another thought that if he sued
+Carol Carson, would the third party insurer contend that, because Elaine
+had been struck, not by the motor vehicle, but by a wheel that had become
+detached from the motor vehicle, her injuries did not arise out of the use
+of a motor vehicle. If so, then the third party insurer (and the registered
+owner as well unless the driver's agency for the registered owner was
+established), would escape liability. Because of a possible problem with
+insurance, Butterworth also added Dawn Daniels as executrix of David Daniels
+as an additional defendant, who could be dismissed from the proceedings
+later if the authorised insurer did not take any technical point on liability.
+  When one has problems of this nature there is no substitute but to go
+back to the Statute which creates the liability, and look at the exact words
+used. Here, s 10(1)(b)(i) of the Motor Vehicles (Third Party Insurance)
+Act, 1942, indicated that a third party policy covered &quot;death of or bodily
+injury to any person caused by or arising out of the use of the motor vehicle
+....&quot; The question was then, what was meant by &quot;use of the motor vehicle&quot;?
+  If there is a similar problem of construction, it is no use just making
+up one's own mind as to what one thinks the word means. It is almost certain
+that there has been some decided case dealing with the topic. Usually, the
+first place to look in this type of situation is an annotated Act, and for
+motor vehicle work New South Wales lawyers look at Leslie and Britts Motor
+Vehicle Law. Butterworth took out the volume and looked at the notes to
+s 10. Doing this, he found a reference to Harvey Trinder v GIO(1964) 82
+WN(Pt 1)(NSW) 201, with a note that it had been approved by the High Court
+in (1966) 114 CLR 449. He checked the annotations to the New South Wales
+Acts of Parliament put out by both law publishers. These gave him some other
+cases including a note in (1966) 40 ALJ2, discussing GIO v R J Green &amp; Lloyd
+Pty Ltd (1966) 39 ALJR 429.
+  Butterworth knew, however, that one could not content oneself with notes
+in textbooks or journals, but it was necessary to go the cases themselves.
+He read those cases, then went to the Australian Digest and made a note
+of all the other cases in which the Harvey Trinder case had been mentioned.
+This is known as noting up. Most barristers, as they peruse recent issues
+of the law reports, make notes in the margins as to how later cases have
+affected earlier ones. He had done this but always checked with the list
+of noting up in the Australian Digest Master Volumes and in the Australian
+Case Citator to make sure that he had all the references.
+  Having read the Harvey Trinder case, he looked at the GIO v R J Green
+one. First, although the reference he had was to the Australian Law Journal
+Reports, he knew that it was prudent to see if the case had been reported
+in the &quot;authorised reports&quot; which for the High Court were the Commonwealth
+Law Reports. Although any law report made by a member of the Bar may be
+read in court, Butterworth knew that judges mostly preferred people to read
+the Commonwealth Law Reports in court rather than any others where High
+Court cases were concered. Looking at the reports and the annotations, he
+found more recent cases including Shortland County Council v GIO [1973]
+2 NSWLR 257, which held that injury occurring when a vehicle was
+unintentionally started in the course of testing arose out of the use of
+a motor vehicle, and Stewart v Sydney County Council [1973] 1 NSWLR 444,
+in which it was held that injury to an electricity serviceman by the door
+of his van swinging to while he was getting equipment out of it, arose out
+of the use of a motor vehicle.
+  In view of all this he felt fairly sure that a court would hold that Elaine's
+injury arose out of the use of a motor vehicle but he thought he should
+record his researches clearly as it could well be that the authorised insurer
+would take the point at the trial or in some interlocutory proceedings.
+In respect to Elaine, he settled the draft limited to her personal injuries
+as a result of being struck by the wheel. He named both Carol Carson and
+the Nominal Defendant as defendants.
+  The next problem was in which court to sue. Formerly, all large claims
+in motor vehicle cases were brought in the Supreme Court, but nowadays many
+people, if they believe the case will involve up to about $50,000, sue in
+the District Court. The jurisdiction of that Court is $100,000, but it can
+be increased by consent on filing a memorandum of unlimited jurisdiction
+pursuant to s 51 of the District Courts Act, 1973. By filing such a memorandum
+one eliminated the risk of the plaintiff's health deteriorating between
+issue of process and trial which might mean a verdict of in excess of $100,000.
+  In the instant case, Butterworth considered it appropriate to commence
+both sets of proceedings in the Supreme Court. The only penalty that would
+be paid, if he had wrongly assessed the situation, would be that all the
+costs of the action would not be recovered, while an error the other way
+could mean deprivation of a large amount of damages.
+  He turned to the draft with respect to Carol Carson. She had three courses
+of action, (a) for her own personal injuries; (b) under the Compensation
+to Relatives Act for herself and Elaine if, and only if, negligence on the
+part of the Nominal Defendant or someone else than David Daniels could be
+proved; and (c) on the same proviso, an action by the estate of David Daniels
+in respect of any loss he suffered before he died. Therefore, it was essential
+to investigate further whether there was any real likelihood of the court
+accepting that there was an unidentified motor vehicle involved in the
+accident. Butterworth read carefully through the depositions from the Coroner's
+Court. The only person who said anything about an unidentified motor vehicle
+was Carol Carson, but he noticed the peculiar feature of the depositions
+that did not seem to have been cross-examined on before the Coroner, namely,
+the lack of clothing on the part of the driver.
+  Although Butterworth had spent some time on the matter, he thought that
+he should get more details before finally proceeding to settle a statement
+of claim. He wrote a memorandum suggesting a further medical examination
+of Carol Carson, and asking the solicitor to obtain a full statement from
+her as to how David Daniels came to be dressed the way he was at the time
+of collision. He could, of course, have merely asked the solicitor for a
+conference, but his experience was that it was better to have the client
+make a statement to the solicitor and hold a conference later to go through
+the statement. It is quite surprising how people remember much more each time they have to go over a statement.  
+
+
+</sample>
